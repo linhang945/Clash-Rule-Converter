@@ -25,7 +25,7 @@ jobs:
         git config --local user.name "GitHub Action"
         git commit -m "Auto renew Ruleset." -a
     - name: Push changes
-      uses: ad-m/github-push-action@main
+      uses: ad-m/github-push-action@master
       with:
         github_token: ${{ secrets.PERSON_TOKEN }}
         branch: 'main'
