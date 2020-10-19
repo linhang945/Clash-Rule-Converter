@@ -20,7 +20,7 @@ jobs:
         sed -i '1i\payload:' ./Anti-AD.yaml
         rm -f ./Annoyances-Filter.yaml
         curl -o ./Annoyances-Filter.yaml https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/annoyances-filter.txt
-        sed -i 's/^(.*?)\./  - DOMAIN-SUFFIX,/g' ./Annoyances-Filter.yaml
+        sed -i 's/^[^}]*\\./   - -SUFFIX,/g' ./Annoyances-Filter.yaml
         sed -i '1i\payload:' ./Annoyances-Filter.yaml
     - name: Commit files
       run: |
