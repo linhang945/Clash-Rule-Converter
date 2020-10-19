@@ -2,7 +2,7 @@ name: Clash Ruleset
 
 on:
  schedule: 
-   - cron: "*/2 * * * *" 
+   - cron: "*/3 * * * *" 
  # watch: 
    # types: started 
 
