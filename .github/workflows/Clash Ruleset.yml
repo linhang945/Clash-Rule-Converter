@@ -23,6 +23,11 @@ jobs:
         sed -i 's/^/DOMAIN-SUFFIX&/g' ./Annoyances-Filter.yaml
         sed -i 's/DOMAIN-SUFFIX./  - DOMAIN-SUFFIX,/g' ./Annoyances-Filter.yaml
         sed -i '1i\payload:' ./Annoyances-Filter.yaml
+        rm -f ./Tracking-Protection-Filter.yaml
+        curl -o ./Tracking-Protection-Filter.yaml https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/tracking-protection-filter.txt
+        sed -i 's/^/DOMAIN-SUFFIX&/g' ./Tracking-Protection-Filter.yaml
+        sed -i 's/DOMAIN-SUFFIX./  - DOMAIN-SUFFIX,/g' ./Tracking-Protection-Filter.yaml
+        sed -i '1i\payload:' ./Tracking-Protection-Filter.yaml
     - name: Commit files
       run: |
         git add .
