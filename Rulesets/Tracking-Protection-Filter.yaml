@@ -1,10 +1,35 @@
 payload:
   - DOMAIN-SUFFIX,mcs.snssdk.com
-  - DOMAIN-SUFFIX,i.snssdk.com
   - DOMAIN-SUFFIX,log-hl.snssdk.com
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,telemetric.dk
+  - DOMAIN-SUFFIX,browser.events.data.msn.com
+  - DOMAIN-SUFFIX,urbanairship.com
+  - DOMAIN-SUFFIX,iesnare.com
+  - DOMAIN-SUFFIX,lngtd.com
+  - DOMAIN-SUFFIX,dw-eu.com.com
+  - DOMAIN-SUFFIX,indexww.com
+  - DOMAIN-SUFFIX,i.viafoura.co
+  - DOMAIN-SUFFIX,adsrvr.org
+  - DOMAIN-SUFFIX,analytics.qlook.net
+  - DOMAIN-SUFFIX,ipcheck.blogsys.jp
+  - DOMAIN-SUFFIX,xlisting.jp
+  - DOMAIN-SUFFIX,userreport.com
+  - DOMAIN-SUFFIX,geoedge.be
+  - DOMAIN-SUFFIX,beusable.net
+  - DOMAIN-SUFFIX,ccgateway.net
+  - DOMAIN-SUFFIX,ivstracker.net
+  - DOMAIN-SUFFIX,pre.glotgrx.com
+  - DOMAIN-SUFFIX,widerplanet.com
+  - DOMAIN-SUFFIX,msg.qy.net
+  - DOMAIN-SUFFIX,hit.uptrendsdata.com
+  - DOMAIN-SUFFIX,hubvisor.io
+  - DOMAIN-SUFFIX,sitest.jp
+  - DOMAIN-SUFFIX,husfly.com
+  - DOMAIN-SUFFIX,collect.lngtd.com
+  - DOMAIN-SUFFIX,cdn.resonate.com
   - DOMAIN-SUFFIX,events.mapbox.com
   - DOMAIN-SUFFIX,log2.spotify.com
   - DOMAIN-SUFFIX,log.particlenews.com
@@ -51,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,baikalize.com
   - DOMAIN-SUFFIX,relevant-digital.com
   - DOMAIN-SUFFIX,exitbee.com
+  - DOMAIN-SUFFIX,log.cizion.com
   - DOMAIN-SUFFIX,statafun.ru
   - DOMAIN-SUFFIX,sc.lfeeder.com
   - DOMAIN-SUFFIX,tr.lfeeder.com
@@ -4180,6 +4206,23 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,insight.bellmetric.net
+  - DOMAIN-SUFFIX,t.afi-b.com
+  - DOMAIN-SUFFIX,tag.cribnotes.jp
+  - DOMAIN-SUFFIX,metrics.news.com.au
+  - DOMAIN-SUFFIX,clientlog.midomi.com
+  - DOMAIN-SUFFIX,t.webjavaskript.net
+  - DOMAIN-SUFFIX,track.nifty.com
+  - DOMAIN-SUFFIX,analysis.shinobi.jp
+  - DOMAIN-SUFFIX,asumi.shinobi.jp
+  - DOMAIN-SUFFIX,tracking.epicgames.com
+  - DOMAIN-SUFFIX,t*.zcvh.net
+  - DOMAIN-SUFFIX,app.adjust.net.in
+  - DOMAIN-SUFFIX,app.adjust.world
+  - DOMAIN-SUFFIX,d3nq5jrakcyw1w.cloudfront.net
+  - DOMAIN-SUFFIX,tracking.netdoktor.at
+  - DOMAIN-SUFFIX,targeting.tbt.arcpublishing.com
+  - DOMAIN-SUFFIX,spixel.socy.es
   - DOMAIN-SUFFIX,rcm.shinobi.jp
   - DOMAIN-SUFFIX,app-analytics.snapchat.com
   - DOMAIN-SUFFIX,d2p3zdq8vjvnxd.cloudfront.net
@@ -4333,6 +4376,15 @@ payload:
   - DOMAIN-SUFFIX,cfg.imtt.qq.com
   - DOMAIN-SUFFIX,log.tbs.qq.com
   - DOMAIN-SUFFIX,mqqad.html5.qq.com
+  - DOMAIN-SUFFIX,nil.naver.com
+  - DOMAIN-SUFFIX,lcs.naver.com
+  - DOMAIN-SUFFIX,sp.naver.com
+  - DOMAIN-SUFFIX,veta.naver.com
+  - DOMAIN-SUFFIX,wl.yna.co.kr
+  - DOMAIN-SUFFIX,log.cloud.sbs.co.kr
+  - DOMAIN-SUFFIX,deepdive.zum.com
+  - DOMAIN-SUFFIX,analytics.brunch.co.kr
+  - DOMAIN-SUFFIX,logapi.tv.naver.com
   - DOMAIN-SUFFIX,kiupoo.stroeerdp.de
   - DOMAIN-SUFFIX,phiesi.stroeerdp.de
   - DOMAIN-SUFFIX,ohcohz.stroeerdp.de
@@ -5755,6 +5807,11 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,smetrics.cnn.com
+  - DOMAIN-SUFFIX,metrics.claspws.tv
+  - DOMAIN-SUFFIX,geolocation.onetrust.com
+  - DOMAIN-SUFFIX,app-analytics-v2.snapchat.com
+  - DOMAIN-SUFFIX,logs.gaaana.com
   - DOMAIN-SUFFIX,sdk-log-inter.youdao.com
   - DOMAIN-SUFFIX,sensors.snappea.com
   - DOMAIN-SUFFIX,analytics.snappea.com
