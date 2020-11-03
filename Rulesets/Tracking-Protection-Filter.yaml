@@ -4,6 +4,15 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,ad4m.at
+  - DOMAIN-SUFFIX,mycheckergeo.com
+  - DOMAIN-SUFFIX,beam.koddi.com
+  - DOMAIN-SUFFIX,casalemedia.com
+  - DOMAIN-SUFFIX,ct2.kimodameshi.com
+  - DOMAIN-SUFFIX,tag.pprl.io
+  - DOMAIN-SUFFIX,tags.newscgp.com
+  - DOMAIN-SUFFIX,collector.mediator.media
+  - DOMAIN-SUFFIX,rc.vtex.com.br
   - DOMAIN-SUFFIX,telemetric.dk
   - DOMAIN-SUFFIX,browser.events.data.msn.com
   - DOMAIN-SUFFIX,urbanairship.com
@@ -4206,6 +4215,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,counter.web.money
+  - DOMAIN-SUFFIX,stat.videonow.ru
   - DOMAIN-SUFFIX,insight.bellmetric.net
   - DOMAIN-SUFFIX,t.afi-b.com
   - DOMAIN-SUFFIX,tag.cribnotes.jp
@@ -5810,7 +5821,6 @@ payload:
   - DOMAIN-SUFFIX,smetrics.cnn.com
   - DOMAIN-SUFFIX,metrics.claspws.tv
   - DOMAIN-SUFFIX,geolocation.onetrust.com
-  - DOMAIN-SUFFIX,app-analytics-v2.snapchat.com
   - DOMAIN-SUFFIX,logs.gaaana.com
   - DOMAIN-SUFFIX,sdk-log-inter.youdao.com
   - DOMAIN-SUFFIX,sensors.snappea.com
