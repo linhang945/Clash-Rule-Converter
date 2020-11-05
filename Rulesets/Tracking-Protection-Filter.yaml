@@ -4215,6 +4215,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,stat.alloha.tv
   - DOMAIN-SUFFIX,counter.web.money
   - DOMAIN-SUFFIX,stat.videonow.ru
   - DOMAIN-SUFFIX,insight.bellmetric.net
