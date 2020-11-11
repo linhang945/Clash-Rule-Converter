@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,getcode.cotsta.ru
+  - DOMAIN-SUFFIX,bewilderedbattle.com
   - DOMAIN-SUFFIX,log-marketing.jp
   - DOMAIN-SUFFIX,tatsumi-sys.jp
   - DOMAIN-SUFFIX,tracking.venturify.at
@@ -4218,6 +4220,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ymprove.web.de
+  - DOMAIN-SUFFIX,wa.web.de
   - DOMAIN-SUFFIX,stat.alloha.tv
   - DOMAIN-SUFFIX,counter.web.money
   - DOMAIN-SUFFIX,stat.videonow.ru
