@@ -4,6 +4,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tag.wknd.ai
+  - DOMAIN-SUFFIX,ext-inv-cdn.presage.io
+  - DOMAIN-SUFFIX,track-mixer.ru
+  - DOMAIN-SUFFIX,dmpprof.com
+  - DOMAIN-SUFFIX,pwrlkyotm.com
+  - DOMAIN-SUFFIX,g.wait.re
   - DOMAIN-SUFFIX,getcode.cotsta.ru
   - DOMAIN-SUFFIX,bewilderedbattle.com
   - DOMAIN-SUFFIX,log-marketing.jp
@@ -4220,6 +4226,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,smetrics.samsung.com
+  - DOMAIN-SUFFIX,target-us.samsung.com
+  - DOMAIN-SUFFIX,ish.tumedia.no
   - DOMAIN-SUFFIX,ymprove.web.de
   - DOMAIN-SUFFIX,wa.web.de
   - DOMAIN-SUFFIX,stat.alloha.tv
@@ -4306,7 +4315,6 @@ payload:
   - DOMAIN-SUFFIX,stats.popupmaker.com
   - DOMAIN-SUFFIX,hstats.hepsiburada.com
   - DOMAIN-SUFFIX,tracker.unbxdapi.com
-  - DOMAIN-SUFFIX,d21gpk1vhmjuf5.cloudfront.net
   - DOMAIN-SUFFIX,spkrth.scw.systems
   - DOMAIN-SUFFIX,rrss.abc.es
   - DOMAIN-SUFFIX,analytics.htmedia.in
@@ -6144,7 +6152,6 @@ payload:
   - DOMAIN-SUFFIX,trk.pinterest.com
   - DOMAIN-SUFFIX,tu.dxcnd.cn
   - DOMAIN-SUFFIX,tunein.adswizz.com
-  - DOMAIN-SUFFIX,ulink.adjust.com
   - DOMAIN-SUFFIX,upalytics.com
   - DOMAIN-SUFFIX,ups.ksmobile.net
   - DOMAIN-SUFFIX,ws.ksmobile.net
