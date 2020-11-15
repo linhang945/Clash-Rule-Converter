@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,api.rubic.com.tr
+  - DOMAIN-SUFFIX,datadoghq-browser-agent.com
   - DOMAIN-SUFFIX,tag.wknd.ai
   - DOMAIN-SUFFIX,ext-inv-cdn.presage.io
   - DOMAIN-SUFFIX,track-mixer.ru
@@ -4226,6 +4228,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,uid.mavencoalition.io
+  - DOMAIN-SUFFIX,hummingbird.mavencoalition.io
   - DOMAIN-SUFFIX,smetrics.samsung.com
   - DOMAIN-SUFFIX,target-us.samsung.com
   - DOMAIN-SUFFIX,ish.tumedia.no
