@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,privatelands.biz
+  - DOMAIN-SUFFIX,click.vgnett.no
   - DOMAIN-SUFFIX,api.rubic.com.tr
   - DOMAIN-SUFFIX,datadoghq-browser-agent.com
   - DOMAIN-SUFFIX,tag.wknd.ai
@@ -4221,6 +4223,7 @@ payload:
   - DOMAIN-SUFFIX,commandersact.com
   - DOMAIN-SUFFIX,wizaly.com
   - DOMAIN-SUFFIX,affex.org
+  - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,ben.crxmouse.com
   - DOMAIN-SUFFIX,api2.poperblocker.com
