@@ -4,6 +4,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,mon-va.byteoversea.com
+  - DOMAIN-SUFFIX,stat.wioau.com
+  - DOMAIN-SUFFIX,www.clarity.ms
+  - DOMAIN-SUFFIX,los.2hisnd.com
+  - DOMAIN-SUFFIX,wh.giftd.tech
   - DOMAIN-SUFFIX,privatelands.biz
   - DOMAIN-SUFFIX,click.vgnett.no
   - DOMAIN-SUFFIX,api.rubic.com.tr
@@ -183,7 +188,6 @@ payload:
   - DOMAIN-SUFFIX,ws.audioeye.com
   - DOMAIN-SUFFIX,a.wishabi.com
   - DOMAIN-SUFFIX,analytics.jst.ai
-  - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,freshmarketer.com
   - DOMAIN-SUFFIX,linksynergy.com
   - DOMAIN-SUFFIX,pepperjam.com
@@ -3185,6 +3189,7 @@ payload:
   - DOMAIN-SUFFIX,zqtk.net
   - DOMAIN-SUFFIX,zroitracker.com
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,satisfycork.com
   - DOMAIN-SUFFIX,placidperson.com
   - DOMAIN-SUFFIX,regularplants.com
   - DOMAIN-SUFFIX,producecopy.com
@@ -4173,6 +4178,13 @@ payload:
   - DOMAIN-SUFFIX,wirecomic.com
   - DOMAIN-SUFFIX,xovq5nemr.com
   - DOMAIN-SUFFIX,zbwp6ghm.com
+  - DOMAIN-SUFFIX,xlog.tiktokv.com
+  - DOMAIN-SUFFIX,xlog-va.tiktokv.com
+  - DOMAIN-SUFFIX,log*-*.tiktokv.com
+  - DOMAIN-SUFFIX,xlog*-*.tiktokv.com
+  - DOMAIN-SUFFIX,mcs-va.tiktokv.com
+  - DOMAIN-SUFFIX,mcs-va-*.tiktokv.com
+  - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,beacon-fullpage-predictor.goguardian.com
   - DOMAIN-SUFFIX,countvoncount.goguardian.com
   - DOMAIN-SUFFIX,ext.goguardian.com
@@ -5845,6 +5857,7 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,v-collector.dp.aws.charter.com
   - DOMAIN-SUFFIX,smetrics.cnn.com
   - DOMAIN-SUFFIX,metrics.claspws.tv
   - DOMAIN-SUFFIX,geolocation.onetrust.com
