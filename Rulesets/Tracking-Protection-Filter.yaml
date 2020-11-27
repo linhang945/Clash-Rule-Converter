@@ -4246,6 +4246,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,p.imgur.com
   - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,hummingbird.mavencoalition.io
   - DOMAIN-SUFFIX,smetrics.samsung.com
