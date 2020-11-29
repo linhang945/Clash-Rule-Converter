@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,smetrics.capitalone.com
+  - DOMAIN-SUFFIX,m-metrics.capitalone.com
   - DOMAIN-SUFFIX,mon-va.byteoversea.com
   - DOMAIN-SUFFIX,stat.wioau.com
   - DOMAIN-SUFFIX,www.clarity.ms
