@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,nlog.nethru.io
+  - DOMAIN-SUFFIX,uc.xddi.ru
+  - DOMAIN-SUFFIX,events.demoup.com
   - DOMAIN-SUFFIX,smetrics.capitalone.com
   - DOMAIN-SUFFIX,m-metrics.capitalone.com
   - DOMAIN-SUFFIX,mon-va.byteoversea.com
@@ -4248,6 +4251,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sl-h-statistics-ch-1.storeland.ru
+  - DOMAIN-SUFFIX,hc-analytics.idp.clogin.att.com
   - DOMAIN-SUFFIX,p.imgur.com
   - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,hummingbird.mavencoalition.io
@@ -5860,6 +5865,8 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,notes-analytics-events.apple.com
+  - DOMAIN-SUFFIX,weather-analytics-events.apple.com
   - DOMAIN-SUFFIX,v-collector.dp.aws.charter.com
   - DOMAIN-SUFFIX,smetrics.cnn.com
   - DOMAIN-SUFFIX,metrics.claspws.tv
