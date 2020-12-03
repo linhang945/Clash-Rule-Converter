@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,docodoco.jp
+  - DOMAIN-SUFFIX,mieru-ca.com
   - DOMAIN-SUFFIX,nlog.nethru.io
   - DOMAIN-SUFFIX,uc.xddi.ru
   - DOMAIN-SUFFIX,events.demoup.com
@@ -3194,6 +3196,7 @@ payload:
   - DOMAIN-SUFFIX,zqtk.net
   - DOMAIN-SUFFIX,zroitracker.com
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,stiffgame.com
   - DOMAIN-SUFFIX,satisfycork.com
   - DOMAIN-SUFFIX,placidperson.com
   - DOMAIN-SUFFIX,regularplants.com
@@ -4251,6 +4254,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,signal-collector.gemaltodigitalbankingidcloud.com
+  - DOMAIN-SUFFIX,analytics.bi.encuentra24.com
   - DOMAIN-SUFFIX,sl-h-statistics-ch-1.storeland.ru
   - DOMAIN-SUFFIX,hc-analytics.idp.clogin.att.com
   - DOMAIN-SUFFIX,p.imgur.com
@@ -5865,6 +5870,8 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,us-tracking.nextdoor.com
+  - DOMAIN-SUFFIX,us-events.api.iheart.com
   - DOMAIN-SUFFIX,notes-analytics-events.apple.com
   - DOMAIN-SUFFIX,weather-analytics-events.apple.com
   - DOMAIN-SUFFIX,v-collector.dp.aws.charter.com
