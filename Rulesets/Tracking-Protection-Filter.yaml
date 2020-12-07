@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,adblock-analytics.io
+  - DOMAIN-SUFFIX,aukana.jp
   - DOMAIN-SUFFIX,telemetry.api.wmcdp.io
   - DOMAIN-SUFFIX,logs.psm.wmcdp.io
   - DOMAIN-SUFFIX,doubleverify.com
@@ -4262,6 +4264,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,jtrackern.joins.com
+  - DOMAIN-SUFFIX,analytics.cinematoday.jp
+  - DOMAIN-SUFFIX,log.cinematoday.jp
   - DOMAIN-SUFFIX,et.nytimes.com
   - DOMAIN-SUFFIX,adlog.shopping.naver.com
   - DOMAIN-SUFFIX,signal-collector.gemaltodigitalbankingidcloud.com
