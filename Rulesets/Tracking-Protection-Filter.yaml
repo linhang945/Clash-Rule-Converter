@@ -4,6 +4,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,polarbyte.com
+  - DOMAIN-SUFFIX,revcatch.com
+  - DOMAIN-SUFFIX,revprotect.com
+  - DOMAIN-SUFFIX,protectsubrev.com
+  - DOMAIN-SUFFIX,protectcrev.com
   - DOMAIN-SUFFIX,s.srvsynd.com
   - DOMAIN-SUFFIX,track.customer.io
   - DOMAIN-SUFFIX,lcs.loginfra.com
@@ -4223,6 +4228,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,metrics.makemytrip.com
+  - DOMAIN-SUFFIX,tracking.shopback.com
+  - DOMAIN-SUFFIX,logger.cbs.co.kr
+  - DOMAIN-SUFFIX,gather.donga.com
   - DOMAIN-SUFFIX,gak.webtoons.com
   - DOMAIN-SUFFIX,s.news.naver.com
   - DOMAIN-SUFFIX,jtrackern.joins.com
