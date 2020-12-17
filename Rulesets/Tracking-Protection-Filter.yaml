@@ -4228,6 +4228,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,counter.adguard.com
+  - DOMAIN-SUFFIX,l.www.naver.com
   - DOMAIN-SUFFIX,metrics.makemytrip.com
   - DOMAIN-SUFFIX,tracking.shopback.com
   - DOMAIN-SUFFIX,logger.cbs.co.kr
@@ -5855,6 +5857,7 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,mobiletelemetry.ebay.com
   - DOMAIN-SUFFIX,tracker.departapp.com
   - DOMAIN-SUFFIX,us-tracking.nextdoor.com
   - DOMAIN-SUFFIX,us-events.api.iheart.com
