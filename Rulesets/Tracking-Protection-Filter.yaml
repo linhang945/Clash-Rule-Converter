@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,herald.loginside.co.kr
+  - DOMAIN-SUFFIX,log002.commutil.kr
   - DOMAIN-SUFFIX,analy1.dtnnetwork.be
   - DOMAIN-SUFFIX,polarbyte.com
   - DOMAIN-SUFFIX,revcatch.com
@@ -4229,6 +4231,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,events.emogi.com
+  - DOMAIN-SUFFIX,log.ohmynews.com
   - DOMAIN-SUFFIX,analytics2.tvreport.co.kr
   - DOMAIN-SUFFIX,counter.adguard.com
   - DOMAIN-SUFFIX,l.www.naver.com
