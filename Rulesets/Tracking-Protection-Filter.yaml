@@ -4231,6 +4231,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,geo.mattel163.com
+  - DOMAIN-SUFFIX,tc-log.mattel163.com
+  - DOMAIN-SUFFIX,events-api*.outfit7.com
+  - DOMAIN-SUFFIX,bilanx.dcard.tw
   - DOMAIN-SUFFIX,events.emogi.com
   - DOMAIN-SUFFIX,log.ohmynews.com
   - DOMAIN-SUFFIX,analytics2.tvreport.co.kr
