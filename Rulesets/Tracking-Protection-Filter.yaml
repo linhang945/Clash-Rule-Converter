@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.mbga.jp
   - DOMAIN-SUFFIX,herald.loginside.co.kr
   - DOMAIN-SUFFIX,log002.commutil.kr
   - DOMAIN-SUFFIX,analy1.dtnnetwork.be
@@ -4231,6 +4232,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,check.tadapi.info
+  - DOMAIN-SUFFIX,count.munhwa.com
   - DOMAIN-SUFFIX,geo.mattel163.com
   - DOMAIN-SUFFIX,tc-log.mattel163.com
   - DOMAIN-SUFFIX,events-api*.outfit7.com
@@ -4357,7 +4360,6 @@ payload:
   - DOMAIN-SUFFIX,e2e.mashable.com
   - DOMAIN-SUFFIX,stats-dev.brid.tv
   - DOMAIN-SUFFIX,videostats.kakao.com
-  - DOMAIN-SUFFIX,stat.tiara.daum.net
   - DOMAIN-SUFFIX,webid.ad.daum.net
   - DOMAIN-SUFFIX,wt.soundestlink.com
   - DOMAIN-SUFFIX,pixelzirkus.gameforge.com
@@ -5756,7 +5758,6 @@ payload:
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
   - DOMAIN-SUFFIX,tr.datanyze.com
   - DOMAIN-SUFFIX,track.dictionary.com
-  - DOMAIN-SUFFIX,track.tiara.daum.net
   - DOMAIN-SUFFIX,track.tooplay.com
   - DOMAIN-SUFFIX,tracking.adactioninteractive.com
   - DOMAIN-SUFFIX,tracking.rtl.de
