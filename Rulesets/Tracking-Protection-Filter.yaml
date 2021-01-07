@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,log.perfecttitspics.com
   - DOMAIN-SUFFIX,analytics.mbga.jp
   - DOMAIN-SUFFIX,herald.loginside.co.kr
   - DOMAIN-SUFFIX,log002.commutil.kr
@@ -4256,7 +4257,6 @@ payload:
   - DOMAIN-SUFFIX,log.cinematoday.jp
   - DOMAIN-SUFFIX,et.nytimes.com
   - DOMAIN-SUFFIX,adlog.shopping.naver.com
-  - DOMAIN-SUFFIX,signal-collector.gemaltodigitalbankingidcloud.com
   - DOMAIN-SUFFIX,analytics.bi.encuentra24.com
   - DOMAIN-SUFFIX,sl-h-statistics-ch-1.storeland.ru
   - DOMAIN-SUFFIX,hc-analytics.idp.clogin.att.com
@@ -5852,6 +5852,15 @@ payload:
   - DOMAIN-SUFFIX,plbslog.umeng.com
   - DOMAIN-SUFFIX,analysys.cn
   - DOMAIN-SUFFIX,logs.supersonic.com
+  - DOMAIN-SUFFIX,datacollector-drru.dt.hicloud.com
+  - DOMAIN-SUFFIX,app-analytics-ru.huami.com
+  - DOMAIN-SUFFIX,metrics.spbtv.com
+  - DOMAIN-SUFFIX,sas53netbynet.visualon.info
+  - DOMAIN-SUFFIX,android-stat.acestream.net
+  - DOMAIN-SUFFIX,privatestats.whatsapp.net
+  - DOMAIN-SUFFIX,usage.influxdata.com
+  - DOMAIN-SUFFIX,stats.grafana.org
+  - DOMAIN-SUFFIX,rumstat.cdnvideo.ru
   - DOMAIN-SUFFIX,telemetry.api.swiftkey.com
   - DOMAIN-SUFFIX,telemetry.swiftkey.com
   - DOMAIN-SUFFIX,analytics.qoqa.ninja
@@ -5870,6 +5879,14 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,analytics.prod.mybuddy.ai
+  - DOMAIN-SUFFIX,logs.amap.com
+  - DOMAIN-SUFFIX,edmanalytics.pandahall.com
+  - DOMAIN-SUFFIX,applogs.pixelfederation.com
+  - DOMAIN-SUFFIX,applogs-v2.pixelfederation.com
+  - DOMAIN-SUFFIX,analytics.dns-shop.ru
+  - DOMAIN-SUFFIX,smetrics.aem.playstation.com
+  - DOMAIN-SUFFIX,telemetry.api.playstation.com
   - DOMAIN-SUFFIX,trk2.pinterest.com
   - DOMAIN-SUFFIX,mobiletelemetry.ebay.com
   - DOMAIN-SUFFIX,tracker.departapp.com
