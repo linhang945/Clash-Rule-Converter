@@ -4233,6 +4233,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,prod-collector.bigbasket.com
   - DOMAIN-SUFFIX,tracking.game8.jp
   - DOMAIN-SUFFIX,lcs.modoo.at
   - DOMAIN-SUFFIX,check.tadapi.info
