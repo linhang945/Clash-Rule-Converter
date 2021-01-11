@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,visilabs.com
+  - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,log.perfecttitspics.com
   - DOMAIN-SUFFIX,analytics.mbga.jp
   - DOMAIN-SUFFIX,herald.loginside.co.kr
@@ -404,7 +406,6 @@ payload:
   - DOMAIN-SUFFIX,s.clicktex.ru
   - DOMAIN-SUFFIX,hitme.pw
   - DOMAIN-SUFFIX,tracking.lqm.io
-  - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,app.shoptarget.com.br
   - DOMAIN-SUFFIX,netdeal.com.br
   - DOMAIN-SUFFIX,ibclick.stream
@@ -2967,7 +2968,6 @@ payload:
   - DOMAIN-SUFFIX,visadd.com
   - DOMAIN-SUFFIX,visibility-stats.com
   - DOMAIN-SUFFIX,visibli.com
-  - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visioncriticalpanels.com
   - DOMAIN-SUFFIX,visistat.com
   - DOMAIN-SUFFIX,visit.webhosting.yahoo.com
@@ -5714,7 +5714,6 @@ payload:
   - DOMAIN-SUFFIX,l.ooyala.com
   - DOMAIN-SUFFIX,l.player.ooyala.com
   - DOMAIN-SUFFIX,l.sharethis.com
-  - DOMAIN-SUFFIX,lgr.visilabs.net
   - DOMAIN-SUFFIX,lively-collect-elb-*.amazonaws.com
   - DOMAIN-SUFFIX,log-live.direct.ly
   - DOMAIN-SUFFIX,log.adap.tv
@@ -5740,7 +5739,6 @@ payload:
   - DOMAIN-SUFFIX,qnajplxtvz-a.akamaihd.net
   - DOMAIN-SUFFIX,r.remarketingpixel.com
   - DOMAIN-SUFFIX,recs.atgsvcs.com
-  - DOMAIN-SUFFIX,rt.visilabs.net
   - DOMAIN-SUFFIX,s.frida.vse42.ru
   - DOMAIN-SUFFIX,saber.srvcs.tumblr.com
   - DOMAIN-SUFFIX,segments.adap.tv
