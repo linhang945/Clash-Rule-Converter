@@ -6,6 +6,12 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,tracker.metricool.com
+  - DOMAIN-SUFFIX,stats.myangular.life
+  - DOMAIN-SUFFIX,counter.daara.kr
+  - DOMAIN-SUFFIX,tr.line.me
+  - DOMAIN-SUFFIX,log22.makeshop.co.kr
+  - DOMAIN-SUFFIX,piclick.kr
   - DOMAIN-SUFFIX,log.perfecttitspics.com
   - DOMAIN-SUFFIX,analytics.mbga.jp
   - DOMAIN-SUFFIX,herald.loginside.co.kr
@@ -4233,6 +4239,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,x.babe.today
   - DOMAIN-SUFFIX,prod-collector.bigbasket.com
   - DOMAIN-SUFFIX,tracking.game8.jp
   - DOMAIN-SUFFIX,lcs.modoo.at
@@ -5878,6 +5885,11 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,digianalytics.airtel.in
+  - DOMAIN-SUFFIX,ad-creative.projectcarmen.com
+  - DOMAIN-SUFFIX,analytics.projectcarmen.com
+  - DOMAIN-SUFFIX,monitoring-sdk.experimentation.intuit.com
+  - DOMAIN-SUFFIX,logging.api.intuit.com
   - DOMAIN-SUFFIX,analytics.prod.mybuddy.ai
   - DOMAIN-SUFFIX,logs.amap.com
   - DOMAIN-SUFFIX,edmanalytics.pandahall.com
