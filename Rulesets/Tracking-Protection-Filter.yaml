@@ -6,6 +6,11 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,livetracker.rfe.pangea-cms.com
+  - DOMAIN-SUFFIX,trackerhqu.com
+  - DOMAIN-SUFFIX,rum*.cdnvideo.ru
+  - DOMAIN-SUFFIX,rum*.a.trbcdn.net
+  - DOMAIN-SUFFIX,kiynew.com
   - DOMAIN-SUFFIX,tracker.metricool.com
   - DOMAIN-SUFFIX,stats.myangular.life
   - DOMAIN-SUFFIX,counter.daara.kr
@@ -17,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,herald.loginside.co.kr
   - DOMAIN-SUFFIX,log002.commutil.kr
   - DOMAIN-SUFFIX,analy1.dtnnetwork.be
+  - DOMAIN-SUFFIX,cerdmann.com
   - DOMAIN-SUFFIX,polarbyte.com
   - DOMAIN-SUFFIX,revcatch.com
   - DOMAIN-SUFFIX,revprotect.com
@@ -4239,6 +4245,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.move.ru
+  - DOMAIN-SUFFIX,telegraf.detmir-stats.ru
+  - DOMAIN-SUFFIX,track.tproger.ru
+  - DOMAIN-SUFFIX,stats.travelask.ru
   - DOMAIN-SUFFIX,x.babe.today
   - DOMAIN-SUFFIX,prod-collector.bigbasket.com
   - DOMAIN-SUFFIX,tracking.game8.jp
@@ -5885,6 +5895,8 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,tracking-receiver.prod-general.stocard-backend.com
+  - DOMAIN-SUFFIX,metrics.happycolor.app
   - DOMAIN-SUFFIX,digianalytics.airtel.in
   - DOMAIN-SUFFIX,ad-creative.projectcarmen.com
   - DOMAIN-SUFFIX,analytics.projectcarmen.com
