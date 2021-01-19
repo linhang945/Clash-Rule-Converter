@@ -359,7 +359,6 @@ payload:
   - DOMAIN-SUFFIX,stat.livesportbar.net
   - DOMAIN-SUFFIX,analytics.datahc.com
   - DOMAIN-SUFFIX,collect.blishtech.co
-  - DOMAIN-SUFFIX,s99i.org
   - DOMAIN-SUFFIX,g.vev.io
   - DOMAIN-SUFFIX,rob.megaopen.ru
   - DOMAIN-SUFFIX,srv.dc-1.net
@@ -4246,6 +4245,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sstats.adobe.com
+  - DOMAIN-SUFFIX,ma.news.naver.com
+  - DOMAIN-SUFFIX,l.msdl.naver.com
   - DOMAIN-SUFFIX,analytics.move.ru
   - DOMAIN-SUFFIX,telegraf.detmir-stats.ru
   - DOMAIN-SUFFIX,track.tproger.ru
