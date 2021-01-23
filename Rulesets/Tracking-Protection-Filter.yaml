@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,jtracking.lulusoft.com
   - DOMAIN-SUFFIX,traceprof.com
   - DOMAIN-SUFFIX,livetracker.rfe.pangea-cms.com
   - DOMAIN-SUFFIX,trackerhqu.com
@@ -2833,7 +2834,6 @@ payload:
   - DOMAIN-SUFFIX,trace-2000.com
   - DOMAIN-SUFFIX,trace.events
   - DOMAIN-SUFFIX,tracelytics.com
-  - DOMAIN-SUFFIX,tracemyip.org
   - DOMAIN-SUFFIX,tracer.jp
   - DOMAIN-SUFFIX,tracetracking.net
   - DOMAIN-SUFFIX,traceworks.com
@@ -4245,6 +4245,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracker.arc.io
+  - DOMAIN-SUFFIX,prx.wayfair.com
   - DOMAIN-SUFFIX,e-stat.huya.com
   - DOMAIN-SUFFIX,statwup.huya.com
   - DOMAIN-SUFFIX,metric.huya.com
