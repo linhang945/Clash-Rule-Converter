@@ -6,6 +6,9 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,sprocket-ping.s3.amazonaws.com
+  - DOMAIN-SUFFIX,events.launchdarkly.com
+  - DOMAIN-SUFFIX,eclog*.cafe24.com
   - DOMAIN-SUFFIX,tag.goadopt.io
   - DOMAIN-SUFFIX,tag.hariken.co
   - DOMAIN-SUFFIX,tracker.cauly.co.kr
@@ -2987,6 +2990,8 @@ payload:
   - DOMAIN-SUFFIX,xtremline.com
   - DOMAIN-SUFFIX,xxxcounter.com
   - DOMAIN-SUFFIX,xyztraffic.com
+  - DOMAIN-SUFFIX,x.clearbit.com
+  - DOMAIN-SUFFIX,x.clearbitjs.com
   - DOMAIN-SUFFIX,y-track.com
   - DOMAIN-SUFFIX,yamanoha.com
   - DOMAIN-SUFFIX,yaudience.com
@@ -4073,6 +4078,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,c1.wfinterface.com
   - DOMAIN-SUFFIX,l.typesquare.com
   - DOMAIN-SUFFIX,estat.zum.com
   - DOMAIN-SUFFIX,statweb.egloos.com
@@ -5095,6 +5101,7 @@ payload:
   - DOMAIN-SUFFIX,om.cbsi.com
   - DOMAIN-SUFFIX,om.dowjoneson.com
   - DOMAIN-SUFFIX,oimg.nbcuni.com
+  - DOMAIN-SUFFIX,analytics.ovh.com
   - DOMAIN-SUFFIX,qos.video.yimg.com
   - DOMAIN-SUFFIX,px.dynamicyield.com
   - DOMAIN-SUFFIX,production-eqbc.lvp.llnw.net
@@ -5715,7 +5722,6 @@ payload:
   - DOMAIN-SUFFIX,datacollector-drru.dt.hicloud.com
   - DOMAIN-SUFFIX,app-analytics-ru.huami.com
   - DOMAIN-SUFFIX,metrics.spbtv.com
-  - DOMAIN-SUFFIX,sas53netbynet.visualon.info
   - DOMAIN-SUFFIX,android-stat.acestream.net
   - DOMAIN-SUFFIX,privatestats.whatsapp.net
   - DOMAIN-SUFFIX,usage.influxdata.com
