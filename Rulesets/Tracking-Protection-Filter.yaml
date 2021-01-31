@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,breathebuds.com
+  - DOMAIN-SUFFIX,4sqt6jq.de
   - DOMAIN-SUFFIX,sprocket-ping.s3.amazonaws.com
   - DOMAIN-SUFFIX,events.launchdarkly.com
   - DOMAIN-SUFFIX,eclog*.cafe24.com
@@ -4078,6 +4080,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,pvtag.yahoo.co.jp
+  - DOMAIN-SUFFIX,stat.adultium.com
   - DOMAIN-SUFFIX,c1.wfinterface.com
   - DOMAIN-SUFFIX,l.typesquare.com
   - DOMAIN-SUFFIX,estat.zum.com
