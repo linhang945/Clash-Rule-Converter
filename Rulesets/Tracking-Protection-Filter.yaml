@@ -6,6 +6,9 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,event.syndigo.cloud
+  - DOMAIN-SUFFIX,event.webcollage.net
+  - DOMAIN-SUFFIX,dataunion.com.br
   - DOMAIN-SUFFIX,breathebuds.com
   - DOMAIN-SUFFIX,4sqt6jq.de
   - DOMAIN-SUFFIX,sprocket-ping.s3.amazonaws.com
@@ -4244,6 +4247,7 @@ payload:
   - DOMAIN-SUFFIX,infinityid.condenastdigital.com
   - DOMAIN-SUFFIX,track.berliner-kurier.de
   - DOMAIN-SUFFIX,collect.usefathom.com
+  - DOMAIN-SUFFIX,cdn.usefathom.com
   - DOMAIN-SUFFIX,wwwlog.thebell.co.kr
   - DOMAIN-SUFFIX,d1miwkthq39xj8.cloudfront.net
   - DOMAIN-SUFFIX,stats1.wpmudev.com
