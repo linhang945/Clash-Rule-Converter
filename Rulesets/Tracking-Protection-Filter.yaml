@@ -4083,6 +4083,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,stat.adguard.com
   - DOMAIN-SUFFIX,pvtag.yahoo.co.jp
   - DOMAIN-SUFFIX,stat.adultium.com
   - DOMAIN-SUFFIX,c1.wfinterface.com
