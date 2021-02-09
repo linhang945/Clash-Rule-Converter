@@ -6,6 +6,9 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,tk.promit.ru
+  - DOMAIN-SUFFIX,ztest1track.com
+  - DOMAIN-SUFFIX,phar.gu-web.net
   - DOMAIN-SUFFIX,stats.vk-portal.net
   - DOMAIN-SUFFIX,cws.conviva.com
   - DOMAIN-SUFFIX,event.syndigo.cloud
@@ -4085,6 +4088,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,pappagallu.onefootball.com
   - DOMAIN-SUFFIX,stat.adguard.com
   - DOMAIN-SUFFIX,pvtag.yahoo.co.jp
   - DOMAIN-SUFFIX,stat.adultium.com
