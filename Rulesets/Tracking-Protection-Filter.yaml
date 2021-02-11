@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,counter.monkeybanana3.com
+  - DOMAIN-SUFFIX,analytic-client.playful-fairies.com
   - DOMAIN-SUFFIX,tk.promit.ru
   - DOMAIN-SUFFIX,ztest1track.com
   - DOMAIN-SUFFIX,phar.gu-web.net
@@ -3041,6 +3043,7 @@ payload:
   - DOMAIN-SUFFIX,zqtk.net
   - DOMAIN-SUFFIX,zroitracker.com
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,wearbasin.com
   - DOMAIN-SUFFIX,puffypaste.com
   - DOMAIN-SUFFIX,stiffgame.com
   - DOMAIN-SUFFIX,satisfycork.com
@@ -4088,6 +4091,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,metrics-broker.prod.p.tf1.fr
   - DOMAIN-SUFFIX,pappagallu.onefootball.com
   - DOMAIN-SUFFIX,stat.adguard.com
   - DOMAIN-SUFFIX,pvtag.yahoo.co.jp
