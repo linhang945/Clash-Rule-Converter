@@ -1257,7 +1257,6 @@ payload:
   - DOMAIN-SUFFIX,emetriq.de
   - DOMAIN-SUFFIX,emjcd.com
   - DOMAIN-SUFFIX,emltrk.com
-  - DOMAIN-SUFFIX,emsecure.net
   - DOMAIN-SUFFIX,enecto.com
   - DOMAIN-SUFFIX,engageya.com
   - DOMAIN-SUFFIX,engine212.com
@@ -4170,8 +4169,6 @@ payload:
   - DOMAIN-SUFFIX,asumi.shinobi.jp
   - DOMAIN-SUFFIX,tracking.epicgames.com
   - DOMAIN-SUFFIX,t*.zcvh.net
-  - DOMAIN-SUFFIX,app.adjust.net.in
-  - DOMAIN-SUFFIX,app.adjust.world
   - DOMAIN-SUFFIX,d3nq5jrakcyw1w.cloudfront.net
   - DOMAIN-SUFFIX,tracking.netdoktor.at
   - DOMAIN-SUFFIX,targeting.tbt.arcpublishing.com
@@ -5765,6 +5762,9 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,p.statp.com
+  - DOMAIN-SUFFIX,api.imqtyik.com
+  - DOMAIN-SUFFIX,events.claspws.tv
   - DOMAIN-SUFFIX,tracking-receiver.prod-general.stocard-backend.com
   - DOMAIN-SUFFIX,metrics.happycolor.app
   - DOMAIN-SUFFIX,digianalytics.airtel.in
