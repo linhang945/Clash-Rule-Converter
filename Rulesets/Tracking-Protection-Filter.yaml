@@ -4091,6 +4091,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,stats.muasamcong.gov.vn
+  - DOMAIN-SUFFIX,beacon.watch.impress.co.jp
   - DOMAIN-SUFFIX,metrics-broker.prod.p.tf1.fr
   - DOMAIN-SUFFIX,pappagallu.onefootball.com
   - DOMAIN-SUFFIX,stat.adguard.com
