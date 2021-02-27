@@ -6,6 +6,19 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,adsmetadata.mobileadexchange.net
+  - DOMAIN-SUFFIX,adsmetadata.startappk8s.com
+  - DOMAIN-SUFFIX,counter.yandro.ru
+  - DOMAIN-SUFFIX,track-aws.notsy.io
+  - DOMAIN-SUFFIX,cdn.notsy.io
+  - DOMAIN-SUFFIX,cdn-b.notsy.io
+  - DOMAIN-SUFFIX,track.notsy.io
+  - DOMAIN-SUFFIX,log.ca.gov.vn
+  - DOMAIN-SUFFIX,tracking.gpm-rtv.ru
+  - DOMAIN-SUFFIX,pvk.jp
+  - DOMAIN-SUFFIX,uncn.jp
+  - DOMAIN-SUFFIX,ad-spire.net
+  - DOMAIN-SUFFIX,f-counter.net
   - DOMAIN-SUFFIX,moshimo.com
   - DOMAIN-SUFFIX,counter.monkeybanana3.com
   - DOMAIN-SUFFIX,analytic-client.playful-fairies.com
@@ -4091,6 +4104,20 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,track.libii.cn
+  - DOMAIN-SUFFIX,track.oasis.magictavern.com
+  - DOMAIN-SUFFIX,kooappslogs.com
+  - DOMAIN-SUFFIX,log.zepeto.io
+  - DOMAIN-SUFFIX,apptracker.gamedock.io
+  - DOMAIN-SUFFIX,applog.zaycev.net
+  - DOMAIN-SUFFIX,events.cardsmobile.ru
+  - DOMAIN-SUFFIX,eventstream.dodopizza.com
+  - DOMAIN-SUFFIX,analytics.74.ru
+  - DOMAIN-SUFFIX,intake-logging.wikimedia.org
+  - DOMAIN-SUFFIX,event.chitai-gorod.ru
+  - DOMAIN-SUFFIX,counter.nv.ua
+  - DOMAIN-SUFFIX,metrika.myseldon.com
+  - DOMAIN-SUFFIX,t.lidyana.com
   - DOMAIN-SUFFIX,stats.muasamcong.gov.vn
   - DOMAIN-SUFFIX,beacon.watch.impress.co.jp
   - DOMAIN-SUFFIX,metrics-broker.prod.p.tf1.fr
@@ -5763,6 +5790,7 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,analytics.jodelapis.com
   - DOMAIN-SUFFIX,analytics.mobilegamestats.com
   - DOMAIN-SUFFIX,p.statp.com
   - DOMAIN-SUFFIX,api.imqtyik.com
