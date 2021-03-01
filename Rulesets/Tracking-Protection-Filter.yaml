@@ -1875,7 +1875,6 @@ payload:
   - DOMAIN-SUFFIX,millioncounter.com
   - DOMAIN-SUFFIX,minewhat.com
   - DOMAIN-SUFFIX,mixpanel.com
-  - DOMAIN-SUFFIX,api.segment.io
   - DOMAIN-SUFFIX,mkt3261.com
   - DOMAIN-SUFFIX,mkt51.net
   - DOMAIN-SUFFIX,mkt941.com
@@ -5980,7 +5979,9 @@ payload:
   - DOMAIN-SUFFIX,loadus.exelator.com
   - DOMAIN-SUFFIX,tracking.viewster.com
   - DOMAIN-SUFFIX,logcollector.viewster.com
+  - DOMAIN-SUFFIX,api.mixpanel.com
   - DOMAIN-SUFFIX,decide.mixpanel.com
+  - DOMAIN-SUFFIX,api.segment.io
   - DOMAIN-SUFFIX,applog.uc.cn
   - DOMAIN-SUFFIX,dispatcher.upmc.uc.cn
   - DOMAIN-SUFFIX,gj.applog.uc.cn
