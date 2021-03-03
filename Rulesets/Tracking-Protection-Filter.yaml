@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,tracking02.adweb.co.kr
+  - DOMAIN-SUFFIX,d-collector.jennifersoft.com
   - DOMAIN-SUFFIX,adsmetadata.mobileadexchange.net
   - DOMAIN-SUFFIX,adsmetadata.startappk8s.com
   - DOMAIN-SUFFIX,counter.yandro.ru
@@ -53,7 +55,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.metricool.com
   - DOMAIN-SUFFIX,stats.myangular.life
   - DOMAIN-SUFFIX,counter.daara.kr
-  - DOMAIN-SUFFIX,tr.line.me
   - DOMAIN-SUFFIX,log22.makeshop.co.kr
   - DOMAIN-SUFFIX,piclick.kr
   - DOMAIN-SUFFIX,log.perfecttitspics.com
@@ -3055,6 +3056,7 @@ payload:
   - DOMAIN-SUFFIX,zroitracker.com
   - DOMAIN-SUFFIX,functionalclam.com
   - DOMAIN-SUFFIX,unwieldyhealth.com
+  - DOMAIN-SUFFIX,boilingcredit.com
   - DOMAIN-SUFFIX,wearbasin.com
   - DOMAIN-SUFFIX,puffypaste.com
   - DOMAIN-SUFFIX,stiffgame.com
@@ -4103,6 +4105,13 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.ttbc-hcm.gov.vn
+  - DOMAIN-SUFFIX,eventapi.afreecatv.com
+  - DOMAIN-SUFFIX,stat.nate.com
+  - DOMAIN-SUFFIX,track.clkfly.com
+  - DOMAIN-SUFFIX,pf.intuit.com
+  - DOMAIN-SUFFIX,sci.intuit.com
+  - DOMAIN-SUFFIX,bilanx.dcard.tw
   - DOMAIN-SUFFIX,track.libii.cn
   - DOMAIN-SUFFIX,track.oasis.magictavern.com
   - DOMAIN-SUFFIX,kooappslogs.com
