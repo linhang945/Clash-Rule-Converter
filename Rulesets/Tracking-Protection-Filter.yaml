@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,analytics.contents.by-fw.jp
+  - DOMAIN-SUFFIX,appier.net
   - DOMAIN-SUFFIX,depart.trinitymedia.ai
   - DOMAIN-SUFFIX,atrack.avplayer.com
   - DOMAIN-SUFFIX,log.gs3.goo.ne.jp
@@ -5650,6 +5652,17 @@ payload:
   - DOMAIN-SUFFIX,a8clk.xserver.ne.jp
   - DOMAIN-SUFFIX,a8cv.amiami.jp
   - DOMAIN-SUFFIX,afi.ssl.gmobb.jp
+  - DOMAIN-SUFFIX,ad-track.paravi.jp
+  - DOMAIN-SUFFIX,ad.kddi-fs.com
+  - DOMAIN-SUFFIX,ad.udition.jp
+  - DOMAIN-SUFFIX,adebis.nursery.co.jp
+  - DOMAIN-SUFFIX,adebiscname.auone.jp
+  - DOMAIN-SUFFIX,axjfkc.kobayashi.co.jp
+  - DOMAIN-SUFFIX,cnameebis.usagi-online.com
+  - DOMAIN-SUFFIX,ebis.rozetta.jp
+  - DOMAIN-SUFFIX,kraciecojp-ebis.kracie.co.jp
+  - DOMAIN-SUFFIX,nlp-japan.life-and-mind.com
+  - DOMAIN-SUFFIX,tukuru.cotta.jp
   - DOMAIN-SUFFIX,a.beliefnet.com
   - DOMAIN-SUFFIX,an.worldbaseballclassic.com
   - DOMAIN-SUFFIX,analytic.ae.com
@@ -8907,6 +8920,13 @@ payload:
   - DOMAIN-SUFFIX,yoc.younited-credit.com
   - DOMAIN-SUFFIX,zkc5.fleurancenature.fr
   - DOMAIN-SUFFIX,zm5d.lexpress.fr
+  - DOMAIN-SUFFIX,d.image-ad.jp
+  - DOMAIN-SUFFIX,d.newssuite.sony.net
+  - DOMAIN-SUFFIX,i.image-ad.jp
+  - DOMAIN-SUFFIX,i.newssuite.sony.net
+  - DOMAIN-SUFFIX,j.bg.adresult-sp.jp
+  - DOMAIN-SUFFIX,j.image-ad.jp
+  - DOMAIN-SUFFIX,j.newssuite.sony.net
   - DOMAIN-SUFFIX,114-track.net.daraz.com
   - DOMAIN-SUFFIX,76.ingenioustech.biz
   - DOMAIN-SUFFIX,allseason.net.daraz.com
