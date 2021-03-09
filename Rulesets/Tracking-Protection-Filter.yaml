@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,smart-bdash.com
   - DOMAIN-SUFFIX,analytics.contents.by-fw.jp
   - DOMAIN-SUFFIX,appier.net
   - DOMAIN-SUFFIX,depart.trinitymedia.ai
@@ -2712,7 +2713,6 @@ payload:
   - DOMAIN-SUFFIX,trackeame.com
   - DOMAIN-SUFFIX,trackedlink.net
   - DOMAIN-SUFFIX,trackedweb.net
-  - DOMAIN-SUFFIX,trackfeed.com
   - DOMAIN-SUFFIX,tracking100.com
   - DOMAIN-SUFFIX,tracking202.com
   - DOMAIN-SUFFIX,trackinglabs.com
@@ -4115,7 +4115,6 @@ payload:
   - DOMAIN-SUFFIX,stat.nate.com
   - DOMAIN-SUFFIX,track.clkfly.com
   - DOMAIN-SUFFIX,pf.intuit.com
-  - DOMAIN-SUFFIX,bilanx.dcard.tw
   - DOMAIN-SUFFIX,track.libii.cn
   - DOMAIN-SUFFIX,track.oasis.magictavern.com
   - DOMAIN-SUFFIX,kooappslogs.com
