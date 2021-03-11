@@ -6,6 +6,9 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,aff.trackinglibrary.prodperfect.com
+  - DOMAIN-SUFFIX,logbor.com
+  - DOMAIN-SUFFIX,click-plus.net
   - DOMAIN-SUFFIX,smart-bdash.com
   - DOMAIN-SUFFIX,analytics.contents.by-fw.jp
   - DOMAIN-SUFFIX,appier.net
@@ -3062,6 +3065,7 @@ payload:
   - DOMAIN-SUFFIX,zqtk.net
   - DOMAIN-SUFFIX,zroitracker.com
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,bawdybalance.com
   - DOMAIN-SUFFIX,unwieldyhealth.com
   - DOMAIN-SUFFIX,boilingcredit.com
   - DOMAIN-SUFFIX,wearbasin.com
@@ -4110,6 +4114,14 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,uep.gaijin.net
+  - DOMAIN-SUFFIX,event.impression-neo.naver.com
+  - DOMAIN-SUFFIX,er.search.naver.com
+  - DOMAIN-SUFFIX,s.search.naver.com
+  - DOMAIN-SUFFIX,log.tf.co.kr
+  - DOMAIN-SUFFIX,log.zdnet.co.kr
+  - DOMAIN-SUFFIX,weblog.zdnet.co.kr
+  - DOMAIN-SUFFIX,logger.tvchosun.com
   - DOMAIN-SUFFIX,log.ttbc-hcm.gov.vn
   - DOMAIN-SUFFIX,eventapi.afreecatv.com
   - DOMAIN-SUFFIX,stat.nate.com
