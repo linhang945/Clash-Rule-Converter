@@ -6,6 +6,13 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,jg.wensixuetang.com
+  - DOMAIN-SUFFIX,tapjoy.com
+  - DOMAIN-SUFFIX,tapjoy.net
+  - DOMAIN-SUFFIX,logger.eigene.io
+  - DOMAIN-SUFFIX,receiver.eigene.io
+  - DOMAIN-SUFFIX,c-rings.net
+  - DOMAIN-SUFFIX,t.felmat.net
   - DOMAIN-SUFFIX,k-analytix.com
   - DOMAIN-SUFFIX,i.btg360.com.br
   - DOMAIN-SUFFIX,tracdelight.io
@@ -4124,6 +4131,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,logcol.kyobobook.co.kr
   - DOMAIN-SUFFIX,uep.gaijin.net
   - DOMAIN-SUFFIX,event.impression-neo.naver.com
   - DOMAIN-SUFFIX,er.search.naver.com
@@ -9972,8 +9980,6 @@ payload:
   - DOMAIN-SUFFIX,statistics.videofarm.daum.net
   - DOMAIN-SUFFIX,stats.popcap.com
   - DOMAIN-SUFFIX,stats.unity3d.com
-  - DOMAIN-SUFFIX,tapjoy.com
-  - DOMAIN-SUFFIX,tapjoy.net
   - DOMAIN-SUFFIX,taurus.iad.appboy.com
   - DOMAIN-SUFFIX,tknet.rayjump.com
   - DOMAIN-SUFFIX,tns.simba.taobao.com
