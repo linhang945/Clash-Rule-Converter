@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,px.za.zaloapp.com
   - DOMAIN-SUFFIX,jg.wensixuetang.com
   - DOMAIN-SUFFIX,tapjoy.com
   - DOMAIN-SUFFIX,tapjoy.net
@@ -4131,11 +4132,13 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,clicks.wawlabs.com
+  - DOMAIN-SUFFIX,stat.5-tv.ru
+  - DOMAIN-SUFFIX,log.zingnews.vn
   - DOMAIN-SUFFIX,logcol.kyobobook.co.kr
   - DOMAIN-SUFFIX,uep.gaijin.net
   - DOMAIN-SUFFIX,event.impression-neo.naver.com
   - DOMAIN-SUFFIX,er.search.naver.com
-  - DOMAIN-SUFFIX,s.search.naver.com
   - DOMAIN-SUFFIX,log.tf.co.kr
   - DOMAIN-SUFFIX,log.zdnet.co.kr
   - DOMAIN-SUFFIX,weblog.zdnet.co.kr
