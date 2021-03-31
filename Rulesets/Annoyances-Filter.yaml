@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,cookie-sl.s3.*.amazonaws.com
   - DOMAIN-SUFFIX,consent.cookiefirst.com
   - DOMAIN-SUFFIX,hs-banner.com
+  - DOMAIN-SUFFIX,aloofvest.com
   - DOMAIN-SUFFIX,hs-scripts.com
   - DOMAIN-SUFFIX,cookiehub.net
   - DOMAIN-SUFFIX,cdn.opencmp.net
@@ -75,6 +76,7 @@ payload:
   - DOMAIN-SUFFIX,gdpr-wrapper.privacymanager.io
   - DOMAIN-SUFFIX,cookiemanager.wirth-horn.de
   - DOMAIN-SUFFIX,consent.trustarc.com
+  - DOMAIN-SUFFIX,onetrust.com
   - DOMAIN-SUFFIX,consent.dumont.de
   - DOMAIN-SUFFIX,metomic.io
   - DOMAIN-SUFFIX,privacy-center.org
