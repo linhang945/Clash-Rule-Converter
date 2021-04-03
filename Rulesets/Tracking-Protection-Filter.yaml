@@ -6,7 +6,13 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,hktracker.hankookilbo.com
+  - DOMAIN-SUFFIX,ibeat-analytics.com
+  - DOMAIN-SUFFIX,tag-based.s3.*.amazonaws.com
   - DOMAIN-SUFFIX,oeqirr.com
+  - DOMAIN-SUFFIX,cbdatatracker.com
+  - DOMAIN-SUFFIX,pages-stats.rbl.ms
+  - DOMAIN-SUFFIX,res.rbl.ms
   - DOMAIN-SUFFIX,hubble.netease.com
   - DOMAIN-SUFFIX,im.cbsileads.com
   - DOMAIN-SUFFIX,heymatic.com
@@ -60,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,aff.trackinglibrary.prodperfect.com
   - DOMAIN-SUFFIX,logbor.com
   - DOMAIN-SUFFIX,click-plus.net
+  - DOMAIN-SUFFIX,stats.vliplatform.com
   - DOMAIN-SUFFIX,smart-bdash.com
   - DOMAIN-SUFFIX,analytics.contents.by-fw.jp
   - DOMAIN-SUFFIX,appier.net
@@ -90,6 +97,7 @@ payload:
   - DOMAIN-SUFFIX,moshimo.com
   - DOMAIN-SUFFIX,counter.monkeybanana3.com
   - DOMAIN-SUFFIX,analytic-client.playful-fairies.com
+  - DOMAIN-SUFFIX,eventapi.libring.com
   - DOMAIN-SUFFIX,tk.promit.ru
   - DOMAIN-SUFFIX,ztest1track.com
   - DOMAIN-SUFFIX,phar.gu-web.net
@@ -3048,6 +3056,8 @@ payload:
   - DOMAIN-SUFFIX,zqtk.net
   - DOMAIN-SUFFIX,zroitracker.com
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,warmafterthought.com
+  - DOMAIN-SUFFIX,fumblingform.com
   - DOMAIN-SUFFIX,aloofvest.com
   - DOMAIN-SUFFIX,bawdybalance.com
   - DOMAIN-SUFFIX,unwieldyhealth.com
@@ -4058,6 +4068,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,cwt.citywire.info
+  - DOMAIN-SUFFIX,ua.indianexpress.com
   - DOMAIN-SUFFIX,a-reporting.nytimes.com
   - DOMAIN-SUFFIX,metrika.lookmovie.io
   - DOMAIN-SUFFIX,s.deepl.com
@@ -12309,6 +12321,9 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,api*.amplitude.com
+  - DOMAIN-SUFFIX,conversions.appsflyer.com
+  - DOMAIN-SUFFIX,collect.serious.li
   - DOMAIN-SUFFIX,analytics.jodelapis.com
   - DOMAIN-SUFFIX,analytics.mobilegamestats.com
   - DOMAIN-SUFFIX,p.statp.com
