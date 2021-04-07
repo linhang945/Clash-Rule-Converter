@@ -6,6 +6,14 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
+  - DOMAIN-SUFFIX,sp.dpgmedia.net
+  - DOMAIN-SUFFIX,beak.bigdata.dpgmmservices.nl
+  - DOMAIN-SUFFIX,sat.public.bd.313.nl
+  - DOMAIN-SUFFIX,distillery.wistia.com
+  - DOMAIN-SUFFIX,pipedream.wistia.com
+  - DOMAIN-SUFFIX,mutinycdn.com
+  - DOMAIN-SUFFIX,estatcounter.co.uk
   - DOMAIN-SUFFIX,hktracker.hankookilbo.com
   - DOMAIN-SUFFIX,ibeat-analytics.com
   - DOMAIN-SUFFIX,tag-based.s3.*.amazonaws.com
@@ -4068,6 +4076,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,dtrace.nvidia.com
+  - DOMAIN-SUFFIX,temptation.ad.nl
+  - DOMAIN-SUFFIX,events.reclamefolder.nl
+  - DOMAIN-SUFFIX,analytics-api.smzdm.com
   - DOMAIN-SUFFIX,cwt.citywire.info
   - DOMAIN-SUFFIX,ua.indianexpress.com
   - DOMAIN-SUFFIX,a-reporting.nytimes.com
