@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,pointmediatracker.com
   - DOMAIN-SUFFIX,c-api-bit.shopeemobile.com
   - DOMAIN-SUFFIX,sp.dpgmedia.net
   - DOMAIN-SUFFIX,beak.bigdata.dpgmmservices.nl
@@ -14,11 +15,11 @@ payload:
   - DOMAIN-SUFFIX,pipedream.wistia.com
   - DOMAIN-SUFFIX,mutinycdn.com
   - DOMAIN-SUFFIX,estatcounter.co.uk
-  - DOMAIN-SUFFIX,hktracker.hankookilbo.com
   - DOMAIN-SUFFIX,ibeat-analytics.com
   - DOMAIN-SUFFIX,tag-based.s3.*.amazonaws.com
   - DOMAIN-SUFFIX,oeqirr.com
   - DOMAIN-SUFFIX,cbdatatracker.com
+  - DOMAIN-SUFFIX,hktracker.hankookilbo.com
   - DOMAIN-SUFFIX,pages-stats.rbl.ms
   - DOMAIN-SUFFIX,res.rbl.ms
   - DOMAIN-SUFFIX,hubble.netease.com
@@ -28,12 +29,14 @@ payload:
   - DOMAIN-SUFFIX,sitescout.com
   - DOMAIN-SUFFIX,ad-log.dable.io
   - DOMAIN-SUFFIX,pensebig.com.br
+  - DOMAIN-SUFFIX,analytics.ratopanda.com
   - DOMAIN-SUFFIX,suite*.linximpulse.net
   - DOMAIN-SUFFIX,retargeter.com.br
   - DOMAIN-SUFFIX,shotarget.co.uk
   - DOMAIN-SUFFIX,shopback.net
   - DOMAIN-SUFFIX,shopconvert.com.br
   - DOMAIN-SUFFIX,neemu.com
+  - DOMAIN-SUFFIX,prod-sb-appanalytics-us1.servicebus.windows.net
   - DOMAIN-SUFFIX,mci1.co.kr
   - DOMAIN-SUFFIX,analytics.sitewit.com
   - DOMAIN-SUFFIX,ecomm.events
@@ -2660,6 +2663,7 @@ payload:
   - DOMAIN-SUFFIX,sysomos.com
   - DOMAIN-SUFFIX,t-analytics.com
   - DOMAIN-SUFFIX,t4ft.de
+  - DOMAIN-SUFFIX,taboola.com.cn
   - DOMAIN-SUFFIX,taboola.com
   - DOMAIN-SUFFIX,tag4arm.com
   - DOMAIN-SUFFIX,tagsrvcs.com
@@ -4076,6 +4080,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,crta.metro.co.uk
   - DOMAIN-SUFFIX,dtrace.nvidia.com
   - DOMAIN-SUFFIX,temptation.ad.nl
   - DOMAIN-SUFFIX,events.reclamefolder.nl
