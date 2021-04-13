@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,instapagemetrics.com
+  - DOMAIN-SUFFIX,mas.protecmedia.com
   - DOMAIN-SUFFIX,t.rainide.com
   - DOMAIN-SUFFIX,durationmedia.net
   - DOMAIN-SUFFIX,pointmediatracker.com
@@ -3070,6 +3072,7 @@ payload:
   - DOMAIN-SUFFIX,zqtk.net
   - DOMAIN-SUFFIX,zroitracker.com
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,ticketaunt.com
   - DOMAIN-SUFFIX,warmafterthought.com
   - DOMAIN-SUFFIX,fumblingform.com
   - DOMAIN-SUFFIX,aloofvest.com
@@ -4082,6 +4085,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,dmp.citiservi.es
   - DOMAIN-SUFFIX,crta.metro.co.uk
   - DOMAIN-SUFFIX,dtrace.nvidia.com
   - DOMAIN-SUFFIX,temptation.ad.nl
@@ -12546,7 +12550,6 @@ payload:
   - DOMAIN-SUFFIX,api.ad.xiaomi.com
   - DOMAIN-SUFFIX,a.bitmango.com
   - DOMAIN-SUFFIX,tracking.directservices.it
-  - DOMAIN-SUFFIX,vortex.data.microsoft.com
   - DOMAIN-SUFFIX,onedrive-collection.device.mobileengagement.windows.net
   - DOMAIN-SUFFIX,metrics.timewarnercable.com
   - DOMAIN-SUFFIX,flurry.agentportal-*.yahoodns.net
