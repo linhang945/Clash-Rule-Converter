@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,ezodn.com
   - DOMAIN-SUFFIX,x-storage-a1.cir.io
   - DOMAIN-SUFFIX,didna.io
-  - DOMAIN-SUFFIX,log.nordot.jp
   - DOMAIN-SUFFIX,solutionshindsight.net
   - DOMAIN-SUFFIX,d.wi-fi.ru
   - DOMAIN-SUFFIX,api.ipdata.co
@@ -3082,6 +3081,7 @@ payload:
   - DOMAIN-SUFFIX,zqtk.net
   - DOMAIN-SUFFIX,zroitracker.com
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,ancientact.com
   - DOMAIN-SUFFIX,ticketaunt.com
   - DOMAIN-SUFFIX,warmafterthought.com
   - DOMAIN-SUFFIX,fumblingform.com
@@ -4095,6 +4095,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d2ieqaiwehnqqp.cloudfront.net
+  - DOMAIN-SUFFIX,lc.fresheye.com
+  - DOMAIN-SUFFIX,lcexp.fresheye.com
   - DOMAIN-SUFFIX,behave.noen.at
   - DOMAIN-SUFFIX,tracking.noen.at
   - DOMAIN-SUFFIX,track.wattpad.com
@@ -14139,6 +14142,7 @@ payload:
   - DOMAIN-SUFFIX,analytics-sprint.qoqa.com
   - DOMAIN-SUFFIX,analytics.qoqa.ch
   - DOMAIN-SUFFIX,analytics.qoqa.com
+  - DOMAIN-SUFFIX,af-event-logger.appsflyer.com
   - DOMAIN-SUFFIX,inapps.appsflyer.com
   - DOMAIN-SUFFIX,gcdsdk.appsflyer.com
   - DOMAIN-SUFFIX,statsgoogle.appsflyer.com
