@@ -4100,6 +4100,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.g-enews.com
   - DOMAIN-SUFFIX,pla-tk.flipkart.net
   - DOMAIN-SUFFIX,stat.myshows.me
   - DOMAIN-SUFFIX,d2ieqaiwehnqqp.cloudfront.net
@@ -4566,7 +4567,6 @@ payload:
   - DOMAIN-SUFFIX,log.deutschegrammophon.com
   - DOMAIN-SUFFIX,log.mappy.net
   - DOMAIN-SUFFIX,log.newsvine.com
-  - DOMAIN-SUFFIX,log.optimizely.com
   - DOMAIN-SUFFIX,log.snapdeal.com
   - DOMAIN-SUFFIX,log.thevideo.me
   - DOMAIN-SUFFIX,log.vdn.apps.cntv.cn
@@ -5526,7 +5526,6 @@ payload:
   - DOMAIN-SUFFIX,d5i9o0tpq9sa1.cloudfront.net
   - DOMAIN-SUFFIX,d6jkenny8w8yo.cloudfront.net
   - DOMAIN-SUFFIX,d81mfvml8p5ml.cloudfront.net
-  - DOMAIN-SUFFIX,d8rk54i4mohrb.cloudfront.net
   - DOMAIN-SUFFIX,d9lq0o81skkdj.cloudfront.net
   - DOMAIN-SUFFIX,daq0d0aotgq0f.cloudfront.net
   - DOMAIN-SUFFIX,d3alqb8vzo7fun.cloudfront.net
@@ -12270,6 +12269,153 @@ payload:
   - DOMAIN-SUFFIX,gi7a.structube.com
   - DOMAIN-SUFFIX,nym5c.laura.ca
   - DOMAIN-SUFFIX,pk1u.melanielyne.com
+  - DOMAIN-SUFFIX,anteater.benborgers.com
+  - DOMAIN-SUFFIX,ape.nusii.com
+  - DOMAIN-SUFFIX,badger.vbvf.org
+  - DOMAIN-SUFFIX,bass.goulet.dev
+  - DOMAIN-SUFFIX,bird.brondby.com
+  - DOMAIN-SUFFIX,blackbird.westboroughcovidplan.com
+  - DOMAIN-SUFFIX,bobcat.snapshooter.io
+  - DOMAIN-SUFFIX,butterfly.rfortherestofus.com
+  - DOMAIN-SUFFIX,dolphin.biodom.rs
+  - DOMAIN-SUFFIX,echidna.honeybadger.io
+  - DOMAIN-SUFFIX,eel.transistor.fm
+  - DOMAIN-SUFFIX,elk.jonsully.net
+  - DOMAIN-SUFFIX,epfykmaw.opencagedata.com
+  - DOMAIN-SUFFIX,goat.codeofar.ms
+  - DOMAIN-SUFFIX,goose.joelclermont.com
+  - DOMAIN-SUFFIX,grouse.textile.io
+  - DOMAIN-SUFFIX,horse.ohseemedia.com
+  - DOMAIN-SUFFIX,horse.zwei-bags.com
+  - DOMAIN-SUFFIX,jaguar.stevenharman.net
+  - DOMAIN-SUFFIX,kaxlfq.testingwithtestcafe.com
+  - DOMAIN-SUFFIX,kite.open-contracting.org
+  - DOMAIN-SUFFIX,koi.omnimove.health
+  - DOMAIN-SUFFIX,krill.jorijn.com
+  - DOMAIN-SUFFIX,ks42zt.spec.fm
+  - DOMAIN-SUFFIX,ladybug.paulstovell.com
+  - DOMAIN-SUFFIX,landfowl.worldeventsandthebible.com
+  - DOMAIN-SUFFIX,llama.growthinkers.nl
+  - DOMAIN-SUFFIX,louse.sigle.io
+  - DOMAIN-SUFFIX,marmot.theshootingcentre.com
+  - DOMAIN-SUFFIX,pa5xjc.m1guelpf.me
+  - DOMAIN-SUFFIX,peafowl.projectstrackt.dev
+  - DOMAIN-SUFFIX,pelican.protomaps.com
+  - DOMAIN-SUFFIX,porcupine.dvresolve.com
+  - DOMAIN-SUFFIX,spermwhale.thankbox.co
+  - DOMAIN-SUFFIX,squirrel.dynablogger.com
+  - DOMAIN-SUFFIX,uktgg.dev-tester.com
+  - DOMAIN-SUFFIX,vampirebat.sharpend.io
+  - DOMAIN-SUFFIX,vulture.downzeroky.com
+  - DOMAIN-SUFFIX,wallaby.short1.link
+  - DOMAIN-SUFFIX,aardwolf.bazaartracker.com
+  - DOMAIN-SUFFIX,alpaca.reclaimthenet.org
+  - DOMAIN-SUFFIX,alpaca.thesocialmedwork.com
+  - DOMAIN-SUFFIX,alpaca.wingmantracker.com
+  - DOMAIN-SUFFIX,angelfish.owlbear.rodeo
+  - DOMAIN-SUFFIX,ant.prefinery.com
+  - DOMAIN-SUFFIX,armadillo.gothiacup.se
+  - DOMAIN-SUFFIX,armadillo.stacking.club
+  - DOMAIN-SUFFIX,beaver.brush.ninja
+  - DOMAIN-SUFFIX,bison.weitweit.at
+  - DOMAIN-SUFFIX,bluejay.twelve70.com
+  - DOMAIN-SUFFIX,boar.indieweb.org
+  - DOMAIN-SUFFIX,bobcat.floriangaechter.com
+  - DOMAIN-SUFFIX,boom.laravel.io
+  - DOMAIN-SUFFIX,bovid.neural.love
+  - DOMAIN-SUFFIX,butterfly.scottspence.com
+  - DOMAIN-SUFFIX,caribou.color.io
+  - DOMAIN-SUFFIX,cat.gfx.io
+  - DOMAIN-SUFFIX,cat.laravel-news.com
+  - DOMAIN-SUFFIX,cattle.apisyouwonthate.com
+  - DOMAIN-SUFFIX,cattle.kumo.at
+  - DOMAIN-SUFFIX,cephalopod.polymath.net
+  - DOMAIN-SUFFIX,cheetah.songrender.com
+  - DOMAIN-SUFFIX,chinchilla.68keys.io
+  - DOMAIN-SUFFIX,coral.doublefine.com
+  - DOMAIN-SUFFIX,coyote.titlerun.xyz
+  - DOMAIN-SUFFIX,crayfish.fansubbing.com
+  - DOMAIN-SUFFIX,cuckoo.minaexplorer.com
+  - DOMAIN-SUFFIX,dakqbwpduu.coywolf.io
+  - DOMAIN-SUFFIX,dolphin.maybe.co
+  - DOMAIN-SUFFIX,donkey.masteringfinland.com
+  - DOMAIN-SUFFIX,donkey.routinehub.co
+  - DOMAIN-SUFFIX,dragonfly.filmmakerfreedom.com
+  - DOMAIN-SUFFIX,eel.aware7.de
+  - DOMAIN-SUFFIX,eel.beekeeperstudio.io
+  - DOMAIN-SUFFIX,emu.balsa.com
+  - DOMAIN-SUFFIX,emu.pin13.net
+  - DOMAIN-SUFFIX,falcon.nutsandboltsmedia.com
+  - DOMAIN-SUFFIX,flyingfish.jak-zrobic-strone.pl
+  - DOMAIN-SUFFIX,fox.visionaudiovisual.com
+  - DOMAIN-SUFFIX,gerbil.buf.build
+  - DOMAIN-SUFFIX,goldfish.shingle.fi
+  - DOMAIN-SUFFIX,goose.pooltogether.com
+  - DOMAIN-SUFFIX,guan.domainnamesanity.com
+  - DOMAIN-SUFFIX,hawk.makroskop.eu
+  - DOMAIN-SUFFIX,hedgehog.fightforthefuture.org
+  - DOMAIN-SUFFIX,heron.notability.com
+  - DOMAIN-SUFFIX,horse.adventurousmachines.com
+  - DOMAIN-SUFFIX,horse.rmrk.app
+  - DOMAIN-SUFFIX,hoverfly.dailyblocks.tv
+  - DOMAIN-SUFFIX,iamej24d.brianlovin.com
+  - DOMAIN-SUFFIX,ijderu.tr.af
+  - DOMAIN-SUFFIX,kiwi.railway.app
+  - DOMAIN-SUFFIX,koala.getslopes.com
+  - DOMAIN-SUFFIX,kxmye.event1.io
+  - DOMAIN-SUFFIX,limpet.padbury.app
+  - DOMAIN-SUFFIX,lion.kusama.network
+  - DOMAIN-SUFFIX,llama.moodgym.com.au
+  - DOMAIN-SUFFIX,louse.messengo.com
+  - DOMAIN-SUFFIX,lungfish.datadividendproject.com
+  - DOMAIN-SUFFIX,mammal.haglund.dev
+  - DOMAIN-SUFFIX,mammal.polkadot.network
+  - DOMAIN-SUFFIX,mastodon.thoughtbot.com
+  - DOMAIN-SUFFIX,meerkat.inprivy.io
+  - DOMAIN-SUFFIX,mollusk.saferingz.com
+  - DOMAIN-SUFFIX,moth.artsmia.org
+  - DOMAIN-SUFFIX,mouse.voyagefuneralhomes.com
+  - DOMAIN-SUFFIX,mule.caddyserver.com
+  - DOMAIN-SUFFIX,noapr1lsed.solo.to
+  - DOMAIN-SUFFIX,panther.datocms.com
+  - DOMAIN-SUFFIX,panther.hoprnet.org
+  - DOMAIN-SUFFIX,panther.pit-pit.com
+  - DOMAIN-SUFFIX,parrot.matcha.xyz
+  - DOMAIN-SUFFIX,penguin.craftpeak.io
+  - DOMAIN-SUFFIX,perch.searchwp.com
+  - DOMAIN-SUFFIX,pheasant.cadbooster.com
+  - DOMAIN-SUFFIX,pheasant.facetwp.com
+  - DOMAIN-SUFFIX,porpoise.azettl.net
+  - DOMAIN-SUFFIX,primate.builds.gg
+  - DOMAIN-SUFFIX,puffin.geocode.earth
+  - DOMAIN-SUFFIX,reindeer.cablemod.com
+  - DOMAIN-SUFFIX,rodent.kubernetesreadme.com
+  - DOMAIN-SUFFIX,salamander.heydesigner.com
+  - DOMAIN-SUFFIX,scorpion.byteside.com
+  - DOMAIN-SUFFIX,smelt.validator.pizza
+  - DOMAIN-SUFFIX,snake.kiramclean.com
+  - DOMAIN-SUFFIX,spider.chrisshort.net
+  - DOMAIN-SUFFIX,squirrel.laravel-mix.com
+  - DOMAIN-SUFFIX,stingray.cryptovoxels.com
+  - DOMAIN-SUFFIX,stoat.death-to-ie11.com
+  - DOMAIN-SUFFIX,swallow.pelias.io
+  - DOMAIN-SUFFIX,swift.jos.ht
+  - DOMAIN-SUFFIX,swordfish.sneakerdistrict.com
+  - DOMAIN-SUFFIX,swordtail.animeuknews.net
+  - DOMAIN-SUFFIX,swordtail.thocstock.com
+  - DOMAIN-SUFFIX,tahr.rasen.dev
+  - DOMAIN-SUFFIX,tiglon.beyondco.de
+  - DOMAIN-SUFFIX,toad.frontendmentor.io
+  - DOMAIN-SUFFIX,toad.kubenews.net
+  - DOMAIN-SUFFIX,vole.noteapps.info
+  - DOMAIN-SUFFIX,wallaby.cron.help
+  - DOMAIN-SUFFIX,waterboa.brooks.page
+  - DOMAIN-SUFFIX,waterboa.midu.dev
+  - DOMAIN-SUFFIX,whitefish.finanzritter.com
+  - DOMAIN-SUFFIX,wildcat.codesalt.io
+  - DOMAIN-SUFFIX,worm.paulstamatiou.com
+  - DOMAIN-SUFFIX,worm.usephantom.com
+  - DOMAIN-SUFFIX,ycpkuophoy.vole.wtf
   - DOMAIN-SUFFIX,favor1.fractal.jp
   - DOMAIN-SUFFIX,newssuite.sony.net
   - DOMAIN-SUFFIX,d.image-ad.jp
