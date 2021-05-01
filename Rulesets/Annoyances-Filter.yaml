@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,puffypull.com
   - DOMAIN-SUFFIX,copperchickens.com
   - DOMAIN-SUFFIX,ttauri.toptenreviews.com
+  - DOMAIN-SUFFIX,up-cookiemon.wavecdn.net
   - DOMAIN-SUFFIX,cdn.privacytools.com.br
   - DOMAIN-SUFFIX,goadopt.io
   - DOMAIN-SUFFIX,traceprof.com
@@ -90,7 +91,7 @@ payload:
   - DOMAIN-SUFFIX,metomic.io
   - DOMAIN-SUFFIX,privacy-center.org
   - DOMAIN-SUFFIX,cmp.dmgmediaprivacy.co.uk
-  - DOMAIN-SUFFIX,policy.cookieinformation.com
+  - DOMAIN-SUFFIX,policy*.cookieinformation.com
   - DOMAIN-SUFFIX,consent.truste.com
   - DOMAIN-SUFFIX,iubenda.com
   - DOMAIN-SUFFIX,r42tag.com

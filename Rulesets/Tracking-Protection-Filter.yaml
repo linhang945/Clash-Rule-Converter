@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,analytics.omniscientai.com
+  - DOMAIN-SUFFIX,omnitag.omniscientai.com
   - DOMAIN-SUFFIX,backend.turtlemobile.com.tw
   - DOMAIN-SUFFIX,batmobile.com.tw
   - DOMAIN-SUFFIX,analytik.xyz
@@ -4128,6 +4130,7 @@ payload:
   - DOMAIN-SUFFIX,metrika.lookmovie.io
   - DOMAIN-SUFFIX,s.deepl.com
   - DOMAIN-SUFFIX,clicks.wawlabs.com
+  - DOMAIN-SUFFIX,collector.wawlabs.com
   - DOMAIN-SUFFIX,stat.5-tv.ru
   - DOMAIN-SUFFIX,log.zingnews.vn
   - DOMAIN-SUFFIX,logcol.kyobobook.co.kr
