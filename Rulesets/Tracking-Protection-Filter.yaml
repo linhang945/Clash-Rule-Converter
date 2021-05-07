@@ -6,6 +6,10 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,t.afi-b.com
+  - DOMAIN-SUFFIX,newrrb.bid
+  - DOMAIN-SUFFIX,plavxml.com
+  - DOMAIN-SUFFIX,socketviking.net
   - DOMAIN-SUFFIX,analytics.omniscientai.com
   - DOMAIN-SUFFIX,omnitag.omniscientai.com
   - DOMAIN-SUFFIX,backend.turtlemobile.com.tw
@@ -62,6 +66,7 @@ payload:
   - DOMAIN-SUFFIX,shopback.net
   - DOMAIN-SUFFIX,shopconvert.com.br
   - DOMAIN-SUFFIX,neemu.com
+  - DOMAIN-SUFFIX,ping.staticmoly.me
   - DOMAIN-SUFFIX,prod-sb-appanalytics-us1.servicebus.windows.net
   - DOMAIN-SUFFIX,mci1.co.kr
   - DOMAIN-SUFFIX,analytics.sitewit.com
@@ -4230,7 +4235,6 @@ payload:
   - DOMAIN-SUFFIX,counter.web.money
   - DOMAIN-SUFFIX,stat.videonow.ru
   - DOMAIN-SUFFIX,insight.bellmetric.net
-  - DOMAIN-SUFFIX,t.afi-b.com
   - DOMAIN-SUFFIX,tag.cribnotes.jp
   - DOMAIN-SUFFIX,clientlog.midomi.com
   - DOMAIN-SUFFIX,t.webjavaskript.net
