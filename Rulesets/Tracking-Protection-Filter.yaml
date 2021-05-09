@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,logger.co.kr
   - DOMAIN-SUFFIX,t.afi-b.com
   - DOMAIN-SUFFIX,newrrb.bid
   - DOMAIN-SUFFIX,plavxml.com
@@ -1907,7 +1908,6 @@ payload:
   - DOMAIN-SUFFIX,logdy.com
   - DOMAIN-SUFFIX,logentries.com
   - DOMAIN-SUFFIX,loger.ru
-  - DOMAIN-SUFFIX,trk*.logger.co.kr
   - DOMAIN-SUFFIX,loggly.com
   - DOMAIN-SUFFIX,lognormal.net
   - DOMAIN-SUFFIX,logua.com
@@ -4112,6 +4112,11 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.shufoo.net
+  - DOMAIN-SUFFIX,logcollect.totalcms.ncloud.or.kr
+  - DOMAIN-SUFFIX,discovery.newspic.kr
+  - DOMAIN-SUFFIX,discovery-script.newspic.kr
+  - DOMAIN-SUFFIX,rake.11st.co.kr
   - DOMAIN-SUFFIX,log.ajunews.com
   - DOMAIN-SUFFIX,dsb.yahoo.co.jp
   - DOMAIN-SUFFIX,pac.thetimes.co.uk
@@ -14348,6 +14353,7 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,usertrack.appcpi.net
   - DOMAIN-SUFFIX,api*.amplitude.com
   - DOMAIN-SUFFIX,conversions.appsflyer.com
   - DOMAIN-SUFFIX,collect.serious.li
