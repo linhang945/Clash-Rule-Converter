@@ -6,6 +6,10 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,stats.fomo.com
+  - DOMAIN-SUFFIX,aghtag.tech
+  - DOMAIN-SUFFIX,monitor.azure.com
+  - DOMAIN-SUFFIX,static.herr.io
   - DOMAIN-SUFFIX,cli2020.com
   - DOMAIN-SUFFIX,logger.co.kr
   - DOMAIN-SUFFIX,t.afi-b.com
@@ -51,6 +55,7 @@ payload:
   - DOMAIN-SUFFIX,oeqirr.com
   - DOMAIN-SUFFIX,cbdatatracker.com
   - DOMAIN-SUFFIX,hktracker.hankookilbo.com
+  - DOMAIN-SUFFIX,user-stats.rbl.ms
   - DOMAIN-SUFFIX,pages-stats.rbl.ms
   - DOMAIN-SUFFIX,res.rbl.ms
   - DOMAIN-SUFFIX,hubble.netease.com
@@ -4113,6 +4118,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,collector.rn.de
+  - DOMAIN-SUFFIX,l.da-te.jp
   - DOMAIN-SUFFIX,log.shufoo.net
   - DOMAIN-SUFFIX,logcollect.totalcms.ncloud.or.kr
   - DOMAIN-SUFFIX,discovery.newspic.kr
