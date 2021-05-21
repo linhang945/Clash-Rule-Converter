@@ -6,6 +6,17 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,rum.conde.io
+  - DOMAIN-SUFFIX,ana.mediable.info
+  - DOMAIN-SUFFIX,campaigns-collector.albacross.com
+  - DOMAIN-SUFFIX,new-collect.albacross.com
+  - DOMAIN-SUFFIX,pv.kuaizhan.com
+  - DOMAIN-SUFFIX,eventsapi.grocerkey.com
+  - DOMAIN-SUFFIX,dc-tag.jp
+  - DOMAIN-SUFFIX,kitchen.juicer.cc
+  - DOMAIN-SUFFIX,t.beop.io
+  - DOMAIN-SUFFIX,contents-tracking.beop.io
+  - DOMAIN-SUFFIX,bc.ad.daum.net
   - DOMAIN-SUFFIX,docomo-analytics.com
   - DOMAIN-SUFFIX,stats.fomo.com
   - DOMAIN-SUFFIX,aghtag.tech
@@ -4121,6 +4132,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.atlassian.com
   - DOMAIN-SUFFIX,trackdb.go3.tv
   - DOMAIN-SUFFIX,collector.rn.de
   - DOMAIN-SUFFIX,l.da-te.jp
@@ -14564,6 +14576,8 @@ payload:
   - DOMAIN-SUFFIX,do-not-tracker.org
   - DOMAIN-SUFFIX,eviltracker.net
   - DOMAIN-SUFFIX,trackersimulator.org
+  - DOMAIN-SUFFIX,track.*.roku.com
+  - DOMAIN-SUFFIX,traces.sr.roku.com
   - DOMAIN-SUFFIX,analytics.kidoz.net
   - DOMAIN-SUFFIX,track.tenjin.com
   - DOMAIN-SUFFIX,tracker.mtrtb.com
@@ -14600,6 +14614,7 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,telemetry.voxeet.com
   - DOMAIN-SUFFIX,usertrack.appcpi.net
   - DOMAIN-SUFFIX,api*.amplitude.com
   - DOMAIN-SUFFIX,conversions.appsflyer.com
