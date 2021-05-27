@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,didna.io
   - DOMAIN-SUFFIX,solutionshindsight.net
   - DOMAIN-SUFFIX,d.wi-fi.ru
+  - DOMAIN-SUFFIX,simpleanalyticscdn.com
   - DOMAIN-SUFFIX,api.ipdata.co
   - DOMAIN-SUFFIX,instapagemetrics.com
   - DOMAIN-SUFFIX,mas.protecmedia.com
@@ -4142,6 +4143,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,datalytics.utair.io
   - DOMAIN-SUFFIX,appsanalytics.appideas.it
   - DOMAIN-SUFFIX,api-adservices.apple.com
   - DOMAIN-SUFFIX,analytics.atlassian.com
@@ -15434,6 +15436,10 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,umengcloud.com.gds.alibabadns.com
+  - DOMAIN-SUFFIX,umeng.com.gds.alibabadns.com
+  - DOMAIN-SUFFIX,umengjmacs.m.taobao.com
+  - DOMAIN-SUFFIX,umengacs.m.taobao.com
   - DOMAIN-SUFFIX,sdk-api-v1.singular.net
   - DOMAIN-SUFFIX,analytics-api.liveapp.com
   - DOMAIN-SUFFIX,telemetry.voxeet.com
