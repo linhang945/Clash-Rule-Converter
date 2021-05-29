@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
+  - DOMAIN-SUFFIX,log.codemarketing.cloud
+  - DOMAIN-SUFFIX,tracker.relaido.jp
   - DOMAIN-SUFFIX,bdash-cloud.com
   - DOMAIN-SUFFIX,analytics.fs-bdash.com
   - DOMAIN-SUFFIX,api.limbik.com
@@ -4143,6 +4145,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,track.eadv.it
   - DOMAIN-SUFFIX,datalytics.utair.io
   - DOMAIN-SUFFIX,appsanalytics.appideas.it
   - DOMAIN-SUFFIX,api-adservices.apple.com
