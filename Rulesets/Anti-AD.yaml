@@ -1,8 +1,8 @@
 payload:
 #TITLE=anti-AD
-#VER=20210529120438
+#VER=20210530184814
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=42544
+#TOTAL_LINES=42542
   - DOMAIN-SUFFIX,00-gov.cn
   - DOMAIN-SUFFIX,kwcdn.000dn.com
   - DOMAIN-SUFFIX,kwcscdn.000dn.com
@@ -9323,7 +9323,6 @@ payload:
   - DOMAIN-SUFFIX,p2sdmkj6t.bkt.clouddn.com
   - DOMAIN-SUFFIX,metrics.cloudera.com
   - DOMAIN-SUFFIX,cloudflane.com
-  - DOMAIN-SUFFIX,www.supportxmr.com.cdn.cloudflare.net
   - DOMAIN-SUFFIX,cloudflare.solutions
   - DOMAIN-SUFFIX,cloudflareinsights.com
   - DOMAIN-SUFFIX,d10gj7yjsfriaj.cloudfront.net
@@ -34649,7 +34648,6 @@ payload:
   - DOMAIN-SUFFIX,supplyglossailment.com
   - DOMAIN-SUFFIX,te.supportfreecontent.com
   - DOMAIN-SUFFIX,supportiveimpassableevasion.com
-  - DOMAIN-SUFFIX,supportxmr.com
   - DOMAIN-SUFFIX,supremish.club
   - DOMAIN-SUFFIX,suptaibo.com
   - DOMAIN-SUFFIX,supuv2.com
