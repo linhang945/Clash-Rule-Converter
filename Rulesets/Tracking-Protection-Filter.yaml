@@ -4,6 +4,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,reingod.com
+  - DOMAIN-SUFFIX,pbjs.sskzlabs.com
+  - DOMAIN-SUFFIX,mediarithmics.com
+  - DOMAIN-SUFFIX,ivitrack.com
+  - DOMAIN-SUFFIX,prisma-tr.prismamedia.com
+  - DOMAIN-SUFFIX,pandg.tapad.com
   - DOMAIN-SUFFIX,track.list-finder.jp
   - DOMAIN-SUFFIX,inaftracker.com
   - DOMAIN-SUFFIX,log.codemarketing.cloud
@@ -157,8 +163,6 @@ payload:
   - DOMAIN-SUFFIX,adsmetadata.startappk8s.com
   - DOMAIN-SUFFIX,counter.yandro.ru
   - DOMAIN-SUFFIX,track-aws.notsy.io
-  - DOMAIN-SUFFIX,cdn.notsy.io
-  - DOMAIN-SUFFIX,cdn-b.notsy.io
   - DOMAIN-SUFFIX,track.notsy.io
   - DOMAIN-SUFFIX,log.ca.gov.vn
   - DOMAIN-SUFFIX,tracking.gpm-rtv.ru
@@ -3132,6 +3136,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,livelylaugh.com
   - DOMAIN-SUFFIX,hystericalcloth.com
   - DOMAIN-SUFFIX,caringcast.com
   - DOMAIN-SUFFIX,selfishsnake.com
@@ -4146,6 +4151,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,fly.ohmymag.com
+  - DOMAIN-SUFFIX,fly.gentside.com
   - DOMAIN-SUFFIX,tr.namu.wiki
   - DOMAIN-SUFFIX,track.eadv.it
   - DOMAIN-SUFFIX,datalytics.utair.io
@@ -4341,7 +4348,6 @@ payload:
   - DOMAIN-SUFFIX,d2u1npnnqecmpq.cloudfront.net
   - DOMAIN-SUFFIX,beam.remp.impresa.pt
   - DOMAIN-SUFFIX,d2wlwbnaa4keje.cloudfront.net
-  - DOMAIN-SUFFIX,api.mediarithmics.com
   - DOMAIN-SUFFIX,d5etv3akk3gsa.cloudfront.net
   - DOMAIN-SUFFIX,tracker.thinkindot.com
   - DOMAIN-SUFFIX,ttauri.laptopmag.com
@@ -4395,8 +4401,6 @@ payload:
   - DOMAIN-SUFFIX,track.effitarget.com
   - DOMAIN-SUFFIX,krum.vsct.fr
   - DOMAIN-SUFFIX,tracking.oui.sncf
-  - DOMAIN-SUFFIX,events.mediarithmics.com
-  - DOMAIN-SUFFIX,cookie-matching.mediarithmics.com
   - DOMAIN-SUFFIX,engagefront.theweathernetwork.com
   - DOMAIN-SUFFIX,d2dq2ahtl5zl1z.cloudfront.net
   - DOMAIN-SUFFIX,d18p8z0ptb8qab.cloudfront.net
@@ -15457,6 +15461,9 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
+  - DOMAIN-SUFFIX,log.avlyun.com
+  - DOMAIN-SUFFIX,api-analytics.prod.birdapp.com
   - DOMAIN-SUFFIX,mpianalytics.com
   - DOMAIN-SUFFIX,umengcloud.com.gds.alibabadns.com
   - DOMAIN-SUFFIX,umeng.com.gds.alibabadns.com
