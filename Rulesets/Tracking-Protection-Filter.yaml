@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,beacon.digima.com
+  - DOMAIN-SUFFIX,ac.miovp.com
   - DOMAIN-SUFFIX,quant.jp
   - DOMAIN-SUFFIX,segs.jp
   - DOMAIN-SUFFIX,n-analytics.io
@@ -4154,6 +4156,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,t.indeed.com
+  - DOMAIN-SUFFIX,track.elpais.com.uy
   - DOMAIN-SUFFIX,pixel.nur.kz
   - DOMAIN-SUFFIX,analytics.maileon.com
   - DOMAIN-SUFFIX,logs.51cto.com
