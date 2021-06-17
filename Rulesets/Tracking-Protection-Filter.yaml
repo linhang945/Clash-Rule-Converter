@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,srmdata.com
+  - DOMAIN-SUFFIX,eu.groupondata.com
   - DOMAIN-SUFFIX,beacon.digima.com
   - DOMAIN-SUFFIX,ac.miovp.com
   - DOMAIN-SUFFIX,quant.jp
@@ -15677,6 +15679,7 @@ payload:
   - DOMAIN-SUFFIX,api.appsee.com
   - DOMAIN-SUFFIX,api.apptentive.com
   - DOMAIN-SUFFIX,api.branch.io
+  - DOMAIN-SUFFIX,api2.branch.io
   - DOMAIN-SUFFIX,api.crittercism.com
   - DOMAIN-SUFFIX,rubick.gameanalytics.com
   - DOMAIN-SUFFIX,api.gameanalytics.com
