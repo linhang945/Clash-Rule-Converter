@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,b90.yahoo.co.jp
   - DOMAIN-SUFFIX,mc-ya.ru
   - DOMAIN-SUFFIX,srmdata.com
   - DOMAIN-SUFFIX,eu.groupondata.com
@@ -4159,6 +4160,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,bc.nhk.jp
   - DOMAIN-SUFFIX,t.simply-hentai.com
   - DOMAIN-SUFFIX,track.nzz.ch
   - DOMAIN-SUFFIX,t.indeed.com
