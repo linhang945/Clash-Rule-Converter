@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,kilometrix.de
+  - DOMAIN-SUFFIX,calameo-beacon.global.ssl.fastly.net
   - DOMAIN-SUFFIX,channel-analysis-js.gmw.cn
   - DOMAIN-SUFFIX,kaiseki-website.com
   - DOMAIN-SUFFIX,site-kaiseki-tool.com
@@ -4170,6 +4172,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,p.gm99.com
   - DOMAIN-SUFFIX,pixel.inforsea.com
   - DOMAIN-SUFFIX,l.niiblo.jp
   - DOMAIN-SUFFIX,events.sd-nbb.de
@@ -4291,7 +4294,6 @@ payload:
   - DOMAIN-SUFFIX,geo.mattel163.com
   - DOMAIN-SUFFIX,tc-log.mattel163.com
   - DOMAIN-SUFFIX,metrics.api.yle.fi
-  - DOMAIN-SUFFIX,analytics-sdk.yle.fi
   - DOMAIN-SUFFIX,events-api*.outfit7.com
   - DOMAIN-SUFFIX,events.emogi.com
   - DOMAIN-SUFFIX,log.ohmynews.com
