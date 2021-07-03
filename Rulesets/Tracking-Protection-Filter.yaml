@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,aspservice.jp
   - DOMAIN-SUFFIX,kilometrix.de
   - DOMAIN-SUFFIX,calameo-beacon.global.ssl.fastly.net
   - DOMAIN-SUFFIX,channel-analysis-js.gmw.cn
@@ -4172,9 +4173,22 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,l.ffsagami.com
+  - DOMAIN-SUFFIX,l.hamazo.tv
+  - DOMAIN-SUFFIX,l.ikora.tv
+  - DOMAIN-SUFFIX,l.junglekouen.com
+  - DOMAIN-SUFFIX,l.kyo2.jp
+  - DOMAIN-SUFFIX,l.miyachan.cc
+  - DOMAIN-SUFFIX,l.namjai.cc
+  - DOMAIN-SUFFIX,l.naturum.ne.jp
+  - DOMAIN-SUFFIX,l.niiblo.jp
+  - DOMAIN-SUFFIX,l.osakazine.net
+  - DOMAIN-SUFFIX,l.sagafan.jp
+  - DOMAIN-SUFFIX,l.tamaliver.jp
+  - DOMAIN-SUFFIX,l.tenkomori.tv
+  - DOMAIN-SUFFIX,l.ti-da.net
   - DOMAIN-SUFFIX,p.gm99.com
   - DOMAIN-SUFFIX,pixel.inforsea.com
-  - DOMAIN-SUFFIX,l.niiblo.jp
   - DOMAIN-SUFFIX,events.sd-nbb.de
   - DOMAIN-SUFFIX,d2uhnetoehh304.cloudfront.net
   - DOMAIN-SUFFIX,c.sibnet.ru
@@ -15086,7 +15100,6 @@ payload:
   - DOMAIN-SUFFIX,plbslog.umeng.com
   - DOMAIN-SUFFIX,analysys.cn
   - DOMAIN-SUFFIX,logs.supersonic.com
-  - DOMAIN-SUFFIX,datacollector-*.dt.hicloud.com
   - DOMAIN-SUFFIX,app-analytics-ru.huami.com
   - DOMAIN-SUFFIX,metrics.spbtv.com
   - DOMAIN-SUFFIX,android-stat.acestream.net
@@ -15113,6 +15126,11 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,analytics-ingestion.production-public.tubi.io
+  - DOMAIN-SUFFIX,pingtas.qq.com
+  - DOMAIN-SUFFIX,alogus.umeng.com
+  - DOMAIN-SUFFIX,errlogos.umeng.com
+  - DOMAIN-SUFFIX,datacollector-*.dt.hicloud.com
   - DOMAIN-SUFFIX,tenant-content.apm.appfolio-analytics.com
   - DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
   - DOMAIN-SUFFIX,log.avlyun.com
