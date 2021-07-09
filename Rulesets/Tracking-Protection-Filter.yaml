@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,trace21.dsb-ebusiness.com
+  - DOMAIN-SUFFIX,adjust.com
   - DOMAIN-SUFFIX,a.ddli.jp
   - DOMAIN-SUFFIX,b92.yahoo.co.jp
   - DOMAIN-SUFFIX,cf-native.karte.io
@@ -16113,6 +16115,8 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,us04logfiles.zoom.us
+  - DOMAIN-SUFFIX,us04logfiles-va.zoom.us
   - DOMAIN-SUFFIX,costco-adbutler.com
   - DOMAIN-SUFFIX,adbutler.costco.com
   - DOMAIN-SUFFIX,wompanalytics.azurewebsites.net
