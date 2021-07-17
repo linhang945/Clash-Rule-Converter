@@ -4,6 +4,13 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,wtstats.ro
+  - DOMAIN-SUFFIX,sync.bumlam.com
+  - DOMAIN-SUFFIX,static.terratraf.io
+  - DOMAIN-SUFFIX,static.user-red.com
+  - DOMAIN-SUFFIX,b0e8.com
+  - DOMAIN-SUFFIX,bc0a.com
+  - DOMAIN-SUFFIX,medtargetsystem.com
   - DOMAIN-SUFFIX,events.tubecup.org
   - DOMAIN-SUFFIX,rat.rakuten.co.jp
   - DOMAIN-SUFFIX,requestmetrics.com
@@ -4200,6 +4207,11 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ichnaea-web.netflix.com
+  - DOMAIN-SUFFIX,customerevents.netflix.com
+  - DOMAIN-SUFFIX,nmtracking.netflix.com
+  - DOMAIN-SUFFIX,presentationtracking.netflix.com
+  - DOMAIN-SUFFIX,analytics.tmonews.com
   - DOMAIN-SUFFIX,segment-cdn.producthunt.com
   - DOMAIN-SUFFIX,logs.gaana.com
   - DOMAIN-SUFFIX,track.searchiq.co
