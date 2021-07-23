@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,restisbench.com
+  - DOMAIN-SUFFIX,events.tremorhub.com
+  - DOMAIN-SUFFIX,cdn.trackclicks.info
   - DOMAIN-SUFFIX,mm.actionlink.jp
   - DOMAIN-SUFFIX,btloader.com
   - DOMAIN-SUFFIX,tracklog.58.com
@@ -4214,6 +4217,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,klik.nrc.nl
+  - DOMAIN-SUFFIX,uie.data.cbc.ca
+  - DOMAIN-SUFFIX,ub.finanzfrage.net
+  - DOMAIN-SUFFIX,slike.indiatimes.com
   - DOMAIN-SUFFIX,smetrics.foxnews.com
   - DOMAIN-SUFFIX,ichnaea-web.netflix.com
   - DOMAIN-SUFFIX,customerevents.netflix.com
