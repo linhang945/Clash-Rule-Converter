@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,fastly-insights.com
   - DOMAIN-SUFFIX,restisbench.com
   - DOMAIN-SUFFIX,events.tremorhub.com
   - DOMAIN-SUFFIX,cdn.trackclicks.info
@@ -12767,7 +12768,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.rover.io
   - DOMAIN-SUFFIX,events-collector-api.viacom.tech
   - DOMAIN-SUFFIX,self.events.data.microsoft.com
-  - DOMAIN-SUFFIX,events.data.microsoft.com
   - DOMAIN-SUFFIX,pipe.aria.microsoft.com
   - DOMAIN-SUFFIX,log-api.aillis.net
   - DOMAIN-SUFFIX,log.snow.me
