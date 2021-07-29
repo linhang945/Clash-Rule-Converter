@@ -4,6 +4,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.core.retell.cc
+  - DOMAIN-SUFFIX,powerbiz.co
+  - DOMAIN-SUFFIX,tag.search.sensefuel.live
+  - DOMAIN-SUFFIX,api.dataunlocker.com
+  - DOMAIN-SUFFIX,microanalytics.io
   - DOMAIN-SUFFIX,tracking.sexcash.com
   - DOMAIN-SUFFIX,fastly-insights.com
   - DOMAIN-SUFFIX,restisbench.com
@@ -4218,6 +4223,13 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d3in1te4fdays6.cloudfront.net
+  - DOMAIN-SUFFIX,tracker.cdn-moneysmart.com
+  - DOMAIN-SUFFIX,monitoring.youronlinechoices.com
+  - DOMAIN-SUFFIX,1bw7etm93lf.www.woodbrass.com
+  - DOMAIN-SUFFIX,t.imgur.com
+  - DOMAIN-SUFFIX,counter1.fc2.com
+  - DOMAIN-SUFFIX,analyzer*.fc2.com
   - DOMAIN-SUFFIX,klik.nrc.nl
   - DOMAIN-SUFFIX,uie.data.cbc.ca
   - DOMAIN-SUFFIX,ub.finanzfrage.net
@@ -4650,7 +4662,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.wetpaint.me
   - DOMAIN-SUFFIX,analytics.whatculture.com
   - DOMAIN-SUFFIX,analyze.yahooapis.com
-  - DOMAIN-SUFFIX,analyzer52.fc2.com
   - DOMAIN-SUFFIX,atax.gamespy.com
   - DOMAIN-SUFFIX,atax.gamestats.com
   - DOMAIN-SUFFIX,atax.ign.com
@@ -15510,7 +15521,6 @@ payload:
   - DOMAIN-SUFFIX,log.prezi.com
   - DOMAIN-SUFFIX,analytics-static.unister-gmbh.de
   - DOMAIN-SUFFIX,analytics.unister-gmbh.de
-  - DOMAIN-SUFFIX,analyzer*.fc2.com
   - DOMAIN-SUFFIX,b-ssl.grvcdn.com
   - DOMAIN-SUFFIX,beacon.richrelevance.com
   - DOMAIN-SUFFIX,btrace.qq.com
