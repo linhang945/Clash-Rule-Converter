@@ -4,6 +4,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,omniconvert.com
+  - DOMAIN-SUFFIX,cdn.clerk.io
+  - DOMAIN-SUFFIX,getaim.info
+  - DOMAIN-SUFFIX,analytics.monetiza.co
+  - DOMAIN-SUFFIX,repixel.co
+  - DOMAIN-SUFFIX,pubexchange.com
   - DOMAIN-SUFFIX,analytics.core.retell.cc
   - DOMAIN-SUFFIX,powerbiz.co
   - DOMAIN-SUFFIX,tag.search.sensefuel.live
@@ -4223,6 +4229,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,user-rating.burda-forward.de
   - DOMAIN-SUFFIX,d3in1te4fdays6.cloudfront.net
   - DOMAIN-SUFFIX,tracker.cdn-moneysmart.com
   - DOMAIN-SUFFIX,monitoring.youronlinechoices.com
@@ -15602,6 +15609,13 @@ payload:
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,stats-proto.pandora.com
+  - DOMAIN-SUFFIX,collector.vhx.tv
+  - DOMAIN-SUFFIX,log-tb.sgsnssdk.com
+  - DOMAIN-SUFFIX,xlog.byteoversea.com
+  - DOMAIN-SUFFIX,gecko-sg.byteoversea.com
+  - DOMAIN-SUFFIX,ug-sg.byteoversea.com
+  - DOMAIN-SUFFIX,log.byteoversea.com
   - DOMAIN-SUFFIX,tracking.aldi-international.com
   - DOMAIN-SUFFIX,direct-collect.dy-api.com
   - DOMAIN-SUFFIX,direct-collect.dy-api.eu
@@ -15856,7 +15870,6 @@ payload:
   - DOMAIN-SUFFIX,flurry.agentportal-*.yahoodns.net
   - DOMAIN-SUFFIX,amptrack-dailymail-co-uk.cdn.ampproject.org
   - DOMAIN-SUFFIX,metrics-cbslocal-com.cdn.ampproject.org
-  - DOMAIN-SUFFIX,counter.hdvb.info
   - DOMAIN-SUFFIX,tracking-server-prod-1.zenmxapps.com
   - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,api.uca.cloud.unity3d.com
