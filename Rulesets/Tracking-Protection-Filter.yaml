@@ -4,6 +4,13 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,recs.richrelevance.com
+  - DOMAIN-SUFFIX,analytics.sqreem.com
+  - DOMAIN-SUFFIX,iper2.com
+  - DOMAIN-SUFFIX,dc.banggood.com
+  - DOMAIN-SUFFIX,p.kolplay.com
+  - DOMAIN-SUFFIX,fw-ad.jp
+  - DOMAIN-SUFFIX,venetrigni.com
   - DOMAIN-SUFFIX,smartnews-ads.com
   - DOMAIN-SUFFIX,ad3.cross-a.net
   - DOMAIN-SUFFIX,inistrack.net
@@ -4234,6 +4241,12 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,boomerang.dell.com
+  - DOMAIN-SUFFIX,fp.kakaku.com
+  - DOMAIN-SUFFIX,sysmon.kakaku.com
+  - DOMAIN-SUFFIX,cstats.sankakucomplex.com
+  - DOMAIN-SUFFIX,aem-collector.daumkakao.io
+  - DOMAIN-SUFFIX,cl.canva.com
   - DOMAIN-SUFFIX,p-events.ivideosmart.com
   - DOMAIN-SUFFIX,user-rating.burda-forward.de
   - DOMAIN-SUFFIX,d3in1te4fdays6.cloudfront.net
