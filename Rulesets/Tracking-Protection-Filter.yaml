@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cptrack.de
+  - DOMAIN-SUFFIX,collect.mxapis.com
+  - DOMAIN-SUFFIX,simility.com
   - DOMAIN-SUFFIX,recs.richrelevance.com
   - DOMAIN-SUFFIX,analytics.sqreem.com
   - DOMAIN-SUFFIX,iper2.com
@@ -2279,7 +2282,6 @@ payload:
   - DOMAIN-SUFFIX,omkt.co
   - DOMAIN-SUFFIX,on-line.lv
   - DOMAIN-SUFFIX,onefeed.co.uk
-  - DOMAIN-SUFFIX,onelink-translations.com
   - DOMAIN-SUFFIX,onestat.com
   - DOMAIN-SUFFIX,onetag-sys.com
   - DOMAIN-SUFFIX,ongsono.com
@@ -9827,7 +9829,6 @@ payload:
   - DOMAIN-SUFFIX,sadobe.falabella.com.ar
   - DOMAIN-SUFFIX,sadobe.falabella.com.co
   - DOMAIN-SUFFIX,sadobe.falabella.com.pe
-  - DOMAIN-SUFFIX,sadobeanalytics.geico.com
   - DOMAIN-SUFFIX,sadobeanalytics.medline.com
   - DOMAIN-SUFFIX,sadobemarketing.boden.co.uk
   - DOMAIN-SUFFIX,sadobemarketing.boden.eu
@@ -10361,7 +10362,6 @@ payload:
   - DOMAIN-SUFFIX,smetrics.directline.com
   - DOMAIN-SUFFIX,smetrics.directlineforbusiness.co.uk
   - DOMAIN-SUFFIX,smetrics.directv.com
-  - DOMAIN-SUFFIX,smetrics.discover.com
   - DOMAIN-SUFFIX,smetrics.dish.co
   - DOMAIN-SUFFIX,smetrics.dish.com
   - DOMAIN-SUFFIX,smetrics.dnb.com
@@ -16571,6 +16571,7 @@ payload:
   - DOMAIN-SUFFIX,stats.paypal.com
   - DOMAIN-SUFFIX,t.9gag.com
   - DOMAIN-SUFFIX,track.ad.nl
+  - DOMAIN-SUFFIX,tracker.ai.xiaomi.com
   - DOMAIN-SUFFIX,tracker.bt.uol.com.br
   - DOMAIN-SUFFIX,tracking.autoscout24.com
   - DOMAIN-SUFFIX,traveltracking.check24.de
@@ -16617,8 +16618,18 @@ payload:
   - DOMAIN-SUFFIX,stats.appsflyer.com
   - DOMAIN-SUFFIX,t.appsflyer.com
   - DOMAIN-SUFFIX,track.appsflyer.com
+  - DOMAIN-SUFFIX,mtrace.qq.com
+  - DOMAIN-SUFFIX,sngmta.qq.com
+  - DOMAIN-SUFFIX,adstats.tencentmusic.com
+  - DOMAIN-SUFFIX,monitor.music.qq.com
+  - DOMAIN-SUFFIX,stat.y.qq.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,events.tvtime.com
+  - DOMAIN-SUFFIX,smetrics.discover.com
+  - DOMAIN-SUFFIX,geico.com.ssl.sc.omtrdc.net
+  - DOMAIN-SUFFIX,sadobeanalytics.geico.com
+  - DOMAIN-SUFFIX,dit.whatsapp.net
   - DOMAIN-SUFFIX,analytics.redbubble.com
   - DOMAIN-SUFFIX,stats-sg.ganymede.eu
   - DOMAIN-SUFFIX,eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
