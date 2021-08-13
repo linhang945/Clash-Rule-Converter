@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tafrebadus.com
+  - DOMAIN-SUFFIX,unblockia.com
+  - DOMAIN-SUFFIX,connectier.io
   - DOMAIN-SUFFIX,services.bionika-digital.ru
   - DOMAIN-SUFFIX,perk0mean.com
   - DOMAIN-SUFFIX,tm.jsuol.com.br
@@ -4246,6 +4249,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,api.iterative.ly
+  - DOMAIN-SUFFIX,logger.goeuro.com
   - DOMAIN-SUFFIX,t.wizards.com
   - DOMAIN-SUFFIX,ipada.cafe.naver.com
   - DOMAIN-SUFFIX,boomerang.dell.com
