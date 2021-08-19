@@ -4,6 +4,13 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,facil-iti.com
+  - DOMAIN-SUFFIX,api.all-internet.jp
+  - DOMAIN-SUFFIX,p-analytics.life
+  - DOMAIN-SUFFIX,snowplow-collector-*.amazonaws.com
+  - DOMAIN-SUFFIX,analytics.getshogun.com
+  - DOMAIN-SUFFIX,log.gobankingrates.com
+  - DOMAIN-SUFFIX,v*.sitecounter.site
   - DOMAIN-SUFFIX,macromill.com
   - DOMAIN-SUFFIX,fh-main.measure.agilemeasure.com
   - DOMAIN-SUFFIX,analytics.cdn.live
@@ -488,7 +495,6 @@ payload:
   - DOMAIN-SUFFIX,techlab-cdn.com
   - DOMAIN-SUFFIX,realytics.net
   - DOMAIN-SUFFIX,eue.d-teknoloji.com.tr
-  - DOMAIN-SUFFIX,track.thevtk.com
   - DOMAIN-SUFFIX,track.mp3vizor.com
   - DOMAIN-SUFFIX,track.mp3bars.com
   - DOMAIN-SUFFIX,hs-scripts.com
@@ -4255,6 +4261,12 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,zion-telemetry.api.cnn.io
+  - DOMAIN-SUFFIX,collector.cdp.cnn.com
+  - DOMAIN-SUFFIX,collector-dev.cdp-dev.cnn.com
+  - DOMAIN-SUFFIX,rps-uk.rockpapershotgun.com
+  - DOMAIN-SUFFIX,d2r1yp2w7bby2u.cloudfront.net
+  - DOMAIN-SUFFIX,csm.cxpublic.com
   - DOMAIN-SUFFIX,evt.houzz.com
   - DOMAIN-SUFFIX,ttmetrics.jcpenney.com
   - DOMAIN-SUFFIX,api.iterative.ly
@@ -4290,7 +4302,7 @@ payload:
   - DOMAIN-SUFFIX,track.searchiq.co
   - DOMAIN-SUFFIX,broker.datazoom.io
   - DOMAIN-SUFFIX,dot.texastribune.org
-  - DOMAIN-SUFFIX,ping.hashnode.com
+  - DOMAIN-SUFFIX,analytics.hashnode.com
   - DOMAIN-SUFFIX,log.vava.com
   - DOMAIN-SUFFIX,beacon.samsclub.com
   - DOMAIN-SUFFIX,counter.theconversation.com
@@ -16955,6 +16967,7 @@ payload:
   - DOMAIN-SUFFIX,stat.y.qq.com
   - DOMAIN-SUFFIX,relap.io
   - DOMAIN-SUFFIX,adj.st
+  - DOMAIN-SUFFIX,metrics.sp0n.io
   - DOMAIN-SUFFIX,liveme-sensors-collect2-*.amazonaws.com
   - DOMAIN-SUFFIX,online-metrix.imars.cloud
   - DOMAIN-SUFFIX,snowplow-collector.apartmentlist.io
