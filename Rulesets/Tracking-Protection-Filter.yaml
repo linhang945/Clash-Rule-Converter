@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,ipmeta.io
   - DOMAIN-SUFFIX,datasign.co
   - DOMAIN-SUFFIX,analytics.daasrv.net
   - DOMAIN-SUFFIX,coll.v00yvd.xyz
@@ -4265,6 +4266,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,track.lobi.co
   - DOMAIN-SUFFIX,events.niit-mts.com
   - DOMAIN-SUFFIX,analytics.tripoto.com
   - DOMAIN-SUFFIX,zion-telemetry.api.cnn.io
