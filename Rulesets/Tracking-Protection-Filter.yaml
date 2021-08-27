@@ -4,12 +4,20 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,adfstat.yandex.ru
+  - DOMAIN-SUFFIX,p.altergeo.ru
+  - DOMAIN-SUFFIX,analytics.mlstatic.com
+  - DOMAIN-SUFFIX,api.carrottrack.io
+  - DOMAIN-SUFFIX,collector-*.tvsquared.com
+  - DOMAIN-SUFFIX,collectorj.tvsquared.com
+  - DOMAIN-SUFFIX,pixelapi-*.cs.mysamba.tv
+  - DOMAIN-SUFFIX,adgrx.com
+  - DOMAIN-SUFFIX,etop.ro
   - DOMAIN-SUFFIX,ct2.kyarame.com
   - DOMAIN-SUFFIX,x8.cho-chin.com
   - DOMAIN-SUFFIX,sibulla.com
   - DOMAIN-SUFFIX,logs*.smithsonian.museum
   - DOMAIN-SUFFIX,pixel.convertize.io
-  - DOMAIN-SUFFIX,a.run.app
   - DOMAIN-SUFFIX,uz-analysis.akamaized.net
   - DOMAIN-SUFFIX,kissmetrics.io
   - DOMAIN-SUFFIX,api.rudderlabs.com

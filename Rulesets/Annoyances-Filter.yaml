@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,ext-stat.ru
   - DOMAIN-SUFFIX,mystatext.ru
+  - DOMAIN-SUFFIX,btn.createsend*.com
   - DOMAIN-SUFFIX,joinsubtext.com
   - DOMAIN-SUFFIX,activehosted.com
   - DOMAIN-SUFFIX,app.mailjet.com
@@ -114,7 +115,6 @@ payload:
   - DOMAIN-SUFFIX,r42tag.com
   - DOMAIN-SUFFIX,cookieq.com
   - DOMAIN-SUFFIX,usercentrics.eu
-  - DOMAIN-SUFFIX,consensu.org
   - DOMAIN-SUFFIX,clickio.mgr.consensu.org
   - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
   - DOMAIN-SUFFIX,quantcast.mgr.consensu.org
@@ -190,6 +190,8 @@ payload:
   - DOMAIN-SUFFIX,karuna4u.com
   - DOMAIN-SUFFIX,pushofferpro.com
   - DOMAIN-SUFFIX,leechiza.net
+  - DOMAIN-SUFFIX,push.anews.one
+  - DOMAIN-SUFFIX,api.infinario.com
   - DOMAIN-SUFFIX,mucizewus.com
   - DOMAIN-SUFFIX,lib1.biz
   - DOMAIN-SUFFIX,pushid.info
@@ -545,6 +547,8 @@ payload:
   - DOMAIN-SUFFIX,plista.com
   - DOMAIN-SUFFIX,booster.webtradecenter.com
   - DOMAIN-SUFFIX,widgets.digitalmediacommunications.com
+  - DOMAIN-SUFFIX,extraaedge.com
+  - DOMAIN-SUFFIX,cdn.reamaze.com
   - DOMAIN-SUFFIX,tidiochat.com
   - DOMAIN-SUFFIX,widget.teletype.app
   - DOMAIN-SUFFIX,userlike.com
