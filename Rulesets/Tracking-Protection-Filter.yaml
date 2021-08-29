@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,adfstat.yandex.ru
+  - DOMAIN-SUFFIX,ct2.sarashi.com
+  - DOMAIN-SUFFIX,tracking.affiliateclub.cz
   - DOMAIN-SUFFIX,p.altergeo.ru
   - DOMAIN-SUFFIX,analytics.mlstatic.com
   - DOMAIN-SUFFIX,api.carrottrack.io
@@ -861,7 +863,6 @@ payload:
   - DOMAIN-SUFFIX,cdntrf.com
   - DOMAIN-SUFFIX,sentifi.com
   - DOMAIN-SUFFIX,yunit.org
-  - DOMAIN-SUFFIX,dynatrace.com
   - DOMAIN-SUFFIX,df-srv.de
   - DOMAIN-SUFFIX,speedcurve.com
   - DOMAIN-SUFFIX,auth.bz
@@ -1199,7 +1200,6 @@ payload:
   - DOMAIN-SUFFIX,blogmeetsbrand.com
   - DOMAIN-SUFFIX,blogpatrol.com
   - DOMAIN-SUFFIX,blogrankers.com
-  - DOMAIN-SUFFIX,blogranking.net
   - DOMAIN-SUFFIX,blogreaderproject.com
   - DOMAIN-SUFFIX,blogscounter.com
   - DOMAIN-SUFFIX,blogsontop.com
