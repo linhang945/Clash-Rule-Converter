@@ -4295,6 +4295,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,stats.bluebillywig.com
   - DOMAIN-SUFFIX,heartbeats.prd.data.s.joyn.de
   - DOMAIN-SUFFIX,log.strm.yandex.ru
   - DOMAIN-SUFFIX,stats.ficbook.net
