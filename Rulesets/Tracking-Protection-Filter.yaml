@@ -4,7 +4,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,goo-access-analytics.appspot.com
   - DOMAIN-SUFFIX,adfstat.yandex.ru
+  - DOMAIN-SUFFIX,ad.plus
   - DOMAIN-SUFFIX,united-infos.net
   - DOMAIN-SUFFIX,s.clickiocdn.com
   - DOMAIN-SUFFIX,event.instiengage.com
@@ -4303,6 +4305,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,t.451.io
+  - DOMAIN-SUFFIX,collector.hamsterix.cam
+  - DOMAIN-SUFFIX,tracking-api.sub100.com.br
   - DOMAIN-SUFFIX,marketinghub.zoho.eu
   - DOMAIN-SUFFIX,ma.zoho.eu
   - DOMAIN-SUFFIX,stats.bluebillywig.com
