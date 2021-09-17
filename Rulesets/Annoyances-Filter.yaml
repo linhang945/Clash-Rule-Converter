@@ -1,19 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,ext-stat.ru
   - DOMAIN-SUFFIX,mystatext.ru
-  - DOMAIN-SUFFIX,embeds.fanmatics.com
-  - DOMAIN-SUFFIX,btn.createsend*.com
-  - DOMAIN-SUFFIX,joinsubtext.com
-  - DOMAIN-SUFFIX,activehosted.com
-  - DOMAIN-SUFFIX,app.mailjet.com
-  - DOMAIN-SUFFIX,cdn.convertbox.com
-  - DOMAIN-SUFFIX,app.conversiobot.com
-  - DOMAIN-SUFFIX,sdk.getsitekit.com
-  - DOMAIN-SUFFIX,engine.findaphd.com
-  - DOMAIN-SUFFIX,alertme.news
-  - DOMAIN-SUFFIX,ipepostman.com
-  - DOMAIN-SUFFIX,wb.whatsbroadcast.com
-  - DOMAIN-SUFFIX,signup.e2ma.net
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
   - DOMAIN-SUFFIX,glisteningguide.com
@@ -549,6 +536,19 @@ payload:
   - DOMAIN-SUFFIX,banner.consultant.ru
   - DOMAIN-SUFFIX,illicium.wmtransfer.com
   - DOMAIN-SUFFIX,illicium.web.money
+  - DOMAIN-SUFFIX,embeds.fanmatics.com
+  - DOMAIN-SUFFIX,btn.createsend*.com
+  - DOMAIN-SUFFIX,joinsubtext.com
+  - DOMAIN-SUFFIX,activehosted.com
+  - DOMAIN-SUFFIX,app.mailjet.com
+  - DOMAIN-SUFFIX,cdn.convertbox.com
+  - DOMAIN-SUFFIX,app.conversiobot.com
+  - DOMAIN-SUFFIX,sdk.getsitekit.com
+  - DOMAIN-SUFFIX,engine.findaphd.com
+  - DOMAIN-SUFFIX,alertme.news
+  - DOMAIN-SUFFIX,ipepostman.com
+  - DOMAIN-SUFFIX,wb.whatsbroadcast.com
+  - DOMAIN-SUFFIX,signup.e2ma.net
   - DOMAIN-SUFFIX,belezaedieta.com
   - DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
   - DOMAIN-SUFFIX,blogroll.livedoor.net

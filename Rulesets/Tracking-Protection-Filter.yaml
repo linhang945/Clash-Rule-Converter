@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tag.contactatonce.co.uk
   - DOMAIN-SUFFIX,mxradon.com
   - DOMAIN-SUFFIX,goo-access-analytics.appspot.com
   - DOMAIN-SUFFIX,adfstat.yandex.ru
@@ -4307,6 +4308,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tim.nextinpact.com
+  - DOMAIN-SUFFIX,c*hit.zerkalo.io
   - DOMAIN-SUFFIX,log.enuri.com
   - DOMAIN-SUFFIX,t.451.io
   - DOMAIN-SUFFIX,collector.hamsterix.cam
