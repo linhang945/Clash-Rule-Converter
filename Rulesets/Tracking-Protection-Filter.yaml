@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.appsbnet.com.br
+  - DOMAIN-SUFFIX,logging.prefixbox.com
   - DOMAIN-SUFFIX,ads-website.ytsservice.com
   - DOMAIN-SUFFIX,carts.guru
   - DOMAIN-SUFFIX,analytics.pgncs.notion.so
@@ -2114,7 +2116,7 @@ payload:
   - DOMAIN-SUFFIX,losstrack.com
   - DOMAIN-SUFFIX,lpbeta.com
   - DOMAIN-SUFFIX,lporirxe.com
-  - DOMAIN-SUFFIX,lptracker.ru
+  - DOMAIN-SUFFIX,stats.lptracker.ru
   - DOMAIN-SUFFIX,lsfinteractive.com
   - DOMAIN-SUFFIX,lucidel.com
   - DOMAIN-SUFFIX,luckyorange.com
@@ -3291,6 +3293,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,fadewaves.com
   - DOMAIN-SUFFIX,breakableinsurance.com
   - DOMAIN-SUFFIX,cratecamera.com
   - DOMAIN-SUFFIX,awesomeagreement.com
