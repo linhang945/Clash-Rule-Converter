@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.kkb.com.tr
   - DOMAIN-SUFFIX,scupio.net
   - DOMAIN-SUFFIX,t.metrilo.com
   - DOMAIN-SUFFIX,eye.rd.services
@@ -357,7 +358,7 @@ payload:
   - DOMAIN-SUFFIX,4sqt6jq.de
   - DOMAIN-SUFFIX,sprocket-ping.s3.amazonaws.com
   - DOMAIN-SUFFIX,events.launchdarkly.com
-  - DOMAIN-SUFFIX,eclog*.cafe24.com
+  - DOMAIN-SUFFIX,eclog*-*.cafe24.com
   - DOMAIN-SUFFIX,tag.goadopt.io
   - DOMAIN-SUFFIX,tag.hariken.co
   - DOMAIN-SUFFIX,tracker.cauly.co.kr
