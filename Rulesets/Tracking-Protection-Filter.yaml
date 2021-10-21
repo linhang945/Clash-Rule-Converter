@@ -4,6 +4,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,fbthirdpartypixel.com
+  - DOMAIN-SUFFIX,log.lon22.com
+  - DOMAIN-SUFFIX,tracking.leeep.jp
+  - DOMAIN-SUFFIX,tracking.parte.com
   - DOMAIN-SUFFIX,permutive.app
   - DOMAIN-SUFFIX,f.sen.seg.br
   - DOMAIN-SUFFIX,stat-feedot.ru
@@ -3298,6 +3302,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,cherriescare.com
   - DOMAIN-SUFFIX,conditionchange.com
   - DOMAIN-SUFFIX,scarfsmash.com
   - DOMAIN-SUFFIX,fadewaves.com
@@ -4331,6 +4336,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.marquiz.ru
   - DOMAIN-SUFFIX,webvitals.luxnet.ua
   - DOMAIN-SUFFIX,counter24.luxnet.ua
   - DOMAIN-SUFFIX,player-telemetry.vimeo.com
