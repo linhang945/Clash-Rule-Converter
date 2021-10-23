@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,vortex.data.msn.com
+  - DOMAIN-SUFFIX,integrations.syncmedia.io
   - DOMAIN-SUFFIX,fbthirdpartypixel.com
   - DOMAIN-SUFFIX,log.lon22.com
   - DOMAIN-SUFFIX,tracking.leeep.jp
@@ -4336,6 +4338,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,track.peavoidud.com
+  - DOMAIN-SUFFIX,telemetry.malwarebytes.com
   - DOMAIN-SUFFIX,analytics.marquiz.ru
   - DOMAIN-SUFFIX,webvitals.luxnet.ua
   - DOMAIN-SUFFIX,counter24.luxnet.ua
@@ -5638,7 +5642,6 @@ payload:
   - DOMAIN-SUFFIX,pixel.roymorgan.com
   - DOMAIN-SUFFIX,bdg-analytics.appspot.com
   - DOMAIN-SUFFIX,beacon.walmart.ca
-  - DOMAIN-SUFFIX,store-stc.zdn.vn
   - DOMAIN-SUFFIX,static-ads.zaloapp.com
   - DOMAIN-SUFFIX,log.api.zaloapp.com
   - DOMAIN-SUFFIX,stc.store.page.zaloapp.com
@@ -15865,9 +15868,13 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,log.tiktokv.com
+  - DOMAIN-SUFFIX,beacons*.gvt3.com
+  - DOMAIN-SUFFIX,post-log.pushwoosh.com
   - DOMAIN-SUFFIX,torimochi.line-apps.com
   - DOMAIN-SUFFIX,appanalysis*.banggood.com
   - DOMAIN-SUFFIX,line1-log.biligame.net
+  - DOMAIN-SUFFIX,log-upload-eur.mihoyo.com
   - DOMAIN-SUFFIX,log-upload-os.mihoyo.com
   - DOMAIN-SUFFIX,s3-analytics-events.easybrain.com
   - DOMAIN-SUFFIX,mgs123.com
@@ -16019,6 +16026,7 @@ payload:
   - DOMAIN-SUFFIX,dsp-tracking.unityads.unity3d.com
   - DOMAIN-SUFFIX,installtracker.unityads.unity3d.com
   - DOMAIN-SUFFIX,tracking.adsx.unityads.unity3d.com
+  - DOMAIN-SUFFIX,mediation-tracking.prd.mz.internal.unity3d.com
   - DOMAIN-SUFFIX,tracking.prd.mz.internal.unity3d.com
   - DOMAIN-SUFFIX,publisher-event.ads.prd.ie.internal.unity3d.com
   - DOMAIN-SUFFIX,publisher-event.unityads.unity3d.com
