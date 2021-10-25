@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,hhytrace.sogoucdn.com
   - DOMAIN-SUFFIX,vortex.data.msn.com
   - DOMAIN-SUFFIX,integrations.syncmedia.io
   - DOMAIN-SUFFIX,fbthirdpartypixel.com
@@ -4338,6 +4339,11 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,twin-iq.kickfire.com
+  - DOMAIN-SUFFIX,metrics.bangbros.com
+  - DOMAIN-SUFFIX,log.mix.sina.com.cn
+  - DOMAIN-SUFFIX,log.sina.cn
+  - DOMAIN-SUFFIX,sbeacon.sina.com.cn
   - DOMAIN-SUFFIX,track.peavoidud.com
   - DOMAIN-SUFFIX,telemetry.malwarebytes.com
   - DOMAIN-SUFFIX,analytics.marquiz.ru
