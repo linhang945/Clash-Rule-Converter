@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,d41.co
+  - DOMAIN-SUFFIX,tags.soloway.ru
+  - DOMAIN-SUFFIX,instadrama.site
   - DOMAIN-SUFFIX,shoplytics.com
   - DOMAIN-SUFFIX,analytics.tradedoubler.com
   - DOMAIN-SUFFIX,edgrmtracking.com
@@ -4363,6 +4366,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.sports.ru
   - DOMAIN-SUFFIX,aegis.qq.com
   - DOMAIN-SUFFIX,views.romaniatv.net
   - DOMAIN-SUFFIX,d3pkntwtp2ukl5.cloudfront.net
