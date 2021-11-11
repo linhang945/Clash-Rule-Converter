@@ -4,6 +4,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,logs.viadata.store
+  - DOMAIN-SUFFIX,hitapi.pulpoar.com
+  - DOMAIN-SUFFIX,api.dataroid.com
+  - DOMAIN-SUFFIX,counter.websiteout.net
+  - DOMAIN-SUFFIX,cdn.topmind.io
   - DOMAIN-SUFFIX,audienceplay.com
   - DOMAIN-SUFFIX,fusedeck.net
   - DOMAIN-SUFFIX,trk-egestas.com
@@ -4370,6 +4375,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracking.swogo.net
+  - DOMAIN-SUFFIX,pixels.ingbank.com.tr
   - DOMAIN-SUFFIX,dmc1acwvwny3.cloudfront.net
   - DOMAIN-SUFFIX,analytics.sports.ru
   - DOMAIN-SUFFIX,aegis.qq.com
@@ -17168,6 +17175,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,measure.ic.tver.jp
+  - DOMAIN-SUFFIX,toblog.ctobsnssdk.com
+  - DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
   - DOMAIN-SUFFIX,t.castle.io
   - DOMAIN-SUFFIX,bs.nakanohito.jp
   - DOMAIN-SUFFIX,tag.karte.io
@@ -17208,6 +17218,10 @@ payload:
   - DOMAIN-SUFFIX,metrics.sp0n.io
   - DOMAIN-SUFFIX,liveme-sensors-collect2-*.amazonaws.com
   - DOMAIN-SUFFIX,online-metrix.imars.cloud
+  - DOMAIN-SUFFIX,adtracker.jpchd.veraxen.com
+  - DOMAIN-SUFFIX,adtracker.oilpainting.colorbynumber.veraxen.com
+  - DOMAIN-SUFFIX,adtracker.mkjigsaw.com
+  - DOMAIN-SUFFIX,stats.oilpainting.colorbynumber.veraxen.com
   - DOMAIN-SUFFIX,snowplow-collector.apartmentlist.io
   - DOMAIN-SUFFIX,qa-events-schema.viacom.tech
   - DOMAIN-SUFFIX,dns-clientinfo.cbsivideo.com
