@@ -4,6 +4,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,events.busuu.com
+  - DOMAIN-SUFFIX,intellimize.co
+  - DOMAIN-SUFFIX,f.fingerprintjs.com
   - DOMAIN-SUFFIX,logs.viadata.store
   - DOMAIN-SUFFIX,hitapi.pulpoar.com
   - DOMAIN-SUFFIX,api.dataroid.com
@@ -3336,6 +3339,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,friendwool.com
   - DOMAIN-SUFFIX,breadbalance.com
   - DOMAIN-SUFFIX,stakingsmile.com
   - DOMAIN-SUFFIX,rabbitrifle.com
@@ -4375,7 +4379,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,f-log-at.grammarly.io
+  - DOMAIN-SUFFIX,f-log-test.grammarly.io
   - DOMAIN-SUFFIX,tracking.swogo.net
+  - DOMAIN-SUFFIX,pixel.bridge.dooca.store
   - DOMAIN-SUFFIX,pixels.ingbank.com.tr
   - DOMAIN-SUFFIX,dmc1acwvwny3.cloudfront.net
   - DOMAIN-SUFFIX,analytics.sports.ru
@@ -17448,7 +17455,6 @@ payload:
   - DOMAIN-SUFFIX,e-ssl.apsalar.com
   - DOMAIN-SUFFIX,collector-axa.cloud.ca.com
   - DOMAIN-SUFFIX,track.adform.net
-  - DOMAIN-SUFFIX,analytics.ff.avast.com
   - DOMAIN-SUFFIX,api.miui.security.xiaomi.com
   - DOMAIN-SUFFIX,metok.sys.miui.com
   - DOMAIN-SUFFIX,sync.adotmob.com
