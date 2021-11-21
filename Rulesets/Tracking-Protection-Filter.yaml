@@ -4389,6 +4389,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,astat.nikkei.co.jp
+  - DOMAIN-SUFFIX,stats.zone-telechargement.work
   - DOMAIN-SUFFIX,events-service.coinbase.com
   - DOMAIN-SUFFIX,snowplow-pixel.tradingview.com
   - DOMAIN-SUFFIX,f-log-at.grammarly.io
