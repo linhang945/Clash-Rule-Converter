@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,i-cmg-amlg-prod.appspot.com
+  - DOMAIN-SUFFIX,a.myfidevs.io
   - DOMAIN-SUFFIX,capture-api.autopilotapp.com
   - DOMAIN-SUFFIX,s.autopilotapp.com
   - DOMAIN-SUFFIX,api.autopilothq.com
@@ -3198,6 +3200,7 @@ payload:
   - DOMAIN-SUFFIX,warlog.ru
   - DOMAIN-SUFFIX,waudit.cz
   - DOMAIN-SUFFIX,way2traffic.com
+  - DOMAIN-SUFFIX,webanalysis.dev
   - DOMAIN-SUFFIX,web-boosting.net
   - DOMAIN-SUFFIX,web-counter.net
   - DOMAIN-SUFFIX,web-stat.com
@@ -3354,6 +3357,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,rabbitbreath.com
   - DOMAIN-SUFFIX,friendwool.com
   - DOMAIN-SUFFIX,breadbalance.com
   - DOMAIN-SUFFIX,stakingsmile.com
@@ -4393,6 +4397,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.send.cm
+  - DOMAIN-SUFFIX,s.union.360.cn
+  - DOMAIN-SUFFIX,fclog.baidu.com
+  - DOMAIN-SUFFIX,collector.szlcsc.com
   - DOMAIN-SUFFIX,statetc.nate.com
   - DOMAIN-SUFFIX,host*.nti.nl
   - DOMAIN-SUFFIX,host*.carl-ras.dk
