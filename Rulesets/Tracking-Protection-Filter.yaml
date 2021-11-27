@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,vought.removeads.workers.dev
+  - DOMAIN-SUFFIX,clickiocdn.com
+  - DOMAIN-SUFFIX,delivery.satr.jp
   - DOMAIN-SUFFIX,i-cmg-amlg-prod.appspot.com
   - DOMAIN-SUFFIX,a.myfidevs.io
   - DOMAIN-SUFFIX,capture-api.autopilotapp.com
@@ -4397,6 +4400,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,pix2.services.tvn.pl
+  - DOMAIN-SUFFIX,frog.yuanfudao.com
+  - DOMAIN-SUFFIX,clog*.yuanfudao.com
   - DOMAIN-SUFFIX,analytics.send.cm
   - DOMAIN-SUFFIX,s.union.360.cn
   - DOMAIN-SUFFIX,fclog.baidu.com
