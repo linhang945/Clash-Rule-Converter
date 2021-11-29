@@ -4400,6 +4400,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ploz.mangadex.org
+  - DOMAIN-SUFFIX,cm.bilibili.com
   - DOMAIN-SUFFIX,pix2.services.tvn.pl
   - DOMAIN-SUFFIX,frog.yuanfudao.com
   - DOMAIN-SUFFIX,clog*.yuanfudao.com
