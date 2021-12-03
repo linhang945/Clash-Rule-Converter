@@ -7,6 +7,7 @@ payload:
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,more-data.ru
   - DOMAIN-SUFFIX,f-log-editor.grammarly.io
+  - DOMAIN-SUFFIX,gnar.grammarly.com
   - DOMAIN-SUFFIX,cdn.sophi.io
   - DOMAIN-SUFFIX,vought.removeads.workers.dev
   - DOMAIN-SUFFIX,clickiocdn.com
@@ -739,6 +740,7 @@ payload:
   - DOMAIN-SUFFIX,deliver.ptgncdn.com
   - DOMAIN-SUFFIX,u-on.eu
   - DOMAIN-SUFFIX,steadfastsystem.com
+  - DOMAIN-SUFFIX,monetate.net
   - DOMAIN-SUFFIX,instana.io
   - DOMAIN-SUFFIX,sitelabweb.com
   - DOMAIN-SUFFIX,scripts.jixie.io
@@ -772,6 +774,7 @@ payload:
   - DOMAIN-SUFFIX,fuelx.com
   - DOMAIN-SUFFIX,fuel451.com
   - DOMAIN-SUFFIX,pbbl.co
+  - DOMAIN-SUFFIX,friendbuy.com
   - DOMAIN-SUFFIX,tag.getdrip.com
   - DOMAIN-SUFFIX,dojomojo.ninja
   - DOMAIN-SUFFIX,sc-static.net
@@ -877,6 +880,7 @@ payload:
   - DOMAIN-SUFFIX,crm.agency
   - DOMAIN-SUFFIX,i.clean.gg
   - DOMAIN-SUFFIX,xl-trk.com
+  - DOMAIN-SUFFIX,168logger.com
   - DOMAIN-SUFFIX,nxcount.com
   - DOMAIN-SUFFIX,t.seesaa.net
   - DOMAIN-SUFFIX,pfx.sma-clsystem.info
@@ -957,7 +961,6 @@ payload:
   - DOMAIN-SUFFIX,medialogger.ru
   - DOMAIN-SUFFIX,rtbanalytics.com
   - DOMAIN-SUFFIX,waust.at
-  - DOMAIN-SUFFIX,168logger.com
   - DOMAIN-SUFFIX,user-clicks.com
   - DOMAIN-SUFFIX,bluecava.com
   - DOMAIN-SUFFIX,alcmpn.com
@@ -1813,7 +1816,6 @@ payload:
   - DOMAIN-SUFFIX,fremaks.net
   - DOMAIN-SUFFIX,freshcounter.com
   - DOMAIN-SUFFIX,freshplum.com
-  - DOMAIN-SUFFIX,friendbuy.com
   - DOMAIN-SUFFIX,frosmo.com
   - DOMAIN-SUFFIX,fruitflan.com
   - DOMAIN-SUFFIX,ftbpro.com
@@ -2275,7 +2277,6 @@ payload:
   - DOMAIN-SUFFIX,mochibot.com
   - DOMAIN-SUFFIX,modernus.is
   - DOMAIN-SUFFIX,mokuz.ru
-  - DOMAIN-SUFFIX,monetate.net
   - DOMAIN-SUFFIX,mongoosemetrics.com
   - DOMAIN-SUFFIX,monitis.com
   - DOMAIN-SUFFIX,monitor.phorm.com
@@ -4860,7 +4861,7 @@ payload:
   - DOMAIN-SUFFIX,counter.pixplug.in
   - DOMAIN-SUFFIX,analytics.webgains.io
   - DOMAIN-SUFFIX,candac.iridion.de
-  - DOMAIN-SUFFIX,cunda.prudsys-rde.de
+  - DOMAIN-SUFFIX,prudsys-rde.de
   - DOMAIN-SUFFIX,tr.junaroad.com
   - DOMAIN-SUFFIX,tracker.shopclues.com
   - DOMAIN-SUFFIX,beacon.itmedia.jp
@@ -18238,6 +18239,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,uts-front.line-apps.com
+  - DOMAIN-SUFFIX,nelo2-col.linecorp.com
   - DOMAIN-SUFFIX,msga.cupid.iqiyi.com
   - DOMAIN-SUFFIX,ndct-data.video.iqiyi.com
   - DOMAIN-SUFFIX,ibd-as-api.iq.com
