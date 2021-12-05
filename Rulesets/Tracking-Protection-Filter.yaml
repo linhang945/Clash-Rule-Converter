@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cl.qualaroo.com
   - DOMAIN-SUFFIX,more-data.ru
   - DOMAIN-SUFFIX,f-log-editor.grammarly.io
   - DOMAIN-SUFFIX,gnar.grammarly.com
@@ -4402,6 +4403,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,pcapp-data-collect.youku.com
   - DOMAIN-SUFFIX,log.polarisoffice.com
   - DOMAIN-SUFFIX,logconfig.polarisoffice.com
   - DOMAIN-SUFFIX,t.n.mcdonalds.de
