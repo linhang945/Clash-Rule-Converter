@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,leadrebel.io
+  - DOMAIN-SUFFIX,nessainy.net
   - DOMAIN-SUFFIX,tagcachestaticx.com
   - DOMAIN-SUFFIX,backbone.rossel.tech
   - DOMAIN-SUFFIX,tamgrt.com
@@ -14,8 +16,8 @@ payload:
   - DOMAIN-SUFFIX,vizzit.se
   - DOMAIN-SUFFIX,analytics.tiendaenoferta.com
   - DOMAIN-SUFFIX,cl.qualaroo.com
+  - DOMAIN-SUFFIX,pecukirom.com
   - DOMAIN-SUFFIX,more-data.ru
-  - DOMAIN-SUFFIX,f-log-editor.grammarly.io
   - DOMAIN-SUFFIX,gnar.grammarly.com
   - DOMAIN-SUFFIX,cdn.sophi.io
   - DOMAIN-SUFFIX,vought.removeads.workers.dev
@@ -40,7 +42,6 @@ payload:
   - DOMAIN-SUFFIX,prodmp.ru
   - DOMAIN-SUFFIX,events.busuu.com
   - DOMAIN-SUFFIX,intellimize.co
-  - DOMAIN-SUFFIX,f.fingerprintjs.com
   - DOMAIN-SUFFIX,logs.viadata.store
   - DOMAIN-SUFFIX,hitapi.pulpoar.com
   - DOMAIN-SUFFIX,api.dataroid.com
@@ -963,7 +964,6 @@ payload:
   - DOMAIN-SUFFIX,monkeytracker.cz
   - DOMAIN-SUFFIX,lhinsights.com
   - DOMAIN-SUFFIX,mobtop.com
-  - DOMAIN-SUFFIX,spolecznosci.net
   - DOMAIN-SUFFIX,excpm.com
   - DOMAIN-SUFFIX,antvoice.com
   - DOMAIN-SUFFIX,ownpage.fr
@@ -4414,6 +4414,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.radiko.jp
+  - DOMAIN-SUFFIX,tl.tradetracker.net
+  - DOMAIN-SUFFIX,ts.tradetracker.net
+  - DOMAIN-SUFFIX,tc.tradetracker.net
   - DOMAIN-SUFFIX,sli.familyhandyman.com
   - DOMAIN-SUFFIX,p.alcmpn.com
   - DOMAIN-SUFFIX,collector.xhwide1.com
@@ -4460,8 +4464,6 @@ payload:
   - DOMAIN-SUFFIX,events-service.coinbase.com
   - DOMAIN-SUFFIX,snowplow-pixel.tradingview.com
   - DOMAIN-SUFFIX,analytics.clic2buy.com
-  - DOMAIN-SUFFIX,f-log-at.grammarly.io
-  - DOMAIN-SUFFIX,f-log-test.grammarly.io
   - DOMAIN-SUFFIX,tracking.swogo.net
   - DOMAIN-SUFFIX,pixel.bridge.dooca.store
   - DOMAIN-SUFFIX,pixels.ingbank.com.tr
@@ -5003,7 +5005,6 @@ payload:
   - DOMAIN-SUFFIX,cmstrendslog.indiatimes.com
   - DOMAIN-SUFFIX,cmstrendslog.timesnow.tv
   - DOMAIN-SUFFIX,cnt.nicemix.com
-  - DOMAIN-SUFFIX,cnt.nuvid.com
   - DOMAIN-SUFFIX,cnt.vivatube.com
   - DOMAIN-SUFFIX,collection.theaa.com
   - DOMAIN-SUFFIX,collector-cdn.github.com
@@ -16927,6 +16928,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,logend.cookpad.com
+  - DOMAIN-SUFFIX,viva.api.xiaoying.co
+  - DOMAIN-SUFFIX,ub-xjp.vvbrd.com
+  - DOMAIN-SUFFIX,rtlog*.tiktokv.com
   - DOMAIN-SUFFIX,uts-front.line-apps.com
   - DOMAIN-SUFFIX,nelo2-col.linecorp.com
   - DOMAIN-SUFFIX,msga.cupid.iqiyi.com
@@ -16938,8 +16943,7 @@ payload:
   - DOMAIN-SUFFIX,aff-policy.lbesecapi.com
   - DOMAIN-SUFFIX,psi.lbesecapi.com
   - DOMAIN-SUFFIX,report-ps.meettech.net
-  - DOMAIN-SUFFIX,f-log-mobile.grammarly.io
-  - DOMAIN-SUFFIX,f-log-mobile-ios.grammarly.io
+  - DOMAIN-SUFFIX,f-log-*.grammarly.io
   - DOMAIN-SUFFIX,retcode-*.arms.aliyuncs.com
   - DOMAIN-SUFFIX,log*-misc-lf.amemv.com
   - DOMAIN-SUFFIX,msg.umengcloud.com
@@ -16948,8 +16952,6 @@ payload:
   - DOMAIN-SUFFIX,ada-tr.staff-start.com
   - DOMAIN-SUFFIX,analytics.liveact-vault.com
   - DOMAIN-SUFFIX,dex50.deteql.net
-  - DOMAIN-SUFFIX,api.statsig.com
-  - DOMAIN-SUFFIX,logs-01.loggly.com
   - DOMAIN-SUFFIX,analytics.300624.com
   - DOMAIN-SUFFIX,measure.ic.tver.jp
   - DOMAIN-SUFFIX,toblog.ctobsnssdk.com
