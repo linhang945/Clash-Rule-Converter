@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,henwilkson.com
+  - DOMAIN-SUFFIX,logevt.pubfinity.com
+  - DOMAIN-SUFFIX,stat.tiara.kakao.com
   - DOMAIN-SUFFIX,ast.red.asp.appirits.com
   - DOMAIN-SUFFIX,pagesense.io
   - DOMAIN-SUFFIX,livetracker.*.pangea-cms.com
@@ -3376,6 +3379,8 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,annoyedairport.com
+  - DOMAIN-SUFFIX,auspiciousyard.com
   - DOMAIN-SUFFIX,superficialeyes.com
   - DOMAIN-SUFFIX,hollowafterthought.com
   - DOMAIN-SUFFIX,rabbitbreath.com
@@ -4419,6 +4424,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,istatistik.trthaber.com
+  - DOMAIN-SUFFIX,i.bigin.io
+  - DOMAIN-SUFFIX,events*.cre.ma
   - DOMAIN-SUFFIX,anon-stats.eff.org
   - DOMAIN-SUFFIX,improving.wuzhuiso.com
   - DOMAIN-SUFFIX,analytics.tebilisim.com
