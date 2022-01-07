@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,event.dengage.com
+  - DOMAIN-SUFFIX,rum.uptime.com
+  - DOMAIN-SUFFIX,sortext.com
   - DOMAIN-SUFFIX,websdk.appsflyer.com
   - DOMAIN-SUFFIX,sr.studiostack.com
   - DOMAIN-SUFFIX,experianmatch.info
@@ -100,7 +103,6 @@ payload:
   - DOMAIN-SUFFIX,eye.rd.services
   - DOMAIN-SUFFIX,analytics.appsbnet.com.br
   - DOMAIN-SUFFIX,logging.prefixbox.com
-  - DOMAIN-SUFFIX,ads-website.ytsservice.com
   - DOMAIN-SUFFIX,carts.guru
   - DOMAIN-SUFFIX,analytics.pgncs.notion.so
   - DOMAIN-SUFFIX,seoab.io
@@ -3383,6 +3385,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,sordidsmile.com
   - DOMAIN-SUFFIX,annoyedairport.com
   - DOMAIN-SUFFIX,auspiciousyard.com
   - DOMAIN-SUFFIX,superficialeyes.com
@@ -10049,6 +10052,7 @@ payload:
   - DOMAIN-SUFFIX,nfl.hb-api.omtrdc.net
   - DOMAIN-SUFFIX,nfl.hb.omtrdc.net
   - DOMAIN-SUFFIX,nhkonline.hb.omtrdc.net
+  - DOMAIN-SUFFIX,nmetrics.samsung.com
   - DOMAIN-SUFFIX,nom.lds.org
   - DOMAIN-SUFFIX,novartispharma.hb.omtrdc.net
   - DOMAIN-SUFFIX,nsc.metrics-shell.com
@@ -17533,7 +17537,6 @@ payload:
   - DOMAIN-SUFFIX,mm.welt.de
   - DOMAIN-SUFFIX,montblanc.lenta.ru
   - DOMAIN-SUFFIX,montblanc.rambler.ru
-  - DOMAIN-SUFFIX,nmetrics.samsung.com
   - DOMAIN-SUFFIX,pclick.yahoo.com
   - DOMAIN-SUFFIX,pixel.redditmedia.com
   - DOMAIN-SUFFIX,prophet.heise.de
