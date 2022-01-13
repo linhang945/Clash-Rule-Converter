@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cdn.adt567.net
+  - DOMAIN-SUFFIX,smartlify.com
+  - DOMAIN-SUFFIX,analytics.styria.hr
+  - DOMAIN-SUFFIX,culturaltracking.ru
   - DOMAIN-SUFFIX,services.sdiapi.com
   - DOMAIN-SUFFIX,events.brightline.tv
   - DOMAIN-SUFFIX,event.dengage.com
@@ -693,7 +697,6 @@ payload:
   - DOMAIN-SUFFIX,causecherry.com
   - DOMAIN-SUFFIX,agreeabletouch.com
   - DOMAIN-SUFFIX,popt.in
-  - DOMAIN-SUFFIX,px-cloud.net
   - DOMAIN-SUFFIX,massivemark.com
   - DOMAIN-SUFFIX,absorbingprison.com
   - DOMAIN-SUFFIX,tr.infopanel.jp
@@ -4434,6 +4437,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,matomo.a1.by
+  - DOMAIN-SUFFIX,d1stxfv94hrhia.cloudfront
+  - DOMAIN-SUFFIX,stt.nimbusweb.me
+  - DOMAIN-SUFFIX,statistics.daktilo.com
   - DOMAIN-SUFFIX,collector.megaxh.com
   - DOMAIN-SUFFIX,d1mdhw23tj9j17.cloudfront.net
   - DOMAIN-SUFFIX,istatistik.trthaber.com
@@ -18005,6 +18012,15 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,collect.babybus.com
+  - DOMAIN-SUFFIX,log.apkomega.com
+  - DOMAIN-SUFFIX,log.yougameover.com
+  - DOMAIN-SUFFIX,log.make50.com
+  - DOMAIN-SUFFIX,log.easy39.com
+  - DOMAIN-SUFFIX,log.appbundledownload.com
+  - DOMAIN-SUFFIX,log.down61.com
+  - DOMAIN-SUFFIX,trackersdk.bdash-cloud.com
+  - DOMAIN-SUFFIX,hit.gemius.pl
   - DOMAIN-SUFFIX,click.oneplus.com
   - DOMAIN-SUFFIX,click.oneplus.cn
   - DOMAIN-SUFFIX,mapi-log.qoo*.jp
