@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cdnstr.com
+  - DOMAIN-SUFFIX,log.yapaytech.com
+  - DOMAIN-SUFFIX,air360tracker.net
+  - DOMAIN-SUFFIX,j.northbeam.io
+  - DOMAIN-SUFFIX,srv.stackadapt.com
+  - DOMAIN-SUFFIX,segmetrics.io
   - DOMAIN-SUFFIX,embed.usersmagic.com
   - DOMAIN-SUFFIX,stats-iobit-com.us-east-1.elasticbeanstalk.com
   - DOMAIN-SUFFIX,zeustechnology.com
@@ -4441,6 +4447,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.histmag.org
   - DOMAIN-SUFFIX,tracker.remp.sme.sk
   - DOMAIN-SUFFIX,targeting.washpost.nile.works
   - DOMAIN-SUFFIX,metrika.kontur.ru
