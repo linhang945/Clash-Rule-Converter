@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics-api.statvoo.com
+  - DOMAIN-SUFFIX,ga-bq-py-1.appspot.com
   - DOMAIN-SUFFIX,cdnstr.com
   - DOMAIN-SUFFIX,log.yapaytech.com
   - DOMAIN-SUFFIX,air360tracker.net
@@ -3399,6 +3401,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,fearlessfaucet.com
   - DOMAIN-SUFFIX,nondescriptnote.com
   - DOMAIN-SUFFIX,tiresomethunder.com
   - DOMAIN-SUFFIX,sordidsmile.com
