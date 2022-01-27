@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,kantartns.lt
   - DOMAIN-SUFFIX,trk2-wtb.swaven.com
   - DOMAIN-SUFFIX,st.hbrd.io
   - DOMAIN-SUFFIX,analytics-api.statvoo.com
@@ -56,6 +57,7 @@ payload:
   - DOMAIN-SUFFIX,gnar.grammarly.com
   - DOMAIN-SUFFIX,cdn.sophi.io
   - DOMAIN-SUFFIX,vought.removeads.workers.dev
+  - DOMAIN-SUFFIX,analytics.churnzero.net
   - DOMAIN-SUFFIX,trk.reclameaqui.com.br
   - DOMAIN-SUFFIX,clickiocdn.com
   - DOMAIN-SUFFIX,delivery.satr.jp
@@ -4452,8 +4454,11 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,hwa.his.huawei.com
+  - DOMAIN-SUFFIX,stat.i3.dmm.com
   - DOMAIN-SUFFIX,analytics.histmag.org
   - DOMAIN-SUFFIX,tracker.remp.sme.sk
+  - DOMAIN-SUFFIX,pac.thesun.co.uk
   - DOMAIN-SUFFIX,targeting.washpost.nile.works
   - DOMAIN-SUFFIX,metrika.kontur.ru
   - DOMAIN-SUFFIX,hodor-collect.arabam.com
@@ -4653,7 +4658,6 @@ payload:
   - DOMAIN-SUFFIX,fly.gentside.com
   - DOMAIN-SUFFIX,tr.namu.wiki
   - DOMAIN-SUFFIX,track.eadv.it
-  - DOMAIN-SUFFIX,datalytics.utair.io
   - DOMAIN-SUFFIX,appsanalytics.appideas.it
   - DOMAIN-SUFFIX,api-adservices.apple.com
   - DOMAIN-SUFFIX,analytics.atlassian.com
