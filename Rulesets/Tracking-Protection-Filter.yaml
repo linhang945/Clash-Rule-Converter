@@ -5,9 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sensors.ibreader.com
+  - DOMAIN-SUFFIX,bvr.ast.snva.jp
   - DOMAIN-SUFFIX,kantartns.lt
   - DOMAIN-SUFFIX,trk2-wtb.swaven.com
   - DOMAIN-SUFFIX,st.hbrd.io
+  - DOMAIN-SUFFIX,sgtm.sefamerve.com
   - DOMAIN-SUFFIX,analytics-api.statvoo.com
   - DOMAIN-SUFFIX,ga-bq-py-1.appspot.com
   - DOMAIN-SUFFIX,cdnstr.com
@@ -3405,6 +3408,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,shrillspoon.com
   - DOMAIN-SUFFIX,fearlessfaucet.com
   - DOMAIN-SUFFIX,nondescriptnote.com
   - DOMAIN-SUFFIX,tiresomethunder.com
@@ -4454,6 +4458,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,gtm.beiersdorf.com
   - DOMAIN-SUFFIX,hwa.his.huawei.com
   - DOMAIN-SUFFIX,stat.i3.dmm.com
   - DOMAIN-SUFFIX,analytics.histmag.org
@@ -20982,6 +20987,7 @@ payload:
   - DOMAIN-SUFFIX,analytics-sprint.qoqa.com
   - DOMAIN-SUFFIX,analytics.qoqa.ch
   - DOMAIN-SUFFIX,analytics.qoqa.com
+  - DOMAIN-SUFFIX,appsflyer-report.honkaiimpact3.com
   - DOMAIN-SUFFIX,af-event-logger.appsflyer.com
   - DOMAIN-SUFFIX,inapps.appsflyer.com
   - DOMAIN-SUFFIX,gcdsdk.appsflyer.com
@@ -21016,6 +21022,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,misc.api.snaptube.app
   - DOMAIN-SUFFIX,dig.bdurl.net
   - DOMAIN-SUFFIX,trusted-collector-bk.tmocce.com
   - DOMAIN-SUFFIX,collect.babybus.com
