@@ -4462,6 +4462,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,stat.mydaddy.cc
+  - DOMAIN-SUFFIX,event-collector.analytics.onedio.com
   - DOMAIN-SUFFIX,tracking.adsbot.kr
   - DOMAIN-SUFFIX,gtm.beiersdorf.com
   - DOMAIN-SUFFIX,hwa.his.huawei.com
@@ -18905,7 +18907,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
-  - DOMAIN-SUFFIX,self.events.data.microsoft.com
+  - DOMAIN-SUFFIX,analytics.studiodesignapp.com
   - DOMAIN-SUFFIX,misc.api.snaptube.app
   - DOMAIN-SUFFIX,dig.bdurl.net
   - DOMAIN-SUFFIX,trusted-collector-bk.tmocce.com
