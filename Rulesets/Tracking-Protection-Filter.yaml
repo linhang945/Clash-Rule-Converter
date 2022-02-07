@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,events.audioplace.me
   - DOMAIN-SUFFIX,usageanalytics.coveo.com
   - DOMAIN-SUFFIX,ox.bncounter.com
   - DOMAIN-SUFFIX,pbkqidejmes.ru
@@ -4462,6 +4463,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.vedantu.com
   - DOMAIN-SUFFIX,stat.mydaddy.cc
   - DOMAIN-SUFFIX,event-collector.analytics.onedio.com
   - DOMAIN-SUFFIX,tracking.adsbot.kr
