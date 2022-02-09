@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,trknex.com
   - DOMAIN-SUFFIX,events.audioplace.me
   - DOMAIN-SUFFIX,usageanalytics.coveo.com
   - DOMAIN-SUFFIX,ox.bncounter.com
@@ -3413,6 +3414,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,bedsberry.com
   - DOMAIN-SUFFIX,shrillspoon.com
   - DOMAIN-SUFFIX,fearlessfaucet.com
   - DOMAIN-SUFFIX,nondescriptnote.com
@@ -4463,6 +4465,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,statistics.fppressa.ru
   - DOMAIN-SUFFIX,analytics.vedantu.com
   - DOMAIN-SUFFIX,stat.mydaddy.cc
   - DOMAIN-SUFFIX,event-collector.analytics.onedio.com
@@ -6015,7 +6018,6 @@ payload:
   - DOMAIN-SUFFIX,trac.clicplan.co.uk
   - DOMAIN-SUFFIX,trac.couponandgo.co.uk
   - DOMAIN-SUFFIX,trac.oferting.co.uk
-  - DOMAIN-SUFFIX,t.paypal.com
   - DOMAIN-SUFFIX,an.reflektion.com
   - DOMAIN-SUFFIX,marketing.modalife.com
   - DOMAIN-SUFFIX,ad.kinozal.website
