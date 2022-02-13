@@ -4467,6 +4467,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,metcon.hulu.com
+  - DOMAIN-SUFFIX,vortex.hulu.com
   - DOMAIN-SUFFIX,tags.news.com.au
   - DOMAIN-SUFFIX,statistics.fppressa.ru
   - DOMAIN-SUFFIX,analytics.vedantu.com
