@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,fouanalytics.com
+  - DOMAIN-SUFFIX,analitits.com
+  - DOMAIN-SUFFIX,rtxpx-a.akamaihd.net
   - DOMAIN-SUFFIX,genieedmp.com
   - DOMAIN-SUFFIX,lps.qantas.com
   - DOMAIN-SUFFIX,lpx.qantas.com
@@ -4467,6 +4470,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.wondershare.cc
+  - DOMAIN-SUFFIX,log.newsbreak.jp
   - DOMAIN-SUFFIX,metcon.hulu.com
   - DOMAIN-SUFFIX,vortex.hulu.com
   - DOMAIN-SUFFIX,statistics.fppressa.ru
