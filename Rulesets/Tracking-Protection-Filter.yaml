@@ -5,6 +5,16 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,pingmeter.com
+  - DOMAIN-SUFFIX,t.91syun.com
+  - DOMAIN-SUFFIX,track.mituo.cn
+  - DOMAIN-SUFFIX,tracksmart.se
+  - DOMAIN-SUFFIX,data.digitalks.az
+  - DOMAIN-SUFFIX,track.nopaperforms.com
+  - DOMAIN-SUFFIX,track.91app.io
+  - DOMAIN-SUFFIX,track.stat.pet
+  - DOMAIN-SUFFIX,cdn.teleportapi.com
+  - DOMAIN-SUFFIX,api.rollbar.com
   - DOMAIN-SUFFIX,fouanalytics.com
   - DOMAIN-SUFFIX,analitits.com
   - DOMAIN-SUFFIX,rtxpx-a.akamaihd.net
@@ -4470,6 +4480,11 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d.email.forbes.com
+  - DOMAIN-SUFFIX,curiosity-seven.vercel.app
+  - DOMAIN-SUFFIX,track.eurogirlsescort.com
+  - DOMAIN-SUFFIX,clickstream.cresendo.net
+  - DOMAIN-SUFFIX,tj3rql9siwef.www.freecodecamp.org
   - DOMAIN-SUFFIX,analytics.wondershare.cc
   - DOMAIN-SUFFIX,log.newsbreak.jp
   - DOMAIN-SUFFIX,metcon.hulu.com

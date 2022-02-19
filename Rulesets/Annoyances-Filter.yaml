@@ -144,6 +144,7 @@ payload:
   - DOMAIN-SUFFIX,clickio.mgr.consensu.org
   - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
   - DOMAIN-SUFFIX,quantcast.mgr.consensu.org
+  - DOMAIN-SUFFIX,cmpv2.macworld.co.uk
   - DOMAIN-SUFFIX,gdpr.laxd.com
   - DOMAIN-SUFFIX,consent.boerse-online.de
   - DOMAIN-SUFFIX,consent.finanzen.net
@@ -153,7 +154,6 @@ payload:
   - DOMAIN-SUFFIX,cmp-sp.wiwo.de
   - DOMAIN-SUFFIX,privacy.selbst.de
   - DOMAIN-SUFFIX,thestrad-gb.thestrad.com
-  - DOMAIN-SUFFIX,cmp.macworld.co.uk
   - DOMAIN-SUFFIX,consent.prismamedia.com
   - DOMAIN-SUFFIX,rodo.agora.pl
   - DOMAIN-SUFFIX,tracking-consent.static.anwb.nl
@@ -615,6 +615,7 @@ payload:
   - DOMAIN-SUFFIX,wb.whatsbroadcast.com
   - DOMAIN-SUFFIX,signup.e2ma.net
   - DOMAIN-SUFFIX,belezaedieta.com
+  - DOMAIN-SUFFIX,fukugan.com
   - DOMAIN-SUFFIX,3site-rss.s3-ap-northeast-1.amazonaws.com
   - DOMAIN-SUFFIX,blogroll.livedoor.net
   - DOMAIN-SUFFIX,rss-loader.com
