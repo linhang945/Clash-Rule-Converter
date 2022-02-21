@@ -5,6 +5,20 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,metricskey.com
+  - DOMAIN-SUFFIX,static-tracking.klaviyo.com
+  - DOMAIN-SUFFIX,telemetrics.klaviyo.com
+  - DOMAIN-SUFFIX,d.k3r.jp
+  - DOMAIN-SUFFIX,tracking.smartselling.cz
+  - DOMAIN-SUFFIX,retargeting.newsmanapp.com
+  - DOMAIN-SUFFIX,tracking-sap.frodx.com
+  - DOMAIN-SUFFIX,track.leadhit.ru
+  - DOMAIN-SUFFIX,affilbox.cz
+  - DOMAIN-SUFFIX,nc0.co
+  - DOMAIN-SUFFIX,pixelpop.co
+  - DOMAIN-SUFFIX,retargeting.biz
+  - DOMAIN-SUFFIX,tracker.thinkermail.com
+  - DOMAIN-SUFFIX,a1webstrategy.com
   - DOMAIN-SUFFIX,pingmeter.com
   - DOMAIN-SUFFIX,t.91syun.com
   - DOMAIN-SUFFIX,track.mituo.cn
@@ -4470,6 +4484,7 @@ payload:
   - DOMAIN-SUFFIX,wizaly.com
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,mkto-*.com
+  - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,ben.crxmouse.com
   - DOMAIN-SUFFIX,api2.poperblocker.com
@@ -4480,6 +4495,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,trk.storyly.io
   - DOMAIN-SUFFIX,d.email.forbes.com
   - DOMAIN-SUFFIX,curiosity-seven.vercel.app
   - DOMAIN-SUFFIX,track.eurogirlsescort.com
