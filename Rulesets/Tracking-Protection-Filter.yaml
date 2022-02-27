@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cl*.k5a.io
+  - DOMAIN-SUFFIX,analytics.superstructure.ai
+  - DOMAIN-SUFFIX,cdn.raekdata.com
   - DOMAIN-SUFFIX,felix.data.tm-awx.com
   - DOMAIN-SUFFIX,imzahrwl.xyz
   - DOMAIN-SUFFIX,karte.io
@@ -4499,6 +4502,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.suumo.jp
+  - DOMAIN-SUFFIX,tracking.nw.de
   - DOMAIN-SUFFIX,trk.storyly.io
   - DOMAIN-SUFFIX,d.email.forbes.com
   - DOMAIN-SUFFIX,curiosity-seven.vercel.app
