@@ -18601,6 +18601,17 @@ payload:
   - DOMAIN-SUFFIX,tp.sheego.de
   - DOMAIN-SUFFIX,tp.universal.at
   - DOMAIN-SUFFIX,tp.yomonda.de
+  - DOMAIN-SUFFIX,fpa-api.arstechnica.com
+  - DOMAIN-SUFFIX,fpa-cdn.adweek.com
+  - DOMAIN-SUFFIX,fpa-cdn.arstechnica.com
+  - DOMAIN-SUFFIX,fpa-cdn.decrypt.co
+  - DOMAIN-SUFFIX,fpa-cdn.parse.ly
+  - DOMAIN-SUFFIX,fpa-cdn.slate.com
+  - DOMAIN-SUFFIX,fpa-events.adweek.com
+  - DOMAIN-SUFFIX,fpa-events.arstechnica.com
+  - DOMAIN-SUFFIX,fpa-events.decrypt.co
+  - DOMAIN-SUFFIX,fpa-events.parse.ly
+  - DOMAIN-SUFFIX,fpa-events.slate.com
   - DOMAIN-SUFFIX,a-api.skz.dev
   - DOMAIN-SUFFIX,a.aawp.de
   - DOMAIN-SUFFIX,a.artistasdigitais.net
