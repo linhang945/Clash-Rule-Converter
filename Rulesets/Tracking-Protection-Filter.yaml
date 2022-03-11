@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,ukw.jp
+  - DOMAIN-SUFFIX,api.trueaudience.io
+  - DOMAIN-SUFFIX,pixel.tatpek.com
+  - DOMAIN-SUFFIX,analytics-egain.com
   - DOMAIN-SUFFIX,owtracking.us-east-1.elasticbeanstalk.com
   - DOMAIN-SUFFIX,quantumdex.io
   - DOMAIN-SUFFIX,thongke.vui.vn
@@ -4510,6 +4514,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.stanby.com
+  - DOMAIN-SUFFIX,d1snv67wdds0p2.cloudfront.net
+  - DOMAIN-SUFFIX,track.easeus.com
   - DOMAIN-SUFFIX,als-svc.nytimes.com
   - DOMAIN-SUFFIX,grow.powerstep.com
   - DOMAIN-SUFFIX,aktrack.pubmatic.com
