@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,track.adspire.io
+  - DOMAIN-SUFFIX,cdn.ddmanager.ru
+  - DOMAIN-SUFFIX,api.tomi.ai
+  - DOMAIN-SUFFIX,dttrk.com
+  - DOMAIN-SUFFIX,adara.com
+  - DOMAIN-SUFFIX,adcontroll.com
   - DOMAIN-SUFFIX,log.medietall.no
   - DOMAIN-SUFFIX,uqd.io
   - DOMAIN-SUFFIX,dygassets.dygdigital.com
@@ -4518,6 +4524,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sp.flocktory.com
+  - DOMAIN-SUFFIX,rta2.newzit.com
+  - DOMAIN-SUFFIX,pxl-*.ozone.ru
+  - DOMAIN-SUFFIX,xapi.ozon.ru
   - DOMAIN-SUFFIX,tracking.bloomberg.com
   - DOMAIN-SUFFIX,analytics.stanby.com
   - DOMAIN-SUFFIX,d1snv67wdds0p2.cloudfront.net
@@ -4583,7 +4593,6 @@ payload:
   - DOMAIN-SUFFIX,logconfig.polarisoffice.com
   - DOMAIN-SUFFIX,t.n.mcdonalds.de
   - DOMAIN-SUFFIX,ploz.mangadex.org
-  - DOMAIN-SUFFIX,pix2.services.tvn.pl
   - DOMAIN-SUFFIX,frog.yuanfudao.com
   - DOMAIN-SUFFIX,clog*.yuanfudao.com
   - DOMAIN-SUFFIX,analytics.send.cm
@@ -6101,7 +6110,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.cervellio.com
   - DOMAIN-SUFFIX,stats.qmerce.com
   - DOMAIN-SUFFIX,counter*-yadro*-ru.unblocked.lol
-  - DOMAIN-SUFFIX,t.sgc.io
   - DOMAIN-SUFFIX,stat.sputnik.ru
   - DOMAIN-SUFFIX,wstat.ozon.ru
   - DOMAIN-SUFFIX,analytics.vooxe.com
@@ -19220,6 +19228,7 @@ payload:
   - DOMAIN-SUFFIX,wiz.ghostbed.com
   - DOMAIN-SUFFIX,wiz.sncf-connect.com
   - DOMAIN-SUFFIX,wz.allianz.fr
+  - DOMAIN-SUFFIX,pix2.services.tvn.pl
   - DOMAIN-SUFFIX,az416426.vo.msecnd.net
   - DOMAIN-SUFFIX,lurker.olx.com.br
   - DOMAIN-SUFFIX,geoip.olx.com.br
@@ -19348,6 +19357,12 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,evt.mxplay.com
+  - DOMAIN-SUFFIX,log.geetest.com
+  - DOMAIN-SUFFIX,prod-clientlog.fastly.newssuite.sinfony.ne.jp
+  - DOMAIN-SUFFIX,track.hk01.com
+  - DOMAIN-SUFFIX,event*.hk01.com
+  - DOMAIN-SUFFIX,analytics.kaltura.com
   - DOMAIN-SUFFIX,eventgw.twilio.com
   - DOMAIN-SUFFIX,log.estand.jp
   - DOMAIN-SUFFIX,event-search.jorte.com
