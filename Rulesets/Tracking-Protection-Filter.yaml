@@ -4526,6 +4526,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,adstax-cdn.adrtx.net
+  - DOMAIN-SUFFIX,download-stats.mozilla.org
+  - DOMAIN-SUFFIX,collector-hpn.ghostery.net
   - DOMAIN-SUFFIX,scis.tbs.co.jp
   - DOMAIN-SUFFIX,sp.flocktory.com
   - DOMAIN-SUFFIX,rta2.newzit.com
