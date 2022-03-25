@@ -5,10 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,yoursitestatstube.ru
   - DOMAIN-SUFFIX,slview.psne.jp
   - DOMAIN-SUFFIX,arvb.ewtcbedtmx.ru
   - DOMAIN-SUFFIX,trc.caravas.jp
   - DOMAIN-SUFFIX,track.adspire.io
+  - DOMAIN-SUFFIX,ucs.betwaygroup.com
   - DOMAIN-SUFFIX,cdn.ddmanager.ru
   - DOMAIN-SUFFIX,api.tomi.ai
   - DOMAIN-SUFFIX,dttrk.com
@@ -2384,7 +2386,6 @@ payload:
   - DOMAIN-SUFFIX,mmstat.com
   - DOMAIN-SUFFIX,mmtro.com
   - DOMAIN-SUFFIX,mobalyzer.net
-  - DOMAIN-SUFFIX,mobtop.ru
   - DOMAIN-SUFFIX,mobylog.jp
   - DOMAIN-SUFFIX,mochibot.com
   - DOMAIN-SUFFIX,modernus.is
@@ -4527,6 +4528,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,omapi.fangraphs.com
+  - DOMAIN-SUFFIX,sp.minds.com
   - DOMAIN-SUFFIX,event-action.popinfo.jp
   - DOMAIN-SUFFIX,log-stats.weathercn.com
   - DOMAIN-SUFFIX,adstax-cdn.adrtx.net
