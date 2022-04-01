@@ -4539,6 +4539,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,events.virtusize.jp
   - DOMAIN-SUFFIX,adc-js.nine.com.au
   - DOMAIN-SUFFIX,analytics.pointdrive.linkedin.com
   - DOMAIN-SUFFIX,analytics.pinterest.com
@@ -4654,7 +4655,6 @@ payload:
   - DOMAIN-SUFFIX,blue.fox8.com
   - DOMAIN-SUFFIX,astat.nikkei.co.jp
   - DOMAIN-SUFFIX,stats.zone-telechargement.work
-  - DOMAIN-SUFFIX,events-service.coinbase.com
   - DOMAIN-SUFFIX,snowplow-pixel.tradingview.com
   - DOMAIN-SUFFIX,analytics.clic2buy.com
   - DOMAIN-SUFFIX,tracking.swogo.net
@@ -18432,6 +18432,7 @@ payload:
   - DOMAIN-SUFFIX,wiz.ghostbed.com
   - DOMAIN-SUFFIX,wiz.sncf-connect.com
   - DOMAIN-SUFFIX,wz.allianz.fr
+  - DOMAIN-SUFFIX,ddla593ymz72o.cloudfront.net
   - DOMAIN-SUFFIX,pix2.services.tvn.pl
   - DOMAIN-SUFFIX,az416426.vo.msecnd.net
   - DOMAIN-SUFFIX,lurker.olx.com.br
