@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics*.prezly.com
+  - DOMAIN-SUFFIX,gapp1.com
+  - DOMAIN-SUFFIX,stlog.d.dmkt-sp.jp
+  - DOMAIN-SUFFIX,dynatrace-managed.com
   - DOMAIN-SUFFIX,cdn.reproio.com
   - DOMAIN-SUFFIX,init.blackcrow.ai
   - DOMAIN-SUFFIX,taplytics.com
@@ -4506,6 +4510,8 @@ payload:
   - DOMAIN-SUFFIX,jpaasne.e.shifen.com
   - DOMAIN-SUFFIX,caclick.baidu.com
   - DOMAIN-SUFFIX,wkclick.baidu.com
+  - DOMAIN-SUFFIX,a.popin.cc
+  - DOMAIN-SUFFIX,trace.popin.cc
   - DOMAIN-SUFFIX,rlog.popin.cc
   - DOMAIN-SUFFIX,log.popin.cc
   - DOMAIN-SUFFIX,r.popin.cc
@@ -4543,6 +4549,9 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,alxc.addlv.smt.docomo.ne.jp
+  - DOMAIN-SUFFIX,pa.pinpoll.com
+  - DOMAIN-SUFFIX,d2wu036mkcz52n.cloudfront.net
   - DOMAIN-SUFFIX,ts.delfi.lt
   - DOMAIN-SUFFIX,tracking.gvm.com.tw
   - DOMAIN-SUFFIX,metrics.beyondwords.io
