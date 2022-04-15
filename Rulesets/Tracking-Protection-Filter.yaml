@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,metrics.pico.tools
+  - DOMAIN-SUFFIX,lndata.com
+  - DOMAIN-SUFFIX,quietyellowday.com
   - DOMAIN-SUFFIX,client.botchk.net
   - DOMAIN-SUFFIX,b.px-cdn.net
   - DOMAIN-SUFFIX,wurfl.io
@@ -4554,6 +4557,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,spade.twitch.tv
   - DOMAIN-SUFFIX,b.travel-assets.com
   - DOMAIN-SUFFIX,ev.api.bdg.com
   - DOMAIN-SUFFIX,tracking.live.oe24.at
@@ -4565,7 +4569,6 @@ payload:
   - DOMAIN-SUFFIX,ts.delfi.lt
   - DOMAIN-SUFFIX,tracking.gvm.com.tw
   - DOMAIN-SUFFIX,metrics.beyondwords.io
-  - DOMAIN-SUFFIX,launcher.spot.im
   - DOMAIN-SUFFIX,api.data.ciceksepeti.com
   - DOMAIN-SUFFIX,wlog.tmon.co.kr
   - DOMAIN-SUFFIX,analytics.appservice.tech
@@ -18425,6 +18428,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,analytics-http.mintegral.net
+  - DOMAIN-SUFFIX,g.analytics.versa-ai.com
   - DOMAIN-SUFFIX,events.ifunny.co
   - DOMAIN-SUFFIX,imp-*.jampp.com
   - DOMAIN-SUFFIX,telemetry.navigatorapp.net
