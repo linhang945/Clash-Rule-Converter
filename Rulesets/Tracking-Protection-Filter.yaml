@@ -4557,6 +4557,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ab.blogs.es
   - DOMAIN-SUFFIX,spade.twitch.tv
   - DOMAIN-SUFFIX,b.travel-assets.com
   - DOMAIN-SUFFIX,ev.api.bdg.com
