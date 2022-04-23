@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sdk.51.la
+  - DOMAIN-SUFFIX,adtriba.com
+  - DOMAIN-SUFFIX,acuityplatform.com
+  - DOMAIN-SUFFIX,cyberanalytics.nl
   - DOMAIN-SUFFIX,analytics.test.cheggnet.com
   - DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
   - DOMAIN-SUFFIX,sitealyse.de
@@ -307,7 +311,6 @@ payload:
   - DOMAIN-SUFFIX,a.mt.ru
   - DOMAIN-SUFFIX,ev.tpocdm.com
   - DOMAIN-SUFFIX,tafrebadus.com
-  - DOMAIN-SUFFIX,unblockia.com
   - DOMAIN-SUFFIX,connectier.io
   - DOMAIN-SUFFIX,services.bionika-digital.ru
   - DOMAIN-SUFFIX,perk0mean.com
@@ -4571,6 +4574,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tr.discuss.com.hk
   - DOMAIN-SUFFIX,ymprove.gmx.net
   - DOMAIN-SUFFIX,events.release.narrativ.com
   - DOMAIN-SUFFIX,delog.afreecatv.com
