@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,t.smartverify.pro
+  - DOMAIN-SUFFIX,da29e6b8-f018-490f-b25f-39a887fc95e7.xyz
+  - DOMAIN-SUFFIX,stat.onemob.mobi
+  - DOMAIN-SUFFIX,ip.prvtx.net
+  - DOMAIN-SUFFIX,avo.app
   - DOMAIN-SUFFIX,unseenreport.com
   - DOMAIN-SUFFIX,ob.cheqzone.com
   - DOMAIN-SUFFIX,pix.hyj.mobi
@@ -4584,6 +4589,8 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,events.newsroom.bi
+  - DOMAIN-SUFFIX,logs.eu-west-1.amazonaws.com
   - DOMAIN-SUFFIX,ampltd.top.gg
   - DOMAIN-SUFFIX,gtm.vanmoof.com
   - DOMAIN-SUFFIX,pc3.vanmoof.com
@@ -18171,6 +18178,7 @@ payload:
   - DOMAIN-SUFFIX,wiz.ghostbed.com
   - DOMAIN-SUFFIX,wiz.sncf-connect.com
   - DOMAIN-SUFFIX,wz.allianz.fr
+  - DOMAIN-SUFFIX,analytics.chita.ru
   - DOMAIN-SUFFIX,metrics.ainews.kz
   - DOMAIN-SUFFIX,ddla593ymz72o.cloudfront.net
   - DOMAIN-SUFFIX,pix2.services.tvn.pl
@@ -18826,3 +18834,4 @@ payload:
   - DOMAIN-SUFFIX,upoll.umengcloud.com
   - DOMAIN-SUFFIX,utop.umengcloud.com
   - DOMAIN-SUFFIX,analy.qq.com
+  - DOMAIN-SUFFIX,api.safegraph.com
