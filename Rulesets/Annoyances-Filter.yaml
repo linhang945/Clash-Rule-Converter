@@ -141,7 +141,6 @@ payload:
   - DOMAIN-SUFFIX,consent.dumont.de
   - DOMAIN-SUFFIX,metomic.io
   - DOMAIN-SUFFIX,privacy-center.org
-  - DOMAIN-SUFFIX,cmp.dmgmediaprivacy.co.uk
   - DOMAIN-SUFFIX,policy*.cookieinformation.com
   - DOMAIN-SUFFIX,consent.truste.com
   - DOMAIN-SUFFIX,iubenda.com
@@ -163,6 +162,7 @@ payload:
   - DOMAIN-SUFFIX,cookies.joneslanglasalle.co.jp
   - DOMAIN-SUFFIX,cmp.acronymfinder.com
   - DOMAIN-SUFFIX,sp-consent.stuttgarter-zeitung.de
+  - DOMAIN-SUFFIX,cmp.dmgmediaprivacy.co.uk
   - DOMAIN-SUFFIX,cmp-sp.wiwo.de
   - DOMAIN-SUFFIX,privacy.selbst.de
   - DOMAIN-SUFFIX,thestrad-gb.thestrad.com
