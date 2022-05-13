@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sofire.bdstatic.com
+  - DOMAIN-SUFFIX,knowctr.com
+  - DOMAIN-SUFFIX,px.mountain.com
+  - DOMAIN-SUFFIX,gs.mountain.com
+  - DOMAIN-SUFFIX,dx.mountain.com
+  - DOMAIN-SUFFIX,track.rheinpfalz.de
   - DOMAIN-SUFFIX,noibu.com
   - DOMAIN-SUFFIX,gwmtracking.com
   - DOMAIN-SUFFIX,analytics.formstack.com
@@ -4601,8 +4607,10 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sfp.safe.baidu.com
   - DOMAIN-SUFFIX,revi.rcs.it
   - DOMAIN-SUFFIX,counter.megagroup.ru
+  - DOMAIN-SUFFIX,howmanyview.com
   - DOMAIN-SUFFIX,part-time-job.biz
   - DOMAIN-SUFFIX,hydrahydra.ir
   - DOMAIN-SUFFIX,e.viously.com
