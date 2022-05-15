@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,adbp.online
   - DOMAIN-SUFFIX,sofire.bdstatic.com
   - DOMAIN-SUFFIX,knowctr.com
   - DOMAIN-SUFFIX,px.mountain.com
@@ -207,7 +208,6 @@ payload:
   - DOMAIN-SUFFIX,vought.removeads.workers.dev
   - DOMAIN-SUFFIX,analytics.churnzero.net
   - DOMAIN-SUFFIX,trk.reclameaqui.com.br
-  - DOMAIN-SUFFIX,clickiocdn.com
   - DOMAIN-SUFFIX,delivery.satr.jp
   - DOMAIN-SUFFIX,i-cmg-amlg-prod.appspot.com
   - DOMAIN-SUFFIX,a.myfidevs.io
@@ -4607,6 +4607,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,wa.mail.com
   - DOMAIN-SUFFIX,sfp.safe.baidu.com
   - DOMAIN-SUFFIX,revi.rcs.it
   - DOMAIN-SUFFIX,counter.megagroup.ru
