@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,selphiu.com
+  - DOMAIN-SUFFIX,tr.vitals.co
   - DOMAIN-SUFFIX,predataclient.b-cdn.net
   - DOMAIN-SUFFIX,ad-plus.com.tr
   - DOMAIN-SUFFIX,t.cotsta.ru
@@ -1931,9 +1933,7 @@ payload:
   - DOMAIN-SUFFIX,flcounter.com
   - DOMAIN-SUFFIX,t.flix360.com
   - DOMAIN-SUFFIX,rt.flix360.com
-  - DOMAIN-SUFFIX,flixcar.com
   - DOMAIN-SUFFIX,flixfacts.co.uk
-  - DOMAIN-SUFFIX,flixfacts.com
   - DOMAIN-SUFFIX,flixsyndication.net
   - DOMAIN-SUFFIX,fluctuo.com
   - DOMAIN-SUFFIX,fluencymedia.com
@@ -4540,15 +4540,10 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
-  - DOMAIN-SUFFIX,ben.crxmouse.com
-  - DOMAIN-SUFFIX,api2.poperblocker.com
-  - DOMAIN-SUFFIX,yourblocksite.com
-  - DOMAIN-SUFFIX,taskapi.net
-  - DOMAIN-SUFFIX,d10vy5gom1ed53.cloudfront.net
-  - DOMAIN-SUFFIX,um-public-panel-prod.s3.amazonaws.com
-  - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
-  - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d3plfjw9uod7ab.cloudfront.net
+  - DOMAIN-SUFFIX,za.zingnews.vn
+  - DOMAIN-SUFFIX,treg.hearstnp.com
   - DOMAIN-SUFFIX,r.miamano.com
   - DOMAIN-SUFFIX,heap.drop.com
   - DOMAIN-SUFFIX,r.razer.com
@@ -4567,7 +4562,6 @@ payload:
   - DOMAIN-SUFFIX,gtm.vanmoof.com
   - DOMAIN-SUFFIX,pc3.vanmoof.com
   - DOMAIN-SUFFIX,ad.bench.utorrent.com
-  - DOMAIN-SUFFIX,n730.timesunion.com
   - DOMAIN-SUFFIX,eventbus.intuit.com
   - DOMAIN-SUFFIX,zion.qbo.intuit.com
   - DOMAIN-SUFFIX,analytics-production.hapyak.com
@@ -6392,6 +6386,51 @@ payload:
   - DOMAIN-SUFFIX,log2.musical.ly
   - DOMAIN-SUFFIX,frontier.musical.ly
   - DOMAIN-SUFFIX,xlog-va.musical.ly
+  - DOMAIN-SUFFIX,c993.westport-news.com
+  - DOMAIN-SUFFIX,d276.ourmidland.com
+  - DOMAIN-SUFFIX,d810.mysanantonio.com
+  - DOMAIN-SUFFIX,f164.sheltonherald.com
+  - DOMAIN-SUFFIX,f775.thehour.com
+  - DOMAIN-SUFFIX,f857.hearstmediatx.com
+  - DOMAIN-SUFFIX,h353.ncadvertiser.com
+  - DOMAIN-SUFFIX,h559.stamfordadvocate.com
+  - DOMAIN-SUFFIX,j158.hearstmediact.com
+  - DOMAIN-SUFFIX,j198.registercitizen.com
+  - DOMAIN-SUFFIX,l936.expressnews.com
+  - DOMAIN-SUFFIX,l997.lmtonline.com
+  - DOMAIN-SUFFIX,n730.timesunion.com
+  - DOMAIN-SUFFIX,o398.trumbulltimes.com
+  - DOMAIN-SUFFIX,p593.seattlepi.com
+  - DOMAIN-SUFFIX,q777.sfchronicle.com
+  - DOMAIN-SUFFIX,r541.houstonchronicle.com
+  - DOMAIN-SUFFIX,s232.theintelligencer.com
+  - DOMAIN-SUFFIX,t570.wiltonbulletin.com
+  - DOMAIN-SUFFIX,t810.ctpost.com
+  - DOMAIN-SUFFIX,u566.chron.com
+  - DOMAIN-SUFFIX,u652.myplainview.com
+  - DOMAIN-SUFFIX,u927.sfgate.com
+  - DOMAIN-SUFFIX,w020.newmilfordspectrum.com
+  - DOMAIN-SUFFIX,w740.newstimes.com
+  - DOMAIN-SUFFIX,w982.middletownpress.com
+  - DOMAIN-SUFFIX,x822.mrt.com
+  - DOMAIN-SUFFIX,y653.theridgefieldpress.com
+  - DOMAIN-SUFFIX,y738.nhregister.com
+  - DOMAIN-SUFFIX,y752.milfordmirror.com
+  - DOMAIN-SUFFIX,y820.darientimes.com
+  - DOMAIN-SUFFIX,y900.greenwichtime.com
+  - DOMAIN-SUFFIX,z211.yourconroenews.com
+  - DOMAIN-SUFFIX,z492.ctinsider.com
+  - DOMAIN-SUFFIX,z590.fairfieldcitizenonline.com
+  - DOMAIN-SUFFIX,z680.beaumontenterprise.com
+  - DOMAIN-SUFFIX,z929.fuelfix.com
+  - DOMAIN-SUFFIX,ben.crxmouse.com
+  - DOMAIN-SUFFIX,api2.poperblocker.com
+  - DOMAIN-SUFFIX,yourblocksite.com
+  - DOMAIN-SUFFIX,taskapi.net
+  - DOMAIN-SUFFIX,d10vy5gom1ed53.cloudfront.net
+  - DOMAIN-SUFFIX,um-public-panel-prod.s3.amazonaws.com
+  - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
+  - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,1909a8.satofull.jp
   - DOMAIN-SUFFIX,a8-itp.qoo10.jp
   - DOMAIN-SUFFIX,a8.01cloud.jp
@@ -19623,6 +19662,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,stats.fifthstarlabs.io
+  - DOMAIN-SUFFIX,collector.doordash.com
+  - DOMAIN-SUFFIX,events.iap.unity3d.com
+  - DOMAIN-SUFFIX,mobilelog.ws.pho.to
   - DOMAIN-SUFFIX,etl.tindersparks.com
   - DOMAIN-SUFFIX,tags.creditkarma.com
   - DOMAIN-SUFFIX,track.extra.app
