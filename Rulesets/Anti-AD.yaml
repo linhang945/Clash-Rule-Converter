@@ -1,8 +1,8 @@
 payload:
 #TITLE=anti-AD
-#VER=20220523024259
+#VER=20220524175443
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=54571
+#TOTAL_LINES=54572
   - DOMAIN-SUFFIX,00-gov.cn
   - DOMAIN-SUFFIX,000123456789.online
   - DOMAIN-SUFFIX,000123456789.site
@@ -4986,6 +4986,7 @@ payload:
   - DOMAIN-SUFFIX,bmp.ali213.net
   - DOMAIN-SUFFIX,bmp1.ali213.net
   - DOMAIN-SUFFIX,web.ali213.net
+  - DOMAIN-SUFFIX,click.ali213.net
   - DOMAIN-SUFFIX,aliadvert.ru
   - DOMAIN-SUFFIX,aliapp.org
   - DOMAIN-SUFFIX,aliascagesboxer.com
@@ -20031,6 +20032,7 @@ payload:
   - DOMAIN-SUFFIX,automate.gixxy.com
   - DOMAIN-SUFFIX,sourcepoint.gizmodo.com
   - DOMAIN-SUFFIX,gj500.com
+  - DOMAIN-SUFFIX,gjctwh.cn
   - DOMAIN-SUFFIX,5568.gjghy.com
   - DOMAIN-SUFFIX,gjh111.cn
   - DOMAIN-SUFFIX,m.gjiai.com
@@ -37489,7 +37491,6 @@ payload:
   - DOMAIN-SUFFIX,qhonzpl.cn
   - DOMAIN-SUFFIX,m.qhout.com
   - DOMAIN-SUFFIX,qhqofqeivtno.com
-  - DOMAIN-SUFFIX,qhres2.com
   - DOMAIN-SUFFIX,c.qhruixin.cn
   - DOMAIN-SUFFIX,v.qhruixin.cn
   - DOMAIN-SUFFIX,news.qhstatic.com
@@ -39858,7 +39859,6 @@ payload:
   - DOMAIN-SUFFIX,rulinecrea.xyz
   - DOMAIN-SUFFIX,rulkerton.site
   - DOMAIN-SUFFIX,rumanalytics.com
-  - DOMAIN-SUFFIX,rumble.com
   - DOMAIN-SUFFIX,rumerrand.com
   - DOMAIN-SUFFIX,rummyaffiliates.com
   - DOMAIN-SUFFIX,rumpelstiltskinhead.com
@@ -49844,6 +49844,7 @@ payload:
   - DOMAIN-SUFFIX,tui.weibo.com
   - DOMAIN-SUFFIX,wbapp.uve.weibo.com
   - DOMAIN-SUFFIX,zymo.mps.weibo.com
+  - DOMAIN-SUFFIX,fastimage.uve.weibo.com
   - DOMAIN-SUFFIX,alitui.weibo.com.cn
   - DOMAIN-SUFFIX,biz.weibo.com.cn
   - DOMAIN-SUFFIX,game.weibo.com.cn
@@ -50906,7 +50907,6 @@ payload:
   - DOMAIN-SUFFIX,wpsweb-dc.wps.cn
   - DOMAIN-SUFFIX,adres.wpscdn.cn
   - DOMAIN-SUFFIX,img.gou.wpscdn.cn
-  - DOMAIN-SUFFIX,mo.res.wpscdn.cn
   - DOMAIN-SUFFIX,analytics.wpsermons.com
   - DOMAIN-SUFFIX,tracker.wpserveur.net
   - DOMAIN-SUFFIX,wpshsdk.com
@@ -51533,6 +51533,7 @@ payload:
   - DOMAIN-SUFFIX,stat.pandora.xiaomi.com
   - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,admob.xiaomi.com
+  - DOMAIN-SUFFIX,t1.market.xiaomi.com
   - DOMAIN-SUFFIX,app.chat.xiaomi.net
   - DOMAIN-SUFFIX,lxcdn.dl.files.xiaomi.net
   - DOMAIN-SUFFIX,migrate.driveapi.micloud.xiaomi.net
