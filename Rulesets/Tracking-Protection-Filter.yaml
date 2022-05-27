@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,reports.koalametrics.com
+  - DOMAIN-SUFFIX,js.go2sdk.com
   - DOMAIN-SUFFIX,dbfocus.jp
   - DOMAIN-SUFFIX,selphiu.com
   - DOMAIN-SUFFIX,tr.vitals.co
@@ -16,7 +17,7 @@ payload:
   - DOMAIN-SUFFIX,poqup.com
   - DOMAIN-SUFFIX,adbp.online
   - DOMAIN-SUFFIX,sofire.bdstatic.com
-  - DOMAIN-SUFFIX,gokwik.co
+  - DOMAIN-SUFFIX,analytics.gokwik.co
   - DOMAIN-SUFFIX,knowctr.com
   - DOMAIN-SUFFIX,px.mountain.com
   - DOMAIN-SUFFIX,gs.mountain.com
@@ -4543,6 +4544,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,data.mimikama.at
+  - DOMAIN-SUFFIX,sayac.tmgrup.com.tr
+  - DOMAIN-SUFFIX,t.melhorplano.net
   - DOMAIN-SUFFIX,ma.tarnkappe.info
   - DOMAIN-SUFFIX,iabusprivacy.pmc.com
   - DOMAIN-SUFFIX,pzd.rakuten.co.jp
