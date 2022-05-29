@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tapestry.tapad.com
+  - DOMAIN-SUFFIX,panda.kasika.io
+  - DOMAIN-SUFFIX,insights.algolia.io
+  - DOMAIN-SUFFIX,heatmap.emma.tools
   - DOMAIN-SUFFIX,reports.koalametrics.com
   - DOMAIN-SUFFIX,js.go2sdk.com
   - DOMAIN-SUFFIX,dbfocus.jp
@@ -4544,6 +4548,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,shtrack.kingsoft.jp
+  - DOMAIN-SUFFIX,teralog.techhub.co.kr
   - DOMAIN-SUFFIX,data.mimikama.at
   - DOMAIN-SUFFIX,sayac.tmgrup.com.tr
   - DOMAIN-SUFFIX,t.melhorplano.net
