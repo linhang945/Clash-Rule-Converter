@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,wpfc.ml
+  - DOMAIN-SUFFIX,weborama.com
   - DOMAIN-SUFFIX,quesid.com
   - DOMAIN-SUFFIX,acclog001.shop-pro.jp
   - DOMAIN-SUFFIX,acclog002.shop-pro.jp
@@ -1101,6 +1103,7 @@ payload:
   - DOMAIN-SUFFIX,c.nakanohito.jp
   - DOMAIN-SUFFIX,b16.nakanohito.jp
   - DOMAIN-SUFFIX,trk.olnl.net
+  - DOMAIN-SUFFIX,ustat.info
   - DOMAIN-SUFFIX,ustat.pro
   - DOMAIN-SUFFIX,stat.uitools.space
   - DOMAIN-SUFFIX,healte.de
@@ -3523,6 +3526,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,floweryflavor.com
   - DOMAIN-SUFFIX,terrifictooth.com
   - DOMAIN-SUFFIX,parchedsofa.com
   - DOMAIN-SUFFIX,pleasantpump.com
@@ -4559,6 +4563,11 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d.sondakika.com
+  - DOMAIN-SUFFIX,tracking.channelsight.com
+  - DOMAIN-SUFFIX,st.avsplow.com
+  - DOMAIN-SUFFIX,tag.escalated.io
+  - DOMAIN-SUFFIX,app.leadsrx.com
   - DOMAIN-SUFFIX,stats.tipser.com
   - DOMAIN-SUFFIX,dynatrace.att.com
   - DOMAIN-SUFFIX,analytics.regex101.com
