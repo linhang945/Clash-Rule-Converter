@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,lmepbq.com
+  - DOMAIN-SUFFIX,tzegilo.com
   - DOMAIN-SUFFIX,cdn.rlets.com
   - DOMAIN-SUFFIX,agent.contentsanalyst.com
   - DOMAIN-SUFFIX,tangerine.io
@@ -568,7 +570,6 @@ payload:
   - DOMAIN-SUFFIX,shopback.net
   - DOMAIN-SUFFIX,shopconvert.com.br
   - DOMAIN-SUFFIX,neemu.com
-  - DOMAIN-SUFFIX,ping.staticmoly.me
   - DOMAIN-SUFFIX,prod-sb-appanalytics-us1.servicebus.windows.net
   - DOMAIN-SUFFIX,mci1.co.kr
   - DOMAIN-SUFFIX,analytics.sitewit.com
@@ -6502,6 +6503,7 @@ payload:
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
   - DOMAIN-SUFFIX,d10vy5gom1ed53.cloudfront.net
   - DOMAIN-SUFFIX,um-public-panel-prod.s3.amazonaws.com
+  - DOMAIN-SUFFIX,pl02.owen.prolitteris.ch
   - DOMAIN-SUFFIX,1909a8.satofull.jp
   - DOMAIN-SUFFIX,a8-itp.qoo10.jp
   - DOMAIN-SUFFIX,a8.01cloud.jp
