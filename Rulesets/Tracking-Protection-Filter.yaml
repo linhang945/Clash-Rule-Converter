@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cux.io
   - DOMAIN-SUFFIX,cdn.memo.co
   - DOMAIN-SUFFIX,elsa.memoinsights.com
   - DOMAIN-SUFFIX,j.mrpdata.net
@@ -4587,6 +4588,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.cloud.coveo.com
   - DOMAIN-SUFFIX,rum.condenastdigital.com
   - DOMAIN-SUFFIX,rt.t-online.de
   - DOMAIN-SUFFIX,analytic-client.cuntempire.com
