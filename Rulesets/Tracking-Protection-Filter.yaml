@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,utt.impactcdn.com
+  - DOMAIN-SUFFIX,feathr.co
+  - DOMAIN-SUFFIX,automizely-analytics.com
+  - DOMAIN-SUFFIX,metrics.dominos.com.tr
   - DOMAIN-SUFFIX,salesloft.com
   - DOMAIN-SUFFIX,ctags.cn
   - DOMAIN-SUFFIX,gridsumdissector.com
@@ -4595,6 +4599,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,acelogger.heraldcorp.com
   - DOMAIN-SUFFIX,t.hypers.com.cn
   - DOMAIN-SUFFIX,log.ycapp.yiche.com
   - DOMAIN-SUFFIX,stats.videoseyred.in
@@ -18617,6 +18622,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,dm.pstatp.com
+  - DOMAIN-SUFFIX,countly.globaldelight.net
   - DOMAIN-SUFFIX,log.game.qcplay.com
   - DOMAIN-SUFFIX,report-stats.ad.jiguang.cn
   - DOMAIN-SUFFIX,config.jpush.cn
