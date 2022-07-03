@@ -4599,6 +4599,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sp-trk.com
   - DOMAIN-SUFFIX,acelogger.heraldcorp.com
   - DOMAIN-SUFFIX,t.hypers.com.cn
   - DOMAIN-SUFFIX,log.ycapp.yiche.com
@@ -5567,6 +5568,7 @@ payload:
   - DOMAIN-SUFFIX,m.dubcm.com
   - DOMAIN-SUFFIX,ma.news.naver.com
   - DOMAIN-SUFFIX,ma.tarnkappe.info
+  - DOMAIN-SUFFIX,posthog.tarnkappe.info
   - DOMAIN-SUFFIX,ma.zoho.eu
   - DOMAIN-SUFFIX,magnetrack.klangoo.com
   - DOMAIN-SUFFIX,mamka.aviasales.ru
@@ -6427,7 +6429,6 @@ payload:
   - DOMAIN-SUFFIX,trck.cyberport.de
   - DOMAIN-SUFFIX,trck.spoteffects.net
   - DOMAIN-SUFFIX,treasuredata.com
-  - DOMAIN-SUFFIX,treg.hearstnp.com
   - DOMAIN-SUFFIX,triggertag.gorillanation.com
   - DOMAIN-SUFFIX,trk.10ru.pt
   - DOMAIN-SUFFIX,trk.i0.cz
