@@ -5,8 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,we-stats.com
+  - DOMAIN-SUFFIX,s.qhupdate.com
+  - DOMAIN-SUFFIX,papi.look.360.cn
   - DOMAIN-SUFFIX,cdn.dsspn.com
   - DOMAIN-SUFFIX,ujm.hansel.io
+  - DOMAIN-SUFFIX,userexperience.thehut.net
   - DOMAIN-SUFFIX,webtrafficsource.com
   - DOMAIN-SUFFIX,utt.impactcdn.com
   - DOMAIN-SUFFIX,feathr.co
@@ -3557,6 +3561,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,childlikecrowd.com
   - DOMAIN-SUFFIX,stretchsister.com
   - DOMAIN-SUFFIX,tastelesstrucks.com
   - DOMAIN-SUFFIX,handsomelyhealth.com
@@ -4599,6 +4604,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ubuyanalytics.ubuy.com
+  - DOMAIN-SUFFIX,hit.c97.org
+  - DOMAIN-SUFFIX,c.rzk-m.com
   - DOMAIN-SUFFIX,sp-trk.com
   - DOMAIN-SUFFIX,acelogger.heraldcorp.com
   - DOMAIN-SUFFIX,t.hypers.com.cn
@@ -5094,6 +5102,7 @@ payload:
   - DOMAIN-SUFFIX,d.haberler.com
   - DOMAIN-SUFFIX,d.impactradius-event.com
   - DOMAIN-SUFFIX,d.sondakika.com
+  - DOMAIN-SUFFIX,d14pdm1b7fi5kh.cloudfront.net
   - DOMAIN-SUFFIX,d1cdnlzf6usiff.cloudfront.net
   - DOMAIN-SUFFIX,d1cerpgff739r9.cloudfront.net
   - DOMAIN-SUFFIX,d1clfvuu2240eh.cloudfront.net
@@ -5421,7 +5430,6 @@ payload:
   - DOMAIN-SUFFIX,intent.cbsi.com
   - DOMAIN-SUFFIX,ip.hivps.xyz
   - DOMAIN-SUFFIX,ipada.cafe.naver.com
-  - DOMAIN-SUFFIX,ipcheck.tmgrup.com.tr
   - DOMAIN-SUFFIX,iptracker-lb-*.amazonaws.com
   - DOMAIN-SUFFIX,irqs.ioam.de
   - DOMAIN-SUFFIX,ish.tumedia.no
