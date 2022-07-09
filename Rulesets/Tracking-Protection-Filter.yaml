@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,track.coherentpath.com
+  - DOMAIN-SUFFIX,qlitics.com
   - DOMAIN-SUFFIX,we-stats.com
   - DOMAIN-SUFFIX,s.qhupdate.com
   - DOMAIN-SUFFIX,papi.look.360.cn
@@ -4604,6 +4606,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,cnt.hd21.com
   - DOMAIN-SUFFIX,ubuyanalytics.ubuy.com
   - DOMAIN-SUFFIX,hit.c97.org
   - DOMAIN-SUFFIX,c.rzk-m.com
