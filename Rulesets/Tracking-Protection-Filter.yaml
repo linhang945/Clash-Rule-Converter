@@ -5,9 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,pix.pub
+  - DOMAIN-SUFFIX,yext-pixel.com
   - DOMAIN-SUFFIX,h5.eagllwin.com
   - DOMAIN-SUFFIX,skillfuldrop.com
-  - DOMAIN-SUFFIX,clap.blogcms.jp
   - DOMAIN-SUFFIX,ssp.igaw.io
   - DOMAIN-SUFFIX,pixel.lilystyle.ai
   - DOMAIN-SUFFIX,t.elasticsuite.io
@@ -338,7 +339,6 @@ payload:
   - DOMAIN-SUFFIX,integrations.syncmedia.io
   - DOMAIN-SUFFIX,fbthirdpartypixel.com
   - DOMAIN-SUFFIX,log.lon22.com
-  - DOMAIN-SUFFIX,tracking.leeep.jp
   - DOMAIN-SUFFIX,tracking.parte.com
   - DOMAIN-SUFFIX,permutive.app
   - DOMAIN-SUFFIX,f.sen.seg.br
@@ -4615,6 +4615,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracking.leeep.jp
   - DOMAIN-SUFFIX,w-api.baomoi.com
   - DOMAIN-SUFFIX,za.baomoi.com
   - DOMAIN-SUFFIX,log.baomoi.com
