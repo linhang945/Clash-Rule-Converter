@@ -1,7 +1,83 @@
 payload:
-  - DOMAIN-SUFFIX,point.widget.rakuten.co.jp
-  - DOMAIN-SUFFIX,ext-stat.ru
-  - DOMAIN-SUFFIX,mystatext.ru
+  - DOMAIN-SUFFIX,cmp.quantcast.com
+  - DOMAIN-SUFFIX,clickskeks.at
+  - DOMAIN-SUFFIX,consent.nit.ro
+  - DOMAIN-SUFFIX,ccm.takuma.de
+  - DOMAIN-SUFFIX,gdpr-legal-cookie.beeclever.app
+  - DOMAIN-SUFFIX,ecookie.nl
+  - DOMAIN-SUFFIX,cdn.userdatatrust.com
+  - DOMAIN-SUFFIX,ccm19.de
+  - DOMAIN-SUFFIX,cookie-widget.ru
+  - DOMAIN-SUFFIX,legalmonster.com
+  - DOMAIN-SUFFIX,consentmanager.firststars.io
+  - DOMAIN-SUFFIX,up-cookiemon.wavecdn.net
+  - DOMAIN-SUFFIX,cdn.privacytools.com.br
+  - DOMAIN-SUFFIX,goadopt.io
+  - DOMAIN-SUFFIX,traceprof.com
+  - DOMAIN-SUFFIX,cookihq.com
+  - DOMAIN-SUFFIX,cookiepro.com
+  - DOMAIN-SUFFIX,choices.consentframework.com
+  - DOMAIN-SUFFIX,consent-notice.magix.com
+  - DOMAIN-SUFFIX,cmp.md-nx.com
+  - DOMAIN-SUFFIX,appconsent.io
+  - DOMAIN-SUFFIX,noterium.com
+  - DOMAIN-SUFFIX,cdn.privacy-mgmt.com
+  - DOMAIN-SUFFIX,cmp.osano.com
+  - DOMAIN-SUFFIX,cookie-sl.s3.*.amazonaws.com
+  - DOMAIN-SUFFIX,consent.cookiefirst.com
+  - DOMAIN-SUFFIX,hs-banner.com
+  - DOMAIN-SUFFIX,fumblingform.com
+  - DOMAIN-SUFFIX,aloofvest.com
+  - DOMAIN-SUFFIX,hs-scripts.com
+  - DOMAIN-SUFFIX,cookiehub.net
+  - DOMAIN-SUFFIX,cdn.opencmp.net
+  - DOMAIN-SUFFIX,cookie-switch.viminds.de
+  - DOMAIN-SUFFIX,cookieinfoscript.com
+  - DOMAIN-SUFFIX,cookie-script.com
+  - DOMAIN-SUFFIX,tracker.convead.io
+  - DOMAIN-SUFFIX,oil.axelspringer.com
+  - DOMAIN-SUFFIX,consent.cmp.oath.com
+  - DOMAIN-SUFFIX,cookielaw.org
+  - DOMAIN-SUFFIX,d.delivery.consentmanager.net
+  - DOMAIN-SUFFIX,confirmic.com
+  - DOMAIN-SUFFIX,gdpr.privacymanager.io
+  - DOMAIN-SUFFIX,gdpr-wrapper.privacymanager.io
+  - DOMAIN-SUFFIX,cookiemanager.wirth-horn.de
+  - DOMAIN-SUFFIX,consent.trustarc.com
+  - DOMAIN-SUFFIX,onetrust.com
+  - DOMAIN-SUFFIX,consent.dumont.de
+  - DOMAIN-SUFFIX,metomic.io
+  - DOMAIN-SUFFIX,privacy-center.org
+  - DOMAIN-SUFFIX,policy*.cookieinformation.com
+  - DOMAIN-SUFFIX,consent.truste.com
+  - DOMAIN-SUFFIX,iubenda.com
+  - DOMAIN-SUFFIX,r42tag.com
+  - DOMAIN-SUFFIX,cookieq.com
+  - DOMAIN-SUFFIX,usercentrics.eu
+  - DOMAIN-SUFFIX,clickio.mgr.consensu.org
+  - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
+  - DOMAIN-SUFFIX,quantcast.mgr.consensu.org
+  - DOMAIN-SUFFIX,consent.dropbox.com
+  - DOMAIN-SUFFIX,consent.scm-verlagsgruppe.de
+  - DOMAIN-SUFFIX,consent.economist.com
+  - DOMAIN-SUFFIX,cmp.ganref.jp
+  - DOMAIN-SUFFIX,cmp.netatopi.jp
+  - DOMAIN-SUFFIX,cmp.seniorguide.jp
+  - DOMAIN-SUFFIX,cmp.impress.co.jp
+  - DOMAIN-SUFFIX,cmpv2.macworld.co.uk
+  - DOMAIN-SUFFIX,gdpr.laxd.com
+  - DOMAIN-SUFFIX,consent.boerse-online.de
+  - DOMAIN-SUFFIX,consent.finanzen.net
+  - DOMAIN-SUFFIX,cookies.joneslanglasalle.co.jp
+  - DOMAIN-SUFFIX,cmp.acronymfinder.com
+  - DOMAIN-SUFFIX,sp-consent.stuttgarter-zeitung.de
+  - DOMAIN-SUFFIX,cmp.dmgmediaprivacy.co.uk
+  - DOMAIN-SUFFIX,privacy.selbst.de
+  - DOMAIN-SUFFIX,thestrad-gb.thestrad.com
+  - DOMAIN-SUFFIX,consent.prismamedia.com
+  - DOMAIN-SUFFIX,rodo.agora.pl
+  - DOMAIN-SUFFIX,tracking-consent.static.anwb.nl
+  - DOMAIN-SUFFIX,cc.silktide.com
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
   - DOMAIN-SUFFIX,childlikecrowd.com
@@ -89,103 +165,22 @@ payload:
   - DOMAIN-SUFFIX,habitualhumor.com
   - DOMAIN-SUFFIX,dapperdiscussion.com
   - DOMAIN-SUFFIX,curvycry.com
+  - DOMAIN-SUFFIX,absorbingprison.com
+  - DOMAIN-SUFFIX,bournemouthecho-gb.bournemouthecho.co.uk
+  - DOMAIN-SUFFIX,chesterstandard-gb.chesterstandard.co.uk
+  - DOMAIN-SUFFIX,copperchickens.com
+  - DOMAIN-SUFFIX,massivemark.com
+  - DOMAIN-SUFFIX,newsandstar-gb.newsandstar.co.uk
   - DOMAIN-SUFFIX,omapi.fangraphs.com
+  - DOMAIN-SUFFIX,prepareplanes.com
+  - DOMAIN-SUFFIX,puffypull.com
+  - DOMAIN-SUFFIX,sortsummer.com
+  - DOMAIN-SUFFIX,sp.azcentral.com
+  - DOMAIN-SUFFIX,sp.desmoinesregister.com
   - DOMAIN-SUFFIX,sp.nintendolife.com
   - DOMAIN-SUFFIX,sp.pushsquare.com
-  - DOMAIN-SUFFIX,sp.azcentral.com
-  - DOMAIN-SUFFIX,newsandstar-gb.newsandstar.co.uk
   - DOMAIN-SUFFIX,ttauri.livescience.com
-  - DOMAIN-SUFFIX,bournemouthecho-gb.bournemouthecho.co.uk
-  - DOMAIN-SUFFIX,prepareplanes.com
-  - DOMAIN-SUFFIX,massivemark.com
-  - DOMAIN-SUFFIX,absorbingprison.com
-  - DOMAIN-SUFFIX,chesterstandard-gb.chesterstandard.co.uk
-  - DOMAIN-SUFFIX,sp.desmoinesregister.com
-  - DOMAIN-SUFFIX,sortsummer.com
-  - DOMAIN-SUFFIX,puffypull.com
-  - DOMAIN-SUFFIX,copperchickens.com
   - DOMAIN-SUFFIX,ttauri.toptenreviews.com
-  - DOMAIN-SUFFIX,cmp.quantcast.com
-  - DOMAIN-SUFFIX,clickskeks.at
-  - DOMAIN-SUFFIX,consent.nit.ro
-  - DOMAIN-SUFFIX,ccm.takuma.de
-  - DOMAIN-SUFFIX,gdpr-legal-cookie.beeclever.app
-  - DOMAIN-SUFFIX,ecookie.nl
-  - DOMAIN-SUFFIX,cdn.userdatatrust.com
-  - DOMAIN-SUFFIX,ccm19.de
-  - DOMAIN-SUFFIX,cookie-widget.ru
-  - DOMAIN-SUFFIX,legalmonster.com
-  - DOMAIN-SUFFIX,consentmanager.firststars.io
-  - DOMAIN-SUFFIX,up-cookiemon.wavecdn.net
-  - DOMAIN-SUFFIX,cdn.privacytools.com.br
-  - DOMAIN-SUFFIX,goadopt.io
-  - DOMAIN-SUFFIX,traceprof.com
-  - DOMAIN-SUFFIX,cookihq.com
-  - DOMAIN-SUFFIX,cookiepro.com
-  - DOMAIN-SUFFIX,choices.consentframework.com
-  - DOMAIN-SUFFIX,consent-notice.magix.com
-  - DOMAIN-SUFFIX,cmp.md-nx.com
-  - DOMAIN-SUFFIX,appconsent.io
-  - DOMAIN-SUFFIX,noterium.com
-  - DOMAIN-SUFFIX,cdn.privacy-mgmt.com
-  - DOMAIN-SUFFIX,cmp.osano.com
-  - DOMAIN-SUFFIX,cookie-sl.s3.*.amazonaws.com
-  - DOMAIN-SUFFIX,consent.cookiefirst.com
-  - DOMAIN-SUFFIX,hs-banner.com
-  - DOMAIN-SUFFIX,fumblingform.com
-  - DOMAIN-SUFFIX,aloofvest.com
-  - DOMAIN-SUFFIX,hs-scripts.com
-  - DOMAIN-SUFFIX,cookiehub.net
-  - DOMAIN-SUFFIX,cdn.opencmp.net
-  - DOMAIN-SUFFIX,cookie-switch.viminds.de
-  - DOMAIN-SUFFIX,cookieinfoscript.com
-  - DOMAIN-SUFFIX,cookie-script.com
-  - DOMAIN-SUFFIX,tracker.convead.io
-  - DOMAIN-SUFFIX,oil.axelspringer.com
-  - DOMAIN-SUFFIX,consent.cmp.oath.com
-  - DOMAIN-SUFFIX,cookielaw.org
-  - DOMAIN-SUFFIX,d.delivery.consentmanager.net
-  - DOMAIN-SUFFIX,confirmic.com
-  - DOMAIN-SUFFIX,gdpr.privacymanager.io
-  - DOMAIN-SUFFIX,gdpr-wrapper.privacymanager.io
-  - DOMAIN-SUFFIX,cookiemanager.wirth-horn.de
-  - DOMAIN-SUFFIX,consent.trustarc.com
-  - DOMAIN-SUFFIX,onetrust.com
-  - DOMAIN-SUFFIX,consent.dumont.de
-  - DOMAIN-SUFFIX,metomic.io
-  - DOMAIN-SUFFIX,privacy-center.org
-  - DOMAIN-SUFFIX,policy*.cookieinformation.com
-  - DOMAIN-SUFFIX,consent.truste.com
-  - DOMAIN-SUFFIX,iubenda.com
-  - DOMAIN-SUFFIX,r42tag.com
-  - DOMAIN-SUFFIX,cookieq.com
-  - DOMAIN-SUFFIX,usercentrics.eu
-  - DOMAIN-SUFFIX,clickio.mgr.consensu.org
-  - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
-  - DOMAIN-SUFFIX,quantcast.mgr.consensu.org
-  - DOMAIN-SUFFIX,consent.dropbox.com
-  - DOMAIN-SUFFIX,consent.scm-verlagsgruppe.de
-  - DOMAIN-SUFFIX,consent.economist.com
-  - DOMAIN-SUFFIX,cmp.ganref.jp
-  - DOMAIN-SUFFIX,cmp.netatopi.jp
-  - DOMAIN-SUFFIX,cmp.seniorguide.jp
-  - DOMAIN-SUFFIX,cmp.impress.co.jp
-  - DOMAIN-SUFFIX,cmpv2.macworld.co.uk
-  - DOMAIN-SUFFIX,gdpr.laxd.com
-  - DOMAIN-SUFFIX,consent.boerse-online.de
-  - DOMAIN-SUFFIX,consent.finanzen.net
-  - DOMAIN-SUFFIX,cookies.joneslanglasalle.co.jp
-  - DOMAIN-SUFFIX,cmp.acronymfinder.com
-  - DOMAIN-SUFFIX,sp-consent.stuttgarter-zeitung.de
-  - DOMAIN-SUFFIX,cmp.dmgmediaprivacy.co.uk
-  - DOMAIN-SUFFIX,privacy.selbst.de
-  - DOMAIN-SUFFIX,thestrad-gb.thestrad.com
-  - DOMAIN-SUFFIX,consent.prismamedia.com
-  - DOMAIN-SUFFIX,rodo.agora.pl
-  - DOMAIN-SUFFIX,tracking-consent.static.anwb.nl
-  - DOMAIN-SUFFIX,cc.silktide.com
-  - DOMAIN-SUFFIX,2app.lk
-  - DOMAIN-SUFFIX,br.app.link
   - DOMAIN-SUFFIX,7pisem.com
   - DOMAIN-SUFFIX,7pisem.ru
   - DOMAIN-SUFFIX,api.cazamba.com
@@ -631,13 +626,6 @@ payload:
   - DOMAIN-SUFFIX,pp.teksty-pesenok.ru
   - DOMAIN-SUFFIX,gu7socdn.txxx.com
   - DOMAIN-SUFFIX,cdn.pushowl.com
-  - DOMAIN-SUFFIX,xhamsterpremium.com
-  - DOMAIN-SUFFIX,contributions.guardianapis.com
-  - DOMAIN-SUFFIX,usefomo.com
-  - DOMAIN-SUFFIX,shop.kicker.de
-  - DOMAIN-SUFFIX,banner.consultant.ru
-  - DOMAIN-SUFFIX,illicium.wmtransfer.com
-  - DOMAIN-SUFFIX,illicium.web.money
   - DOMAIN-SUFFIX,embeds.fanmatics.com
   - DOMAIN-SUFFIX,inyourarea.co.uk
   - DOMAIN-SUFFIX,js.emailable.com
@@ -656,6 +644,18 @@ payload:
   - DOMAIN-SUFFIX,alertme.news
   - DOMAIN-SUFFIX,ipepostman.com
   - DOMAIN-SUFFIX,wb.whatsbroadcast.com
+  - DOMAIN-SUFFIX,2app.lk
+  - DOMAIN-SUFFIX,br.app.link
+  - DOMAIN-SUFFIX,point.widget.rakuten.co.jp
+  - DOMAIN-SUFFIX,ext-stat.ru
+  - DOMAIN-SUFFIX,mystatext.ru
+  - DOMAIN-SUFFIX,xhamsterpremium.com
+  - DOMAIN-SUFFIX,contributions.guardianapis.com
+  - DOMAIN-SUFFIX,usefomo.com
+  - DOMAIN-SUFFIX,shop.kicker.de
+  - DOMAIN-SUFFIX,banner.consultant.ru
+  - DOMAIN-SUFFIX,illicium.wmtransfer.com
+  - DOMAIN-SUFFIX,illicium.web.money
   - DOMAIN-SUFFIX,belezaedieta.com
   - DOMAIN-SUFFIX,komatech.net
   - DOMAIN-SUFFIX,fukugan.com
@@ -796,6 +796,7 @@ payload:
   - DOMAIN-SUFFIX,booster.webtradecenter.com
   - DOMAIN-SUFFIX,gacraft.jp
   - DOMAIN-SUFFIX,api.popin.cc
+  - DOMAIN-SUFFIX,synalio.com
   - DOMAIN-SUFFIX,chat.mundiale.com.br
   - DOMAIN-SUFFIX,chatbot.com
   - DOMAIN-SUFFIX,cdn-chat.grattis.ru
