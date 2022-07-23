@@ -4620,6 +4620,10 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,svi.online.sberbank.ru
+  - DOMAIN-SUFFIX,dmp.sbermarketing.ru
+  - DOMAIN-SUFFIX,clt.banggood.com
+  - DOMAIN-SUFFIX,collect.banggood.com
   - DOMAIN-SUFFIX,collector.github.com
   - DOMAIN-SUFFIX,logs.unchecky.com
   - DOMAIN-SUFFIX,logging.e-himart.co.kr
@@ -18608,6 +18612,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,static.fengkongcloud.com
+  - DOMAIN-SUFFIX,fp-*it*.fengkongcloud.com
+  - DOMAIN-SUFFIX,cloudconf.fengkongcloud.com
+  - DOMAIN-SUFFIX,tracker.fengkongcloud.com
   - DOMAIN-SUFFIX,dm.pstatp.com
   - DOMAIN-SUFFIX,countly.globaldelight.net
   - DOMAIN-SUFFIX,log.game.qcplay.com
