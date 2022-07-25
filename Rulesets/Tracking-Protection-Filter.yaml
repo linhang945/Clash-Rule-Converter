@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,log.dzen.ru
   - DOMAIN-SUFFIX,netcrew-analysis.jp
   - DOMAIN-SUFFIX,cookie.sync.usonar.jp
   - DOMAIN-SUFFIX,pt.appirits.com
@@ -4620,6 +4621,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,clb.yahoo.co.jp
   - DOMAIN-SUFFIX,svi.online.sberbank.ru
   - DOMAIN-SUFFIX,dmp.sbermarketing.ru
   - DOMAIN-SUFFIX,clt.banggood.com
