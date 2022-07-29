@@ -5,6 +5,17 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tracking.emerse.com
+  - DOMAIN-SUFFIX,master-shopify-tracker.s3.amazonaws.com
+  - DOMAIN-SUFFIX,analytics.m7g.twitch.tv
+  - DOMAIN-SUFFIX,kmp.twbymc.cn
+  - DOMAIN-SUFFIX,mbt.deeterno.cn
+  - DOMAIN-SUFFIX,brt.studylabs.cn
+  - DOMAIN-SUFFIX,effirst.com
+  - DOMAIN-SUFFIX,klickly.com
+  - DOMAIN-SUFFIX,alexatracker.com
+  - DOMAIN-SUFFIX,accanalyze.com
+  - DOMAIN-SUFFIX,splitbee.io
   - DOMAIN-SUFFIX,log.dzen.ru
   - DOMAIN-SUFFIX,netcrew-analysis.jp
   - DOMAIN-SUFFIX,cookie.sync.usonar.jp
@@ -4621,6 +4632,11 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,middleware.p7s1.io
+  - DOMAIN-SUFFIX,player-feedback.p7s1video.net
+  - DOMAIN-SUFFIX,stats.rustica.fr
+  - DOMAIN-SUFFIX,analytics.e1.ru
+  - DOMAIN-SUFFIX,ipcc.vnpt.com.vn
   - DOMAIN-SUFFIX,stats.ucheba.ru
   - DOMAIN-SUFFIX,stat.novinky.cz
   - DOMAIN-SUFFIX,cdn.stat-track.com
