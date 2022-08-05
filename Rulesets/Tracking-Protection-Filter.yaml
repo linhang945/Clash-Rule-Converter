@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.audionow.de
   - DOMAIN-SUFFIX,cdn.kaizenplatform.net
   - DOMAIN-SUFFIX,oaprodlogging.yo-digital.com
   - DOMAIN-SUFFIX,analytics.e2estudios.com
@@ -1021,8 +1022,7 @@ payload:
   - DOMAIN-SUFFIX,monetate.net
   - DOMAIN-SUFFIX,instana.io
   - DOMAIN-SUFFIX,sitelabweb.com
-  - DOMAIN-SUFFIX,scripts.jixie.io
-  - DOMAIN-SUFFIX,tr.jixie.io
+  - DOMAIN-SUFFIX,jixie.io
   - DOMAIN-SUFFIX,mc.yandex.ru
   - DOMAIN-SUFFIX,mc.yandex.com
   - DOMAIN-SUFFIX,track.segmentstream.com
@@ -4634,6 +4634,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,monorail-edge.shopifysvc.com
   - DOMAIN-SUFFIX,pixel.dmdi.pl
   - DOMAIN-SUFFIX,pumpkin.abine.com
   - DOMAIN-SUFFIX,middleware.p7s1.io
@@ -13018,6 +13019,7 @@ payload:
   - DOMAIN-SUFFIX,smetrics.adage.com
   - DOMAIN-SUFFIX,smetrics.adt.com
   - DOMAIN-SUFFIX,smetrics.aelca.es
+  - DOMAIN-SUFFIX,smetrics.aem.playstation.com
   - DOMAIN-SUFFIX,smetrics.aetn.com
   - DOMAIN-SUFFIX,smetrics.aftonbladet.se
   - DOMAIN-SUFFIX,smetrics.agentprovocateur.com
@@ -20356,8 +20358,6 @@ payload:
   - DOMAIN-SUFFIX,applogs.pixelfederation.com
   - DOMAIN-SUFFIX,applogs-v2.pixelfederation.com
   - DOMAIN-SUFFIX,analytics.dns-shop.ru
-  - DOMAIN-SUFFIX,smetrics.aem.playstation.com
-  - DOMAIN-SUFFIX,telemetry.api.playstation.com
   - DOMAIN-SUFFIX,trk2.pinterest.com
   - DOMAIN-SUFFIX,mobiletelemetry.ebay.com
   - DOMAIN-SUFFIX,tracker.departapp.com
