@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cdn.cohesionapps.com
+  - DOMAIN-SUFFIX,c212.net
   - DOMAIN-SUFFIX,imp.xmax.jp
   - DOMAIN-SUFFIX,analytics.audionow.de
   - DOMAIN-SUFFIX,cdn.kaizenplatform.net
@@ -480,7 +482,6 @@ payload:
   - DOMAIN-SUFFIX,static.terratraf.io
   - DOMAIN-SUFFIX,static.user-red.com
   - DOMAIN-SUFFIX,b0e8.com
-  - DOMAIN-SUFFIX,bc0a.com
   - DOMAIN-SUFFIX,medtargetsystem.com
   - DOMAIN-SUFFIX,events.tubecup.org
   - DOMAIN-SUFFIX,rat.rakuten.co.jp
@@ -1640,7 +1641,6 @@ payload:
   - DOMAIN-SUFFIX,cashburners.com
   - DOMAIN-SUFFIX,cashcount.com
   - DOMAIN-SUFFIX,cccpmo.com
-  - DOMAIN-SUFFIX,cedexis.net
   - DOMAIN-SUFFIX,celebros-analytics.com
   - DOMAIN-SUFFIX,centraltag.com
   - DOMAIN-SUFFIX,certifica.com
@@ -2792,7 +2792,6 @@ payload:
   - DOMAIN-SUFFIX,portfold.com
   - DOMAIN-SUFFIX,posst.co
   - DOMAIN-SUFFIX,postaffiliatepro.com
-  - DOMAIN-SUFFIX,postclickmarketing.com
   - DOMAIN-SUFFIX,powercount.com
   - DOMAIN-SUFFIX,pr-chart.com
   - DOMAIN-SUFFIX,pr-chart.de
@@ -3591,6 +3590,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,pocketfaucet.com
   - DOMAIN-SUFFIX,childlikecrowd.com
   - DOMAIN-SUFFIX,stretchsister.com
   - DOMAIN-SUFFIX,tastelesstrucks.com
@@ -4634,6 +4634,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.vpplayer.tech
+  - DOMAIN-SUFFIX,h.seznam.cz
+  - DOMAIN-SUFFIX,stat.cncenter.cz
   - DOMAIN-SUFFIX,metrics.roblox.com
   - DOMAIN-SUFFIX,t.xoom.com
   - DOMAIN-SUFFIX,monorail-edge.shopifysvc.com
