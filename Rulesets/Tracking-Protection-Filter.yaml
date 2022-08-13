@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,hermes.allo-media.net
   - DOMAIN-SUFFIX,cdn.cohesionapps.com
   - DOMAIN-SUFFIX,c212.net
   - DOMAIN-SUFFIX,imp.xmax.jp
@@ -4634,6 +4635,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tr.www.cloudflare.com
+  - DOMAIN-SUFFIX,client-metrics.chess.com
+  - DOMAIN-SUFFIX,stat.kwikmotion.com
   - DOMAIN-SUFFIX,analytics.vpplayer.tech
   - DOMAIN-SUFFIX,h.seznam.cz
   - DOMAIN-SUFFIX,stat.cncenter.cz
@@ -18982,6 +18986,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,logs1407.xiti.com
   - DOMAIN-SUFFIX,log1.apkomega.com
   - DOMAIN-SUFFIX,log.pngindir.com
   - DOMAIN-SUFFIX,log.happyapkdown.com
