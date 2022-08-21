@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.iss.one
+  - DOMAIN-SUFFIX,reports-tsi.tangerine.io
   - DOMAIN-SUFFIX,analytics.partcommunity.com
   - DOMAIN-SUFFIX,lr-ingest.io
   - DOMAIN-SUFFIX,svibeacon.onezapp.com
@@ -4643,6 +4645,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.ikyu.com
+  - DOMAIN-SUFFIX,analytics.helpukrainewinwidget.org
   - DOMAIN-SUFFIX,ninja.data.olxcdn.com
   - DOMAIN-SUFFIX,event-collector.prd.data.s.joyn.de
   - DOMAIN-SUFFIX,clanker-events.squarespace.com
@@ -18590,6 +18594,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,clog.mirrativ.com
   - DOMAIN-SUFFIX,teleport.soom.la
   - DOMAIN-SUFFIX,logs1407.xiti.com
   - DOMAIN-SUFFIX,log1.apkomega.com
