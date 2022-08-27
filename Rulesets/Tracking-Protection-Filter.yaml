@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,stats.darkreader.app
   - DOMAIN-SUFFIX,t.adbr.io
   - DOMAIN-SUFFIX,cizion.com
   - DOMAIN-SUFFIX,analytics.iss.one
@@ -2739,7 +2740,6 @@ payload:
   - DOMAIN-SUFFIX,parklogic.com
   - DOMAIN-SUFFIX,parrable.com
   - DOMAIN-SUFFIX,pass-1234.com
-  - DOMAIN-SUFFIX,pathful.com
   - DOMAIN-SUFFIX,pc-agency24.de
   - DOMAIN-SUFFIX,pc1.io
   - DOMAIN-SUFFIX,pclicks.com
