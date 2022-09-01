@@ -4648,6 +4648,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,o365diagtelemetry.trafficmanager.net
   - DOMAIN-SUFFIX,collect.asics.com
   - DOMAIN-SUFFIX,api.axept.io
   - DOMAIN-SUFFIX,log.ohou.se
