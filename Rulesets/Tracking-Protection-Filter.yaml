@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,log-sg.bytegsdk.com
+  - DOMAIN-SUFFIX,gpm-mon-sg.bytegsdk.com
+  - DOMAIN-SUFFIX,gpm-mon-sg.byteoversea.com
   - DOMAIN-SUFFIX,ip2c.landscape.co.jp
   - DOMAIN-SUFFIX,analytics.clientify.net
   - DOMAIN-SUFFIX,stats.darkreader.app
@@ -4648,6 +4651,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,metricus.artlebedev.ru
+  - DOMAIN-SUFFIX,pipe-collect.ebu.io
+  - DOMAIN-SUFFIX,d3kyk5bao1crtw.cloudfront.net
   - DOMAIN-SUFFIX,o365diagtelemetry.trafficmanager.net
   - DOMAIN-SUFFIX,collect.asics.com
   - DOMAIN-SUFFIX,api.axept.io
@@ -18851,7 +18857,7 @@ payload:
   - DOMAIN-SUFFIX,xlog.byteoversea.com
   - DOMAIN-SUFFIX,gecko-sg.byteoversea.com
   - DOMAIN-SUFFIX,ug-sg.byteoversea.com
-  - DOMAIN-SUFFIX,log.byteoversea.com
+  - DOMAIN-SUFFIX,log*.byteoversea.com
   - DOMAIN-SUFFIX,tracking.aldi-international.com
   - DOMAIN-SUFFIX,direct-collect.dy-api.com
   - DOMAIN-SUFFIX,direct-collect.dy-api.eu
