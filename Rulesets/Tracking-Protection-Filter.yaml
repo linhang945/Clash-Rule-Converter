@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,smart.idmnet.pl
+  - DOMAIN-SUFFIX,pollster.pl
+  - DOMAIN-SUFFIX,x9.shinobi.jp
   - DOMAIN-SUFFIX,poeticmetric.com
   - DOMAIN-SUFFIX,getstats.org
   - DOMAIN-SUFFIX,log-sg.bytegsdk.com
@@ -3607,6 +3610,8 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,attractionbanana.com
+  - DOMAIN-SUFFIX,mundanenail.com
   - DOMAIN-SUFFIX,flowerstreatment.com
   - DOMAIN-SUFFIX,pocketfaucet.com
   - DOMAIN-SUFFIX,childlikecrowd.com
@@ -4652,6 +4657,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics-api.dvdfab.co.jp
+  - DOMAIN-SUFFIX,analytics-api.dvdfab.fr
+  - DOMAIN-SUFFIX,ef.fanatical.com
   - DOMAIN-SUFFIX,analytics.kurocore.com
   - DOMAIN-SUFFIX,metricus.artlebedev.ru
   - DOMAIN-SUFFIX,pipe-collect.ebu.io
@@ -4709,7 +4717,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.webflow.com
   - DOMAIN-SUFFIX,thongke.24h.com.vn
   - DOMAIN-SUFFIX,tracking.leeep.jp
-  - DOMAIN-SUFFIX,w-api.baomoi.com
   - DOMAIN-SUFFIX,za.baomoi.com
   - DOMAIN-SUFFIX,log.baomoi.com
   - DOMAIN-SUFFIX,trackbar.navigator-lxa.mail.com
