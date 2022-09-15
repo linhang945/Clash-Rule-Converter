@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,events.askjdhaa.com
   - DOMAIN-SUFFIX,tikstok.fun
   - DOMAIN-SUFFIX,smart.idmnet.pl
   - DOMAIN-SUFFIX,pollster.pl
@@ -333,7 +334,6 @@ payload:
   - DOMAIN-SUFFIX,vought.removeads.workers.dev
   - DOMAIN-SUFFIX,analytics.churnzero.net
   - DOMAIN-SUFFIX,trk.reclameaqui.com.br
-  - DOMAIN-SUFFIX,delivery.satr.jp
   - DOMAIN-SUFFIX,i-cmg-amlg-prod.appspot.com
   - DOMAIN-SUFFIX,a.myfidevs.io
   - DOMAIN-SUFFIX,capture-api.autopilotapp.com
@@ -4658,6 +4658,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,signals.carrefoursa.com
+  - DOMAIN-SUFFIX,sdk.airbridge.io
+  - DOMAIN-SUFFIX,core.airbridge.io
   - DOMAIN-SUFFIX,metrics.biletino.com
   - DOMAIN-SUFFIX,analytics.afirstsoft.cn
   - DOMAIN-SUFFIX,analytics-api.dvdfab.co.jp
