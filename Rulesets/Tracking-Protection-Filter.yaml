@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,srmdata-eur.com
+  - DOMAIN-SUFFIX,doppler-beacons.cbsivideo.com
   - DOMAIN-SUFFIX,events.askjdhaa.com
   - DOMAIN-SUFFIX,tikstok.fun
   - DOMAIN-SUFFIX,smart.idmnet.pl
@@ -4954,7 +4956,6 @@ payload:
   - DOMAIN-SUFFIX,api-analytics.rozetka.com.ua
   - DOMAIN-SUFFIX,api-stg.ensonhaber.com
   - DOMAIN-SUFFIX,api.calq.io
-  - DOMAIN-SUFFIX,api.data.ciceksepeti.com
   - DOMAIN-SUFFIX,api.exc.mob.com
   - DOMAIN-SUFFIX,api.flocktory.com
   - DOMAIN-SUFFIX,api.iterative.ly
@@ -5427,6 +5428,7 @@ payload:
   - DOMAIN-SUFFIX,events*.cre.ma
   - DOMAIN-SUFFIX,eventstream.dodopizza.com
   - DOMAIN-SUFFIX,eventtracker.elitedaily.com
+  - DOMAIN-SUFFIX,evs.data.ciceksepeti.com
   - DOMAIN-SUFFIX,evt.houzz.com
   - DOMAIN-SUFFIX,exacttarget.api.mashery.com
   - DOMAIN-SUFFIX,exc.ns.nl
@@ -18796,6 +18798,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,d.reddit.com
   - DOMAIN-SUFFIX,clog.mirrativ.com
   - DOMAIN-SUFFIX,teleport.soom.la
   - DOMAIN-SUFFIX,logs1407.xiti.com
