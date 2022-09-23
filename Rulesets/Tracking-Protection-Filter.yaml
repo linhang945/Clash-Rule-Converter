@@ -4661,6 +4661,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,rec.detik.com
+  - DOMAIN-SUFFIX,mtga.setapp.com
   - DOMAIN-SUFFIX,clog.geniex.com
   - DOMAIN-SUFFIX,signals.carrefoursa.com
   - DOMAIN-SUFFIX,sdk.airbridge.io
@@ -5719,7 +5721,6 @@ payload:
   - DOMAIN-SUFFIX,metcon.hulu.com
   - DOMAIN-SUFFIX,meter-svc.nytimes.com
   - DOMAIN-SUFFIX,metric-agent.i10c.net
-  - DOMAIN-SUFFIX,metric.gstatic.com
   - DOMAIN-SUFFIX,metric.huya.com
   - DOMAIN-SUFFIX,metric.inetcore.com
   - DOMAIN-SUFFIX,metric.nimo.tv
