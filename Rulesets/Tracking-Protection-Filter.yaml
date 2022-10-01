@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,internal-analytics.odoo.com
+  - DOMAIN-SUFFIX,analytics.growthphysics.com
   - DOMAIN-SUFFIX,sp.tinymce.com
   - DOMAIN-SUFFIX,wazimo.com
   - DOMAIN-SUFFIX,srmdata-eur.com
@@ -1222,7 +1224,6 @@ payload:
   - DOMAIN-SUFFIX,tgdaudience.com
   - DOMAIN-SUFFIX,quadran.eu
   - DOMAIN-SUFFIX,piwik.pro
-  - DOMAIN-SUFFIX,marketingautomation.services
   - DOMAIN-SUFFIX,audiens.com
   - DOMAIN-SUFFIX,lift.acquia.com
   - DOMAIN-SUFFIX,osniffer.pro
@@ -4663,6 +4664,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,webstats.indigo-net.com
   - DOMAIN-SUFFIX,twstat.lifenewsjr.com
   - DOMAIN-SUFFIX,adstatistics.av380.net
   - DOMAIN-SUFFIX,rec.detik.com
@@ -18475,6 +18477,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,airlytics.airlock.twcmobile.weather.com
   - DOMAIN-SUFFIX,track.midway.run
   - DOMAIN-SUFFIX,tdid.m.qq.com
   - DOMAIN-SUFFIX,d.reddit.com
