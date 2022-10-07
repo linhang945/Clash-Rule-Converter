@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,testingmetriksbre.ru
+  - DOMAIN-SUFFIX,t.ssp.hinet.net
+  - DOMAIN-SUFFIX,bb8.aotter.net
   - DOMAIN-SUFFIX,dmkt.point-ad-game.com
   - DOMAIN-SUFFIX,tag.dec-connect.decsuite.com
   - DOMAIN-SUFFIX,internal-analytics.odoo.com
@@ -54,7 +57,6 @@ payload:
   - DOMAIN-SUFFIX,brt.studylabs.cn
   - DOMAIN-SUFFIX,effirst.com
   - DOMAIN-SUFFIX,klickly.com
-  - DOMAIN-SUFFIX,alexatracker.com
   - DOMAIN-SUFFIX,accanalyze.com
   - DOMAIN-SUFFIX,splitbee.io
   - DOMAIN-SUFFIX,log.dzen.ru
@@ -4667,6 +4669,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,stats.landingi.com
+  - DOMAIN-SUFFIX,trek.powtoon.com
   - DOMAIN-SUFFIX,biv.gazeta.pl
   - DOMAIN-SUFFIX,analytics.ngs55.ru
   - DOMAIN-SUFFIX,dgcollector.evidon.com
@@ -5007,10 +5011,8 @@ payload:
   - DOMAIN-SUFFIX,audience.visiblemeasures.com
   - DOMAIN-SUFFIX,awsync.yandex.ru
   - DOMAIN-SUFFIX,b-aws.aol.com
-  - DOMAIN-SUFFIX,b-aws.huffingtonpost.com
   - DOMAIN-SUFFIX,b.aol.com
   - DOMAIN-SUFFIX,b.grvcdn.com
-  - DOMAIN-SUFFIX,b.huffingtonpost.com
   - DOMAIN-SUFFIX,b.oix.net
   - DOMAIN-SUFFIX,banstat.nadavi.net
   - DOMAIN-SUFFIX,bat.bing.com
@@ -24015,6 +24017,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,logs.gshopper.com
   - DOMAIN-SUFFIX,airlytics.airlock.twcmobile.weather.com
   - DOMAIN-SUFFIX,track.midway.run
   - DOMAIN-SUFFIX,tdid.m.qq.com
