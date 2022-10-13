@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,rtc.dymatrix.cloud
   - DOMAIN-SUFFIX,tracking.shaadi.com
   - DOMAIN-SUFFIX,tdbc.redgalaxy.com
   - DOMAIN-SUFFIX,t.c-rtb.com
@@ -4673,6 +4674,10 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.hypebeast.com
+  - DOMAIN-SUFFIX,tracker.remp-beam.golem.de
+  - DOMAIN-SUFFIX,tracking.digitalocean.com
+  - DOMAIN-SUFFIX,events.split.io
   - DOMAIN-SUFFIX,log.bandi.so
   - DOMAIN-SUFFIX,ana.bandi.so
   - DOMAIN-SUFFIX,weblog.dema.mil.kr

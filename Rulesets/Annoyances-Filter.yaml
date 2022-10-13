@@ -63,6 +63,7 @@ payload:
   - DOMAIN-SUFFIX,clickio.mgr.consensu.org
   - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
   - DOMAIN-SUFFIX,quantcast.mgr.consensu.org
+  - DOMAIN-SUFFIX,flipdish-cookie-consent.s3-eu-west-1.amazonaws.com
   - DOMAIN-SUFFIX,privacy-sdk.talent-soft.com
   - DOMAIN-SUFFIX,ccm.abload.de
   - DOMAIN-SUFFIX,consent.dropbox.com
@@ -695,6 +696,7 @@ payload:
   - DOMAIN-SUFFIX,widget.oncustomer.asia
   - DOMAIN-SUFFIX,gubagootracking.com
   - DOMAIN-SUFFIX,cdn.gubagoo.io
+  - DOMAIN-SUFFIX,chatntr.com
   - DOMAIN-SUFFIX,chatbot-cdn.czso.cz
   - DOMAIN-SUFFIX,formilla.com
   - DOMAIN-SUFFIX,app.livechatoo.com
