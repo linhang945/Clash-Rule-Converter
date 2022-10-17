@@ -3626,6 +3626,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,retargetapp.com
   - DOMAIN-SUFFIX,crashchance.com
   - DOMAIN-SUFFIX,handsomehose.com
   - DOMAIN-SUFFIX,secondhandfall.com
@@ -4679,6 +4680,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,beacon.dropbox.com
   - DOMAIN-SUFFIX,log.hypebeast.com
   - DOMAIN-SUFFIX,tracker.remp-beam.golem.de
   - DOMAIN-SUFFIX,tracking.digitalocean.com
