@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tracking3.vnncdn.net
+  - DOMAIN-SUFFIX,analytics.dap-networks.de
+  - DOMAIN-SUFFIX,analytics.algolia.com
+  - DOMAIN-SUFFIX,t.360.audion.fm
+  - DOMAIN-SUFFIX,withcabin.com
   - DOMAIN-SUFFIX,pixel.ipinfo.io
   - DOMAIN-SUFFIX,f4cebacks.com
   - DOMAIN-SUFFIX,pixmg.com
@@ -4690,6 +4695,13 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,lists.ccmbg.com
+  - DOMAIN-SUFFIX,track-srv.vietnamnet.vn
+  - DOMAIN-SUFFIX,stats.tirexo.blue
+  - DOMAIN-SUFFIX,cnt.streamz.ws
+  - DOMAIN-SUFFIX,intake-analytics.wikimedia.org
+  - DOMAIN-SUFFIX,tracking.univtec.com
+  - DOMAIN-SUFFIX,counter.sberbank.ru
   - DOMAIN-SUFFIX,mxpl.9gag.com
   - DOMAIN-SUFFIX,click.e.change.org
   - DOMAIN-SUFFIX,cryo.socialblade.com
@@ -6291,8 +6303,6 @@ payload:
   - DOMAIN-SUFFIX,stats.wwd.com
   - DOMAIN-SUFFIX,stats.ynet.co.il
   - DOMAIN-SUFFIX,stats.zmags.com
-  - DOMAIN-SUFFIX,stats.zone-telechargement.click
-  - DOMAIN-SUFFIX,stats.zone-telechargement.work
   - DOMAIN-SUFFIX,stats01.20min.ch
   - DOMAIN-SUFFIX,stats1.wpmudev.com
   - DOMAIN-SUFFIX,stats2.arstechnica.com
