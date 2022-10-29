@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.contentexchange.me
+  - DOMAIN-SUFFIX,extole.io
   - DOMAIN-SUFFIX,tracking3.vnncdn.net
   - DOMAIN-SUFFIX,analytics.dap-networks.de
   - DOMAIN-SUFFIX,analytics.algolia.com
@@ -4695,6 +4697,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,track1.avplayer.com
+  - DOMAIN-SUFFIX,sgtm.simoahava.com
   - DOMAIN-SUFFIX,lists.ccmbg.com
   - DOMAIN-SUFFIX,track-srv.vietnamnet.vn
   - DOMAIN-SUFFIX,stats.tirexo.blue
