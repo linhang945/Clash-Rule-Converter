@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,trackad.cz
+  - DOMAIN-SUFFIX,segmenthub.com
   - DOMAIN-SUFFIX,tracking-api.hotmart.com
   - DOMAIN-SUFFIX,tag.statshop.fr
   - DOMAIN-SUFFIX,analytics.contentexchange.me
@@ -1476,7 +1478,6 @@ payload:
   - DOMAIN-SUFFIX,affilae.com
   - DOMAIN-SUFFIX,affiliateedge.eu
   - DOMAIN-SUFFIX,affiliates-pro.com
-  - DOMAIN-SUFFIX,affiliatly.com
   - DOMAIN-SUFFIX,affinesystems.com
   - DOMAIN-SUFFIX,affinitymatrix.com
   - DOMAIN-SUFFIX,affistats.com
@@ -4699,6 +4700,11 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,servo-report.dvdfab.at
+  - DOMAIN-SUFFIX,servo-report.dvdfab.cn
+  - DOMAIN-SUFFIX,servo-report.dvdfab.co.jp
+  - DOMAIN-SUFFIX,servo-report.dvdfab.fr
+  - DOMAIN-SUFFIX,static.affiliatly.com
   - DOMAIN-SUFFIX,client-analytics.mts.ru
   - DOMAIN-SUFFIX,analytics-wcms.joins.net
   - DOMAIN-SUFFIX,as.tarnkappe.info
@@ -4762,8 +4768,6 @@ payload:
   - DOMAIN-SUFFIX,core.airbridge.io
   - DOMAIN-SUFFIX,metrics.biletino.com
   - DOMAIN-SUFFIX,analytics.afirstsoft.cn
-  - DOMAIN-SUFFIX,analytics-api.dvdfab.co.jp
-  - DOMAIN-SUFFIX,analytics-api.dvdfab.fr
   - DOMAIN-SUFFIX,ef.fanatical.com
   - DOMAIN-SUFFIX,analytics.kurocore.com
   - DOMAIN-SUFFIX,metricus.artlebedev.ru
@@ -4927,6 +4931,9 @@ payload:
   - DOMAIN-SUFFIX,analytic.piri.net
   - DOMAIN-SUFFIX,analytic20.detik.com
   - DOMAIN-SUFFIX,analyticapi.piri.net
+  - DOMAIN-SUFFIX,analytics-api.dvdfab.at
+  - DOMAIN-SUFFIX,analytics-api.dvdfab.co.jp
+  - DOMAIN-SUFFIX,analytics-api.dvdfab.fr
   - DOMAIN-SUFFIX,analytics-api.dvdfab.cn
   - DOMAIN-SUFFIX,analytics-api.smzdm.com
   - DOMAIN-SUFFIX,analytics-ingress-global.bitmovin.com
