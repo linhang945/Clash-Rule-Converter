@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,js.glossom.jp
   - DOMAIN-SUFFIX,trackad.cz
   - DOMAIN-SUFFIX,segmenthub.com
   - DOMAIN-SUFFIX,tracking-api.hotmart.com
@@ -2738,7 +2739,6 @@ payload:
   - DOMAIN-SUFFIX,ongsono.com
   - DOMAIN-SUFFIX,onlinewebstat.com
   - DOMAIN-SUFFIX,onlinewebstats.com
-  - DOMAIN-SUFFIX,onthe.io
   - DOMAIN-SUFFIX,opbandit.com
   - DOMAIN-SUFFIX,openclick.com
   - DOMAIN-SUFFIX,openhit.com
@@ -3647,6 +3647,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,superficialspring.com
   - DOMAIN-SUFFIX,retargetapp.com
   - DOMAIN-SUFFIX,crashchance.com
   - DOMAIN-SUFFIX,handsomehose.com
@@ -4701,6 +4702,11 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.tn.kz
+  - DOMAIN-SUFFIX,counter.tengrinews.kz
+  - DOMAIN-SUFFIX,inlog01.hket.com
+  - DOMAIN-SUFFIX,event.hket.com
+  - DOMAIN-SUFFIX,genesis.malwarebytes.com
   - DOMAIN-SUFFIX,real-feedback.toros.daum.net
   - DOMAIN-SUFFIX,pingback.giphy.com
   - DOMAIN-SUFFIX,utsssl.auction.co.kr
@@ -24590,6 +24596,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,api.data-analytics.pokemon.com
+  - DOMAIN-SUFFIX,arcspire.io
+  - DOMAIN-SUFFIX,onthe.io
+  - DOMAIN-SUFFIX,t.adx.opera.com
   - DOMAIN-SUFFIX,sensors.snaptube.app
   - DOMAIN-SUFFIX,analytics.kongregate.io
   - DOMAIN-SUFFIX,logs.gshopper.com
