@@ -4709,6 +4709,15 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,recv-jnn.tbs.co.jp
+  - DOMAIN-SUFFIX,recv-entry.tbs.co.jp
+  - DOMAIN-SUFFIX,beat.yourtv.jp
+  - DOMAIN-SUFFIX,d-log.asahi.co.jp
+  - DOMAIN-SUFFIX,d-log.bs-asahi.tv
+  - DOMAIN-SUFFIX,d.tv-asahi.co.jp
+  - DOMAIN-SUFFIX,d-log.tv-asahi.co.jp
+  - DOMAIN-SUFFIX,view.fujitv.co.jp
+  - DOMAIN-SUFFIX,analytics.*.sky.com
   - DOMAIN-SUFFIX,xp.apple.com
   - DOMAIN-SUFFIX,tracking.immobilienscout24.de
   - DOMAIN-SUFFIX,kinesis.eu-west-1.amazonaws.com
@@ -22488,6 +22497,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,logservice-*.platform.dbankcloud.cn
+  - DOMAIN-SUFFIX,ubacollect-*.cloud.dbankcloud.cn
+  - DOMAIN-SUFFIX,datacollector-*.dt.dbankcloud.cn
   - DOMAIN-SUFFIX,mobile-events.eservice.emarsys.net
   - DOMAIN-SUFFIX,stat.gspaceteam.com
   - DOMAIN-SUFFIX,alexa-mobile-analytics-configuration-prod.s3.amazonaws.com
