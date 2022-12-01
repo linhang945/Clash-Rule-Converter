@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cdn.mavi.digital
+  - DOMAIN-SUFFIX,tieszhu.com
   - DOMAIN-SUFFIX,sensorsdata.cn
   - DOMAIN-SUFFIX,counter.dev
   - DOMAIN-SUFFIX,pro-web-metrics.alias.s24cloud.net
@@ -4709,6 +4711,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,harvester.cms.markiza.sk
+  - DOMAIN-SUFFIX,trc.gpcdn.pl
+  - DOMAIN-SUFFIX,web-device-id.banggood.com
   - DOMAIN-SUFFIX,dotcounter.douyucdn.cn
   - DOMAIN-SUFFIX,dotserver.douyucdn.cn
   - DOMAIN-SUFFIX,sensorsdata*.read.duokan.com
@@ -4722,7 +4727,6 @@ payload:
   - DOMAIN-SUFFIX,d-log.tv-asahi.co.jp
   - DOMAIN-SUFFIX,view.fujitv.co.jp
   - DOMAIN-SUFFIX,analytics.*.sky.com
-  - DOMAIN-SUFFIX,xp.apple.com
   - DOMAIN-SUFFIX,tracking.immobilienscout24.de
   - DOMAIN-SUFFIX,kinesis.eu-west-1.amazonaws.com
   - DOMAIN-SUFFIX,pclog.3u.com
@@ -4757,7 +4761,6 @@ payload:
   - DOMAIN-SUFFIX,lists.ccmbg.com
   - DOMAIN-SUFFIX,track-srv.vietnamnet.vn
   - DOMAIN-SUFFIX,stats.tirexo.blue
-  - DOMAIN-SUFFIX,cnt.streamz.ws
   - DOMAIN-SUFFIX,intake-analytics.wikimedia.org
   - DOMAIN-SUFFIX,tracking.univtec.com
   - DOMAIN-SUFFIX,counter.sberbank.ru
@@ -6698,7 +6701,6 @@ payload:
   - DOMAIN-SUFFIX,triggertag.gorillanation.com
   - DOMAIN-SUFFIX,trk.10ru.pt
   - DOMAIN-SUFFIX,trk.i0.cz
-  - DOMAIN-SUFFIX,trk.performanceplay.co.kr
   - DOMAIN-SUFFIX,trk.storyly.io
   - DOMAIN-SUFFIX,trk.stroeermediabrands.de
   - DOMAIN-SUFFIX,trk.vidible.tv
