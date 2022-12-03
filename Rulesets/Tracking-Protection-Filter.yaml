@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,data.hicloud.com
   - DOMAIN-SUFFIX,cdn.mavi.digital
   - DOMAIN-SUFFIX,tieszhu.com
   - DOMAIN-SUFFIX,sensorsdata.cn
@@ -3652,6 +3653,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,threetruck.com
   - DOMAIN-SUFFIX,superficialspring.com
   - DOMAIN-SUFFIX,retargetapp.com
   - DOMAIN-SUFFIX,crashchance.com
@@ -4711,6 +4713,14 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,zc.adswizz.com
+  - DOMAIN-SUFFIX,collect.nature.com
+  - DOMAIN-SUFFIX,analytics-api.dvdfab.*
+  - DOMAIN-SUFFIX,servo-report.dvdfab.*
+  - DOMAIN-SUFFIX,collector.xhwide8.com
+  - DOMAIN-SUFFIX,collector.xhamster*.*
+  - DOMAIN-SUFFIX,anonym.data.funkedigital.de
+  - DOMAIN-SUFFIX,analytics.makeitmeme.com
   - DOMAIN-SUFFIX,harvester.cms.markiza.sk
   - DOMAIN-SUFFIX,trc.gpcdn.pl
   - DOMAIN-SUFFIX,web-device-id.banggood.com
@@ -5298,8 +5308,6 @@ payload:
   - DOMAIN-SUFFIX,collector.tescocompare.com
   - DOMAIN-SUFFIX,collector.trendmd.com
   - DOMAIN-SUFFIX,collector.wawlabs.com
-  - DOMAIN-SUFFIX,collector.xhamster.com
-  - DOMAIN-SUFFIX,collector.xhamster*.desi
   - DOMAIN-SUFFIX,collector.xhwide1.com
   - DOMAIN-SUFFIX,collector1.xhamster.com
   - DOMAIN-SUFFIX,comet.sputniknews.com
@@ -6026,7 +6034,6 @@ payload:
   - DOMAIN-SUFFIX,pixel.wp.com
   - DOMAIN-SUFFIX,pixel.yabidos.com
   - DOMAIN-SUFFIX,pixelappcollector.thesun.co.uk
-  - DOMAIN-SUFFIX,pixelg.adswizz.com
   - DOMAIN-SUFFIX,pixelhere.com
   - DOMAIN-SUFFIX,pixels.ingbank.com.tr
   - DOMAIN-SUFFIX,pixels.livingsocial.com
@@ -23254,6 +23261,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,mon*-platform-*.tiktokv.com
+  - DOMAIN-SUFFIX,log*-applog-*.tiktokv.com
   - DOMAIN-SUFFIX,logservice-*.platform.dbankcloud.cn
   - DOMAIN-SUFFIX,ubacollect-*.cloud.dbankcloud.cn
   - DOMAIN-SUFFIX,datacollector-*.dt.dbankcloud.cn
