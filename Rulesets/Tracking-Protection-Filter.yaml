@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,eventtracking.hubapi.com
+  - DOMAIN-SUFFIX,traffic.wdc.center
   - DOMAIN-SUFFIX,evnt.iol.it
   - DOMAIN-SUFFIX,frog.editorx.com
   - DOMAIN-SUFFIX,e.metarouter.io
@@ -3656,6 +3658,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,restrainstorm.com
   - DOMAIN-SUFFIX,sugarfriction.com
   - DOMAIN-SUFFIX,fortunatemark.com
   - DOMAIN-SUFFIX,threetruck.com
@@ -4718,6 +4721,10 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,trace.51jingying.com
+  - DOMAIN-SUFFIX,ss.webdock.io
+  - DOMAIN-SUFFIX,events.webdock.io
+  - DOMAIN-SUFFIX,t.wayfair.de
   - DOMAIN-SUFFIX,mixpanel-proxy.ted.com
   - DOMAIN-SUFFIX,zc.adswizz.com
   - DOMAIN-SUFFIX,collect.nature.com

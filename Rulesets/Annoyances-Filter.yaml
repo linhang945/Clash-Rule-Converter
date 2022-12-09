@@ -69,6 +69,7 @@ payload:
   - DOMAIN-SUFFIX,clickio.mgr.consensu.org
   - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
   - DOMAIN-SUFFIX,quantcast.mgr.consensu.org
+  - DOMAIN-SUFFIX,cdn.snigelweb.com
   - DOMAIN-SUFFIX,cmps.o2.cz
   - DOMAIN-SUFFIX,cmpv2.techadvisor.fr
   - DOMAIN-SUFFIX,sm-sp.followfollow.com
@@ -99,6 +100,7 @@ payload:
   - DOMAIN-SUFFIX,cc.silktide.com
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
+  - DOMAIN-SUFFIX,restrainstorm.com
   - DOMAIN-SUFFIX,sugarfriction.com
   - DOMAIN-SUFFIX,fortunatemark.com
   - DOMAIN-SUFFIX,threetruck.com
@@ -801,7 +803,6 @@ payload:
   - DOMAIN-SUFFIX,widget.webica.pro
   - DOMAIN-SUFFIX,widget.whatsbroadcast.com
   - DOMAIN-SUFFIX,widget.whatshelp.io
-  - DOMAIN-SUFFIX,widgets.binotel.com
   - DOMAIN-SUFFIX,widgets.livetex.ru
   - DOMAIN-SUFFIX,widgets.mango-office.ru
   - DOMAIN-SUFFIX,widget.lawyer-feedot.ru
