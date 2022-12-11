@@ -4721,6 +4721,11 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,s.360.cn
+  - DOMAIN-SUFFIX,sp*.baidu.com
+  - DOMAIN-SUFFIX,analytics.map.qq.com
+  - DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com
+  - DOMAIN-SUFFIX,sugar.zhihu.com
   - DOMAIN-SUFFIX,trace.51jingying.com
   - DOMAIN-SUFFIX,ss.webdock.io
   - DOMAIN-SUFFIX,events.webdock.io
