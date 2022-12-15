@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,improving.duckduckgo.com
+  - DOMAIN-SUFFIX,media.richrelevance.com
   - DOMAIN-SUFFIX,eventtracking.hubapi.com
   - DOMAIN-SUFFIX,traffic.wdc.center
   - DOMAIN-SUFFIX,evnt.iol.it
@@ -4722,6 +4723,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d1n00d49gkbray.cloudfront.net
   - DOMAIN-SUFFIX,in.unext.jp
   - DOMAIN-SUFFIX,s.360.cn
   - DOMAIN-SUFFIX,sp*.baidu.com
