@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,oribi.io
+  - DOMAIN-SUFFIX,eoapxl.com
   - DOMAIN-SUFFIX,improving.duckduckgo.com
   - DOMAIN-SUFFIX,web-vitals.bfops.io
   - DOMAIN-SUFFIX,media.richrelevance.com
@@ -4724,6 +4726,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,c.salon24.pl
   - DOMAIN-SUFFIX,cl.t3n.de
   - DOMAIN-SUFFIX,st.bitban.com
   - DOMAIN-SUFFIX,d1n00d49gkbray.cloudfront.net
@@ -4740,10 +4743,7 @@ payload:
   - DOMAIN-SUFFIX,mixpanel-proxy.ted.com
   - DOMAIN-SUFFIX,zc.adswizz.com
   - DOMAIN-SUFFIX,collect.nature.com
-  - DOMAIN-SUFFIX,analytics-api.dvdfab.*
-  - DOMAIN-SUFFIX,servo-report.dvdfab.*
   - DOMAIN-SUFFIX,collector.xhwide8.com
-  - DOMAIN-SUFFIX,collector.xhamster*.*
   - DOMAIN-SUFFIX,anonym.data.funkedigital.de
   - DOMAIN-SUFFIX,analytics.makeitmeme.com
   - DOMAIN-SUFFIX,harvester.cms.markiza.sk
