@@ -4726,6 +4726,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracker.ranker.com
   - DOMAIN-SUFFIX,c.salon24.pl
   - DOMAIN-SUFFIX,cl.t3n.de
   - DOMAIN-SUFFIX,st.bitban.com
@@ -24698,6 +24699,8 @@ payload:
   - DOMAIN-SUFFIX,analytics-sprint.qoqa.com
   - DOMAIN-SUFFIX,analytics.qoqa.ch
   - DOMAIN-SUFFIX,analytics.qoqa.com
+  - DOMAIN-SUFFIX,launches.appsflyersdk.com
+  - DOMAIN-SUFFIX,cdn-settings.appsflyersdk.com
   - DOMAIN-SUFFIX,appsflyer-report.honkaiimpact3.com
   - DOMAIN-SUFFIX,af-event-logger.appsflyer.com
   - DOMAIN-SUFFIX,inapps.appsflyer.com
@@ -24733,6 +24736,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,metrics.plaid.com
   - DOMAIN-SUFFIX,mon*-platform-*.tiktokv.com
   - DOMAIN-SUFFIX,log*-applog-*.tiktokv.com
   - DOMAIN-SUFFIX,logservice-*.platform.dbankcloud.cn
