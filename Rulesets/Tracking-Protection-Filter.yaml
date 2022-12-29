@@ -3532,8 +3532,6 @@ payload:
   - DOMAIN-SUFFIX,webforensics.co.uk
   - DOMAIN-SUFFIX,webgains.com
   - DOMAIN-SUFFIX,webglstats.com
-  - DOMAIN-SUFFIX,webgozar.com
-  - DOMAIN-SUFFIX,webgozar.ir
   - DOMAIN-SUFFIX,webhits.de
   - DOMAIN-SUFFIX,webiqonline.com
   - DOMAIN-SUFFIX,webkatalog.li
@@ -4732,6 +4730,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,snowy.bellroy.com
+  - DOMAIN-SUFFIX,res.regoo.com
   - DOMAIN-SUFFIX,analytics.crea.ca
   - DOMAIN-SUFFIX,stat.airdroid.com
   - DOMAIN-SUFFIX,tracker.ranker.com
@@ -4809,7 +4809,6 @@ payload:
   - DOMAIN-SUFFIX,tracking.univtec.com
   - DOMAIN-SUFFIX,counter.sberbank.ru
   - DOMAIN-SUFFIX,mxpl.9gag.com
-  - DOMAIN-SUFFIX,click.e.change.org
   - DOMAIN-SUFFIX,cryo.socialblade.com
   - DOMAIN-SUFFIX,sp.welcometothejungle.com
   - DOMAIN-SUFFIX,analytics.evolution-x.org
@@ -4927,7 +4926,6 @@ payload:
   - DOMAIN-SUFFIX,log.ycapp.yiche.com
   - DOMAIN-SUFFIX,stats.videoseyred.in
   - DOMAIN-SUFFIX,log*.vietnamplus.vn
-  - DOMAIN-SUFFIX,ipcc-vnp1.vnptmedia.vn
   - DOMAIN-SUFFIX,matomo.unicaf.org
   - DOMAIN-SUFFIX,matomo.aksorn.com
   - DOMAIN-SUFFIX,analytics.wrc.nic.in
