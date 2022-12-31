@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,humanz.com
   - DOMAIN-SUFFIX,gateway.foresee.com
   - DOMAIN-SUFFIX,analytics.foresee.com
   - DOMAIN-SUFFIX,hatmiso.net
@@ -951,7 +952,6 @@ payload:
   - DOMAIN-SUFFIX,tr.lfeeder.com
   - DOMAIN-SUFFIX,am-trc-events.taboola.com
   - DOMAIN-SUFFIX,g2178927685.co
-  - DOMAIN-SUFFIX,pxf.io
   - DOMAIN-SUFFIX,eba-amadeus.netdna-ssl.com
   - DOMAIN-SUFFIX,c.tvpixel.com
   - DOMAIN-SUFFIX,ga-analytics.com
@@ -5718,7 +5718,7 @@ payload:
   - DOMAIN-SUFFIX,host*.rigbyandpeller.com
   - DOMAIN-SUFFIX,howmanyview.com
   - DOMAIN-SUFFIX,hrumpoc.hotels.com
-  - DOMAIN-SUFFIX,hstats.hepsiburada.com
+  - DOMAIN-SUFFIX,hstats*.hepsiburada.com
   - DOMAIN-SUFFIX,hummingbird.mavencoalition.io
   - DOMAIN-SUFFIX,hwa.his.huawei.com
   - DOMAIN-SUFFIX,hydrahydra.ir
