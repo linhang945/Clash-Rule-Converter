@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sdk.conscent.in
+  - DOMAIN-SUFFIX,tpstelemetry.tencent.com
+  - DOMAIN-SUFFIX,posthog.com
   - DOMAIN-SUFFIX,crossees.com
   - DOMAIN-SUFFIX,plausiblecdn.co
   - DOMAIN-SUFFIX,humanz.com
@@ -4732,6 +4735,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.slidesai.io
   - DOMAIN-SUFFIX,idat.production.ippen.space
   - DOMAIN-SUFFIX,snowy.bellroy.com
   - DOMAIN-SUFFIX,res.regoo.com

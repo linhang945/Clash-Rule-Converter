@@ -1,8 +1,8 @@
 payload:
 #TITLE=anti-AD
-#VER=20230105023755
+#VER=20230106152442
 #URL=https://github.com/privacy-protection-tools/anti-AD
-#TOTAL_LINES=58879
+#TOTAL_LINES=58872
   - DOMAIN-SUFFIX,000dn.com
   - DOMAIN-SUFFIX,0013.cc
   - DOMAIN-SUFFIX,001adafg.xyz
@@ -582,6 +582,7 @@ payload:
   - DOMAIN-SUFFIX,photo.188kc.cn
   - DOMAIN-SUFFIX,188server.com
   - DOMAIN-SUFFIX,188xiaoba.net
+  - DOMAIN-SUFFIX,webwebfenxi.189.cn
   - DOMAIN-SUFFIX,189zj.cn
   - DOMAIN-SUFFIX,18a8f5a1c1.com
   - DOMAIN-SUFFIX,18ap945.cn
@@ -8126,10 +8127,8 @@ payload:
   - DOMAIN-SUFFIX,push.zhanzhang.baidu.com
   - DOMAIN-SUFFIX,qapm.baidu.com
   - DOMAIN-SUFFIX,sclick.baidu.com
-  - DOMAIN-SUFFIX,sfp.safe.baidu.com
   - DOMAIN-SUFFIX,share.baidu.com
   - DOMAIN-SUFFIX,sjh.baidu.com
-  - DOMAIN-SUFFIX,sofire.baidu.com
   - DOMAIN-SUFFIX,static1.searchbox.baidu.com
   - DOMAIN-SUFFIX,tcbox.baidu.com
   - DOMAIN-SUFFIX,techain.baidu.com
@@ -17279,7 +17278,6 @@ payload:
   - DOMAIN-SUFFIX,wan.douyu.com
   - DOMAIN-SUFFIX,club-img.douyucdn.cn
   - DOMAIN-SUFFIX,cs-op.douyucdn.cn
-  - DOMAIN-SUFFIX,gift.douyucdn.cn
   - DOMAIN-SUFFIX,rtbapi.douyucdn.cn
   - DOMAIN-SUFFIX,dotcounter.douyutv.com
   - DOMAIN-SUFFIX,dovemajorem.com
@@ -19055,7 +19053,6 @@ payload:
   - DOMAIN-SUFFIX,erosadv.com
   - DOMAIN-SUFFIX,erosionexception.com
   - DOMAIN-SUFFIX,erosyndc.com
-  - DOMAIN-SUFFIX,eroterest.net
   - DOMAIN-SUFFIX,erotikdating.com
   - DOMAIN-SUFFIX,erotizer.info
   - DOMAIN-SUFFIX,erovation.com
@@ -30867,7 +30864,6 @@ payload:
   - DOMAIN-SUFFIX,lijtfkmmiisrli.xyz
   - DOMAIN-SUFFIX,mjf.lijun8.com
   - DOMAIN-SUFFIX,stats.lik.fr
-  - DOMAIN-SUFFIX,button.like.co
   - DOMAIN-SUFFIX,likeads.com
   - DOMAIN-SUFFIX,likebtn.com
   - DOMAIN-SUFFIX,likecontrol.com
@@ -33704,7 +33700,6 @@ payload:
   - DOMAIN-SUFFIX,hz.mmstat.com
   - DOMAIN-SUFFIX,p3p.mmstat.com
   - DOMAIN-SUFFIX,res.mmstat.com
-  - DOMAIN-SUFFIX,wgo.mmstat.com
   - DOMAIN-SUFFIX,yt.mmstat.com
   - DOMAIN-SUFFIX,mmtro.com
   - DOMAIN-SUFFIX,j.mmtu.top
@@ -51512,7 +51507,6 @@ payload:
   - DOMAIN-SUFFIX,urlat.cn
   - DOMAIN-SUFFIX,urlbrief.com
   - DOMAIN-SUFFIX,urlcash.net
-  - DOMAIN-SUFFIX,urldefense.com
   - DOMAIN-SUFFIX,urldelivery.com
   - DOMAIN-SUFFIX,urlet.cn
   - DOMAIN-SUFFIX,x0r.urlgalleries.net
@@ -56665,7 +56659,6 @@ payload:
   - DOMAIN-SUFFIX,youboranqs02.com
   - DOMAIN-SUFFIX,a.youdao.com
   - DOMAIN-SUFFIX,clkservice.youdao.com
-  - DOMAIN-SUFFIX,c.youdao.com
   - DOMAIN-SUFFIX,clkservice.mail.youdao.com
   - DOMAIN-SUFFIX,union.youdao.com
   - DOMAIN-SUFFIX,clkservice2.dict.youdao.com
