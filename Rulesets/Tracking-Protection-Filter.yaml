@@ -6,7 +6,6 @@ payload:
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,fpnpmcdn.net
-  - DOMAIN-SUFFIX,loggly.com
   - DOMAIN-SUFFIX,offer-go.com
   - DOMAIN-SUFFIX,d2ezz24t9nm0vu.cloudfront.net
   - DOMAIN-SUFFIX,px*.mediahills.ru
@@ -4739,6 +4738,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d24rtvkqjwgutp.cloudfront.net
+  - DOMAIN-SUFFIX,collect.rtl.lu
+  - DOMAIN-SUFFIX,s.sofoot.com
   - DOMAIN-SUFFIX,tracker.hdtvcloud.com
   - DOMAIN-SUFFIX,mtm.walls.io
   - DOMAIN-SUFFIX,analytics.slidesai.io
