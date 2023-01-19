@@ -4739,6 +4739,14 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics-mkt.wemakeprice.com
+  - DOMAIN-SUFFIX,ad-log.wemakeprice.com
+  - DOMAIN-SUFFIX,analytics.ubports.com
+  - DOMAIN-SUFFIX,tracker.dcdn.baidu.com
+  - DOMAIN-SUFFIX,apetite.index.hr
+  - DOMAIN-SUFFIX,push.zhanzhang.baidu.com
+  - DOMAIN-SUFFIX,tealium.cbsnews.com
+  - DOMAIN-SUFFIX,tracker.citicsinfo.com
   - DOMAIN-SUFFIX,tags.chip.de
   - DOMAIN-SUFFIX,d24rtvkqjwgutp.cloudfront.net
   - DOMAIN-SUFFIX,collect.rtl.lu
@@ -25661,6 +25669,11 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,event.togothermany.com
+  - DOMAIN-SUFFIX,oldevent.togothermany.com
+  - DOMAIN-SUFFIX,logs.ironsrc.mobi
+  - DOMAIN-SUFFIX,events.mz.unity3d.com
+  - DOMAIN-SUFFIX,r-log.dable.io
   - DOMAIN-SUFFIX,metrics.plaid.com
   - DOMAIN-SUFFIX,mon*-platform-*.tiktokv.com
   - DOMAIN-SUFFIX,log*-applog-*.tiktokv.com
