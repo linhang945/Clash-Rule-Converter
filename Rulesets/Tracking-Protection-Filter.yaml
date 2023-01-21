@@ -3675,6 +3675,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,vengefulgrass.com
   - DOMAIN-SUFFIX,chubbycreature.com
   - DOMAIN-SUFFIX,restrainstorm.com
   - DOMAIN-SUFFIX,sugarfriction.com
@@ -4739,6 +4740,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d17tqr44y57o31.cloudfront.net
+  - DOMAIN-SUFFIX,a.pikabu.ru
   - DOMAIN-SUFFIX,analytics-mkt.wemakeprice.com
   - DOMAIN-SUFFIX,ad-log.wemakeprice.com
   - DOMAIN-SUFFIX,analytics.ubports.com
@@ -25669,6 +25672,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,log.isnssdk.com
+  - DOMAIN-SUFFIX,log-tb.isnssdk.com
+  - DOMAIN-SUFFIX,mon.isnssdk.com
   - DOMAIN-SUFFIX,event.togothermany.com
   - DOMAIN-SUFFIX,oldevent.togothermany.com
   - DOMAIN-SUFFIX,logs.ironsrc.mobi
