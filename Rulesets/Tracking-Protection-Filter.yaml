@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,track.my1elitclub.com
+  - DOMAIN-SUFFIX,openfpcdn.io
+  - DOMAIN-SUFFIX,tracking-api-4lasu2nlcq-ew.a.run.app
+  - DOMAIN-SUFFIX,optimeeze.appspot.com
+  - DOMAIN-SUFFIX,tracker-dot-optimeeze.appspot.com
+  - DOMAIN-SUFFIX,tag.imagino.com
   - DOMAIN-SUFFIX,cntxtfl.com
   - DOMAIN-SUFFIX,ztrck.me
   - DOMAIN-SUFFIX,trk.lightdatahouse.com
@@ -4739,6 +4745,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.aklamio.com
+  - DOMAIN-SUFFIX,collect.hollisterco.com
   - DOMAIN-SUFFIX,d17tqr44y57o31.cloudfront.net
   - DOMAIN-SUFFIX,a.pikabu.ru
   - DOMAIN-SUFFIX,analytics-mkt.wemakeprice.com
@@ -25103,7 +25111,6 @@ payload:
   - DOMAIN-SUFFIX,track.bazonline.ch
   - DOMAIN-SUFFIX,mobtop.az
   - DOMAIN-SUFFIX,dig.ultimedia.com
-  - DOMAIN-SUFFIX,stats1.tune.pk
   - DOMAIN-SUFFIX,tracking.content-recommendation.net
   - DOMAIN-SUFFIX,kameleoon.eu
   - DOMAIN-SUFFIX,log.prezi.com
