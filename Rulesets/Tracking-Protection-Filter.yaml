@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cookie.codemarketing.cloud
+  - DOMAIN-SUFFIX,nakanohito.jp
   - DOMAIN-SUFFIX,track.my1elitclub.com
   - DOMAIN-SUFFIX,openfpcdn.io
   - DOMAIN-SUFFIX,tracking-api-4lasu2nlcq-ew.a.run.app
@@ -4745,6 +4747,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,a.opmnstr.com
   - DOMAIN-SUFFIX,analytics.aklamio.com
   - DOMAIN-SUFFIX,collect.hollisterco.com
   - DOMAIN-SUFFIX,d17tqr44y57o31.cloudfront.net
