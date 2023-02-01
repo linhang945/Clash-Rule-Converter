@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,firstblackphase.com
   - DOMAIN-SUFFIX,rferl.c.goolara.net
   - DOMAIN-SUFFIX,behavior.tongdun.net
   - DOMAIN-SUFFIX,cookie.codemarketing.cloud
@@ -432,7 +433,7 @@ payload:
   - DOMAIN-SUFFIX,pxksnymto.ru
   - DOMAIN-SUFFIX,prodmp.ru
   - DOMAIN-SUFFIX,events.busuu.com
-  - DOMAIN-SUFFIX,intellimize.co
+  - DOMAIN-SUFFIX,log.intellimize.co
   - DOMAIN-SUFFIX,logs.viadata.store
   - DOMAIN-SUFFIX,hitapi.pulpoar.com
   - DOMAIN-SUFFIX,dataroid.com
@@ -4751,6 +4752,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,events.air.tv
+  - DOMAIN-SUFFIX,event-listener.air.tv
   - DOMAIN-SUFFIX,d1yu67rmchodpo.cloudfront.net
   - DOMAIN-SUFFIX,d1zxg9iar5y3ur.cloudfront.net
   - DOMAIN-SUFFIX,a.opmnstr.com
@@ -28477,7 +28480,9 @@ payload:
   - DOMAIN-SUFFIX,analytics-sprint.qoqa.com
   - DOMAIN-SUFFIX,analytics.qoqa.ch
   - DOMAIN-SUFFIX,analytics.qoqa.com
+  - DOMAIN-SUFFIX,dlsdk.appsflyer.com
   - DOMAIN-SUFFIX,dls2s.appsflyer.com
+  - DOMAIN-SUFFIX,inapps.appsflyersdk.com
   - DOMAIN-SUFFIX,launches.appsflyersdk.com
   - DOMAIN-SUFFIX,cdn-settings.appsflyersdk.com
   - DOMAIN-SUFFIX,appsflyer-report.honkaiimpact3.com
@@ -28515,6 +28520,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,wsmetrics.batch.com
   - DOMAIN-SUFFIX,log.isnssdk.com
   - DOMAIN-SUFFIX,log-tb.isnssdk.com
   - DOMAIN-SUFFIX,mon.isnssdk.com
