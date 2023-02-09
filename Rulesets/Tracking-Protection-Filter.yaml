@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,region1.analytics.google.com
+  - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,iad.anm.co.uk
   - DOMAIN-SUFFIX,cdn.wgchrrammzv.com
   - DOMAIN-SUFFIX,cdn.pranmcpkx.com
@@ -6457,7 +6459,6 @@ payload:
   - DOMAIN-SUFFIX,stats.vc.gg
   - DOMAIN-SUFFIX,stats.video.search.yahoo.com
   - DOMAIN-SUFFIX,stats.videodelivery.net
-  - DOMAIN-SUFFIX,stats.videoseyredin.net
   - DOMAIN-SUFFIX,stats.vidyome.com
   - DOMAIN-SUFFIX,stats.visistat.com
   - DOMAIN-SUFFIX,stats.vulture.com
@@ -6684,6 +6685,7 @@ payload:
   - DOMAIN-SUFFIX,tracker.cdnbye.com
   - DOMAIN-SUFFIX,tracker.cpapath.com
   - DOMAIN-SUFFIX,tracker.downdetector.com
+  - DOMAIN-SUFFIX,tracker.files.fm
   - DOMAIN-SUFFIX,tracker.giftd.ru
   - DOMAIN-SUFFIX,tracker.joongang.co.kr
   - DOMAIN-SUFFIX,tracker.joost.com
@@ -26023,7 +26025,6 @@ payload:
   - DOMAIN-SUFFIX,etl.xlmc.sandai.net
   - DOMAIN-SUFFIX,events.lbesecapi.com
   - DOMAIN-SUFFIX,geoip.fotoable.net
-  - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,googleadapis.l.google.com
   - DOMAIN-SUFFIX,iam-agof-app.irquest.com
   - DOMAIN-SUFFIX,imp.apprevolve.com
