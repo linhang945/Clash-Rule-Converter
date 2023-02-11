@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,log.trackingio.com
   - DOMAIN-SUFFIX,region1.analytics.google.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,iad.anm.co.uk
@@ -740,7 +741,6 @@ payload:
   - DOMAIN-SUFFIX,retargeter.com.br
   - DOMAIN-SUFFIX,shopback.net
   - DOMAIN-SUFFIX,shopconvert.com.br
-  - DOMAIN-SUFFIX,neemu.com
   - DOMAIN-SUFFIX,prod-sb-appanalytics-us1.servicebus.windows.net
   - DOMAIN-SUFFIX,mci1.co.kr
   - DOMAIN-SUFFIX,analytics.sitewit.com
@@ -3691,6 +3691,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,magicaljoin.com
   - DOMAIN-SUFFIX,exchangedetail.com
   - DOMAIN-SUFFIX,dustyhammer.com
   - DOMAIN-SUFFIX,carvecakes.com
@@ -4760,6 +4761,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracking.ensonhaber.com
   - DOMAIN-SUFFIX,l.traxmag.com
   - DOMAIN-SUFFIX,pixel-*.rubiconproject.com
   - DOMAIN-SUFFIX,pixel.rubiconproject.com
@@ -5874,7 +5876,6 @@ payload:
   - DOMAIN-SUFFIX,log.mix.sina.com.cn
   - DOMAIN-SUFFIX,log.newsbreak.jp
   - DOMAIN-SUFFIX,log.newsvine.com
-  - DOMAIN-SUFFIX,log.ohmynews.com
   - DOMAIN-SUFFIX,log.olark.com
   - DOMAIN-SUFFIX,log.outbrain.com
   - DOMAIN-SUFFIX,log.outbrainimg.com
