@@ -4763,6 +4763,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,beacon.unext.jp
+  - DOMAIN-SUFFIX,log.affiliate.rakuten.co.jp
   - DOMAIN-SUFFIX,d-collector.jennifersoft.com
   - DOMAIN-SUFFIX,analytics.dashboard.fingerprint.com
   - DOMAIN-SUFFIX,tracking.ensonhaber.com
@@ -27242,6 +27244,40 @@ payload:
   - DOMAIN-SUFFIX,logs.supersonic.com
   - DOMAIN-SUFFIX,ntracker-collector.naver.com
   - DOMAIN-SUFFIX,ace.naver.com
+  - DOMAIN-SUFFIX,api.sec.intl.miui.com
+  - DOMAIN-SUFFIX,authbe.sec.intl.miui.com
+  - DOMAIN-SUFFIX,flash.sec.intl.miui.com
+  - DOMAIN-SUFFIX,api.setting.intl.miui.com
+  - DOMAIN-SUFFIX,data.sec.intl.miui.com
+  - DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
+  - DOMAIN-SUFFIX,tracking.intl.miui.com
+  - DOMAIN-SUFFIX,metok.sys.miui.com
+  - DOMAIN-SUFFIX,mazu.sec.miui.com
+  - DOMAIN-SUFFIX,auth.be.sec.miui.com
+  - DOMAIN-SUFFIX,adv.sec.miui.com
+  - DOMAIN-SUFFIX,api.sec.miui.com
+  - DOMAIN-SUFFIX,data.sec.miui.com
+  - DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
+  - DOMAIN-SUFFIX,r.browser.miui.com
+  - DOMAIN-SUFFIX,tracking.miui.com
+  - DOMAIN-SUFFIX,xlmc.sec.miui.com
+  - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
+  - DOMAIN-SUFFIX,register.xmpush.xiaomi.com
+  - DOMAIN-SUFFIX,storeconfig.mistat.intl.xiaomi.com
+  - DOMAIN-SUFFIX,zeus.ad.intl.xiaomi.com
+  - DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
+  - DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
+  - DOMAIN-SUFFIX,api.miui.security.xiaomi.com
+  - DOMAIN-SUFFIX,shenghuo.xiaomi.com
+  - DOMAIN-SUFFIX,globalapi.ad.xiaomi.com
+  - DOMAIN-SUFFIX,api.ad.xiaomi.com
+  - DOMAIN-SUFFIX,resolver.msg.xiaomi.net
+  - DOMAIN-SUFFIX,abtest.mistat.xiaomi.com
+  - DOMAIN-SUFFIX,o2o.api.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
+  - DOMAIN-SUFFIX,data.mistat.xiaomi.com
+  - DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
   - DOMAIN-SUFFIX,app-analytics-ru.huami.com
   - DOMAIN-SUFFIX,metrics.spbtv.com
   - DOMAIN-SUFFIX,android-stat.acestream.net
@@ -27402,7 +27438,6 @@ payload:
   - DOMAIN-SUFFIX,msga.cupid.iqiyi.com
   - DOMAIN-SUFFIX,ndct-data.video.iqiyi.com
   - DOMAIN-SUFFIX,ibd-as-api.iq.com
-  - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,statclick.nate.com
   - DOMAIN-SUFFIX,aff-report.lbesecapi.com
   - DOMAIN-SUFFIX,aff-policy.lbesecapi.com
@@ -27513,7 +27548,6 @@ payload:
   - DOMAIN-SUFFIX,errlogos.umeng.com
   - DOMAIN-SUFFIX,datacollector-*.dt.hicloud.com
   - DOMAIN-SUFFIX,tenant-content.apm.appfolio-analytics.com
-  - DOMAIN-SUFFIX,log.avlyun.sec.intl.miui.com
   - DOMAIN-SUFFIX,log.avlyun.com
   - DOMAIN-SUFFIX,api-analytics.prod.birdapp.com
   - DOMAIN-SUFFIX,mpianalytics.com
@@ -27541,6 +27575,7 @@ payload:
   - DOMAIN-SUFFIX,monitoring-sdk.experimentation.intuit.com
   - DOMAIN-SUFFIX,logging.api.intuit.com
   - DOMAIN-SUFFIX,analytics.prod.mybuddy.ai
+  - DOMAIN-SUFFIX,dualstack-logs.amap.com
   - DOMAIN-SUFFIX,logs.amap.com
   - DOMAIN-SUFFIX,edmanalytics.pandahall.com
   - DOMAIN-SUFFIX,applogs.pixelfederation.com
@@ -27578,7 +27613,6 @@ payload:
   - DOMAIN-SUFFIX,getclicky.com
   - DOMAIN-SUFFIX,ztevents.zaloapp.com
   - DOMAIN-SUFFIX,log.adtimaserver.vn
-  - DOMAIN-SUFFIX,register.xmpush.xiaomi.com
   - DOMAIN-SUFFIX,tunion-api.m.taobao.com
   - DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
   - DOMAIN-SUFFIX,amdcopen.m.taobao.com
@@ -27656,15 +27690,10 @@ payload:
   - DOMAIN-SUFFIX,elephantdata.net
   - DOMAIN-SUFFIX,sdks.stats-locations.com
   - DOMAIN-SUFFIX,imp.startappservice.com
-  - DOMAIN-SUFFIX,tracking.intl.miui.com
-  - DOMAIN-SUFFIX,storeconfig.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,ploy.batmobi.net
   - DOMAIN-SUFFIX,an.batmobi.net
   - DOMAIN-SUFFIX,ustat.batmobi.net
   - DOMAIN-SUFFIX,analytics.any.do
-  - DOMAIN-SUFFIX,zeus.ad.intl.xiaomi.com
-  - DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
-  - DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
   - DOMAIN-SUFFIX,alog.umeng.co
   - DOMAIN-SUFFIX,oc.umeng.co
   - DOMAIN-SUFFIX,m.vpadn.com
@@ -27689,8 +27718,6 @@ payload:
   - DOMAIN-SUFFIX,e-ssl.apsalar.com
   - DOMAIN-SUFFIX,collector-axa.cloud.ca.com
   - DOMAIN-SUFFIX,track.adform.net
-  - DOMAIN-SUFFIX,api.miui.security.xiaomi.com
-  - DOMAIN-SUFFIX,metok.sys.miui.com
   - DOMAIN-SUFFIX,sync.adotmob.com
   - DOMAIN-SUFFIX,logger.cloudmobi.net
   - DOMAIN-SUFFIX,tracker.adotmob.com
@@ -27726,10 +27753,6 @@ payload:
   - DOMAIN-SUFFIX,dispatcher.upmc.uc.cn
   - DOMAIN-SUFFIX,gj.applog.uc.cn
   - DOMAIN-SUFFIX,gjapplog.uc.cn
-  - DOMAIN-SUFFIX,mazu.sec.miui.com
-  - DOMAIN-SUFFIX,shenghuo.xiaomi.com
-  - DOMAIN-SUFFIX,globalapi.ad.xiaomi.com
-  - DOMAIN-SUFFIX,api.ad.xiaomi.com
   - DOMAIN-SUFFIX,a.bitmango.com
   - DOMAIN-SUFFIX,tracking.directservices.it
   - DOMAIN-SUFFIX,onedrive-collection.device.mobileengagement.windows.net
@@ -27740,10 +27763,7 @@ payload:
   - DOMAIN-SUFFIX,tracking-server-prod-1.zenmxapps.com
   - DOMAIN-SUFFIX,config.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,api.uca.cloud.unity3d.com
-  - DOMAIN-SUFFIX,resolver.msg.xiaomi.net
   - DOMAIN-SUFFIX,resolver.gslb.mi-idc.com
-  - DOMAIN-SUFFIX,o2o.api.xiaomi.com
-  - DOMAIN-SUFFIX,auth.be.sec.miui.com
   - DOMAIN-SUFFIX,geoip.ifunny.co
   - DOMAIN-SUFFIX,alogs.umeng.com
   - DOMAIN-SUFFIX,alogs.umengcloud.com
@@ -27753,12 +27773,10 @@ payload:
   - DOMAIN-SUFFIX,analytics.rayjump.com
   - DOMAIN-SUFFIX,iapp-cp.nuggad.net
   - DOMAIN-SUFFIX,4seeresults.com
-  - DOMAIN-SUFFIX,abtest.mistat.xiaomi.com
   - DOMAIN-SUFFIX,ad-analytics-bootstrap.metaps.com
   - DOMAIN-SUFFIX,adfuture.cn
   - DOMAIN-SUFFIX,adserver.snapads.com
   - DOMAIN-SUFFIX,adsunflower.com
-  - DOMAIN-SUFFIX,adv.sec.miui.com
   - DOMAIN-SUFFIX,advmob.cn
   - DOMAIN-SUFFIX,alog.umeng.com
   - DOMAIN-SUFFIX,alog.umengcloud.com
@@ -27782,7 +27800,6 @@ payload:
   - DOMAIN-SUFFIX,rubick.gameanalytics.com
   - DOMAIN-SUFFIX,api.gameanalytics.com
   - DOMAIN-SUFFIX,api.gimbal.com
-  - DOMAIN-SUFFIX,api.sec.miui.com
   - DOMAIN-SUFFIX,appmetrica.yandex.net
   - DOMAIN-SUFFIX,appmetrica.yandex.com
   - DOMAIN-SUFFIX,ar.umeng.com
@@ -27805,10 +27822,6 @@ payload:
   - DOMAIN-SUFFIX,counter.kingsoft.com
   - DOMAIN-SUFFIX,crasheye.cn
   - DOMAIN-SUFFIX,crwdcntrl.net
-  - DOMAIN-SUFFIX,data.mistat.india.xiaomi.com
-  - DOMAIN-SUFFIX,data.mistat.rus.xiaomi.com
-  - DOMAIN-SUFFIX,data.mistat.xiaomi.com
-  - DOMAIN-SUFFIX,data.sec.miui.com
   - DOMAIN-SUFFIX,demdex.net
   - DOMAIN-SUFFIX,dsg.sc.omtrdc.net
   - DOMAIN-SUFFIX,ep.xone.com
@@ -27825,7 +27838,6 @@ payload:
   - DOMAIN-SUFFIX,log.droid4x.cn
   - DOMAIN-SUFFIX,log.umsns.com
   - DOMAIN-SUFFIX,logger.ntracecloud.com
-  - DOMAIN-SUFFIX,logupdate.avlyun.sec.miui.com
   - DOMAIN-SUFFIX,lp4.io
   - DOMAIN-SUFFIX,metrics.adflake.com
   - DOMAIN-SUFFIX,metrics.bestbuy.com
@@ -27848,13 +27860,11 @@ payload:
   - DOMAIN-SUFFIX,prugskh.com
   - DOMAIN-SUFFIX,prugskh.net
   - DOMAIN-SUFFIX,quantcount.com
-  - DOMAIN-SUFFIX,r.browser.miui.com
   - DOMAIN-SUFFIX,rc.dxsvr.com
   - DOMAIN-SUFFIX,report.appmetrica.yandex.net
   - DOMAIN-SUFFIX,rlog-api.under9.co
   - DOMAIN-SUFFIX,rlog.9gag.com
   - DOMAIN-SUFFIX,sc-analytics.appspot.com
-  - DOMAIN-SUFFIX,sdkconfig.ad.xiaomi.com
   - DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
   - DOMAIN-SUFFIX,stat.duokanbox.com
   - DOMAIN-SUFFIX,statistics.videofarm.daum.net
@@ -27866,7 +27876,6 @@ payload:
   - DOMAIN-SUFFIX,track.pingstart.com
   - DOMAIN-SUFFIX,tracker-api.my.com
   - DOMAIN-SUFFIX,tracking.lenzmx.com
-  - DOMAIN-SUFFIX,tracking.miui.com
   - DOMAIN-SUFFIX,trk.pinterest.com
   - DOMAIN-SUFFIX,tu.dxcnd.cn
   - DOMAIN-SUFFIX,tunein.adswizz.com
@@ -27874,7 +27883,6 @@ payload:
   - DOMAIN-SUFFIX,ups.ksmobile.net
   - DOMAIN-SUFFIX,ws.ksmobile.net
   - DOMAIN-SUFFIX,www-google-analytics.l.google.com
-  - DOMAIN-SUFFIX,xlmc.sec.miui.com
   - DOMAIN-SUFFIX,yadro.ru
   - DOMAIN-SUFFIX,ymtracking.com
   - DOMAIN-SUFFIX,zdbb.net
