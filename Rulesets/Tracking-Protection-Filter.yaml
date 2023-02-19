@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,b.karte.io
   - DOMAIN-SUFFIX,cra.hum.works
   - DOMAIN-SUFFIX,log.trackingio.com
   - DOMAIN-SUFFIX,region1.analytics.google.com
@@ -263,7 +264,6 @@ payload:
   - DOMAIN-SUFFIX,lightstep.medium.systems
   - DOMAIN-SUFFIX,cyberanalytics.nl
   - DOMAIN-SUFFIX,analytics.test.cheggnet.com
-  - DOMAIN-SUFFIX,03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
   - DOMAIN-SUFFIX,sitealyse.de
   - DOMAIN-SUFFIX,simplewebanalysis.com
   - DOMAIN-SUFFIX,wait.re
@@ -290,7 +290,6 @@ payload:
   - DOMAIN-SUFFIX,init.blackcrow.ai
   - DOMAIN-SUFFIX,taplytics.com
   - DOMAIN-SUFFIX,event-stream.spot.im
-  - DOMAIN-SUFFIX,1ee085aa-4c05-43a8-a4fe-fafedbedd062.xyz
   - DOMAIN-SUFFIX,track.swaptrap.live
   - DOMAIN-SUFFIX,triplewhale-pixel.web.app
   - DOMAIN-SUFFIX,tracking.hyros.com
@@ -4763,6 +4762,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,forecast.lemonde.fr
+  - DOMAIN-SUFFIX,b0.yahoo.co.jp
   - DOMAIN-SUFFIX,beacon.unext.jp
   - DOMAIN-SUFFIX,log.affiliate.rakuten.co.jp
   - DOMAIN-SUFFIX,d-collector.jennifersoft.com
@@ -27331,6 +27332,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,node.aibeacon.jp
   - DOMAIN-SUFFIX,wsmetrics.batch.com
   - DOMAIN-SUFFIX,log.isnssdk.com
   - DOMAIN-SUFFIX,log-tb.isnssdk.com
