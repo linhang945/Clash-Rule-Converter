@@ -5,6 +5,14 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,1800cnt.com
+  - DOMAIN-SUFFIX,tag.nifty.com
+  - DOMAIN-SUFFIX,tracker.kantan-access.com
+  - DOMAIN-SUFFIX,counter2.blog.livedoor.com
+  - DOMAIN-SUFFIX,odtrtadl.com
+  - DOMAIN-SUFFIX,dkotrack.com
+  - DOMAIN-SUFFIX,statscollector.sd-rtn.com
+  - DOMAIN-SUFFIX,predatasrv.com
   - DOMAIN-SUFFIX,mediago.io
   - DOMAIN-SUFFIX,b.karte.io
   - DOMAIN-SUFFIX,cra.hum.works
@@ -3691,6 +3699,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,distributionneck.com
   - DOMAIN-SUFFIX,aliasanvil.com
   - DOMAIN-SUFFIX,shiveringspot.com
   - DOMAIN-SUFFIX,magicaljoin.com
@@ -4763,6 +4772,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,rac.ruutu.fi
   - DOMAIN-SUFFIX,forecast.lemonde.fr
   - DOMAIN-SUFFIX,b0.yahoo.co.jp
   - DOMAIN-SUFFIX,beacon.unext.jp
@@ -4900,7 +4910,6 @@ payload:
   - DOMAIN-SUFFIX,log.hypebeast.com
   - DOMAIN-SUFFIX,tracker.remp-beam.golem.de
   - DOMAIN-SUFFIX,tracking.digitalocean.com
-  - DOMAIN-SUFFIX,events.split.io
   - DOMAIN-SUFFIX,log.bandi.so
   - DOMAIN-SUFFIX,ana.bandi.so
   - DOMAIN-SUFFIX,weblog.dema.mil.kr
