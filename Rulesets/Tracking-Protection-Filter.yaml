@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics-cdiscount.com
   - DOMAIN-SUFFIX,hotjar.io
   - DOMAIN-SUFFIX,hellosmpl.com
   - DOMAIN-SUFFIX,8digits.com
@@ -3702,6 +3703,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,knitstamp.com
   - DOMAIN-SUFFIX,boundlessbrake.com
   - DOMAIN-SUFFIX,distributionneck.com
   - DOMAIN-SUFFIX,aliasanvil.com
@@ -4776,6 +4778,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,kaan.kakao.com
+  - DOMAIN-SUFFIX,rec.banggood.com
   - DOMAIN-SUFFIX,metrics.icloud.com
   - DOMAIN-SUFFIX,units.knotch.it
   - DOMAIN-SUFFIX,mercury.coupang.com
