@@ -3692,6 +3692,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,talltouch.com
   - DOMAIN-SUFFIX,knitstamp.com
   - DOMAIN-SUFFIX,boundlessbrake.com
   - DOMAIN-SUFFIX,distributionneck.com
@@ -4767,6 +4768,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,prod.fennec.atp.fox
+  - DOMAIN-SUFFIX,analytics.data.visenze.com
+  - DOMAIN-SUFFIX,evs.proxy.analytics.shutterstock.com
   - DOMAIN-SUFFIX,gtm-server.healthline.com
   - DOMAIN-SUFFIX,excel-telemetry.officeapps.live.com
   - DOMAIN-SUFFIX,word-telemetry.officeapps.live.com
