@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,ganalytics.live
   - DOMAIN-SUFFIX,analytics-cdiscount.com
   - DOMAIN-SUFFIX,hotjar.io
   - DOMAIN-SUFFIX,hellosmpl.com
@@ -4768,25 +4769,11 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,thoth.utyug.media
   - DOMAIN-SUFFIX,prod.fennec.atp.fox
   - DOMAIN-SUFFIX,analytics.data.visenze.com
   - DOMAIN-SUFFIX,evs.proxy.analytics.shutterstock.com
   - DOMAIN-SUFFIX,gtm-server.healthline.com
-  - DOMAIN-SUFFIX,excel-telemetry.officeapps.live.com
-  - DOMAIN-SUFFIX,word-telemetry.officeapps.live.com
-  - DOMAIN-SUFFIX,powerpoint-telemetry.officeapps.live.com
-  - DOMAIN-SUFFIX,euc-excel-telemetry.officeapps.live.com
-  - DOMAIN-SUFFIX,euc-word-telemetry.officeapps.live.com
-  - DOMAIN-SUFFIX,euc-powerpoint-telemetry.officeapps.live.com
-  - DOMAIN-SUFFIX,word-telemetry.officeapps.live.com.mcas.ms
-  - DOMAIN-SUFFIX,excel-telemetry.officeapps.live.com.mcas.ms
-  - DOMAIN-SUFFIX,powerpoint-telemetry.officeapps.live.com.mcas.ms
-  - DOMAIN-SUFFIX,euc-excel-telemetry.officeapps.live.com.mcas.ms
-  - DOMAIN-SUFFIX,ppc-powerpoint-telemetry.officeapps.live.com
-  - DOMAIN-SUFFIX,ppc-word-telemetry.officeapps.live.com
-  - DOMAIN-SUFFIX,euc-word-telemetry.officeapps.live.com.mcas.ms
-  - DOMAIN-SUFFIX,euc-powerpoint-telemetry.officeapps.live.com.mcas.ms
-  - DOMAIN-SUFFIX,ppc-onenote-telemetry.officeapps.live.com
   - DOMAIN-SUFFIX,kaan.kakao.com
   - DOMAIN-SUFFIX,rec.banggood.com
   - DOMAIN-SUFFIX,metrics.icloud.com
@@ -4964,7 +4951,6 @@ payload:
   - DOMAIN-SUFFIX,log.haberturk.com
   - DOMAIN-SUFFIX,analytics.ikyu.com
   - DOMAIN-SUFFIX,analytics.helpukrainewinwidget.org
-  - DOMAIN-SUFFIX,ninja.data.olxcdn.com
   - DOMAIN-SUFFIX,event-collector.prd.data.s.joyn.de
   - DOMAIN-SUFFIX,clanker-events.squarespace.com
   - DOMAIN-SUFFIX,analytics.newscred.com
