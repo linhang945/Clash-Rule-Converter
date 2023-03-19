@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,f11-ads.com
   - DOMAIN-SUFFIX,eagle-insight.com
   - DOMAIN-SUFFIX,realtimely.io
   - DOMAIN-SUFFIX,t.adcell.com
@@ -4788,6 +4789,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.onedio.com
   - DOMAIN-SUFFIX,log-lb.skyperfectv.co.jp
   - DOMAIN-SUFFIX,ana.gomtv.com
   - DOMAIN-SUFFIX,log.gomlab.com
