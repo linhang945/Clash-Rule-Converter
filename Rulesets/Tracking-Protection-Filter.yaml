@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,livetrafficfeed.com
   - DOMAIN-SUFFIX,cnnx.link
   - DOMAIN-SUFFIX,sjv.io
   - DOMAIN-SUFFIX,f11-ads.com
@@ -927,7 +928,6 @@ payload:
   - DOMAIN-SUFFIX,casalemedia.com
   - DOMAIN-SUFFIX,ct2.kimodameshi.com
   - DOMAIN-SUFFIX,tag.pprl.io
-  - DOMAIN-SUFFIX,tags.newscgp.com
   - DOMAIN-SUFFIX,collector.mediator.media
   - DOMAIN-SUFFIX,rc.vtex.com.br
   - DOMAIN-SUFFIX,telemetric.dk
@@ -3715,6 +3715,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,cautiouscamera.com
   - DOMAIN-SUFFIX,friendlyfold.com
   - DOMAIN-SUFFIX,talltouch.com
   - DOMAIN-SUFFIX,knitstamp.com
@@ -4822,6 +4823,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.dugun.com
+  - DOMAIN-SUFFIX,report2.iciba.com
   - DOMAIN-SUFFIX,report.iciba.com
   - DOMAIN-SUFFIX,global.ketchcdn.com
   - DOMAIN-SUFFIX,collector.reelevant.com
@@ -5346,7 +5349,6 @@ payload:
   - DOMAIN-SUFFIX,beacon.toyota.co.jp
   - DOMAIN-SUFFIX,beacon.tws.toyota.jp
   - DOMAIN-SUFFIX,beacon.walmart.ca
-  - DOMAIN-SUFFIX,beacon.walmart.com
   - DOMAIN-SUFFIX,beacon.watch.impress.co.jp
   - DOMAIN-SUFFIX,beacon.wikia-services.com
   - DOMAIN-SUFFIX,beacon.www.theguardian.com
@@ -27973,7 +27975,6 @@ payload:
   - DOMAIN-SUFFIX,stats.viqeo.tv
   - DOMAIN-SUFFIX,beam.remp.nv.ua
   - DOMAIN-SUFFIX,pjstat.com
-  - DOMAIN-SUFFIX,analytics.dugun.com
   - DOMAIN-SUFFIX,sonar.semantiqo.com
   - DOMAIN-SUFFIX,spycounter.net
   - DOMAIN-SUFFIX,tracking.krone.at
