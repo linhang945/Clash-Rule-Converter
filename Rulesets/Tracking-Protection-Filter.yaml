@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,15823f12-289e-4189-9e51-e2de1bf1a105.online
   - DOMAIN-SUFFIX,livetrafficfeed.com
   - DOMAIN-SUFFIX,cnnx.link
   - DOMAIN-SUFFIX,sjv.io
@@ -4823,6 +4824,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,cologger.shopping.naver.com
   - DOMAIN-SUFFIX,analytics.dugun.com
   - DOMAIN-SUFFIX,report2.iciba.com
   - DOMAIN-SUFFIX,report.iciba.com
@@ -5967,7 +5969,6 @@ payload:
   - DOMAIN-SUFFIX,log.sina.cn
   - DOMAIN-SUFFIX,log.snapdeal.com
   - DOMAIN-SUFFIX,log.strm.yandex.ru
-  - DOMAIN-SUFFIX,log.suumo.jp
   - DOMAIN-SUFFIX,log.tbs.qq.com
   - DOMAIN-SUFFIX,log.tf.co.kr
   - DOMAIN-SUFFIX,log.ttbc-hcm.gov.vn
