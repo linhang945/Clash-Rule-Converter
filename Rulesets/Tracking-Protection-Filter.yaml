@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,31830fbc-adbf-11ed-afa1-0242ac120002.site
   - DOMAIN-SUFFIX,15823f12-289e-4189-9e51-e2de1bf1a105.online
   - DOMAIN-SUFFIX,livetrafficfeed.com
   - DOMAIN-SUFFIX,cnnx.link
@@ -4824,6 +4825,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ampltd2.medal.tv
+  - DOMAIN-SUFFIX,l.bfmtv.com
   - DOMAIN-SUFFIX,cologger.shopping.naver.com
   - DOMAIN-SUFFIX,analytics.dugun.com
   - DOMAIN-SUFFIX,report2.iciba.com
@@ -28153,9 +28156,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,collect.analytics.unity3d.com
   - DOMAIN-SUFFIX,accscdn.m.taobao.com
   - DOMAIN-SUFFIX,acs.m.taobao.com
-  - DOMAIN-SUFFIX,heytapmobi.com
   - DOMAIN-SUFFIX,apsrgeo.amap.com
   - DOMAIN-SUFFIX,confe.dc.oppomobile.com
   - DOMAIN-SUFFIX,conff.dc.oppomobile.com
