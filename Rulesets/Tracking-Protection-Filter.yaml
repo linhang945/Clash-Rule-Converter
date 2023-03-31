@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,log.collectaction.com
+  - DOMAIN-SUFFIX,cometlytrack.com
+  - DOMAIN-SUFFIX,trueroas.io
+  - DOMAIN-SUFFIX,stats.makethebusiness.com
   - DOMAIN-SUFFIX,31830fbc-adbf-11ed-afa1-0242ac120002.site
   - DOMAIN-SUFFIX,15823f12-289e-4189-9e51-e2de1bf1a105.online
   - DOMAIN-SUFFIX,livetrafficfeed.com
@@ -6898,7 +6902,6 @@ payload:
   - DOMAIN-SUFFIX,udc.msn.com
   - DOMAIN-SUFFIX,uep.gaijin.net
   - DOMAIN-SUFFIX,ui.oix.net
-  - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,uie.data.cbc.ca
   - DOMAIN-SUFFIX,ut.gamersyde.com
   - DOMAIN-SUFFIX,ut.o2.pl
@@ -28119,7 +28122,6 @@ payload:
   - DOMAIN-SUFFIX,hq1.appsflyer.com
   - DOMAIN-SUFFIX,impression.appsflyer.com
   - DOMAIN-SUFFIX,inapps.appsflyer.com
-  - DOMAIN-SUFFIX,inapps.appsflyersdk.com
   - DOMAIN-SUFFIX,launches.appsflyer.com
   - DOMAIN-SUFFIX,launches.appsflyersdk.com
   - DOMAIN-SUFFIX,onelink.appsflyer.com
@@ -28156,6 +28158,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,profiler-collector.wshareit.com
+  - DOMAIN-SUFFIX,hellay.net
+  - DOMAIN-SUFFIX,receiver-metis.infeng.site
+  - DOMAIN-SUFFIX,dt.beyla.site
   - DOMAIN-SUFFIX,collect.analytics.unity3d.com
   - DOMAIN-SUFFIX,accscdn.m.taobao.com
   - DOMAIN-SUFFIX,acs.m.taobao.com
