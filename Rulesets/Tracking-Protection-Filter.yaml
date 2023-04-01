@@ -4829,6 +4829,10 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.karakuri.ai
+  - DOMAIN-SUFFIX,cdn-redirector.glopal.com
+  - DOMAIN-SUFFIX,storelog.kode.co.kr
+  - DOMAIN-SUFFIX,telemetry.transcend.io
   - DOMAIN-SUFFIX,ampltd2.medal.tv
   - DOMAIN-SUFFIX,l.bfmtv.com
   - DOMAIN-SUFFIX,cologger.shopping.naver.com
