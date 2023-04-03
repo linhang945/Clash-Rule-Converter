@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,t.counter.dev
+  - DOMAIN-SUFFIX,cdn.counter.dev
   - DOMAIN-SUFFIX,log.collectaction.com
   - DOMAIN-SUFFIX,cometlytrack.com
   - DOMAIN-SUFFIX,trueroas.io
@@ -102,7 +104,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.mavi.digital
   - DOMAIN-SUFFIX,tieszhu.com
   - DOMAIN-SUFFIX,sensorsdata.cn
-  - DOMAIN-SUFFIX,counter.dev
   - DOMAIN-SUFFIX,pro-web-metrics.alias.s24cloud.net
   - DOMAIN-SUFFIX,i.tct-rom.com
   - DOMAIN-SUFFIX,js.glossom.jp
