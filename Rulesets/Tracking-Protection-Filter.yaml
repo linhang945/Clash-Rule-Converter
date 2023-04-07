@@ -5,6 +5,16 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,log.qvb.qcloud.com
+  - DOMAIN-SUFFIX,log.tpns.gz2.tencent.com
+  - DOMAIN-SUFFIX,trace.zhiyan.tencent-cloud.net
+  - DOMAIN-SUFFIX,norma-external-collect.meizu.com
+  - DOMAIN-SUFFIX,log.iflytek.com
+  - DOMAIN-SUFFIX,log.voicecloud.cn
+  - DOMAIN-SUFFIX,aads.shuzilm.cn
+  - DOMAIN-SUFFIX,adxlog-adnet.vivo.com.cn
+  - DOMAIN-SUFFIX,user-analysis.7moor.com
+  - DOMAIN-SUFFIX,sirdata.io
   - DOMAIN-SUFFIX,t.counter.dev
   - DOMAIN-SUFFIX,cdn.counter.dev
   - DOMAIN-SUFFIX,log.collectaction.com
@@ -4793,6 +4803,9 @@ payload:
   - DOMAIN-SUFFIX,ws-goguardian.pusher.com
   - DOMAIN-SUFFIX,x3-policy-maker.goguardian.com
   - DOMAIN-SUFFIX,x3-predictor.goguardian.com
+  - DOMAIN-SUFFIX,sp1.baidu.com
+  - DOMAIN-SUFFIX,sp2.baidu.com
+  - DOMAIN-SUFFIX,sp3.baidu.com
   - DOMAIN-SUFFIX,als.baidu.com
   - DOMAIN-SUFFIX,afd.baidu.com
   - DOMAIN-SUFFIX,wkctj.baidu.com
@@ -4830,6 +4843,9 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,uplog.inews.qq.com
+  - DOMAIN-SUFFIX,log1.wtlogin.qq.com
+  - DOMAIN-SUFFIX,tp.content-score.com
   - DOMAIN-SUFFIX,volts.shopping.naver.com
   - DOMAIN-SUFFIX,analytics.grape.media
   - DOMAIN-SUFFIX,analytics.karakuri.ai
@@ -27608,7 +27624,6 @@ payload:
   - DOMAIN-SUFFIX,tok.vaicore.xyz
   - DOMAIN-SUFFIX,biddingmax.apse.trk.rixserv.com
   - DOMAIN-SUFFIX,profiler-collector.wshareit.com
-  - DOMAIN-SUFFIX,hellay.net
   - DOMAIN-SUFFIX,receiver-metis.infeng.site
   - DOMAIN-SUFFIX,dt.beyla.site
   - DOMAIN-SUFFIX,collect.analytics.unity3d.com
