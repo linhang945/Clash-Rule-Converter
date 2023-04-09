@@ -3732,6 +3732,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,amusedbucket.com
   - DOMAIN-SUFFIX,cautiouscamera.com
   - DOMAIN-SUFFIX,friendlyfold.com
   - DOMAIN-SUFFIX,talltouch.com
@@ -4843,6 +4844,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.bauermedia.sk
+  - DOMAIN-SUFFIX,ads-dmp-collect.*.karrotmarket.com
   - DOMAIN-SUFFIX,uplog.inews.qq.com
   - DOMAIN-SUFFIX,log1.wtlogin.qq.com
   - DOMAIN-SUFFIX,tp.content-score.com
@@ -27575,7 +27578,6 @@ payload:
   - DOMAIN-SUFFIX,attr.appsflyer.com
   - DOMAIN-SUFFIX,banner.appsflyer.com
   - DOMAIN-SUFFIX,cdn-settings.appsflyersdk.com
-  - DOMAIN-SUFFIX,cdn.appsflyer.com
   - DOMAIN-SUFFIX,cdnappicons.appsflyer.com
   - DOMAIN-SUFFIX,dls2s.appsflyer.com
   - DOMAIN-SUFFIX,dlsdk.appsflyer.com
