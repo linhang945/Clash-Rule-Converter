@@ -4836,6 +4836,8 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
+  - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
   - DOMAIN-SUFFIX,lake.joongang.co.kr
   - DOMAIN-SUFFIX,dsas.danawa.com
   - DOMAIN-SUFFIX,t.apkpure.net
@@ -27456,6 +27458,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,grs.hicloud.com
+  - DOMAIN-SUFFIX,logbak.hicloud.com
+  - DOMAIN-SUFFIX,iot-eu-logser.realme.com
+  - DOMAIN-SUFFIX,iot-logser.realme.com
   - DOMAIN-SUFFIX,tracking.purchasely.io
   - DOMAIN-SUFFIX,ts.line-apps.com
   - DOMAIN-SUFFIX,log-music-data.line-apps.com
