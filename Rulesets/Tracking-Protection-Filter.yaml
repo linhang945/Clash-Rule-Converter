@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics-beacon.p.uliza.jp
   - DOMAIN-SUFFIX,hnrmvq.com
   - DOMAIN-SUFFIX,log.qvb.qcloud.com
   - DOMAIN-SUFFIX,log.tpns.gz2.tencent.com
@@ -4838,6 +4839,7 @@ payload:
   - DOMAIN-SUFFIX,telemetry.mozilla.org
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,analytics.skroutz.gr
   - DOMAIN-SUFFIX,lake.joongang.co.kr
   - DOMAIN-SUFFIX,dsas.danawa.com
   - DOMAIN-SUFFIX,t.apkpure.net
