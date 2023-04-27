@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,getlasso.co
+  - DOMAIN-SUFFIX,widget.sparrow.ru
   - DOMAIN-SUFFIX,medipartner.jp
   - DOMAIN-SUFFIX,tr.usergram.info
   - DOMAIN-SUFFIX,code.usergram.info
@@ -595,7 +597,7 @@ payload:
   - DOMAIN-SUFFIX,sanity-dataplane.rudderstack.com
   - DOMAIN-SUFFIX,counter.kikibobo.top
   - DOMAIN-SUFFIX,c1.politexpert.ru
-  - DOMAIN-SUFFIX,logrocket.com
+  - DOMAIN-SUFFIX,cdn.logrocket.com
   - DOMAIN-SUFFIX,ipmeta.io
   - DOMAIN-SUFFIX,datasign.co
   - DOMAIN-SUFFIX,analytics.daasrv.net
@@ -620,7 +622,6 @@ payload:
   - DOMAIN-SUFFIX,tm.jsuol.com.br
   - DOMAIN-SUFFIX,cptrack.de
   - DOMAIN-SUFFIX,collect.mxapis.com
-  - DOMAIN-SUFFIX,simility.com
   - DOMAIN-SUFFIX,recs.richrelevance.com
   - DOMAIN-SUFFIX,iper2.com
   - DOMAIN-SUFFIX,dc.banggood.com
@@ -3738,6 +3739,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,knottyswing.com
   - DOMAIN-SUFFIX,beamvolcano.com
   - DOMAIN-SUFFIX,blackbrake.com
   - DOMAIN-SUFFIX,amusedbucket.com
@@ -4845,6 +4847,9 @@ payload:
   - DOMAIN-SUFFIX,telemetry.mozilla.org
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,shopify-fast-tags.deliverr.com
+  - DOMAIN-SUFFIX,event-tracking.deliverr.com
+  - DOMAIN-SUFFIX,track.capitaloneshopping.com
   - DOMAIN-SUFFIX,player.stats.live-video.net
   - DOMAIN-SUFFIX,w3-reporting.reddit.com
   - DOMAIN-SUFFIX,w3-reporting-nel.reddit.com
@@ -6819,7 +6824,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.cdnbye.com
   - DOMAIN-SUFFIX,tracker.cpapath.com
   - DOMAIN-SUFFIX,tracker.downdetector.com
-  - DOMAIN-SUFFIX,tracker.files.fm
   - DOMAIN-SUFFIX,tracker.giftd.ru
   - DOMAIN-SUFFIX,tracker.joongang.co.kr
   - DOMAIN-SUFFIX,tracker.joost.com
@@ -31502,6 +31506,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,vik-analytics.moonactive.net
   - DOMAIN-SUFFIX,report.apkpure.net
   - DOMAIN-SUFFIX,report.iheartmedia.gbqofs.io
   - DOMAIN-SUFFIX,grs.hicloud.com
@@ -31730,7 +31735,6 @@ payload:
   - DOMAIN-SUFFIX,direct-collect.dy-api.com
   - DOMAIN-SUFFIX,direct-collect.dy-api.eu
   - DOMAIN-SUFFIX,api.telemetry.watchabc.go.com
-  - DOMAIN-SUFFIX,browser.events.data.microsoft.com
   - DOMAIN-SUFFIX,analytics.rover.io
   - DOMAIN-SUFFIX,events-collector-api.viacom.tech
   - DOMAIN-SUFFIX,pipe.aria.microsoft.com
