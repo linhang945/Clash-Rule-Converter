@@ -2495,7 +2495,6 @@ payload:
   - DOMAIN-SUFFIX,jirafe.com
   - DOMAIN-SUFFIX,js.medi-8.net
   - DOMAIN-SUFFIX,jscounter.com
-  - DOMAIN-SUFFIX,jsonip.com
   - DOMAIN-SUFFIX,jstracker.com
   - DOMAIN-SUFFIX,jump-time.net
   - DOMAIN-SUFFIX,jumptime.com
@@ -4847,6 +4846,9 @@ payload:
   - DOMAIN-SUFFIX,telemetry.mozilla.org
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,wayfinderanalytics.servicebus.windows.net
+  - DOMAIN-SUFFIX,adtima-media.zascdn.me
+  - DOMAIN-SUFFIX,px.dmp.zaloapp.com
   - DOMAIN-SUFFIX,shopify-fast-tags.deliverr.com
   - DOMAIN-SUFFIX,event-tracking.deliverr.com
   - DOMAIN-SUFFIX,track.capitaloneshopping.com
