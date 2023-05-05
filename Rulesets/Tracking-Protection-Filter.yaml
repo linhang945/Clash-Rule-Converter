@@ -4847,6 +4847,8 @@ payload:
   - DOMAIN-SUFFIX,telemetry.mozilla.org
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,pixel*.production-public.tubi.io
+  - DOMAIN-SUFFIX,uid.mavencoalition.io
   - DOMAIN-SUFFIX,wayfinderanalytics.servicebus.windows.net
   - DOMAIN-SUFFIX,adtima-media.zascdn.me
   - DOMAIN-SUFFIX,px.dmp.zaloapp.com
@@ -31859,6 +31861,16 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,analytics.zg-api.com
+  - DOMAIN-SUFFIX,creative.bidease.com
+  - DOMAIN-SUFFIX,track-resource.bidease.com
+  - DOMAIN-SUFFIX,track-us.bidease.com
+  - DOMAIN-SUFFIX,analytics-tcp.mintegral.net
+  - DOMAIN-SUFFIX,innovads-server.poster.appsinnova.com
+  - DOMAIN-SUFFIX,adtrack.xiaojukeji.com
+  - DOMAIN-SUFFIX,rtag.farmers.com
+  - DOMAIN-SUFFIX,s.pixsrvcs.com
+  - DOMAIN-SUFFIX,cws-hulu.conviva.com
   - DOMAIN-SUFFIX,vik-analytics.moonactive.net
   - DOMAIN-SUFFIX,report.apkpure.net
   - DOMAIN-SUFFIX,report.iheartmedia.gbqofs.io
