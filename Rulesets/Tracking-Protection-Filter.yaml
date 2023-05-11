@@ -4849,6 +4849,8 @@ payload:
   - DOMAIN-SUFFIX,telemetry.mozilla.org
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,rum-metrics.bunny.net
+  - DOMAIN-SUFFIX,analytics.ravanallc.com
   - DOMAIN-SUFFIX,track.buzzerilla.com
   - DOMAIN-SUFFIX,track.historictalk.com
   - DOMAIN-SUFFIX,track.juststarz.com
@@ -32029,6 +32031,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,sia.internet.apps.samsung.com
+  - DOMAIN-SUFFIX,config-api.internet.apps.samsung.com
+  - DOMAIN-SUFFIX,terms.internet.apps.samsung.com
   - DOMAIN-SUFFIX,r.apkpure.net
   - DOMAIN-SUFFIX,analytics.zg-api.com
   - DOMAIN-SUFFIX,creative.bidease.com
