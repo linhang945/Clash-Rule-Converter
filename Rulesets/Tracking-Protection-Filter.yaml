@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,wct-2.com
   - DOMAIN-SUFFIX,code.r5hsid.ru
   - DOMAIN-SUFFIX,stats.sprocketrocket.co
   - DOMAIN-SUFFIX,analytics.recruitics.com
@@ -4853,6 +4854,8 @@ payload:
   - DOMAIN-SUFFIX,telemetry.mozilla.org
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,mywedding-beacon.team-rec.jp
+  - DOMAIN-SUFFIX,metrics.onewegg.com
   - DOMAIN-SUFFIX,stat.gc.my.games
   - DOMAIN-SUFFIX,1l-hit.vkplay.ru
   - DOMAIN-SUFFIX,1l-view.my.games
@@ -32735,6 +32738,9 @@ payload:
   - DOMAIN-SUFFIX,do-not-tracker.org
   - DOMAIN-SUFFIX,eviltracker.net
   - DOMAIN-SUFFIX,trackersimulator.org
+  - DOMAIN-SUFFIX,log.ngsm.nexon.com
+  - DOMAIN-SUFFIX,log.nexon.io
+  - DOMAIN-SUFFIX,receiver.habby.mobi
   - DOMAIN-SUFFIX,pangle-b.io
   - DOMAIN-SUFFIX,track.*.roku.com
   - DOMAIN-SUFFIX,traces.sr.roku.com
