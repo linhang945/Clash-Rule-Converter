@@ -68,7 +68,6 @@ payload:
   - DOMAIN-SUFFIX,ganalytics.live
   - DOMAIN-SUFFIX,analytics-cdiscount.com
   - DOMAIN-SUFFIX,hotjar.io
-  - DOMAIN-SUFFIX,hellosmpl.com
   - DOMAIN-SUFFIX,8digits.com
   - DOMAIN-SUFFIX,1800cnt.com
   - DOMAIN-SUFFIX,tag.nifty.com
@@ -4861,6 +4860,9 @@ payload:
   - DOMAIN-SUFFIX,telemetry.mozilla.org
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,logger*.kma.go.kr
+  - DOMAIN-SUFFIX,webtracking.fe.union-investment.de
+  - DOMAIN-SUFFIX,metrics.mdstrm.com
   - DOMAIN-SUFFIX,track.17goforward.com
   - DOMAIN-SUFFIX,analytics.starlink.com
   - DOMAIN-SUFFIX,st-5cva8vttppvjafpc7jvj.kodik.biz
