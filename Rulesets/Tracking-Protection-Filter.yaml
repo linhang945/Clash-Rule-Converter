@@ -5393,7 +5393,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.tout.com
   - DOMAIN-SUFFIX,analytics.tripoto.com
   - DOMAIN-SUFFIX,analytics.tver.jp
-  - DOMAIN-SUFFIX,analytics.twitter.com
   - DOMAIN-SUFFIX,analytics.upworthy.com
   - DOMAIN-SUFFIX,analytics.us.archive.org
   - DOMAIN-SUFFIX,analytics.vadio.com
@@ -35584,6 +35583,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,events.prd.api.discomax.com
+  - DOMAIN-SUFFIX,events.betterhelp.com
+  - DOMAIN-SUFFIX,analytics-gateway.delta.dp.lightricks.com
+  - DOMAIN-SUFFIX,log.bloodsugars.live
   - DOMAIN-SUFFIX,logservice1.dbankcloud.cn
   - DOMAIN-SUFFIX,open.oneplus.net
   - DOMAIN-SUFFIX,analytics-api.samsunghealthcn.com
