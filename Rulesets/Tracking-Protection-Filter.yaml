@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,dna8twue3dlxq.cloudfront.net
+  - DOMAIN-SUFFIX,public.profitwell.com
+  - DOMAIN-SUFFIX,cdn.userleap.com
+  - DOMAIN-SUFFIX,zhanzhang.toutiao.com
+  - DOMAIN-SUFFIX,ad2iction.com
   - DOMAIN-SUFFIX,events.flagship.io
   - DOMAIN-SUFFIX,pixel.barion.com
   - DOMAIN-SUFFIX,blueoyster.click
@@ -3748,6 +3753,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,rebelswing.com
   - DOMAIN-SUFFIX,tightpowder.com
   - DOMAIN-SUFFIX,tidymitten.com
   - DOMAIN-SUFFIX,groovyornament.com
@@ -4862,6 +4868,17 @@ payload:
   - DOMAIN-SUFFIX,telemetry.mozilla.org
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
+  - DOMAIN-SUFFIX,evs.sgmt.loom.com
+  - DOMAIN-SUFFIX,cdn.p.analitik.bik.gov.tr
+  - DOMAIN-SUFFIX,webstat.ws.126.net
+  - DOMAIN-SUFFIX,stats.rbc.ua
+  - DOMAIN-SUFFIX,stats.img2go.com
+  - DOMAIN-SUFFIX,log.rmp.rakuten.co.jp
+  - DOMAIN-SUFFIX,events.paramount.tech
+  - DOMAIN-SUFFIX,health-metrics-api.setapp.com
+  - DOMAIN-SUFFIX,collect.alipay.com
+  - DOMAIN-SUFFIX,log.api.useinsider.com
+  - DOMAIN-SUFFIX,hit.api.useinsider.com
   - DOMAIN-SUFFIX,track.lookerpets.com
   - DOMAIN-SUFFIX,stats.online-convert.com
   - DOMAIN-SUFFIX,ss.azuremagazine.com
@@ -5360,7 +5377,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.nextopia.net
   - DOMAIN-SUFFIX,analytics.ooyala.com
   - DOMAIN-SUFFIX,analytics.ovh.com
-  - DOMAIN-SUFFIX,analytics.pinterest.com
   - DOMAIN-SUFFIX,analytics.plaid.com
   - DOMAIN-SUFFIX,analytics.plex.tv
   - DOMAIN-SUFFIX,analytics.pointdrive.linkedin.com
@@ -6834,7 +6850,6 @@ payload:
   - DOMAIN-SUFFIX,track.hubspot.com
   - DOMAIN-SUFFIX,track.hujiang.com
   - DOMAIN-SUFFIX,track.leadhit.io
-  - DOMAIN-SUFFIX,track.lexico.com
   - DOMAIN-SUFFIX,track.libii.cn
   - DOMAIN-SUFFIX,track.lobi.co
   - DOMAIN-SUFFIX,track.miro.com
