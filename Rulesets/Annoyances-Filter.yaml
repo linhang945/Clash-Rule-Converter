@@ -47,7 +47,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.privacy-mgmt.com
   - DOMAIN-SUFFIX,cmp.osano.com
   - DOMAIN-SUFFIX,cookie-sl.s3.*.amazonaws.com
-  - DOMAIN-SUFFIX,consent.cookiefirst.com
+  - DOMAIN-SUFFIX,cookiefirst.com
   - DOMAIN-SUFFIX,hs-banner.com
   - DOMAIN-SUFFIX,fumblingform.com
   - DOMAIN-SUFFIX,aloofvest.com
@@ -115,6 +115,7 @@ payload:
   - DOMAIN-SUFFIX,cc.silktide.com
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
+  - DOMAIN-SUFFIX,guardeddirection.com
   - DOMAIN-SUFFIX,enormousfoot.com
   - DOMAIN-SUFFIX,rebelswing.com
   - DOMAIN-SUFFIX,tightpowder.com
