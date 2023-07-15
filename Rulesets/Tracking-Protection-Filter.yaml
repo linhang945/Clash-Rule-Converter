@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,loggw.alipay.com
+  - DOMAIN-SUFFIX,loggw-ex.alipay.com
+  - DOMAIN-SUFFIX,loggw.alipay.com.cn
   - DOMAIN-SUFFIX,analytics.gooogol.com
   - DOMAIN-SUFFIX,nol.hubty.network
   - DOMAIN-SUFFIX,bos.hubty.network
@@ -4791,6 +4794,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.tedium.co
   - DOMAIN-SUFFIX,tracking.gnavi.co.jp
   - DOMAIN-SUFFIX,logcollector.note.com
   - DOMAIN-SUFFIX,openmonitor.alipay.com
@@ -55223,7 +55227,6 @@ payload:
   - DOMAIN-SUFFIX,api.telemetry.watchabc.go.com
   - DOMAIN-SUFFIX,analytics.rover.io
   - DOMAIN-SUFFIX,events-collector-api.viacom.tech
-  - DOMAIN-SUFFIX,pipe.aria.microsoft.com
   - DOMAIN-SUFFIX,log-api.aillis.net
   - DOMAIN-SUFFIX,log.snow.me
   - DOMAIN-SUFFIX,events.textme-app.com
