@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,collector-*.px-cloud.net
+  - DOMAIN-SUFFIX,ediemidnightzombies.com
+  - DOMAIN-SUFFIX,deqik.com
   - DOMAIN-SUFFIX,meowlytics.bignutty.xyz
   - DOMAIN-SUFFIX,loggw.alipay.com
   - DOMAIN-SUFFIX,loggw-ex.alipay.com
@@ -4796,6 +4799,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,campaign.remp.nv.ua
   - DOMAIN-SUFFIX,analytics.ripped.guide
   - DOMAIN-SUFFIX,ats.auction.co.kr
   - DOMAIN-SUFFIX,stats.stylight.de
@@ -5243,7 +5247,6 @@ payload:
   - DOMAIN-SUFFIX,aem-collector.daumkakao.io
   - DOMAIN-SUFFIX,affiliate.gameladen.com
   - DOMAIN-SUFFIX,affiliate.gamesdeal.com
-  - DOMAIN-SUFFIX,affiliate.productreview.com.au
   - DOMAIN-SUFFIX,affiliate.resellerclub.com
   - DOMAIN-SUFFIX,affiliates.cdkeys.com
   - DOMAIN-SUFFIX,affiliates.genealogybank.com
@@ -5279,7 +5282,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.247sports.com
   - DOMAIN-SUFFIX,analytics.adfreetime.com
   - DOMAIN-SUFFIX,analytics.adoffice.11st.co.kr
-  - DOMAIN-SUFFIX,analytics.anvato.net
   - DOMAIN-SUFFIX,analytics.appservice.tech
   - DOMAIN-SUFFIX,analytics.archive.org
   - DOMAIN-SUFFIX,analytics.artirix.com
@@ -5306,7 +5308,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.electro-com.ru
   - DOMAIN-SUFFIX,analytics.faceitanalytics.com
   - DOMAIN-SUFFIX,analytics.fairfax.com.au
-  - DOMAIN-SUFFIX,analytics.femalefirst.co.uk
   - DOMAIN-SUFFIX,analytics.fontanka.ru
   - DOMAIN-SUFFIX,analytics.go.com
   - DOMAIN-SUFFIX,analytics.gorillanation.com
@@ -5316,11 +5317,9 @@ payload:
   - DOMAIN-SUFFIX,analytics.ifood.tv
   - DOMAIN-SUFFIX,analytics.iraiser.eu
   - DOMAIN-SUFFIX,analytics.islamicfinder.org
-  - DOMAIN-SUFFIX,analytics.jabong.com
   - DOMAIN-SUFFIX,analytics.livesense.marketing
   - DOMAIN-SUFFIX,analytics.livestream.com
   - DOMAIN-SUFFIX,analytics.localytics.com
-  - DOMAIN-SUFFIX,analytics.ma.tune.com
   - DOMAIN-SUFFIX,analytics.maileon.com
   - DOMAIN-SUFFIX,analytics.marquiz.ru
   - DOMAIN-SUFFIX,analytics.mindjolt.com
@@ -5542,13 +5541,11 @@ payload:
   - DOMAIN-SUFFIX,codes.royalad.pl
   - DOMAIN-SUFFIX,collect-elb-*.amazonaws.com
   - DOMAIN-SUFFIX,collect-test.arabam.com
-  - DOMAIN-SUFFIX,collect.albacross.com
   - DOMAIN-SUFFIX,collect.data.tm-awx.com
   - DOMAIN-SUFFIX,collect.igodigital.com
   - DOMAIN-SUFFIX,collect.tianya.cn
   - DOMAIN-SUFFIX,collect.usefathom.com
   - DOMAIN-SUFFIX,audience.acpm.fr
-  - DOMAIN-SUFFIX,collection.theaa.com
   - DOMAIN-SUFFIX,collector-analytics.efigence.com
   - DOMAIN-SUFFIX,collector-cdn.github.com
   - DOMAIN-SUFFIX,collector-dev.cdp-dev.cnn.com
@@ -54685,6 +54682,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,logs13.xiti.com
   - DOMAIN-SUFFIX,tracing-collector.strava.com
   - DOMAIN-SUFFIX,cgicol.amap.com
   - DOMAIN-SUFFIX,dualstack-cgicol.amap.com
