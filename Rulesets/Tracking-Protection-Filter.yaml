@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,trafico.prensaiberica.es
   - DOMAIN-SUFFIX,collector-*.px-cloud.net
   - DOMAIN-SUFFIX,ediemidnightzombies.com
   - DOMAIN-SUFFIX,deqik.com
@@ -878,7 +879,6 @@ payload:
   - DOMAIN-SUFFIX,counter.yandro.ru
   - DOMAIN-SUFFIX,track-aws.notsy.io
   - DOMAIN-SUFFIX,track.notsy.io
-  - DOMAIN-SUFFIX,log.ca.gov.vn
   - DOMAIN-SUFFIX,tracking.gpm-rtv.ru
   - DOMAIN-SUFFIX,uncn.jp
   - DOMAIN-SUFFIX,ad-spire.net
@@ -1038,7 +1038,6 @@ payload:
   - DOMAIN-SUFFIX,sc.lfeeder.com
   - DOMAIN-SUFFIX,tr.lfeeder.com
   - DOMAIN-SUFFIX,am-trc-events.taboola.com
-  - DOMAIN-SUFFIX,eba-amadeus.netdna-ssl.com
   - DOMAIN-SUFFIX,c.tvpixel.com
   - DOMAIN-SUFFIX,ga-analytics.com
   - DOMAIN-SUFFIX,analytics.webads.eu
@@ -1102,7 +1101,6 @@ payload:
   - DOMAIN-SUFFIX,pixel.s3xified.com
   - DOMAIN-SUFFIX,collect.feefo.com
   - DOMAIN-SUFFIX,js.ptengine.jp
-  - DOMAIN-SUFFIX,c.tgknt.com
   - DOMAIN-SUFFIX,imp.dmm.co.jp
   - DOMAIN-SUFFIX,imp.dmm.com
   - DOMAIN-SUFFIX,track.edu-info.jp
@@ -4799,6 +4797,7 @@ payload:
   - DOMAIN-SUFFIX,mkto-*.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,rake.tmap.co.kr
   - DOMAIN-SUFFIX,campaign.remp.nv.ua
   - DOMAIN-SUFFIX,analytics.ripped.guide
   - DOMAIN-SUFFIX,ats.auction.co.kr
@@ -54682,6 +54681,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,am.yahoo.co.jp
+  - DOMAIN-SUFFIX,b99.yahoo.co.jp
   - DOMAIN-SUFFIX,logs13.xiti.com
   - DOMAIN-SUFFIX,tracing-collector.strava.com
   - DOMAIN-SUFFIX,cgicol.amap.com
@@ -54855,7 +54856,6 @@ payload:
   - DOMAIN-SUFFIX,click.oneplus.cn
   - DOMAIN-SUFFIX,mapi-log.qoo*.jp
   - DOMAIN-SUFFIX,events.api.red.wemesh.ca
-  - DOMAIN-SUFFIX,prod-plague-bacon.miniclippt.com
   - DOMAIN-SUFFIX,logend.cookpad.com
   - DOMAIN-SUFFIX,viva.api.xiaoying.co
   - DOMAIN-SUFFIX,ub-xjp.vvbrd.com
