@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tgtag.io
+  - DOMAIN-SUFFIX,track.gaconnector.com
   - DOMAIN-SUFFIX,trafico.prensaiberica.es
   - DOMAIN-SUFFIX,collector-*.px-cloud.net
   - DOMAIN-SUFFIX,ediemidnightzombies.com
@@ -12,6 +14,8 @@ payload:
   - DOMAIN-SUFFIX,meowlytics.bignutty.xyz
   - DOMAIN-SUFFIX,loggw.alipay.com
   - DOMAIN-SUFFIX,loggw-ex.alipay.com
+  - DOMAIN-SUFFIX,loggw-exsdk.alipay.com
+  - DOMAIN-SUFFIX,loggw.alipaydns.com
   - DOMAIN-SUFFIX,loggw.alipay.com.cn
   - DOMAIN-SUFFIX,analytics.gooogol.com
   - DOMAIN-SUFFIX,nol.hubty.network
@@ -5261,11 +5265,8 @@ payload:
   - DOMAIN-SUFFIX,ampltd.top.gg
   - DOMAIN-SUFFIX,an.reflektion.com
   - DOMAIN-SUFFIX,analysis.afreecatv.com
-  - DOMAIN-SUFFIX,analysis.focalprice.com
   - DOMAIN-SUFFIX,analytic.imlive.com
-  - DOMAIN-SUFFIX,analytic.piri.net
   - DOMAIN-SUFFIX,analytic20.detik.com
-  - DOMAIN-SUFFIX,analyticapi.piri.net
   - DOMAIN-SUFFIX,analytics-api.smzdm.com
   - DOMAIN-SUFFIX,analytics-ingress-global.bitmovin.com
   - DOMAIN-SUFFIX,analytics-ingress.bitmovin.com
@@ -5274,14 +5275,11 @@ payload:
   - DOMAIN-SUFFIX,analytics-sdk.yle.fi
   - DOMAIN-SUFFIX,analytics-sg.tiktok.com
   - DOMAIN-SUFFIX,analytics-static.ugc.bazaarvoice.com
-  - DOMAIN-SUFFIX,analytics-udg.netdna-ssl.com
   - DOMAIN-SUFFIX,analytics.74.ru
-  - DOMAIN-SUFFIX,analytics.247sports.com
   - DOMAIN-SUFFIX,analytics.adfreetime.com
   - DOMAIN-SUFFIX,analytics.adoffice.11st.co.kr
   - DOMAIN-SUFFIX,analytics.appservice.tech
   - DOMAIN-SUFFIX,analytics.archive.org
-  - DOMAIN-SUFFIX,analytics.artirix.com
   - DOMAIN-SUFFIX,analytics.atlassian.com
   - DOMAIN-SUFFIX,analytics.aweber.com
   - DOMAIN-SUFFIX,analytics.bi.encuentra24.com
@@ -5292,7 +5290,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.callbell.eu
   - DOMAIN-SUFFIX,analytics.carambo.la
   - DOMAIN-SUFFIX,analytics.ceneo.pl
-  - DOMAIN-SUFFIX,analytics.cervellio.com
   - DOMAIN-SUFFIX,analytics.cinematoday.jp
   - DOMAIN-SUFFIX,analytics.clic2buy.com
   - DOMAIN-SUFFIX,analytics.cn.ru
@@ -5304,9 +5301,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.edgesuite.net
   - DOMAIN-SUFFIX,analytics.electro-com.ru
   - DOMAIN-SUFFIX,analytics.faceitanalytics.com
-  - DOMAIN-SUFFIX,analytics.fairfax.com.au
   - DOMAIN-SUFFIX,analytics.fontanka.ru
-  - DOMAIN-SUFFIX,analytics.go.com
   - DOMAIN-SUFFIX,analytics.gorillanation.com
   - DOMAIN-SUFFIX,analytics.hashnode.com
   - DOMAIN-SUFFIX,analytics.histmag.org
@@ -5337,7 +5332,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.sanoma.fi
   - DOMAIN-SUFFIX,analytics.schoolwires.com
   - DOMAIN-SUFFIX,analytics.send.cm
-  - DOMAIN-SUFFIX,analytics.services.distractify.com
   - DOMAIN-SUFFIX,analytics.sgnapps.com
   - DOMAIN-SUFFIX,analytics.shareaholic.com
   - DOMAIN-SUFFIX,analytics.shop.hisense.com
@@ -5352,7 +5346,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.teespring.com
   - DOMAIN-SUFFIX,analytics.thenest.com
   - DOMAIN-SUFFIX,analytics.thenewslens.com
-  - DOMAIN-SUFFIX,analytics.thetab.com
   - DOMAIN-SUFFIX,analytics.tio.ch
   - DOMAIN-SUFFIX,analytics.tmonews.com
   - DOMAIN-SUFFIX,analytics.tout.com
@@ -5362,15 +5355,9 @@ payload:
   - DOMAIN-SUFFIX,analytics.us.archive.org
   - DOMAIN-SUFFIX,analytics.vadio.com
   - DOMAIN-SUFFIX,analytics.vedantu.com
-  - DOMAIN-SUFFIX,analytics.volvocars.com
-  - DOMAIN-SUFFIX,analytics.vooxe.com
   - DOMAIN-SUFFIX,analytics.webgains.io
-  - DOMAIN-SUFFIX,analytics.wetpaint.me
-  - DOMAIN-SUFFIX,analytics.whatculture.com
   - DOMAIN-SUFFIX,analytics.wondershare.cc
-  - DOMAIN-SUFFIX,analytics.xyscdn.com
   - DOMAIN-SUFFIX,analytics.yahoo.com
-  - DOMAIN-SUFFIX,analytics.zeekit.co
   - DOMAIN-SUFFIX,analytics*.carambo.la
   - DOMAIN-SUFFIX,analytics2.tvreport.co.kr
   - DOMAIN-SUFFIX,analyticsnew.overwolf.com
@@ -5380,11 +5367,9 @@ payload:
   - DOMAIN-SUFFIX,ape-tagit.timeinc.net
   - DOMAIN-SUFFIX,api-adservices.apple.com
   - DOMAIN-SUFFIX,api-analytics.rozetka.com.ua
-  - DOMAIN-SUFFIX,api.calq.io
   - DOMAIN-SUFFIX,api.exc.mob.com
   - DOMAIN-SUFFIX,api.flocktory.com
   - DOMAIN-SUFFIX,api.iterative.ly
-  - DOMAIN-SUFFIX,api.logmatic.io
   - DOMAIN-SUFFIX,apm.crittercism.com
   - DOMAIN-SUFFIX,apollo.plein.nl
   - DOMAIN-SUFFIX,app-analytics-*.snapchat.com
@@ -5449,18 +5434,13 @@ payload:
   - DOMAIN-SUFFIX,behave.noen.at
   - DOMAIN-SUFFIX,beta.simpel.nl
   - DOMAIN-SUFFIX,bi-eventtracker-*.amazonaws.com
-  - DOMAIN-SUFFIX,bi-pipeline-collector.stylight.net
   - DOMAIN-SUFFIX,bia.brightinfo.com
-  - DOMAIN-SUFFIX,bl.impresa.pt
   - DOMAIN-SUFFIX,blue.fox8.com
   - DOMAIN-SUFFIX,blue.thehill.com
   - DOMAIN-SUFFIX,bonfire.spklw.com
   - DOMAIN-SUFFIX,boomerang.dell.com
-  - DOMAIN-SUFFIX,bournemouthecho-gb.bournemouthecho.co.uk
-  - DOMAIN-SUFFIX,br.phorm.com
   - DOMAIN-SUFFIX,broker.datazoom.io
   - DOMAIN-SUFFIX,bt.mediaimpact.de
-  - DOMAIN-SUFFIX,bt.phorm.com
   - DOMAIN-SUFFIX,bwb101.goo.ne.jp
   - DOMAIN-SUFFIX,bzclk.baidu.com
   - DOMAIN-SUFFIX,c.adroll.com
@@ -5472,7 +5452,6 @@ payload:
   - DOMAIN-SUFFIX,c.opinion.com.ua
   - DOMAIN-SUFFIX,c.pravo.ru
   - DOMAIN-SUFFIX,c.sibnet.ru
-  - DOMAIN-SUFFIX,c.t-online.de
   - DOMAIN-SUFFIX,c.tbex.ru
   - DOMAIN-SUFFIX,c.wort-suche.com
   - DOMAIN-SUFFIX,c.x.oanda.com
@@ -5545,8 +5524,6 @@ payload:
   - DOMAIN-SUFFIX,collector-cdn.github.com
   - DOMAIN-SUFFIX,collector-dev.cdp-dev.cnn.com
   - DOMAIN-SUFFIX,collector-hpn.ghostery.net
-  - DOMAIN-SUFFIX,collector-medium.lightstep.com
-  - DOMAIN-SUFFIX,collector.apester.com
   - DOMAIN-SUFFIX,collector.bunchbox.co
   - DOMAIN-SUFFIX,collector.cdp.cnn.com
   - DOMAIN-SUFFIX,collector.githubapp.com
