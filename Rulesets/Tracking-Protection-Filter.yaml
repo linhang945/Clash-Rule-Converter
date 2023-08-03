@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,track.lemmatechnologies.com
+  - DOMAIN-SUFFIX,wiseref.com
   - DOMAIN-SUFFIX,swetrix.org
   - DOMAIN-SUFFIX,getter.cfd
   - DOMAIN-SUFFIX,plausible.io
@@ -1053,7 +1055,6 @@ payload:
   - DOMAIN-SUFFIX,adwstats.com
   - DOMAIN-SUFFIX,smallbeginner.com
   - DOMAIN-SUFFIX,omappapi.com
-  - DOMAIN-SUFFIX,lt.logly.co.jp
   - DOMAIN-SUFFIX,l.logly.co.jp
   - DOMAIN-SUFFIX,tagmanager.alright.network
   - DOMAIN-SUFFIX,statad.ru
@@ -5230,9 +5231,7 @@ payload:
   - DOMAIN-SUFFIX,a-reporting.nytimes.com
   - DOMAIN-SUFFIX,a.hstrck.com
   - DOMAIN-SUFFIX,a.mobify.com
-  - DOMAIN-SUFFIX,a.oix.net
   - DOMAIN-SUFFIX,a.ria.ru
-  - DOMAIN-SUFFIX,a1.huiqituan.com
   - DOMAIN-SUFFIX,a3.ogt.jp
   - DOMAIN-SUFFIX,ab.blogs.es
   - DOMAIN-SUFFIX,abc.esprit.de
@@ -5408,7 +5407,6 @@ payload:
   - DOMAIN-SUFFIX,awsync.yandex.ru
   - DOMAIN-SUFFIX,b-aws.aol.com
   - DOMAIN-SUFFIX,b.aol.com
-  - DOMAIN-SUFFIX,b.grvcdn.com
   - DOMAIN-SUFFIX,b.oix.net
   - DOMAIN-SUFFIX,banstat.nadavi.net
   - DOMAIN-SUFFIX,bat.bing.com
@@ -5485,7 +5483,6 @@ payload:
   - DOMAIN-SUFFIX,clc.stackoverflow.com
   - DOMAIN-SUFFIX,clck.yandex.com
   - DOMAIN-SUFFIX,click.jasmin.com
-  - DOMAIN-SUFFIX,click.livejasmin.com
   - DOMAIN-SUFFIX,click.mmosite.com
   - DOMAIN-SUFFIX,click.udimg.com
   - DOMAIN-SUFFIX,click2.cafepress.com
@@ -5502,25 +5499,18 @@ payload:
   - DOMAIN-SUFFIX,clkstat.china.cn
   - DOMAIN-SUFFIX,clog.go.com
   - DOMAIN-SUFFIX,clog*.yuanfudao.com
-  - DOMAIN-SUFFIX,cls.ichotelsgroup.com
   - DOMAIN-SUFFIX,clvk.viki.io
   - DOMAIN-SUFFIX,cmap.alibaba.com
   - DOMAIN-SUFFIX,cmp-cdn.ghostery.com
   - DOMAIN-SUFFIX,cmstrendslog.indiatimes.com
   - DOMAIN-SUFFIX,cmstrendslog.timesnow.tv
-  - DOMAIN-SUFFIX,cmt.setrowid.com
   - DOMAIN-SUFFIX,cnt.alawar.com
-  - DOMAIN-SUFFIX,cnt.cerber.rambler.ru
-  - DOMAIN-SUFFIX,cnt.inforotor.net
   - DOMAIN-SUFFIX,cnt.logoslovo.ru
   - DOMAIN-SUFFIX,cnt.nicemix.com
   - DOMAIN-SUFFIX,cnt.nov.ru
   - DOMAIN-SUFFIX,cnt.rambler.ru
   - DOMAIN-SUFFIX,cnt.ramlife.ru
   - DOMAIN-SUFFIX,cnt.xhamster.com
-  - DOMAIN-SUFFIX,cnt2.stroeerdp.de
-  - DOMAIN-SUFFIX,cntcerber.rambler.ru
-  - DOMAIN-SUFFIX,code.lockbot.net
   - DOMAIN-SUFFIX,codes.royalad.pl
   - DOMAIN-SUFFIX,collect-elb-*.amazonaws.com
   - DOMAIN-SUFFIX,collect.igodigital.com
@@ -5692,7 +5682,6 @@ payload:
   - DOMAIN-SUFFIX,discovery-script.newspic.kr
   - DOMAIN-SUFFIX,discovery.newspic.kr
   - DOMAIN-SUFFIX,dj4odketdva9s.cloudfront.net
-  - DOMAIN-SUFFIX,djibeacon.dowjoneson.com
   - DOMAIN-SUFFIX,dmc1acwvwny3.cloudfront.net
   - DOMAIN-SUFFIX,dmp.citiservi.es
   - DOMAIN-SUFFIX,dmtracking2.alibaba.com
@@ -6106,12 +6095,9 @@ payload:
   - DOMAIN-SUFFIX,n4p-rus.redtram.com
   - DOMAIN-SUFFIX,newlog.overwolf.com
   - DOMAIN-SUFFIX,ng.virgul.com
-  - DOMAIN-SUFFIX,ngagement-engine.mobify.com
   - DOMAIN-SUFFIX,nil.naver.com
   - DOMAIN-SUFFIX,nmtracking.netflix.com
   - DOMAIN-SUFFIX,notify-bugs-fra1.rtl.de
-  - DOMAIN-SUFFIX,ns1.phorm.com
-  - DOMAIN-SUFFIX,ns2.phorm.com
   - DOMAIN-SUFFIX,ns336739.ip-37-187-249.eu
   - DOMAIN-SUFFIX,o.addthis.com
   - DOMAIN-SUFFIX,odb.outbrain.com
@@ -53735,7 +53721,6 @@ payload:
   - DOMAIN-SUFFIX,track.tenjin.com
   - DOMAIN-SUFFIX,tracker.mtrtb.com
   - DOMAIN-SUFFIX,tracking.ws.eurosport.com
-  - DOMAIN-SUFFIX,tracker.rqmob.com
   - DOMAIN-SUFFIX,fraudmetrix.cn
   - DOMAIN-SUFFIX,plbslog.umeng.com
   - DOMAIN-SUFFIX,analysys.cn
@@ -53929,7 +53914,6 @@ payload:
   - DOMAIN-SUFFIX,logs.ironsrc.mobi
   - DOMAIN-SUFFIX,events.mz.unity3d.com
   - DOMAIN-SUFFIX,r-log.dable.io
-  - DOMAIN-SUFFIX,metrics.plaid.com
   - DOMAIN-SUFFIX,mon*-platform-*.tiktokv.com
   - DOMAIN-SUFFIX,log*-applog-*.tiktokv.com
   - DOMAIN-SUFFIX,logservice-*.platform.dbankcloud.cn
@@ -54023,7 +54007,6 @@ payload:
   - DOMAIN-SUFFIX,viva.api.xiaoying.co
   - DOMAIN-SUFFIX,ub-xjp.vvbrd.com
   - DOMAIN-SUFFIX,rtlog*.tiktokv.com
-  - DOMAIN-SUFFIX,uts-front.line-apps.com
   - DOMAIN-SUFFIX,nelo2-col.linecorp.com
   - DOMAIN-SUFFIX,msga.cupid.iqiyi.com
   - DOMAIN-SUFFIX,ndct-data.video.iqiyi.com
