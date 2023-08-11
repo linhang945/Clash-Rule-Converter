@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,ythingy.com
+  - DOMAIN-SUFFIX,spiny.ai
   - DOMAIN-SUFFIX,c.blockdetector.org
   - DOMAIN-SUFFIX,sailthru.com
   - DOMAIN-SUFFIX,grabifyicu.com
@@ -1201,6 +1203,7 @@ payload:
   - DOMAIN-SUFFIX,instana.io
   - DOMAIN-SUFFIX,sitelabweb.com
   - DOMAIN-SUFFIX,jixie.io
+  - DOMAIN-SUFFIX,amc.yandex.ru
   - DOMAIN-SUFFIX,mc.yandex.ru
   - DOMAIN-SUFFIX,mc.yandex.com
   - DOMAIN-SUFFIX,track.segmentstream.com
@@ -3694,6 +3697,7 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,parentpicture.com
   - DOMAIN-SUFFIX,suspectmark.com
   - DOMAIN-SUFFIX,daughterstone.com
   - DOMAIN-SUFFIX,boundlessveil.com
@@ -5677,7 +5681,6 @@ payload:
   - DOMAIN-SUFFIX,data.mob.com
   - DOMAIN-SUFFIX,datacollect*.abtasty.com
   - DOMAIN-SUFFIX,dbfukofby5ycr.cloudfront.net
-  - DOMAIN-SUFFIX,dc.tremormedia.com
   - DOMAIN-SUFFIX,dc8xl0ndzn2cb.cloudfront.net
   - DOMAIN-SUFFIX,dcs.maxthon.com
   - DOMAIN-SUFFIX,dct.mango-office.ru
@@ -5687,7 +5690,6 @@ payload:
   - DOMAIN-SUFFIX,deliver.oztam.com.au
   - DOMAIN-SUFFIX,delog.afreecatv.com
   - DOMAIN-SUFFIX,detwzgl8cvciv.cloudfront.net
-  - DOMAIN-SUFFIX,device-analytics.rollout.io
   - DOMAIN-SUFFIX,device-metrics-us*.amazon.com
   - DOMAIN-SUFFIX,df.tanx.com
   - DOMAIN-SUFFIX,discovery-script.newspic.kr
@@ -6473,16 +6475,10 @@ payload:
   - DOMAIN-SUFFIX,stats.propublica.org
   - DOMAIN-SUFFIX,stats.pusher.com
   - DOMAIN-SUFFIX,stats.qmerce.com
-  - DOMAIN-SUFFIX,stats.radiostreamlive.com
-  - DOMAIN-SUFFIX,stats.rutracker.ga
   - DOMAIN-SUFFIX,stats.searchftps.net
   - DOMAIN-SUFFIX,stats.searchftps.org
-  - DOMAIN-SUFFIX,stats.searchsight.com
   - DOMAIN-SUFFIX,stats.sharenet.co.za
   - DOMAIN-SUFFIX,stats.shopify.com
-  - DOMAIN-SUFFIX,stats.shoppydoo.com
-  - DOMAIN-SUFFIX,stats.simply-hentai.com
-  - DOMAIN-SUFFIX,stats.slashgear.com
   - DOMAIN-SUFFIX,stats.slideshare.net
   - DOMAIN-SUFFIX,stats.someecards.com
   - DOMAIN-SUFFIX,stats.storify.com
@@ -6696,22 +6692,18 @@ payload:
   - DOMAIN-SUFFIX,track.wildblue.com
   - DOMAIN-SUFFIX,track.workablemetro.com
   - DOMAIN-SUFFIX,track.zappos.com
-  - DOMAIN-SUFFIX,track.zomato.com
   - DOMAIN-SUFFIX,track2.trbo.com
   - DOMAIN-SUFFIX,trackcommon.hujiang.com
   - DOMAIN-SUFFIX,trackdb.go3.tv
   - DOMAIN-SUFFIX,tracker.77player.xyz
   - DOMAIN-SUFFIX,tracker.affirm.com
-  - DOMAIN-SUFFIX,tracker.ampush.io
   - DOMAIN-SUFFIX,tracker.anandtech.com
   - DOMAIN-SUFFIX,tracker.arc.io
   - DOMAIN-SUFFIX,tracker.blutv.com
-  - DOMAIN-SUFFIX,tracker.brainsins.com
   - DOMAIN-SUFFIX,tracker.calameo.com
   - DOMAIN-SUFFIX,tracker.cartprotector.com
   - DOMAIN-SUFFIX,tracker.cdn-moneysmart.com
   - DOMAIN-SUFFIX,tracker.cdnbye.com
-  - DOMAIN-SUFFIX,tracker.cpapath.com
   - DOMAIN-SUFFIX,tracker.downdetector.com
   - DOMAIN-SUFFIX,tracker.giftd.ru
   - DOMAIN-SUFFIX,tracker.joongang.co.kr
@@ -6743,7 +6735,6 @@ payload:
   - DOMAIN-SUFFIX,tracking.bdi-services.de
   - DOMAIN-SUFFIX,tracking.bloomberg.com
   - DOMAIN-SUFFIX,tracking.bonnier.news
-  - DOMAIN-SUFFIX,tracking.carprices.com
   - DOMAIN-SUFFIX,tracking.carsales.com.au
   - DOMAIN-SUFFIX,tracking.chacha.com
   - DOMAIN-SUFFIX,tracking.channelsight.com
@@ -6752,15 +6743,12 @@ payload:
   - DOMAIN-SUFFIX,tracking.eurosport.com
   - DOMAIN-SUFFIX,tracking.g2crowd.com
   - DOMAIN-SUFFIX,tracking.game8.jp
-  - DOMAIN-SUFFIX,tracking.gj-mobile-services.de
   - DOMAIN-SUFFIX,tracking.goodgamestudios.com
   - DOMAIN-SUFFIX,tracking.gvm.com.tw
   - DOMAIN-SUFFIX,tracking.hotel.check24.de
   - DOMAIN-SUFFIX,tracking.hsn.com
   - DOMAIN-SUFFIX,tracking.hurlmedia.design
-  - DOMAIN-SUFFIX,tracking.koego.com
   - DOMAIN-SUFFIX,tracking.komoot.de
-  - DOMAIN-SUFFIX,tracking.kurier.at
   - DOMAIN-SUFFIX,tracking.lengow.com
   - DOMAIN-SUFFIX,tracking.linda.de
   - DOMAIN-SUFFIX,tracking.live.oe24.at
@@ -6793,21 +6781,17 @@ payload:
   - DOMAIN-SUFFIX,tracking.tomshardware.co.uk
   - DOMAIN-SUFFIX,tracking.ukwm.co.uk
   - DOMAIN-SUFFIX,tracking.unrealengine.com
-  - DOMAIN-SUFFIX,tracking.ustream.tv
   - DOMAIN-SUFFIX,tracking.yourfilehost.com
   - DOMAIN-SUFFIX,tracking*.euroads.fi
   - DOMAIN-SUFFIX,tracking2.channeladvisor.com
-  - DOMAIN-SUFFIX,trackingapi.cloudapp.net
   - DOMAIN-SUFFIX,trackingapi.kaufda.de
   - DOMAIN-SUFFIX,trackingapi.meinprospekt.de
-  - DOMAIN-SUFFIX,trackpm.shop2market.com
   - DOMAIN-SUFFIX,tracksrv.zdf.de
   - DOMAIN-SUFFIX,trck.bdi-services.de
   - DOMAIN-SUFFIX,trck.cyberport.de
   - DOMAIN-SUFFIX,trck.spoteffects.net
   - DOMAIN-SUFFIX,treasuredata.com
   - DOMAIN-SUFFIX,triggertag.gorillanation.com
-  - DOMAIN-SUFFIX,trk.10ru.pt
   - DOMAIN-SUFFIX,trk.i0.cz
   - DOMAIN-SUFFIX,trk.storyly.io
   - DOMAIN-SUFFIX,trk.stroeermediabrands.de
@@ -6830,7 +6814,6 @@ payload:
   - DOMAIN-SUFFIX,udbdf-v2.nimo.tv
   - DOMAIN-SUFFIX,udc.msn.com
   - DOMAIN-SUFFIX,uep.gaijin.net
-  - DOMAIN-SUFFIX,ui.oix.net
   - DOMAIN-SUFFIX,uie.data.cbc.ca
   - DOMAIN-SUFFIX,ut.gamersyde.com
   - DOMAIN-SUFFIX,ut.o2.pl
@@ -6839,8 +6822,6 @@ payload:
   - DOMAIN-SUFFIX,videostats.kakao.com
   - DOMAIN-SUFFIX,views.romaniatv.net
   - DOMAIN-SUFFIX,vortex.hulu.com
-  - DOMAIN-SUFFIX,vra.outbrain.com
-  - DOMAIN-SUFFIX,vrt.outbrain.com
   - DOMAIN-SUFFIX,w.oix.net
   - DOMAIN-SUFFIX,w1jesu6.package12.com
   - DOMAIN-SUFFIX,wa.mail.com
