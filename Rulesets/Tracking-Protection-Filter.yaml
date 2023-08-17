@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sdk.fra-*.braze.eu
   - DOMAIN-SUFFIX,ct2.kutinawa.com
   - DOMAIN-SUFFIX,tg1.premiumimpression.com
   - DOMAIN-SUFFIX,ythingy.com
@@ -3565,7 +3566,9 @@ payload:
   - DOMAIN-SUFFIX,webcompteur.com
   - DOMAIN-SUFFIX,webcounter.co.za
   - DOMAIN-SUFFIX,webcounter.ws
-  - DOMAIN-SUFFIX,webengage.com
+  - DOMAIN-SUFFIX,ssl.widgets.webengage.com
+  - DOMAIN-SUFFIX,c.webengage.com
+  - DOMAIN-SUFFIX,z.webengage.com
   - DOMAIN-SUFFIX,webest.info
   - DOMAIN-SUFFIX,webflowmetrics.com
   - DOMAIN-SUFFIX,webforensics.co.uk
@@ -6155,11 +6158,9 @@ payload:
   - DOMAIN-SUFFIX,pixel.honestjohn.co.uk
   - DOMAIN-SUFFIX,pixel.inforsea.com
   - DOMAIN-SUFFIX,pixel.klout.com
-  - DOMAIN-SUFFIX,pixel.naij.com
   - DOMAIN-SUFFIX,pixel.newscgp.com
   - DOMAIN-SUFFIX,pixel.newsdiscover.com.au
   - DOMAIN-SUFFIX,pixel.nur.kz
-  - DOMAIN-SUFFIX,pixel.parsely.com
   - DOMAIN-SUFFIX,pixel.pcworld.com
   - DOMAIN-SUFFIX,pixel.playbuzz.com
   - DOMAIN-SUFFIX,pixel.propublica.org
@@ -6182,7 +6183,6 @@ payload:
   - DOMAIN-SUFFIX,pla-tk.flipkart.net
   - DOMAIN-SUFFIX,player-feedback-v1.glomex.com
   - DOMAIN-SUFFIX,player-telemetry.vimeo.com
-  - DOMAIN-SUFFIX,ploz.mangadex.org
   - DOMAIN-SUFFIX,pos.baidu.com
   - DOMAIN-SUFFIX,prd-collector-anon-video.playbuzz.com
   - DOMAIN-SUFFIX,prd-collector-anon.playbuzz.com
