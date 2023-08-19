@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,adsolutions.com
   - DOMAIN-SUFFIX,sdk.fra-*.braze.eu
   - DOMAIN-SUFFIX,ct2.kutinawa.com
   - DOMAIN-SUFFIX,tg1.premiumimpression.com
@@ -3702,6 +3703,8 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,ruralrobin.com
+  - DOMAIN-SUFFIX,scaredsnakes.com
   - DOMAIN-SUFFIX,bleachscarecrow.com
   - DOMAIN-SUFFIX,parentpicture.com
   - DOMAIN-SUFFIX,suspectmark.com
@@ -4822,6 +4825,9 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,apps.nhk.jp
+  - DOMAIN-SUFFIX,drfdisvc.walmart.com
+  - DOMAIN-SUFFIX,beacon.walmart.com
   - DOMAIN-SUFFIX,trcksp.cordial.io
   - DOMAIN-SUFFIX,track.msg.fortune.com
   - DOMAIN-SUFFIX,track.sp.crdl.io
