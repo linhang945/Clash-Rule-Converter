@@ -964,7 +964,6 @@ payload:
   - DOMAIN-SUFFIX,event.getblue.io
   - DOMAIN-SUFFIX,docodoco.jp
   - DOMAIN-SUFFIX,mieru-ca.com
-  - DOMAIN-SUFFIX,nlog.nethru.io
   - DOMAIN-SUFFIX,uc.xddi.ru
   - DOMAIN-SUFFIX,events.demoup.com
   - DOMAIN-SUFFIX,m-metrics.capitalone.com
@@ -5409,7 +5408,6 @@ payload:
   - DOMAIN-SUFFIX,analytics*.carambo.la
   - DOMAIN-SUFFIX,analytics2.tvreport.co.kr
   - DOMAIN-SUFFIX,analyticsnew.overwolf.com
-  - DOMAIN-SUFFIX,analyze.yahooapis.com
   - DOMAIN-SUFFIX,analyzer*.fc2.com
   - DOMAIN-SUFFIX,anon-stats.eff.org
   - DOMAIN-SUFFIX,ape-tagit.timeinc.net
@@ -5418,7 +5416,6 @@ payload:
   - DOMAIN-SUFFIX,api.exc.mob.com
   - DOMAIN-SUFFIX,api.flocktory.com
   - DOMAIN-SUFFIX,api.iterative.ly
-  - DOMAIN-SUFFIX,apm.crittercism.com
   - DOMAIN-SUFFIX,apollo.plein.nl
   - DOMAIN-SUFFIX,app-analytics-*.snapchat.com
   - DOMAIN-SUFFIX,app-analytics.snapchat.com
@@ -5438,9 +5435,6 @@ payload:
   - DOMAIN-SUFFIX,ariane.abtasty.com
   - DOMAIN-SUFFIX,astat.nikkei.co.jp
   - DOMAIN-SUFFIX,asumi.shinobi.jp
-  - DOMAIN-SUFFIX,atax.gamespy.com
-  - DOMAIN-SUFFIX,atax.gamestats.com
-  - DOMAIN-SUFFIX,atax.ign.com
   - DOMAIN-SUFFIX,atax.teamxbox.com
   - DOMAIN-SUFFIX,atlas1.krone.at
   - DOMAIN-SUFFIX,atm.youku.com
@@ -5528,7 +5522,6 @@ payload:
   - DOMAIN-SUFFIX,clickstream.cresendo.net
   - DOMAIN-SUFFIX,client-event-reporter.twitch.tv
   - DOMAIN-SUFFIX,clientlog.midomi.com
-  - DOMAIN-SUFFIX,clk.about.com
   - DOMAIN-SUFFIX,clk.onet.pl
   - DOMAIN-SUFFIX,clkstat.china.cn
   - DOMAIN-SUFFIX,clog.go.com
@@ -5728,7 +5721,6 @@ payload:
   - DOMAIN-SUFFIX,dtxtngytz5im1.cloudfront.net
   - DOMAIN-SUFFIX,dynatrace.att.com
   - DOMAIN-SUFFIX,e-stat.huya.com
-  - DOMAIN-SUFFIX,e.dr-zh.com
   - DOMAIN-SUFFIX,e.tw.cx
   - DOMAIN-SUFFIX,e.viously.com
   - DOMAIN-SUFFIX,e2e.mashable.com
@@ -5841,7 +5833,6 @@ payload:
   - DOMAIN-SUFFIX,grow.powerstep.com
   - DOMAIN-SUFFIX,gscounters.*.gigya.com
   - DOMAIN-SUFFIX,gscounters.gigya.com
-  - DOMAIN-SUFFIX,gstat.orange.fr
   - DOMAIN-SUFFIX,gtm.beiersdorf.com
   - DOMAIN-SUFFIX,gtm.udemy.com
   - DOMAIN-SUFFIX,gtm.vanmoof.com
@@ -5870,7 +5861,6 @@ payload:
   - DOMAIN-SUFFIX,host*.polaroid.com
   - DOMAIN-SUFFIX,host*.rvshare.com
   - DOMAIN-SUFFIX,host*.rigbyandpeller.com
-  - DOMAIN-SUFFIX,hrumpoc.hotels.com
   - DOMAIN-SUFFIX,hstats*.hepsiburada.com
   - DOMAIN-SUFFIX,hummingbird.mavencoalition.io
   - DOMAIN-SUFFIX,hwa.his.huawei.com
@@ -5896,7 +5886,6 @@ payload:
   - DOMAIN-SUFFIX,istatistik.arabam.com
   - DOMAIN-SUFFIX,istatistik.trthaber.com
   - DOMAIN-SUFFIX,j.uralweb.ru
-  - DOMAIN-SUFFIX,journey.unicef.de
   - DOMAIN-SUFFIX,js-agent.newrelic.com
   - DOMAIN-SUFFIX,js.stroeermediabrands.de
   - DOMAIN-SUFFIX,jtp.expressen.se
@@ -5904,7 +5893,6 @@ payload:
   - DOMAIN-SUFFIX,kctag.net
   - DOMAIN-SUFFIX,klik.nrc.nl
   - DOMAIN-SUFFIX,kooappslogs.com
-  - DOMAIN-SUFFIX,kr.phorm.com
   - DOMAIN-SUFFIX,kraken.rambler.ru
   - DOMAIN-SUFFIX,kropka.onet.pl
   - DOMAIN-SUFFIX,krum.vsct.fr
@@ -6464,7 +6452,6 @@ payload:
   - DOMAIN-SUFFIX,stats.tipser.com
   - DOMAIN-SUFFIX,stats.townnews.com
   - DOMAIN-SUFFIX,stats.travelask.ru
-  - DOMAIN-SUFFIX,stats.vc.gg
   - DOMAIN-SUFFIX,stats.video.search.yahoo.com
   - DOMAIN-SUFFIX,stats.videodelivery.net
   - DOMAIN-SUFFIX,stats.vidyome.com
@@ -6482,7 +6469,6 @@ payload:
   - DOMAIN-SUFFIX,statscol.pond5.com
   - DOMAIN-SUFFIX,statwup.huya.com
   - DOMAIN-SUFFIX,statwup.nimo.tv
-  - DOMAIN-SUFFIX,stbt.coupons.com
   - DOMAIN-SUFFIX,stc.store.page.zaloapp.com
   - DOMAIN-SUFFIX,stg-data-collector.playbuzz.com
   - DOMAIN-SUFFIX,stores-counters.wix.com
@@ -6537,7 +6523,6 @@ payload:
   - DOMAIN-SUFFIX,tc-log.mattel163.com
   - DOMAIN-SUFFIX,tc.tradetracker.net
   - DOMAIN-SUFFIX,tcheck.outbrainimg.com
-  - DOMAIN-SUFFIX,tdapi.wickey.nl
   - DOMAIN-SUFFIX,tdep.hema.nl
   - DOMAIN-SUFFIX,tdep.kvk.nl
   - DOMAIN-SUFFIX,tdk.petsplace.nl
@@ -6567,7 +6552,6 @@ payload:
   - DOMAIN-SUFFIX,top-fwz1.mail.ru
   - DOMAIN-SUFFIX,top.gigmir.net
   - DOMAIN-SUFFIX,top.hsdn.org
-  - DOMAIN-SUFFIX,top.myfilms.su
   - DOMAIN-SUFFIX,top.nydus.org
   - DOMAIN-SUFFIX,top.t-sk.ru
   - DOMAIN-SUFFIX,top.topua.net
@@ -6615,7 +6599,6 @@ payload:
   - DOMAIN-SUFFIX,track.engagesciences.com
   - DOMAIN-SUFFIX,track.eurogirlsescort.com
   - DOMAIN-SUFFIX,track.express.de
-  - DOMAIN-SUFFIX,track.ft.com
   - DOMAIN-SUFFIX,track.fxstreet.com
   - DOMAIN-SUFFIX,track.hubspot.com
   - DOMAIN-SUFFIX,track.hujiang.com
@@ -6698,11 +6681,9 @@ payload:
   - DOMAIN-SUFFIX,tracking.chacha.com
   - DOMAIN-SUFFIX,tracking.channelsight.com
   - DOMAIN-SUFFIX,tracking.conduit.com
-  - DOMAIN-SUFFIX,tracking.deluxe-marketing.com
   - DOMAIN-SUFFIX,tracking.eurosport.com
   - DOMAIN-SUFFIX,tracking.g2crowd.com
   - DOMAIN-SUFFIX,tracking.game8.jp
-  - DOMAIN-SUFFIX,tracking.goodgamestudios.com
   - DOMAIN-SUFFIX,tracking.gvm.com.tw
   - DOMAIN-SUFFIX,tracking.hotel.check24.de
   - DOMAIN-SUFFIX,tracking.hsn.com
@@ -6712,7 +6693,6 @@ payload:
   - DOMAIN-SUFFIX,tracking.linda.de
   - DOMAIN-SUFFIX,tracking.live.oe24.at
   - DOMAIN-SUFFIX,tracking.military.com
-  - DOMAIN-SUFFIX,tracking.moneyam.com
   - DOMAIN-SUFFIX,tracking.musixmatch.com
   - DOMAIN-SUFFIX,tracking.mycapture.com
   - DOMAIN-SUFFIX,tracking.netdoktor.at
