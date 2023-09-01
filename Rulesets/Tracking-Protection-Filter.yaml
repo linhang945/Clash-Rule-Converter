@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,dmpmetrics.rcsmetrics.it
+  - DOMAIN-SUFFIX,cdn.granify.com
   - DOMAIN-SUFFIX,phenomtrackapi-ir.phenompeople.com
   - DOMAIN-SUFFIX,kiwi.mdldb.net
   - DOMAIN-SUFFIX,agrvt.com
@@ -47096,7 +47098,6 @@ payload:
   - DOMAIN-SUFFIX,kameleoon.eu
   - DOMAIN-SUFFIX,log.prezi.com
   - DOMAIN-SUFFIX,click.uol.com.br
-  - DOMAIN-SUFFIX,clientlog.portal.office.com
   - DOMAIN-SUFFIX,cm.g.doubleclick.net
   - DOMAIN-SUFFIX,countess.twitch.tv
   - DOMAIN-SUFFIX,giga-abs.de
@@ -47108,10 +47109,8 @@ payload:
   - DOMAIN-SUFFIX,montblanc.lenta.ru
   - DOMAIN-SUFFIX,montblanc.rambler.ru
   - DOMAIN-SUFFIX,pclick.yahoo.com
-  - DOMAIN-SUFFIX,pixel.redditmedia.com
   - DOMAIN-SUFFIX,prophet.heise.de
   - DOMAIN-SUFFIX,r.msn.com
-  - DOMAIN-SUFFIX,real-user-monitoring.a.autoscout24.com
   - DOMAIN-SUFFIX,rel.msn.com
   - DOMAIN-SUFFIX,rem-track.bild.de
   - DOMAIN-SUFFIX,smetrics.washingtonpost.com
@@ -47243,6 +47242,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,sg.log.ulivetv.net
+  - DOMAIN-SUFFIX,tracker.ulivetv.net
+  - DOMAIN-SUFFIX,trackernew.ulivetv.net
+  - DOMAIN-SUFFIX,tracker.dianshige.com
   - DOMAIN-SUFFIX,gamestats.easybrain.com
   - DOMAIN-SUFFIX,am.yahoo.co.jp
   - DOMAIN-SUFFIX,b99.yahoo.co.jp
