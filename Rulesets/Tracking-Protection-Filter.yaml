@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,stat.dongqiudi.com
+  - DOMAIN-SUFFIX,sensors-log.dongqiudi.com
   - DOMAIN-SUFFIX,jokerly.com
   - DOMAIN-SUFFIX,analytics.gnetworks.xyz
   - DOMAIN-SUFFIX,mon.zijieapi.com
@@ -4836,6 +4838,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,trace.rememberapp.co.kr
+  - DOMAIN-SUFFIX,asv.transsion.com
   - DOMAIN-SUFFIX,f459fdc403a6.78a5254f.ap-northeast-1.token.awswaf.com
   - DOMAIN-SUFFIX,o1000929.ingest.sentry.io
   - DOMAIN-SUFFIX,sta.tirexo.ink
