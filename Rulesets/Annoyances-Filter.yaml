@@ -86,6 +86,7 @@ payload:
   - DOMAIN-SUFFIX,clickio.mgr.consensu.org
   - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
   - DOMAIN-SUFFIX,quantcast.mgr.consensu.org
+  - DOMAIN-SUFFIX,gdpr.api.bcdn.jp
   - DOMAIN-SUFFIX,consent.radiotimes.com
   - DOMAIN-SUFFIX,consent.a24films.com
   - DOMAIN-SUFFIX,consent.t-mobile.cz
@@ -801,6 +802,7 @@ payload:
   - DOMAIN-SUFFIX,mystatext.ru
   - DOMAIN-SUFFIX,xhamsterpremium.com
   - DOMAIN-SUFFIX,contributions.guardianapis.com
+  - DOMAIN-SUFFIX,backgrounds.wetransfer.net
   - DOMAIN-SUFFIX,usefomo.com
   - DOMAIN-SUFFIX,shop.kicker.de
   - DOMAIN-SUFFIX,banner.consultant.ru
