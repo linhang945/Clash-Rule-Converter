@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.jslib.win
   - DOMAIN-SUFFIX,spadsync.com
   - DOMAIN-SUFFIX,easter-analytics.com
   - DOMAIN-SUFFIX,beagle.prod.tda.link
@@ -4844,6 +4845,9 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,groovy-manul.pikapod.net
+  - DOMAIN-SUFFIX,tracking.shinycolors.enza.fun
+  - DOMAIN-SUFFIX,log.bunjang.co.kr
   - DOMAIN-SUFFIX,log.ahamo.com
   - DOMAIN-SUFFIX,eu.pftk.temu.com
   - DOMAIN-SUFFIX,eu.thtk.temu.com
@@ -47670,7 +47674,6 @@ payload:
   - DOMAIN-SUFFIX,elqtracking.hitachi-powergrids.com
   - DOMAIN-SUFFIX,elqtracking.hitachienergy.com
   - DOMAIN-SUFFIX,eqtrack.americashomeplace.com
-  - DOMAIN-SUFFIX,explore.agilent.com
   - DOMAIN-SUFFIX,explore.firstnet.com
   - DOMAIN-SUFFIX,fire.solutions.jci.com
   - DOMAIN-SUFFIX,go.engineeringmkts.com
@@ -51881,6 +51884,7 @@ payload:
   - DOMAIN-SUFFIX,wiz.empowerhearing.com
   - DOMAIN-SUFFIX,wiz.sncf-connect.com
   - DOMAIN-SUFFIX,wz.allianz.fr
+  - DOMAIN-SUFFIX,explore.agilent.com
   - DOMAIN-SUFFIX,dygassets.dygdigital.com
   - DOMAIN-SUFFIX,analytics.chita.ru
   - DOMAIN-SUFFIX,metrics.ainews.kz
