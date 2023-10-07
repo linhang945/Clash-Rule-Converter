@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tracking.utlservice.com
+  - DOMAIN-SUFFIX,analytics.myshoptago.com
   - DOMAIN-SUFFIX,wfthumty.pm
   - DOMAIN-SUFFIX,hubtydum.me
   - DOMAIN-SUFFIX,mobadme.jp
@@ -4848,6 +4850,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ana*.inews24.com
   - DOMAIN-SUFFIX,m.1gr.cz
   - DOMAIN-SUFFIX,a.1gr.cz
   - DOMAIN-SUFFIX,pvnwap.zol.com.cn
