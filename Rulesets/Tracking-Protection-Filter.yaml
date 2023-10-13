@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,ea.epochbase.com
   - DOMAIN-SUFFIX,f.revotas.com
   - DOMAIN-SUFFIX,1cpbac.ru
   - DOMAIN-SUFFIX,tracking.utlservice.com
@@ -3722,6 +3723,9 @@ payload:
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
   - DOMAIN-SUFFIX,functionalclam.com
+  - DOMAIN-SUFFIX,cozyhillside.com
+  - DOMAIN-SUFFIX,crimsonmeadow.com
+  - DOMAIN-SUFFIX,vibranthaven.com
   - DOMAIN-SUFFIX,copyrightaccesscontrols.com
   - DOMAIN-SUFFIX,roseincome.com
   - DOMAIN-SUFFIX,solarislabyrinth.com
@@ -6816,6 +6820,10 @@ payload:
   - DOMAIN-SUFFIX,za.zingnews.vn
   - DOMAIN-SUFFIX,zion-telemetry.api.cnn.io
   - DOMAIN-SUFFIX,zion.qbo.intuit.com
+  - DOMAIN-SUFFIX,api-*.hismarttv.com
+  - DOMAIN-SUFFIX,auth-*.hismarttv.com
+  - DOMAIN-SUFFIX,msg-na.hismarttv.com
+  - DOMAIN-SUFFIX,unified-ter-na.hismarttv.com
   - DOMAIN-SUFFIX,sp1.baidu.com
   - DOMAIN-SUFFIX,sp2.baidu.com
   - DOMAIN-SUFFIX,sp3.baidu.com
