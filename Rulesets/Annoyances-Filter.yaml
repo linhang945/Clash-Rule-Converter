@@ -85,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,clickio.mgr.consensu.org
   - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
   - DOMAIN-SUFFIX,quantcast.mgr.consensu.org
+  - DOMAIN-SUFFIX,cookies.eo.nl
   - DOMAIN-SUFFIX,gdpr.api.bcdn.jp
   - DOMAIN-SUFFIX,consent.radiotimes.com
   - DOMAIN-SUFFIX,consent.a24films.com
@@ -120,6 +121,9 @@ payload:
   - DOMAIN-SUFFIX,cc.silktide.com
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
+  - DOMAIN-SUFFIX,flameuncle.com
+  - DOMAIN-SUFFIX,radiateprose.com
+  - DOMAIN-SUFFIX,parallelbulb.com
   - DOMAIN-SUFFIX,headydegree.com
   - DOMAIN-SUFFIX,creatorpassenger.com
   - DOMAIN-SUFFIX,firsttexture.com
