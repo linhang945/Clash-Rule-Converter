@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,pixel.locker2.com
+  - DOMAIN-SUFFIX,analytics.trovit.com
+  - DOMAIN-SUFFIX,us.tags.newscgp.com
   - DOMAIN-SUFFIX,smazaz.icu
   - DOMAIN-SUFFIX,mpraven.org
   - DOMAIN-SUFFIX,smatr.net
@@ -3822,6 +3825,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d1tprjo2w7krrh.cloudfront.net
   - DOMAIN-SUFFIX,tracking.prismpartner.smt.docomo.ne.jp
   - DOMAIN-SUFFIX,audience-mostread.r7.com
   - DOMAIN-SUFFIX,analytics.cocolog-nifty.com
