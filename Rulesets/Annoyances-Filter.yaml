@@ -81,7 +81,7 @@ payload:
   - DOMAIN-SUFFIX,r42tag.com
   - DOMAIN-SUFFIX,cookieq.com
   - DOMAIN-SUFFIX,usercentrics.eu
-  - DOMAIN-SUFFIX,api.eu.usercentrics.eu
+  - DOMAIN-SUFFIX,eu.usercentrics.eu
   - DOMAIN-SUFFIX,spolecznosci.mgr.consensu.org
   - DOMAIN-SUFFIX,clickio.mgr.consensu.org
   - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
@@ -122,6 +122,8 @@ payload:
   - DOMAIN-SUFFIX,cc.silktide.com
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
+  - DOMAIN-SUFFIX,defeatedbadge.com
+  - DOMAIN-SUFFIX,haltingdivision.com
   - DOMAIN-SUFFIX,deliciousducks.com
   - DOMAIN-SUFFIX,exhibitsneeze.com
   - DOMAIN-SUFFIX,meadowlullaby.com
@@ -1884,6 +1886,7 @@ payload:
   - DOMAIN-SUFFIX,booster.webtradecenter.com
   - DOMAIN-SUFFIX,gacraft.jp
   - DOMAIN-SUFFIX,api.popin.cc
+  - DOMAIN-SUFFIX,support-widget.userlocal.jp
   - DOMAIN-SUFFIX,widget.solvemate.com
   - DOMAIN-SUFFIX,cdn.legistco.ru
   - DOMAIN-SUFFIX,webchat.birdeye.com

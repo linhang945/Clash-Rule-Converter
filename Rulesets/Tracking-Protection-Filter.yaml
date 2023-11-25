@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cpt.geniee.jp
+  - DOMAIN-SUFFIX,analytics.fcgtalent.fi
+  - DOMAIN-SUFFIX,gl-product-analytics.com
+  - DOMAIN-SUFFIX,logging.pw.adn.cloud
+  - DOMAIN-SUFFIX,admatrix.jp
   - DOMAIN-SUFFIX,meanlytics.com
   - DOMAIN-SUFFIX,app.pendo.io
   - DOMAIN-SUFFIX,vibeaconstr.onezapp.com
@@ -3829,6 +3834,9 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,azq.zozo.jp
+  - DOMAIN-SUFFIX,dsp.logly.co.jp
+  - DOMAIN-SUFFIX,inbound-analytics.pixlee.com
   - DOMAIN-SUFFIX,rtm-tracking.zozo.jp
   - DOMAIN-SUFFIX,analytics.netkeiba.com
   - DOMAIN-SUFFIX,d1tprjo2w7krrh.cloudfront.net
