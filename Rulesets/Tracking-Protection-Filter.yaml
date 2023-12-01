@@ -49824,7 +49824,6 @@ payload:
   - DOMAIN-SUFFIX,logs.supersonic.com
   - DOMAIN-SUFFIX,ntracker-collector.naver.com
   - DOMAIN-SUFFIX,ace.naver.com
-  - DOMAIN-SUFFIX,api.sec.intl.miui.com
   - DOMAIN-SUFFIX,authbe.sec.intl.miui.com
   - DOMAIN-SUFFIX,flash.sec.intl.miui.com
   - DOMAIN-SUFFIX,api.setting.intl.miui.com
@@ -49868,7 +49867,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.qoqa.ch
   - DOMAIN-SUFFIX,analytics.qoqa.com
   - DOMAIN-SUFFIX,adrevenue.appsflyer.com
-  - DOMAIN-SUFFIX,af-event-logger.appsflyer.com
   - DOMAIN-SUFFIX,api.appsflyer.com
   - DOMAIN-SUFFIX,api2.appsflyer.com
   - DOMAIN-SUFFIX,app.appsflyer.com
@@ -49892,7 +49890,6 @@ payload:
   - DOMAIN-SUFFIX,sdk-services.appsflyer.com
   - DOMAIN-SUFFIX,sdk.appsflyer.com
   - DOMAIN-SUFFIX,stats.appsflyer.com
-  - DOMAIN-SUFFIX,statsgoogle.appsflyer.com
   - DOMAIN-SUFFIX,t.appsflyer.com
   - DOMAIN-SUFFIX,track.appsflyer.com
   - DOMAIN-SUFFIX,validate.appsflyer.com
@@ -50132,7 +50129,6 @@ payload:
   - DOMAIN-SUFFIX,msg.umengcloud.com
   - DOMAIN-SUFFIX,ulogs.umeng.com
   - DOMAIN-SUFFIX,ulogs.umengcloud.com
-  - DOMAIN-SUFFIX,ada-tr.staff-start.com
   - DOMAIN-SUFFIX,analytics.liveact-vault.com
   - DOMAIN-SUFFIX,dex50.deteql.net
   - DOMAIN-SUFFIX,analytics.300624.com
@@ -50416,7 +50412,6 @@ payload:
   - DOMAIN-SUFFIX,geoip.ifunny.co
   - DOMAIN-SUFFIX,alogs.umeng.com
   - DOMAIN-SUFFIX,alogs.umengcloud.com
-  - DOMAIN-SUFFIX,stats.umsns.com
   - DOMAIN-SUFFIX,device-metrics-*.amazon.com
   - DOMAIN-SUFFIX,flurry.agentportal.*.yahoodns.net
   - DOMAIN-SUFFIX,4seeresults.com
@@ -50440,7 +50435,6 @@ payload:
   - DOMAIN-SUFFIX,api.apptentive.com
   - DOMAIN-SUFFIX,api.branch.io
   - DOMAIN-SUFFIX,api2.branch.io
-  - DOMAIN-SUFFIX,rubick.gameanalytics.com
   - DOMAIN-SUFFIX,api.gameanalytics.com
   - DOMAIN-SUFFIX,api.gimbal.com
   - DOMAIN-SUFFIX,appmetrica.yandex.net
@@ -50521,4 +50515,3 @@ payload:
   - DOMAIN-SUFFIX,upoll.umengcloud.com
   - DOMAIN-SUFFIX,utop.umengcloud.com
   - DOMAIN-SUFFIX,analy.qq.com
-  - DOMAIN-SUFFIX,api.safegraph.com
