@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,ohmy.bid
   - DOMAIN-SUFFIX,nakanohito.jp
   - DOMAIN-SUFFIX,cpt.geniee.jp
   - DOMAIN-SUFFIX,analytics.fcgtalent.fi
@@ -3831,6 +3832,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tagmanager.yodobashi.com
+  - DOMAIN-SUFFIX,d2cli4kgl5uxre.cloudfront.net
   - DOMAIN-SUFFIX,analytics.peraichi.com
   - DOMAIN-SUFFIX,ddl.alma.iltalehti.fi
   - DOMAIN-SUFFIX,azq.zozo.jp
