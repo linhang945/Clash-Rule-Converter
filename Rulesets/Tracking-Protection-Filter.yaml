@@ -25,6 +25,7 @@ payload:
   - DOMAIN-SUFFIX,us.tags.newscgp.com
   - DOMAIN-SUFFIX,smazaz.icu
   - DOMAIN-SUFFIX,mpraven.org
+  - DOMAIN-SUFFIX,rumt-zh.com
   - DOMAIN-SUFFIX,smatr.net
   - DOMAIN-SUFFIX,meet-buddy.com
   - DOMAIN-SUFFIX,adsmeasurement.com
@@ -3836,6 +3837,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.znews.vn
   - DOMAIN-SUFFIX,aem-kakao-collector.onkakao.net
   - DOMAIN-SUFFIX,cellar-analytics.mapion.co.jp
   - DOMAIN-SUFFIX,event.hackle.io
@@ -4524,6 +4526,7 @@ payload:
   - DOMAIN-SUFFIX,beacon.lycos.com
   - DOMAIN-SUFFIX,beacon.netflix.com
   - DOMAIN-SUFFIX,beacon.nuskin.com
+  - DOMAIN-SUFFIX,beacon.cdn.qq.com
   - DOMAIN-SUFFIX,beacon.riskified.com
   - DOMAIN-SUFFIX,beacon.samsclub.com
   - DOMAIN-SUFFIX,beacon.sojern.com
@@ -50921,6 +50924,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,zml-apm-prd.dbv4.noncd.db.de
   - DOMAIN-SUFFIX,api.bytebrew.io
   - DOMAIN-SUFFIX,lg-release-tracking-8080.gcld-line.com
   - DOMAIN-SUFFIX,iemiq.com
