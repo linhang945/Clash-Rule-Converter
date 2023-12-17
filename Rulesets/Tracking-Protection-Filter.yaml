@@ -603,6 +603,7 @@ payload:
   - DOMAIN-SUFFIX,vought.removeads.workers.dev
   - DOMAIN-SUFFIX,analytics.churnzero.net
   - DOMAIN-SUFFIX,trk.reclameaqui.com.br
+  - DOMAIN-SUFFIX,events-api.gazetadopovo.com.br
   - DOMAIN-SUFFIX,s.clickiocdn.com
   - DOMAIN-SUFFIX,i-cmg-amlg-prod.appspot.com
   - DOMAIN-SUFFIX,a.myfidevs.io
@@ -3837,6 +3838,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracking.epicgames.com
+  - DOMAIN-SUFFIX,tracking.fortnite.com
   - DOMAIN-SUFFIX,log.znews.vn
   - DOMAIN-SUFFIX,aem-kakao-collector.onkakao.net
   - DOMAIN-SUFFIX,cellar-analytics.mapion.co.jp
