@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,t.arcade.show
+  - DOMAIN-SUFFIX,pxl.retaku.net
+  - DOMAIN-SUFFIX,extrawatch.com
+  - DOMAIN-SUFFIX,ga.getresponse.com
   - DOMAIN-SUFFIX,t.fastcmp.com
   - DOMAIN-SUFFIX,prod-mhaa.mhtr.be
   - DOMAIN-SUFFIX,dmp.eland-tech.com
@@ -3838,6 +3842,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,track.linksynergy.com
   - DOMAIN-SUFFIX,tracking.epicgames.com
   - DOMAIN-SUFFIX,tracking.fortnite.com
   - DOMAIN-SUFFIX,log.znews.vn
