@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,metrics.plaid.com
+  - DOMAIN-SUFFIX,api.iterable.com
   - DOMAIN-SUFFIX,t.arcade.show
   - DOMAIN-SUFFIX,pxl.retaku.net
   - DOMAIN-SUFFIX,extrawatch.com
@@ -3842,6 +3844,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,metrics.geekwire.com
+  - DOMAIN-SUFFIX,click-performance.assets.rndtech.de
   - DOMAIN-SUFFIX,track.linksynergy.com
   - DOMAIN-SUFFIX,tracking.epicgames.com
   - DOMAIN-SUFFIX,tracking.fortnite.com
