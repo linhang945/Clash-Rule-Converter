@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,trk.a-dsp.com
   - DOMAIN-SUFFIX,metrics.plaid.com
   - DOMAIN-SUFFIX,api.iterable.com
   - DOMAIN-SUFFIX,t.arcade.show
@@ -3851,6 +3852,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,trk.tirto.id
+  - DOMAIN-SUFFIX,prdwebcollector.ruetracking.com
   - DOMAIN-SUFFIX,analytics-api.invideo.io
   - DOMAIN-SUFFIX,tr.staff-start.com
   - DOMAIN-SUFFIX,rtnl.bxcl.de
