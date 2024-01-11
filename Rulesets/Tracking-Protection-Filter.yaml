@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,usermetric.io
+  - DOMAIN-SUFFIX,pb.adriver.ru
+  - DOMAIN-SUFFIX,sync.adspend.space
+  - DOMAIN-SUFFIX,sync.opendsp.ru
+  - DOMAIN-SUFFIX,sync.programmatica.com
   - DOMAIN-SUFFIX,tracker.smart-bdash.com
   - DOMAIN-SUFFIX,trk.a-dsp.com
   - DOMAIN-SUFFIX,metrics.plaid.com
@@ -3853,6 +3858,9 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.msk1.ru
+  - DOMAIN-SUFFIX,metrics.viqeo.tv
+  - DOMAIN-SUFFIX,rtb.videonow.ru
   - DOMAIN-SUFFIX,hn-ping*.hashnode.com
   - DOMAIN-SUFFIX,o920916.ingest.sentry.io
   - DOMAIN-SUFFIX,ping.hashnode.com
