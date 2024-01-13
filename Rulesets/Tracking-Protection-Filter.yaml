@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,driveniq.com
   - DOMAIN-SUFFIX,usermetric.io
   - DOMAIN-SUFFIX,pb.adriver.ru
   - DOMAIN-SUFFIX,sync.adspend.space
@@ -3858,6 +3859,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.kinolights.com
   - DOMAIN-SUFFIX,analytics.msk1.ru
   - DOMAIN-SUFFIX,metrics.viqeo.tv
   - DOMAIN-SUFFIX,rtb.videonow.ru
@@ -52684,7 +52686,15 @@ payload:
   - DOMAIN-SUFFIX,log.estand.jp
   - DOMAIN-SUFFIX,event-search.jorte.com
   - DOMAIN-SUFFIX,ad-log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,apm-log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,devlog-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,hkrpg-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+  - DOMAIN-SUFFIX,minor-api-os.hoyoverse.com
+  - DOMAIN-SUFFIX,overseauspider.yuanshen.com
+  - DOMAIN-SUFFIX,sentry.eks.hoyoverse.com
+  - DOMAIN-SUFFIX,sg-public-data-api.hoyoverse.com
+  - DOMAIN-SUFFIX,ys-log-upload-os.hoyoverse.com
   - DOMAIN-SUFFIX,analytics.studiodesignapp.com
   - DOMAIN-SUFFIX,misc.api.snaptube.app
   - DOMAIN-SUFFIX,dig.bdurl.net
