@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,emlsend.com
   - DOMAIN-SUFFIX,starszoom.re
   - DOMAIN-SUFFIX,lr-intake.com
+  - DOMAIN-SUFFIX,intake-lr.com
   - DOMAIN-SUFFIX,collector-api.frspecifics.com
   - DOMAIN-SUFFIX,carrick-ui.advoncommerce.com
   - DOMAIN-SUFFIX,smelel.icu
@@ -3860,6 +3861,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,wwwstat.rz.uni-leipzig.de
   - DOMAIN-SUFFIX,analytics.fap.bar
   - DOMAIN-SUFFIX,analytics-batch.blitz.gg
   - DOMAIN-SUFFIX,tms-collect.sony.jp
@@ -4004,7 +4006,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.s3.amazonaws.com
   - DOMAIN-SUFFIX,analyticsengine.s3.amazonaws.com
   - DOMAIN-SUFFIX,tags.dxmdp.com
-  - DOMAIN-SUFFIX,dl.reg.163.com
   - DOMAIN-SUFFIX,adeventtrackermonitoring.spotify.com
   - DOMAIN-SUFFIX,pixel.ionos.com
   - DOMAIN-SUFFIX,d3p8zr0ffa9t17.cloudfront.net
@@ -52862,6 +52863,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,sb.scorecard.research.com
   - DOMAIN-SUFFIX,zml-apm-prd.dbv4.noncd.db.de
   - DOMAIN-SUFFIX,api.bytebrew.io
   - DOMAIN-SUFFIX,lg-release-tracking-8080.gcld-line.com
