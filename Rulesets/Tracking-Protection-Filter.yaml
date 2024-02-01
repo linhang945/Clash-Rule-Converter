@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,efreecode.com
   - DOMAIN-SUFFIX,trackerscript.sqreemtech.com
   - DOMAIN-SUFFIX,infinity-tracking.com
   - DOMAIN-SUFFIX,system-debug-1.b-cdn.net
@@ -3667,6 +3668,11 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,reporting-api.gannettinnovation.com
+  - DOMAIN-SUFFIX,applog.ssgdfs.com
+  - DOMAIN-SUFFIX,dadispapi.gmarket.co.kr
+  - DOMAIN-SUFFIX,utsgw.auction.co.kr
+  - DOMAIN-SUFFIX,montelena.auction.co.kr
   - DOMAIN-SUFFIX,assets.datarize.ai
   - DOMAIN-SUFFIX,dtr-onsite-feed.datarize.ai
   - DOMAIN-SUFFIX,realtime-profiling.datarize.ai
