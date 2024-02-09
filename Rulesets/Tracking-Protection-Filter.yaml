@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,pubperf.com
+  - DOMAIN-SUFFIX,stats.getaim.org
   - DOMAIN-SUFFIX,analytics-cf.bigcrunch.com
   - DOMAIN-SUFFIX,trackerapi.ebxcdn.com
   - DOMAIN-SUFFIX,tongjiniao.com
@@ -3669,6 +3671,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tcx-beacon.docs.aws.dev
   - DOMAIN-SUFFIX,analytics.githubassets.com
   - DOMAIN-SUFFIX,hkrpg-log-upload.mihoyo.com
   - DOMAIN-SUFFIX,reporting-api.gannettinnovation.com
