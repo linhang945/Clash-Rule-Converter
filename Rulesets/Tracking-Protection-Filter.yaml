@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,getui.com
+  - DOMAIN-SUFFIX,pixel.glimr.io
+  - DOMAIN-SUFFIX,scripts.jixie.media
+  - DOMAIN-SUFFIX,pt.wisernotify.com
+  - DOMAIN-SUFFIX,citrusad.net
   - DOMAIN-SUFFIX,pubperf.com
   - DOMAIN-SUFFIX,stats.getaim.org
   - DOMAIN-SUFFIX,analytics-cf.bigcrunch.com
@@ -3671,6 +3676,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,a.deadlinefunnel.com
   - DOMAIN-SUFFIX,visitor.sokuja.net
   - DOMAIN-SUFFIX,nlog.naver.com
   - DOMAIN-SUFFIX,collector.taoxh.life
