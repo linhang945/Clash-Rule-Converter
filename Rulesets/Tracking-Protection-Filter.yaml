@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,site-config.com
   - DOMAIN-SUFFIX,getui.com
   - DOMAIN-SUFFIX,pixel.glimr.io
   - DOMAIN-SUFFIX,scripts.jixie.media
@@ -3676,6 +3677,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,statistik.changing-cities.org
+  - DOMAIN-SUFFIX,ping.paidy.com
   - DOMAIN-SUFFIX,a.deadlinefunnel.com
   - DOMAIN-SUFFIX,visitor.sokuja.net
   - DOMAIN-SUFFIX,nlog.naver.com
