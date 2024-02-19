@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,event.lib.visumo.io
+  - DOMAIN-SUFFIX,gtm.taginstall.com
+  - DOMAIN-SUFFIX,mdstats.info
   - DOMAIN-SUFFIX,site-config.com
   - DOMAIN-SUFFIX,getui.com
   - DOMAIN-SUFFIX,pixel.glimr.io
@@ -3677,6 +3680,50 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.castel.jp
+  - DOMAIN-SUFFIX,tagging.anaxago.com
+  - DOMAIN-SUFFIX,tagging.boataround.com
+  - DOMAIN-SUFFIX,tagging.bokus.com
+  - DOMAIN-SUFFIX,tagging.eqs.com
+  - DOMAIN-SUFFIX,tagging.hansimglueck-burgergrill.de
+  - DOMAIN-SUFFIX,tagging.lei-manager.com
+  - DOMAIN-SUFFIX,tagging.src-reizen.nl
+  - DOMAIN-SUFFIX,tagging.swat.io
+  - DOMAIN-SUFFIX,tracking.di.se
+  - DOMAIN-SUFFIX,gtm-sst.crowdin.com
+  - DOMAIN-SUFFIX,gtm.actic.se
+  - DOMAIN-SUFFIX,gtm.ahlens.se
+  - DOMAIN-SUFFIX,gtm.allabolag.se
+  - DOMAIN-SUFFIX,gtm.asiakastieto.fi
+  - DOMAIN-SUFFIX,gtm.bswhealth.com
+  - DOMAIN-SUFFIX,gtm.careercontessa.com
+  - DOMAIN-SUFFIX,gtm.clutter.com
+  - DOMAIN-SUFFIX,gtm.diamond.jp
+  - DOMAIN-SUFFIX,gtm.elementor.com
+  - DOMAIN-SUFFIX,gtm.elisa.fi
+  - DOMAIN-SUFFIX,gtm.ellos.se
+  - DOMAIN-SUFFIX,gtm.guitarzoom.com
+  - DOMAIN-SUFFIX,gtm.humann.com
+  - DOMAIN-SUFFIX,gtm.jerseyfinance.je
+  - DOMAIN-SUFFIX,gtm.jotex.se
+  - DOMAIN-SUFFIX,gtm.kglteater.dk
+  - DOMAIN-SUFFIX,gtm.kiwitaxi.com
+  - DOMAIN-SUFFIX,gtm.korodrogerie.de
+  - DOMAIN-SUFFIX,gtm.moneybird.nl
+  - DOMAIN-SUFFIX,gtm.perfectlybasics.nl
+  - DOMAIN-SUFFIX,gtm.proff.dk
+  - DOMAIN-SUFFIX,gtm.proff.no
+  - DOMAIN-SUFFIX,gtm.proff.se
+  - DOMAIN-SUFFIX,gtm.rains.com
+  - DOMAIN-SUFFIX,gtm.readytec.it
+  - DOMAIN-SUFFIX,gtm.restplatzboerse.at
+  - DOMAIN-SUFFIX,gtm.saostar.vn
+  - DOMAIN-SUFFIX,gtm.saumag.edu
+  - DOMAIN-SUFFIX,gtm.skrz.cz
+  - DOMAIN-SUFFIX,gtm.thermondo.de
+  - DOMAIN-SUFFIX,gtm.wonderbly.com
+  - DOMAIN-SUFFIX,gtm.docswell.com
+  - DOMAIN-SUFFIX,collector-pxfqtaw5et.px-client.net
   - DOMAIN-SUFFIX,statistik.changing-cities.org
   - DOMAIN-SUFFIX,ping.paidy.com
   - DOMAIN-SUFFIX,a.deadlinefunnel.com
@@ -3684,7 +3731,6 @@ payload:
   - DOMAIN-SUFFIX,nlog.naver.com
   - DOMAIN-SUFFIX,collector.taoxh.life
   - DOMAIN-SUFFIX,noa.yahoo.com
-  - DOMAIN-SUFFIX,mdstats.info
   - DOMAIN-SUFFIX,tcx-beacon.docs.aws.dev
   - DOMAIN-SUFFIX,analytics.githubassets.com
   - DOMAIN-SUFFIX,hkrpg-log-upload.mihoyo.com
