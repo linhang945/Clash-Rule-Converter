@@ -3682,6 +3682,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.b2.ai
   - DOMAIN-SUFFIX,tracking.ai.rakuten.co.jp
   - DOMAIN-SUFFIX,supportmetrics.apple.com
   - DOMAIN-SUFFIX,securemvt.apple.com
@@ -58117,6 +58118,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,analytics.starmakerstudios.com
+  - DOMAIN-SUFFIX,track.starmakerstudios.com
   - DOMAIN-SUFFIX,volceapplog.com
   - DOMAIN-SUFFIX,toblog.tobsnssdk.com
   - DOMAIN-SUFFIX,tobapplog.tobsnssdk.com
