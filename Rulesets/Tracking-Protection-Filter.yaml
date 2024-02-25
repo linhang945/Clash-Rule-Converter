@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,adx.promo
   - DOMAIN-SUFFIX,trk.decido.io
   - DOMAIN-SUFFIX,tracker.oval.id
   - DOMAIN-SUFFIX,event.lib.visumo.io
@@ -3682,6 +3683,10 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,events.caffeine.tv
+  - DOMAIN-SUFFIX,analytics.totalprosports.com
+  - DOMAIN-SUFFIX,analytics-conomi.line.me
+  - DOMAIN-SUFFIX,sopr-api.cian.ru
   - DOMAIN-SUFFIX,analytics.b2.ai
   - DOMAIN-SUFFIX,tracking.ai.rakuten.co.jp
   - DOMAIN-SUFFIX,supportmetrics.apple.com
