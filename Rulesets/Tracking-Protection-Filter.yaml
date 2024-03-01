@@ -514,7 +514,6 @@ payload:
   - DOMAIN-SUFFIX,adcontroll.com
   - DOMAIN-SUFFIX,log.medietall.no
   - DOMAIN-SUFFIX,uqd.io
-  - DOMAIN-SUFFIX,ukw.jp
   - DOMAIN-SUFFIX,api.trueaudience.io
   - DOMAIN-SUFFIX,pixel.tatpek.com
   - DOMAIN-SUFFIX,analytics-egain.com
@@ -3665,6 +3664,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracking.game8.co
+  - DOMAIN-SUFFIX,analysis.aws.locondo.jp
   - DOMAIN-SUFFIX,reports.tunein.com
   - DOMAIN-SUFFIX,event.platform.tunein.com
   - DOMAIN-SUFFIX,data.r.pl
