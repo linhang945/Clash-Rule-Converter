@@ -3664,6 +3664,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,recv.tbs.co.jp
   - DOMAIN-SUFFIX,tracking.game8.co
   - DOMAIN-SUFFIX,analysis.aws.locondo.jp
   - DOMAIN-SUFFIX,reports.tunein.com
@@ -5211,7 +5212,6 @@ payload:
   - DOMAIN-SUFFIX,sat.sanoma.fi
   - DOMAIN-SUFFIX,sayac.tmgrup.com.tr
   - DOMAIN-SUFFIX,sbeacon.sina.com.cn
-  - DOMAIN-SUFFIX,scis.tbs.co.jp
   - DOMAIN-SUFFIX,secure-wa-na.unileversolutions.com
   - DOMAIN-SUFFIX,segment-cdn.producthunt.com
   - DOMAIN-SUFFIX,segments.adap.tv
