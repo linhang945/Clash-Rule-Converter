@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,lz-pub-ads.com
+  - DOMAIN-SUFFIX,w4h5ae.ru
+  - DOMAIN-SUFFIX,get4click.ru
+  - DOMAIN-SUFFIX,botfaqtor.ru
+  - DOMAIN-SUFFIX,leady.com
   - DOMAIN-SUFFIX,hscollectedforms.net
   - DOMAIN-SUFFIX,m.stripe.com
   - DOMAIN-SUFFIX,log.dance
@@ -3665,6 +3670,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,receive.wmcdp.io
+  - DOMAIN-SUFFIX,event-router.olympics.com
   - DOMAIN-SUFFIX,ingest.do.brainsland.com
   - DOMAIN-SUFFIX,recv.tbs.co.jp
   - DOMAIN-SUFFIX,tracking.game8.co
