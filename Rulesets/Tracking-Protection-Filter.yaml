@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,feliz.data.tm-awx.com
+  - DOMAIN-SUFFIX,adoric-om.com
   - DOMAIN-SUFFIX,lz-pub-ads.com
   - DOMAIN-SUFFIX,w4h5ae.ru
   - DOMAIN-SUFFIX,get4click.ru
@@ -3670,6 +3672,11 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ljc.coupang.com
+  - DOMAIN-SUFFIX,apcdp.apnews.com
+  - DOMAIN-SUFFIX,3p-udc.yahoo.com
+  - DOMAIN-SUFFIX,3p-geo.yahoo.com
+  - DOMAIN-SUFFIX,t.streetsblog.org
   - DOMAIN-SUFFIX,receive.wmcdp.io
   - DOMAIN-SUFFIX,event-router.olympics.com
   - DOMAIN-SUFFIX,ingest.do.brainsland.com
@@ -4493,8 +4500,6 @@ payload:
   - DOMAIN-SUFFIX,beta.simpel.nl
   - DOMAIN-SUFFIX,bi-eventtracker-*.amazonaws.com
   - DOMAIN-SUFFIX,bia.brightinfo.com
-  - DOMAIN-SUFFIX,blue.fox8.com
-  - DOMAIN-SUFFIX,blue.thehill.com
   - DOMAIN-SUFFIX,bonfire.spklw.com
   - DOMAIN-SUFFIX,boomerang.dell.com
   - DOMAIN-SUFFIX,broker.datazoom.io
