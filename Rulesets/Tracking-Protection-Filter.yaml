@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,accuratecoal.com
+  - DOMAIN-SUFFIX,sdk-cdn.optimove.net
+  - DOMAIN-SUFFIX,datadome.co
+  - DOMAIN-SUFFIX,metrics.kmsmep.com
+  - DOMAIN-SUFFIX,cs.zg-api.com
+  - DOMAIN-SUFFIX,e.zg-api.com
   - DOMAIN-SUFFIX,fp.techinasia.com
   - DOMAIN-SUFFIX,create.lidstatic.com
   - DOMAIN-SUFFIX,cadmus.script.ac
@@ -3675,6 +3681,12 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracker.sqreemtech.com
+  - DOMAIN-SUFFIX,analytics.waifu2x.org
+  - DOMAIN-SUFFIX,analytics-api.vanceai.com
+  - DOMAIN-SUFFIX,track.prod.smash.pet
+  - DOMAIN-SUFFIX,metrics.quillbot.com
+  - DOMAIN-SUFFIX,j927.statnews.com
   - DOMAIN-SUFFIX,metrics.ceneo.pl
   - DOMAIN-SUFFIX,analytics.purelovers.com
   - DOMAIN-SUFFIX,analytics.pixels.ai
