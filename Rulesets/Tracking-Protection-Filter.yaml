@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,events-ingestion.services.gorgias.com
   - DOMAIN-SUFFIX,accuratecoal.com
   - DOMAIN-SUFFIX,sdk-cdn.optimove.net
   - DOMAIN-SUFFIX,datadome.co
@@ -3681,6 +3682,9 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,t.poki.io
+  - DOMAIN-SUFFIX,p.armorgames.net
+  - DOMAIN-SUFFIX,analytics.crazygames.com
   - DOMAIN-SUFFIX,tracker.sqreemtech.com
   - DOMAIN-SUFFIX,analytics.waifu2x.org
   - DOMAIN-SUFFIX,analytics-api.vanceai.com
