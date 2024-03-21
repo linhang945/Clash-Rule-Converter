@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics-sm.com
+  - DOMAIN-SUFFIX,adxcel-ec2.com
   - DOMAIN-SUFFIX,cdn.ad-platform.jmty.jp
   - DOMAIN-SUFFIX,app.ardalio.com
   - DOMAIN-SUFFIX,events-ingestion.services.gorgias.com
@@ -3684,6 +3686,15 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,s.wayfair.com
+  - DOMAIN-SUFFIX,imk.neweggimages.com
+  - DOMAIN-SUFFIX,grgnsht.nzxt.com
+  - DOMAIN-SUFFIX,h031.familydollar.com
+  - DOMAIN-SUFFIX,api-gtm.grubhub.com
+  - DOMAIN-SUFFIX,event.havasedge.com
+  - DOMAIN-SUFFIX,tag.havasedge.com
+  - DOMAIN-SUFFIX,d401.dollartree.com
+  - DOMAIN-SUFFIX,auth-srv.launchthatapps.com
   - DOMAIN-SUFFIX,ast.techbook.de
   - DOMAIN-SUFFIX,track.ttsave.app
   - DOMAIN-SUFFIX,analytics.3c5.com
