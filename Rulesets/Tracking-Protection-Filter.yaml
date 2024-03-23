@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,jcpclick.com
   - DOMAIN-SUFFIX,analytics-sm.com
   - DOMAIN-SUFFIX,adxcel-ec2.com
   - DOMAIN-SUFFIX,cdn.ad-platform.jmty.jp
@@ -268,7 +269,7 @@ payload:
   - DOMAIN-SUFFIX,px*.mediahills.ru
   - DOMAIN-SUFFIX,sdk.conscent.in
   - DOMAIN-SUFFIX,tpstelemetry.tencent.com
-  - DOMAIN-SUFFIX,posthog.com
+  - DOMAIN-SUFFIX,app.posthog.com
   - DOMAIN-SUFFIX,crossees.com
   - DOMAIN-SUFFIX,plausiblecdn.co
   - DOMAIN-SUFFIX,humanz.com
@@ -3690,7 +3691,6 @@ payload:
   - DOMAIN-SUFFIX,imk.neweggimages.com
   - DOMAIN-SUFFIX,grgnsht.nzxt.com
   - DOMAIN-SUFFIX,h031.familydollar.com
-  - DOMAIN-SUFFIX,api-gtm.grubhub.com
   - DOMAIN-SUFFIX,event.havasedge.com
   - DOMAIN-SUFFIX,tag.havasedge.com
   - DOMAIN-SUFFIX,d401.dollartree.com
