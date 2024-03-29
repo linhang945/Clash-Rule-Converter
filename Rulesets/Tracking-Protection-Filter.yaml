@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,greenbids.ai
+  - DOMAIN-SUFFIX,track.migattenogokui.com
   - DOMAIN-SUFFIX,jcpclick.com
   - DOMAIN-SUFFIX,analytics-sm.com
   - DOMAIN-SUFFIX,adxcel-ec2.com
@@ -3687,6 +3689,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,collector.xhofficial.com
+  - DOMAIN-SUFFIX,logs-partners.coupang.com
   - DOMAIN-SUFFIX,sioa.chewy.com
   - DOMAIN-SUFFIX,metrics.freemake.com
   - DOMAIN-SUFFIX,analytics.freemake.com
