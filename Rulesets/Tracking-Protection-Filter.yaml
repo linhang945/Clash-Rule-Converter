@@ -1386,7 +1386,6 @@ payload:
   - DOMAIN-SUFFIX,mateti.net
   - DOMAIN-SUFFIX,digitru.st
   - DOMAIN-SUFFIX,s-onetag.com
-  - DOMAIN-SUFFIX,personaclick.com
   - DOMAIN-SUFFIX,counter*.freecounter.ovh
   - DOMAIN-SUFFIX,analytics.logsss.com
   - DOMAIN-SUFFIX,tnative.ru
@@ -3691,6 +3690,13 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,amplitude.chess.com
+  - DOMAIN-SUFFIX,matomo.cloudfront.similarweb.io
+  - DOMAIN-SUFFIX,r451.jamanetwork.com
+  - DOMAIN-SUFFIX,logging.h3z.jp
+  - DOMAIN-SUFFIX,cv-tracker.stanby.com
+  - DOMAIN-SUFFIX,cdn-channels-pixel.ex.co
+  - DOMAIN-SUFFIX,t.iwara.tv
   - DOMAIN-SUFFIX,collector.xhofficial.com
   - DOMAIN-SUFFIX,logs-partners.coupang.com
   - DOMAIN-SUFFIX,sioa.chewy.com
