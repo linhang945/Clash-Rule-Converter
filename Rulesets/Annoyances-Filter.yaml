@@ -120,7 +120,6 @@ payload:
   - DOMAIN-SUFFIX,consent.finanzen.net
   - DOMAIN-SUFFIX,cookies.joneslanglasalle.co.jp
   - DOMAIN-SUFFIX,cmp.acronymfinder.com
-  - DOMAIN-SUFFIX,sp-consent.stuttgarter-zeitung.de
   - DOMAIN-SUFFIX,cmp.dmgmediaprivacy.co.uk
   - DOMAIN-SUFFIX,privacy.selbst.de
   - DOMAIN-SUFFIX,thestrad-gb.thestrad.com
@@ -130,6 +129,8 @@ payload:
   - DOMAIN-SUFFIX,cc.silktide.com
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
+  - DOMAIN-SUFFIX,keenquill.com
+  - DOMAIN-SUFFIX,chipperisle.com
   - DOMAIN-SUFFIX,cleanhaircut.com
   - DOMAIN-SUFFIX,stopstomach.com
   - DOMAIN-SUFFIX,screechingstocking.com
@@ -499,6 +500,7 @@ payload:
   - DOMAIN-SUFFIX,elderlyscissors.com
   - DOMAIN-SUFFIX,sombersquirrel.com
   - DOMAIN-SUFFIX,richstring.com
+  - DOMAIN-SUFFIX,puffypull.com
   - DOMAIN-SUFFIX,hystericalhelp.com
   - DOMAIN-SUFFIX,secretspiders.com
   - DOMAIN-SUFFIX,cumbersomecloud.com
@@ -812,6 +814,7 @@ payload:
   - DOMAIN-SUFFIX,subsequentstew.com
   - DOMAIN-SUFFIX,warmquiver.com
   - DOMAIN-SUFFIX,amusementmorning.com
+  - DOMAIN-SUFFIX,sortsummer.com
   - DOMAIN-SUFFIX,sootheside.com
   - DOMAIN-SUFFIX,makeshiftmine.com
   - DOMAIN-SUFFIX,suddensoda.com
@@ -1098,6 +1101,7 @@ payload:
   - DOMAIN-SUFFIX,carpentercomparison.com
   - DOMAIN-SUFFIX,superficialsquare.com
   - DOMAIN-SUFFIX,energeticladybug.com
+  - DOMAIN-SUFFIX,prepareplanes.com
   - DOMAIN-SUFFIX,hypnoticwound.com
   - DOMAIN-SUFFIX,samestretch.com
   - DOMAIN-SUFFIX,acidpigs.com
@@ -1146,6 +1150,7 @@ payload:
   - DOMAIN-SUFFIX,calculatorcamera.com
   - DOMAIN-SUFFIX,chickensstation.com
   - DOMAIN-SUFFIX,comfortablecheese.com
+  - DOMAIN-SUFFIX,copperchickens.com
   - DOMAIN-SUFFIX,copycarpenter.com
   - DOMAIN-SUFFIX,crawlclocks.com
   - DOMAIN-SUFFIX,critictruck.com
@@ -1241,13 +1246,9 @@ payload:
   - DOMAIN-SUFFIX,zbwp6ghm.com
   - DOMAIN-SUFFIX,absorbingprison.com
   - DOMAIN-SUFFIX,chesterstandard-gb.chesterstandard.co.uk
-  - DOMAIN-SUFFIX,copperchickens.com
   - DOMAIN-SUFFIX,massivemark.com
   - DOMAIN-SUFFIX,newsandstar-gb.newsandstar.co.uk
   - DOMAIN-SUFFIX,omapi.fangraphs.com
-  - DOMAIN-SUFFIX,prepareplanes.com
-  - DOMAIN-SUFFIX,puffypull.com
-  - DOMAIN-SUFFIX,sortsummer.com
   - DOMAIN-SUFFIX,sp.azcentral.com
   - DOMAIN-SUFFIX,sp.desmoinesregister.com
   - DOMAIN-SUFFIX,sp.nintendolife.com
@@ -1645,6 +1646,7 @@ payload:
   - DOMAIN-SUFFIX,yourbestru.site
   - DOMAIN-SUFFIX,z6uc8er1mzx8n2qd.pro
   - DOMAIN-SUFFIX,zorbanmat.com
+  - DOMAIN-SUFFIX,push.idowa.de
   - DOMAIN-SUFFIX,push.autosaratov.ru
   - DOMAIN-SUFFIX,bws0wvqt3k.ru
   - DOMAIN-SUFFIX,push.englishraven.com

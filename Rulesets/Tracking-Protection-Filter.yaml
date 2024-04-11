@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tags.qortex.ai
   - DOMAIN-SUFFIX,analytics-ingestion.pbpms.de
   - DOMAIN-SUFFIX,fpad.jp
   - DOMAIN-SUFFIX,palibzh.tech
@@ -170,7 +171,6 @@ payload:
   - DOMAIN-SUFFIX,colossusssp.com
   - DOMAIN-SUFFIX,consentag.eu
   - DOMAIN-SUFFIX,collect-v*.51.la
-  - DOMAIN-SUFFIX,cmp.datasign.co
   - DOMAIN-SUFFIX,ip.momentummedia.com.au
   - DOMAIN-SUFFIX,adrange.net
   - DOMAIN-SUFFIX,dmtag.jp
@@ -3694,6 +3694,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.dpa.com
   - DOMAIN-SUFFIX,metrics.thefeed.com
   - DOMAIN-SUFFIX,gtm.thefeed.com
   - DOMAIN-SUFFIX,collector.xhaccess.com
@@ -4291,7 +4292,6 @@ payload:
   - DOMAIN-SUFFIX,client-metrics.chess.com
   - DOMAIN-SUFFIX,stat.kwikmotion.com
   - DOMAIN-SUFFIX,analytics.vpplayer.tech
-  - DOMAIN-SUFFIX,h.seznam.cz
   - DOMAIN-SUFFIX,stat.cncenter.cz
   - DOMAIN-SUFFIX,metrics.roblox.com
   - DOMAIN-SUFFIX,t.xoom.com
@@ -4525,6 +4525,7 @@ payload:
   - DOMAIN-SUFFIX,apv-launcher.minute.ly
   - DOMAIN-SUFFIX,ariane.abtasty.com
   - DOMAIN-SUFFIX,astat.nikkei.co.jp
+  - DOMAIN-SUFFIX,astral.nicovideo.jp
   - DOMAIN-SUFFIX,asumi.shinobi.jp
   - DOMAIN-SUFFIX,atax.teamxbox.com
   - DOMAIN-SUFFIX,atlas1.krone.at
