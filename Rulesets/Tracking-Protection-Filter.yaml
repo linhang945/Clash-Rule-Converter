@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cdn.sov.stream
+  - DOMAIN-SUFFIX,programmatica.com
+  - DOMAIN-SUFFIX,stats.rip
   - DOMAIN-SUFFIX,ebxcdn.com
   - DOMAIN-SUFFIX,prod.uidapi.com
   - DOMAIN-SUFFIX,fp-cdn.azureedge.net
@@ -3724,6 +3727,7 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.classting.com
   - DOMAIN-SUFFIX,hoxha.nieuwspaal.network
   - DOMAIN-SUFFIX,tracker.gamemonkey.org
   - DOMAIN-SUFFIX,tracker-v4.gamedock.io
