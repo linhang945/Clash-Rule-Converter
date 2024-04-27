@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,antillephone.com
+  - DOMAIN-SUFFIX,prodalet.ru
+  - DOMAIN-SUFFIX,whos.amung.us
+  - DOMAIN-SUFFIX,zdw.w8.com.cn
+  - DOMAIN-SUFFIX,pbjs-stream.bydata.com
   - DOMAIN-SUFFIX,cdn.sov.stream
   - DOMAIN-SUFFIX,programmatica.com
   - DOMAIN-SUFFIX,stats.rip
@@ -387,7 +392,6 @@ payload:
   - DOMAIN-SUFFIX,klickly.com
   - DOMAIN-SUFFIX,accanalyze.com
   - DOMAIN-SUFFIX,splitbee.io
-  - DOMAIN-SUFFIX,log.dzen.ru
   - DOMAIN-SUFFIX,netcrew-analysis.jp
   - DOMAIN-SUFFIX,cookie.sync.usonar.jp
   - DOMAIN-SUFFIX,pt.appirits.com
@@ -3701,6 +3705,11 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log.dzen.ru
+  - DOMAIN-SUFFIX,flask.us.nextdoor.com
+  - DOMAIN-SUFFIX,ev.indianexpress.com
+  - DOMAIN-SUFFIX,aa-metrics.beauty.hotpepper.jp
+  - DOMAIN-SUFFIX,aa-metrics.hotpepper.jp
   - DOMAIN-SUFFIX,c615.denverpost.com
   - DOMAIN-SUFFIX,newsstat.dallasnews.com
   - DOMAIN-SUFFIX,e.channelexco.com
@@ -5782,7 +5791,6 @@ payload:
   - DOMAIN-SUFFIX,weblog.hankookilbo.com
   - DOMAIN-SUFFIX,weblog.zdnet.co.kr
   - DOMAIN-SUFFIX,webvitals.luxnet.ua
-  - DOMAIN-SUFFIX,whos.amung.us
   - DOMAIN-SUFFIX,widget.perfectmarket.com
   - DOMAIN-SUFFIX,wl.yna.co.kr
   - DOMAIN-SUFFIX,wlog.tmon.co.kr
