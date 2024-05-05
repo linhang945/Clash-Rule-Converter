@@ -3705,6 +3705,8 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sid.nordstrom.com
+  - DOMAIN-SUFFIX,amethyst.zappos.com
   - DOMAIN-SUFFIX,sgmcdn.racingpost.com
   - DOMAIN-SUFFIX,logs.8thwall.com
   - DOMAIN-SUFFIX,ingest.make.rvohealth.com
@@ -49625,6 +49627,7 @@ payload:
   - DOMAIN-SUFFIX,web-t.9gag.com
   - DOMAIN-SUFFIX,webmetrics.nintendo-europe.com
   - DOMAIN-SUFFIX,webstat.freaks4u.com
+  - DOMAIN-SUFFIX,https-filtering-check.adtidy.org
   - DOMAIN-SUFFIX,adeventtracker.spotify.com
   - DOMAIN-SUFFIX,do-not-tracker.org
   - DOMAIN-SUFFIX,eviltracker.net
