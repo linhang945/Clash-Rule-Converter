@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,umami.is
   - DOMAIN-SUFFIX,logger.torimochi-ad.net
   - DOMAIN-SUFFIX,mainting-minues.xyz
   - DOMAIN-SUFFIX,europe-west1-sonorous-dragon-276210.cloudfunctions.net
@@ -3706,6 +3707,9 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ny77jj.washingtonpost.com
+  - DOMAIN-SUFFIX,spoor-api.ft.com
+  - DOMAIN-SUFFIX,temp.twicomi.com
   - DOMAIN-SUFFIX,beacon.nc-net.or.jp
   - DOMAIN-SUFFIX,lhe-beacon.team-rec.jp
   - DOMAIN-SUFFIX,gtmfsstatic.getgoogletagmanager.com
