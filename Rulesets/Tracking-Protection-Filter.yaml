@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sentinelbi.com
+  - DOMAIN-SUFFIX,count.sibbo.net
   - DOMAIN-SUFFIX,umami.is
   - DOMAIN-SUFFIX,logger.torimochi-ad.net
   - DOMAIN-SUFFIX,mainting-minues.xyz
@@ -3707,6 +3709,9 @@ payload:
   - DOMAIN-SUFFIX,affex.org
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,matomo.motorpresse.de
+  - DOMAIN-SUFFIX,matomo.menshealth.de
+  - DOMAIN-SUFFIX,analytics.denimdream.com
   - DOMAIN-SUFFIX,ny77jj.washingtonpost.com
   - DOMAIN-SUFFIX,spoor-api.ft.com
   - DOMAIN-SUFFIX,temp.twicomi.com
