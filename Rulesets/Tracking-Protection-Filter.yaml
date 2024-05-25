@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,orangeclickmedia.com
   - DOMAIN-SUFFIX,convertbox.com
   - DOMAIN-SUFFIX,sync.outbrain.com
   - DOMAIN-SUFFIX,tagtoo.co
@@ -2941,7 +2942,6 @@ payload:
   - DOMAIN-SUFFIX,brightdata.de
   - DOMAIN-SUFFIX,visilabs.com
   - DOMAIN-SUFFIX,visilabs.net
-  - DOMAIN-SUFFIX,functionalclam.com
   - DOMAIN-SUFFIX,location.cyou
   - DOMAIN-SUFFIX,mymap.icu
   - DOMAIN-SUFFIX,mymap.quest
@@ -3011,6 +3011,7 @@ payload:
   - DOMAIN-SUFFIX,webtrekk-us.net
   - DOMAIN-SUFFIX,webtrekk.de
   - DOMAIN-SUFFIX,webtrekk.net
+  - DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
   - DOMAIN-SUFFIX,mon.snssdk.com
   - DOMAIN-SUFFIX,mcs.snssdk.com
   - DOMAIN-SUFFIX,log-hl.snssdk.com
@@ -38485,6 +38486,13 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.global.sky.com
+  - DOMAIN-SUFFIX,analytics.cosmonova.net
+  - DOMAIN-SUFFIX,pr-bh.ybp.yahoo.com
+  - DOMAIN-SUFFIX,log.tossinvest.com
+  - DOMAIN-SUFFIX,c950.chronicle.com
+  - DOMAIN-SUFFIX,forecast.nouvelobs.com
+  - DOMAIN-SUFFIX,analytics.vg
   - DOMAIN-SUFFIX,vf.startpage.com
   - DOMAIN-SUFFIX,analytics-prd.aws.wehaa.net
   - DOMAIN-SUFFIX,tracking-api.passeidireto.com
