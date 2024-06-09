@@ -3021,6 +3021,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,pxl.knam.pro
+  - DOMAIN-SUFFIX,manalyticshub.com
   - DOMAIN-SUFFIX,metrics.streaks.jp
   - DOMAIN-SUFFIX,track.mailerlite.com
   - DOMAIN-SUFFIX,a11ybar.com
@@ -37837,6 +37839,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,cdn.track.olx.com.br
   - DOMAIN-SUFFIX,analytics.junia.ai
   - DOMAIN-SUFFIX,ad.dl.mz.de
   - DOMAIN-SUFFIX,topspin.npo.nl
