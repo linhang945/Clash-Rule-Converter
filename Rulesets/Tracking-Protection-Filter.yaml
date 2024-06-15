@@ -3023,6 +3023,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tracker.insurads.com
+  - DOMAIN-SUFFIX,cdn.pubnub.com
+  - DOMAIN-SUFFIX,ziwelatum.com
+  - DOMAIN-SUFFIX,houston.advgo.net
+  - DOMAIN-SUFFIX,merchant-center-analytics.goog
   - DOMAIN-SUFFIX,pxl.knam.pro
   - DOMAIN-SUFFIX,manalyticshub.com
   - DOMAIN-SUFFIX,metrics.streaks.jp
@@ -38544,6 +38549,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,logs.openbank.com
   - DOMAIN-SUFFIX,plausible.omgapi.org
   - DOMAIN-SUFFIX,geo.wpforms.com
   - DOMAIN-SUFFIX,cdn.track.olx.com.br
