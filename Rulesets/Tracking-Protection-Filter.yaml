@@ -3027,6 +3027,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,au1.qualtrics.com
   - DOMAIN-SUFFIX,siteintercept.qualtrics.com
   - DOMAIN-SUFFIX,tjk-njk.com
   - DOMAIN-SUFFIX,tracker.insurads.com
@@ -36717,6 +36718,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.sonjj.com
+  - DOMAIN-SUFFIX,status.techtarget.itmedia.co.jp
   - DOMAIN-SUFFIX,ephemeralcounters.api.roblox.com
   - DOMAIN-SUFFIX,px.adfulplatform.com
   - DOMAIN-SUFFIX,logs.openbank.com
