@@ -6313,7 +6313,6 @@ payload:
   - DOMAIN-SUFFIX,yoiku-sub.yoiku.support
   - DOMAIN-SUFFIX,sharpmarketing.eu
   - DOMAIN-SUFFIX,actonsoftware.com
-  - DOMAIN-SUFFIX,healthgrades.com
   - DOMAIN-SUFFIX,actonservice.com
   - DOMAIN-SUFFIX,3dm.3dimensional.com
   - DOMAIN-SUFFIX,a.evergage.com
@@ -6388,6 +6387,7 @@ payload:
   - DOMAIN-SUFFIX,hancockhealth.hancockregional.org
   - DOMAIN-SUFFIX,hello.controlmap.io
   - DOMAIN-SUFFIX,hra.nyp.org
+  - DOMAIN-SUFFIX,hrm.healthgrades.com
   - DOMAIN-SUFFIX,info.accutrain.com
   - DOMAIN-SUFFIX,info.americanroller.com
   - DOMAIN-SUFFIX,info.ascassociation.org
@@ -10345,6 +10345,7 @@ payload:
   - DOMAIN-SUFFIX,som.escapehomes.com
   - DOMAIN-SUFFIX,som.gaservesamerica.com
   - DOMAIN-SUFFIX,som.greatwolf.com
+  - DOMAIN-SUFFIX,som.healthgrades.com
   - DOMAIN-SUFFIX,som.homeaway.com
   - DOMAIN-SUFFIX,som.homeaway.com.au
   - DOMAIN-SUFFIX,som.homeaway.com.co
@@ -29719,6 +29720,7 @@ payload:
   - DOMAIN-SUFFIX,etrack.ext.arubanetworks.com
   - DOMAIN-SUFFIX,evkeeza-e.regeneron.com
   - DOMAIN-SUFFIX,experience.phenomenex.com
+  - DOMAIN-SUFFIX,go.healthgrades.com
   - DOMAIN-SUFFIX,hydsecure.eaton.com
   - DOMAIN-SUFFIX,info.gtc.net.gt
   - DOMAIN-SUFFIX,investments.virtus.com
@@ -29735,6 +29737,7 @@ payload:
   - DOMAIN-SUFFIX,regmdr.pref.ims.dialog-direct.com
   - DOMAIN-SUFFIX,s.clientes.construrama.com
   - DOMAIN-SUFFIX,secure.mdtinternal.medtronic.com
+  - DOMAIN-SUFFIX,track.hg.healthgrades.com
   - DOMAIN-SUFFIX,tracking.agora.io
   - DOMAIN-SUFFIX,tracking.care.muschealth.org
   - DOMAIN-SUFFIX,tracking.continuingstudies.wisc.edu
@@ -36718,6 +36721,10 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,events.tryamped.com
+  - DOMAIN-SUFFIX,track.sendlane.com
+  - DOMAIN-SUFFIX,m1tm.motor1.com
+  - DOMAIN-SUFFIX,ctr.po-kaki-to.com
   - DOMAIN-SUFFIX,analytics.sonjj.com
   - DOMAIN-SUFFIX,status.techtarget.itmedia.co.jp
   - DOMAIN-SUFFIX,ephemeralcounters.api.roblox.com
@@ -38094,7 +38101,6 @@ payload:
   - DOMAIN-SUFFIX,lcs.modoo.at
   - DOMAIN-SUFFIX,lcs.naver.com
   - DOMAIN-SUFFIX,lexip.4pcdn.de
-  - DOMAIN-SUFFIX,lexip.4players.de
   - DOMAIN-SUFFIX,librato-collector.genius.com
   - DOMAIN-SUFFIX,live.rezync.com
   - DOMAIN-SUFFIX,livecounter.theyosh.nl
@@ -38309,7 +38315,6 @@ payload:
   - DOMAIN-SUFFIX,pix.telekom.de
   - DOMAIN-SUFFIX,pixel.1und1.de
   - DOMAIN-SUFFIX,pixel.4pcdn.de
-  - DOMAIN-SUFFIX,pixel.4players.de
   - DOMAIN-SUFFIX,pixel.anyclip.com
   - DOMAIN-SUFFIX,pixel.bridge.dooca.store
   - DOMAIN-SUFFIX,pixel.bullion.media
@@ -38649,7 +38654,6 @@ payload:
   - DOMAIN-SUFFIX,stt.nimbusweb.me
   - DOMAIN-SUFFIX,style.onvz.nl
   - DOMAIN-SUFFIX,su.addthis.com
-  - DOMAIN-SUFFIX,subpixel.4players.de
   - DOMAIN-SUFFIX,swa.metro.co.uk
   - DOMAIN-SUFFIX,sync.1dmp.io
   - DOMAIN-SUFFIX,sync.adap.tv
