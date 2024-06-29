@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,adtrack.adleadevent.com
+  - DOMAIN-SUFFIX,metrics-fe-na1.hubspot.com
   - DOMAIN-SUFFIX,pixel.mintigo.com
   - DOMAIN-SUFFIX,api.sardine.ai
   - DOMAIN-SUFFIX,au1.qualtrics.com
@@ -38432,6 +38434,15 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,pyxis.atp.fox
+  - DOMAIN-SUFFIX,collector.appconsent.io
+  - DOMAIN-SUFFIX,r.sib2.gardrops.com
+  - DOMAIN-SUFFIX,nst.trex.media
+  - DOMAIN-SUFFIX,pixel.kodixauto.ru
+  - DOMAIN-SUFFIX,metrics.biddertmz.com
+  - DOMAIN-SUFFIX,moduleanalysis.aliexpress.com
+  - DOMAIN-SUFFIX,metrics.doppiostreams.com
+  - DOMAIN-SUFFIX,metrics.imdb.a2z.com
   - DOMAIN-SUFFIX,metrics.api.drift.com
   - DOMAIN-SUFFIX,targeting.api.drift.com
   - DOMAIN-SUFFIX,event.api.drift.com
