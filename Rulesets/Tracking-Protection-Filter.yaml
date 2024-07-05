@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.freespee.com
+  - DOMAIN-SUFFIX,dash.zintrack.com
+  - DOMAIN-SUFFIX,revotas.com
   - DOMAIN-SUFFIX,track.fluffyfalcon.com
   - DOMAIN-SUFFIX,gojsmanager.com
   - DOMAIN-SUFFIX,adtrack.adleadevent.com
@@ -38847,6 +38850,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,lfmetrics.loyalfans.com
   - DOMAIN-SUFFIX,track.amebame.com
   - DOMAIN-SUFFIX,pks-analytics.raenonx.cc
   - DOMAIN-SUFFIX,pyxis.atp.fox
