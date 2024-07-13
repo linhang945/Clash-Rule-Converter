@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,michiganrobotflower.com
+  - DOMAIN-SUFFIX,uid.mediacorp.sg
   - DOMAIN-SUFFIX,exacttarget.com
   - DOMAIN-SUFFIX,analytics.launch.bz
   - DOMAIN-SUFFIX,qobuz.surveysparrow.com
@@ -40130,6 +40132,10 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,marketing.dropbox.com
+  - DOMAIN-SUFFIX,ok88okg.infinityscans.net
+  - DOMAIN-SUFFIX,evt.24.com
+  - DOMAIN-SUFFIX,tm-gta5-prod.ros.rockstargames.com
   - DOMAIN-SUFFIX,beacon.necotracks.jp
   - DOMAIN-SUFFIX,logs2.jobs.com
   - DOMAIN-SUFFIX,t.semafor.com
@@ -42611,6 +42617,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,tracking.iwhop.cn
   - DOMAIN-SUFFIX,push-api.topaz-analytics.com
   - DOMAIN-SUFFIX,analytics.wildlifestudios.com
   - DOMAIN-SUFFIX,opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
@@ -43131,6 +43138,7 @@ payload:
   - DOMAIN-SUFFIX,api.apptentive.com
   - DOMAIN-SUFFIX,api.branch.io
   - DOMAIN-SUFFIX,api2.branch.io
+  - DOMAIN-SUFFIX,api3.branch.io
   - DOMAIN-SUFFIX,api.gameanalytics.com
   - DOMAIN-SUFFIX,api.gimbal.com
   - DOMAIN-SUFFIX,appmetrica.yandex.net
