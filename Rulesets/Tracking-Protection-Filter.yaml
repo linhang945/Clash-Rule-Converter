@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,api.publytics.net
+  - DOMAIN-SUFFIX,shoelace.com
+  - DOMAIN-SUFFIX,pixel.nudgify.com
+  - DOMAIN-SUFFIX,t.mm-uxrv.com
   - DOMAIN-SUFFIX,sec.webeyez.com
   - DOMAIN-SUFFIX,michiganrobotflower.com
   - DOMAIN-SUFFIX,uid.mediacorp.sg
@@ -20,7 +24,6 @@ payload:
   - DOMAIN-SUFFIX,adtrack.adleadevent.com
   - DOMAIN-SUFFIX,metrics-fe-na1.hubspot.com
   - DOMAIN-SUFFIX,pixel.mintigo.com
-  - DOMAIN-SUFFIX,api.sardine.ai
   - DOMAIN-SUFFIX,au1.qualtrics.com
   - DOMAIN-SUFFIX,siteintercept.qualtrics.com
   - DOMAIN-SUFFIX,dmp.one
@@ -39715,6 +39718,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,trackid.globoid.globo.com
+  - DOMAIN-SUFFIX,stats.habr.com
+  - DOMAIN-SUFFIX,analytics.qs-apps.com
   - DOMAIN-SUFFIX,cnt.web-apps-prod.wo-cloud.com
   - DOMAIN-SUFFIX,akn.analytics.autodesk.com
   - DOMAIN-SUFFIX,marketing.dropbox.com
@@ -39830,7 +39836,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.verfacto.com
   - DOMAIN-SUFFIX,log.dzen.ru
   - DOMAIN-SUFFIX,flask.us.nextdoor.com
-  - DOMAIN-SUFFIX,ev.indianexpress.com
   - DOMAIN-SUFFIX,aa-metrics.beauty.hotpepper.jp
   - DOMAIN-SUFFIX,aa-metrics.hotpepper.jp
   - DOMAIN-SUFFIX,c615.denverpost.com
@@ -42650,7 +42655,6 @@ payload:
   - DOMAIN-SUFFIX,an.batmobi.net
   - DOMAIN-SUFFIX,analytics.any.do
   - DOMAIN-SUFFIX,m.vpadn.com
-  - DOMAIN-SUFFIX,api.instabug.com
   - DOMAIN-SUFFIX,sts.batmobi.net
   - DOMAIN-SUFFIX,pps-log.op-mobile.opera.com
   - DOMAIN-SUFFIX,tktracker.aotter.net
