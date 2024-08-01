@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,pop.devil.services
+  - DOMAIN-SUFFIX,pixeltrack.clientgear.com
+  - DOMAIN-SUFFIX,event.clientgear.com
   - DOMAIN-SUFFIX,api.receptivity.io
   - DOMAIN-SUFFIX,static.target2sell.com
   - DOMAIN-SUFFIX,sumatra.ai
@@ -1142,7 +1145,6 @@ payload:
   - DOMAIN-SUFFIX,tag.pprl.io
   - DOMAIN-SUFFIX,collector.mediator.media
   - DOMAIN-SUFFIX,rc.vtex.com.br
-  - DOMAIN-SUFFIX,telemetric.dk
   - DOMAIN-SUFFIX,browser.events.data.msn.cn
   - DOMAIN-SUFFIX,browser.events.data.msn.com
   - DOMAIN-SUFFIX,urbanairship.com
@@ -40072,9 +40074,11 @@ payload:
   - DOMAIN-SUFFIX,wiz.sncf-connect.com
   - DOMAIN-SUFFIX,wz.allianz.fr
   - DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
+  - DOMAIN-SUFFIX,e.truedata.co
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,c1-stats.shopifysvc.com
   - DOMAIN-SUFFIX,telemetry.stytch.com
   - DOMAIN-SUFFIX,stat.le.com
   - DOMAIN-SUFFIX,fe-go.letv.com
