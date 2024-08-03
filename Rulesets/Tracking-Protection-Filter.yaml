@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,yatr.ru
+  - DOMAIN-SUFFIX,analytics-fe.digital-cloud.medallia.eu
+  - DOMAIN-SUFFIX,umami.aigenerations.net
+  - DOMAIN-SUFFIX,brilliantcollector.com
+  - DOMAIN-SUFFIX,flag.lab.amplitude.com
   - DOMAIN-SUFFIX,pop.devil.services
   - DOMAIN-SUFFIX,pixeltrack.clientgear.com
   - DOMAIN-SUFFIX,event.clientgear.com
@@ -40078,6 +40083,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracking.aws.judge.me
+  - DOMAIN-SUFFIX,analytics.rev.iq
+  - DOMAIN-SUFFIX,error-tracking.reddit.com
   - DOMAIN-SUFFIX,c1-stats.shopifysvc.com
   - DOMAIN-SUFFIX,telemetry.stytch.com
   - DOMAIN-SUFFIX,stat.le.com
