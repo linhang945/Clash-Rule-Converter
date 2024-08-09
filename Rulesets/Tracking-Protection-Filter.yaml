@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,app.kuvio.io
+  - DOMAIN-SUFFIX,data.media-lab.ai
   - DOMAIN-SUFFIX,kapetracking.com
   - DOMAIN-SUFFIX,tr.dec-connect.decsuite.com
   - DOMAIN-SUFFIX,yatr.ru
@@ -40028,6 +40030,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,pixels.spotify.com
+  - DOMAIN-SUFFIX,ylog.huya.com
   - DOMAIN-SUFFIX,ax.amnezia.org
   - DOMAIN-SUFFIX,web-analytics.lastpass.com
   - DOMAIN-SUFFIX,tracking.aws.judge.me
@@ -40513,7 +40517,6 @@ payload:
   - DOMAIN-SUFFIX,stat.gc.my.games
   - DOMAIN-SUFFIX,1l-hit.vkplay.ru
   - DOMAIN-SUFFIX,1l-view.my.games
-  - DOMAIN-SUFFIX,apptics.zoho.com
   - DOMAIN-SUFFIX,cdn.smlog.co.kr
   - DOMAIN-SUFFIX,collector-statistics.nhn-commerce.com
   - DOMAIN-SUFFIX,insight.danawa.com
