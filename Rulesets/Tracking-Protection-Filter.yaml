@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,pageview.click
+  - DOMAIN-SUFFIX,viaklera.com
   - DOMAIN-SUFFIX,app.kuvio.io
   - DOMAIN-SUFFIX,data.media-lab.ai
   - DOMAIN-SUFFIX,kapetracking.com
@@ -40030,6 +40032,35 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d.analyticsmania.com
+  - DOMAIN-SUFFIX,gtm.lercio.it
+  - DOMAIN-SUFFIX,gtm.mandesager.dk
+  - DOMAIN-SUFFIX,sgtm.anita.com
+  - DOMAIN-SUFFIX,sgtm.atg.se
+  - DOMAIN-SUFFIX,sgtm.blume2000.de
+  - DOMAIN-SUFFIX,sgtm.csas.cz
+  - DOMAIN-SUFFIX,sgtm.kaspersky.de
+  - DOMAIN-SUFFIX,sgtm.macrolibrarsi.it
+  - DOMAIN-SUFFIX,sgtm.mapei.com
+  - DOMAIN-SUFFIX,sgtm.milestonesys.com
+  - DOMAIN-SUFFIX,sgtm.mycall.no
+  - DOMAIN-SUFFIX,sgtm.myprotein.jp
+  - DOMAIN-SUFFIX,sgtm.ookla.com
+  - DOMAIN-SUFFIX,sgtm.open.ac.uk
+  - DOMAIN-SUFFIX,sgtm.tagmanageritalia.it
+  - DOMAIN-SUFFIX,sgtm.technikboerse.com
+  - DOMAIN-SUFFIX,sgtm.tennis-point.de
+  - DOMAIN-SUFFIX,sgtm.yubico.com
+  - DOMAIN-SUFFIX,ss.esade.edu
+  - DOMAIN-SUFFIX,sst.colemanfurniture.com
+  - DOMAIN-SUFFIX,sst.shopware.com
+  - DOMAIN-SUFFIX,stream.corporatefinanceinstitute.com
+  - DOMAIN-SUFFIX,tr.wbstraining.de
+  - DOMAIN-SUFFIX,trckng.dainese.com
+  - DOMAIN-SUFFIX,trckng.web55708.greatnet-hosting.de
+  - DOMAIN-SUFFIX,fresnel-events.vimeocdn.com
+  - DOMAIN-SUFFIX,evt.ilovepdf.com
+  - DOMAIN-SUFFIX,beacon.adelphic.com
   - DOMAIN-SUFFIX,pixels.spotify.com
   - DOMAIN-SUFFIX,ylog.huya.com
   - DOMAIN-SUFFIX,ax.amnezia.org
