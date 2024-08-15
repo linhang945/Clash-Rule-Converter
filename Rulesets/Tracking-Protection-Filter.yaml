@@ -39073,6 +39073,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,event-router.chime.com
+  - DOMAIN-SUFFIX,t3.cdnpure.com
   - DOMAIN-SUFFIX,counter.wikiwiki.jp
   - DOMAIN-SUFFIX,applytics.nordvpn.com
   - DOMAIN-SUFFIX,d.analyticsmania.com
@@ -41623,6 +41625,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,stats.rustore.ru
+  - DOMAIN-SUFFIX,vk-analytics.ru
   - DOMAIN-SUFFIX,tracking.iwhop.cn
   - DOMAIN-SUFFIX,push-api.topaz-analytics.com
   - DOMAIN-SUFFIX,analytics.wildlifestudios.com
