@@ -5,6 +5,14 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,fndrsp.net
+  - DOMAIN-SUFFIX,positional.ai
+  - DOMAIN-SUFFIX,positional-bucket.com
+  - DOMAIN-SUFFIX,collector-pxebumdlwe.px-cloud.net
+  - DOMAIN-SUFFIX,collector-pxebumdlwe.px-cdn.net
+  - DOMAIN-SUFFIX,s2s.adjust.com
+  - DOMAIN-SUFFIX,view.adjust.com
+  - DOMAIN-SUFFIX,engagements.appsflyer.com
   - DOMAIN-SUFFIX,pageview.click
   - DOMAIN-SUFFIX,viaklera.com
   - DOMAIN-SUFFIX,app.kuvio.io
@@ -39073,6 +39081,12 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,stats.browsertrix.com
+  - DOMAIN-SUFFIX,sgmnt.beacons.ai
+  - DOMAIN-SUFFIX,track.lc.quark.cn
+  - DOMAIN-SUFFIX,nsclick.baidu.com
+  - DOMAIN-SUFFIX,ipgeolocation.abstractapi.com
+  - DOMAIN-SUFFIX,trace.mjyx.com
   - DOMAIN-SUFFIX,event-router.chime.com
   - DOMAIN-SUFFIX,t3.cdnpure.com
   - DOMAIN-SUFFIX,counter.wikiwiki.jp
