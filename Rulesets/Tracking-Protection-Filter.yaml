@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,eu-1-id5-sync.com
+  - DOMAIN-SUFFIX,octotracking.com
   - DOMAIN-SUFFIX,cartx.cloud
   - DOMAIN-SUFFIX,confiant-integrations.net
   - DOMAIN-SUFFIX,traxex.gannettdigital.com
@@ -35711,6 +35713,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,chocolatine.apexlegendsstatus.com
+  - DOMAIN-SUFFIX,prod.tahoe-analytics.publishers.advertising.a2z.com
+  - DOMAIN-SUFFIX,x.trvdp.com
+  - DOMAIN-SUFFIX,collector.superwall.me
+  - DOMAIN-SUFFIX,tracker.grupanya.com
   - DOMAIN-SUFFIX,sapi.tremendous.com
   - DOMAIN-SUFFIX,services.haaretz.com
   - DOMAIN-SUFFIX,track.hydro.online
@@ -38128,6 +38135,7 @@ payload:
   - DOMAIN-SUFFIX,yourblocksite.com
   - DOMAIN-SUFFIX,collection-endpoint-prod.herokuapp.com
   - DOMAIN-SUFFIX,collection-endpoint-staging.herokuapp.com
+  - DOMAIN-SUFFIX,essential-apps-analytics.herokuapp.com
   - DOMAIN-SUFFIX,d10vy5gom1ed53.cloudfront.net
   - DOMAIN-SUFFIX,um-public-panel-prod.s3.amazonaws.com
   - DOMAIN-SUFFIX,dygassets.dygdigital.com
@@ -38283,6 +38291,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,analysis.vesync.com
+  - DOMAIN-SUFFIX,log16-normal-useast5.tiktokv.us
   - DOMAIN-SUFFIX,insights.zennioptical.com
   - DOMAIN-SUFFIX,proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
   - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
