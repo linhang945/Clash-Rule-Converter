@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,events.baselime.io
   - DOMAIN-SUFFIX,trackdesk.com
   - DOMAIN-SUFFIX,adlc-exchange.toast.com
   - DOMAIN-SUFFIX,ad.aceplanet.co.kr
@@ -35042,6 +35043,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,a-da.invideo.io
+  - DOMAIN-SUFFIX,pixel.clutter.com
   - DOMAIN-SUFFIX,log.bloodppressure.info
   - DOMAIN-SUFFIX,log.pdfreaders.net
   - DOMAIN-SUFFIX,track2.tprg.ru
