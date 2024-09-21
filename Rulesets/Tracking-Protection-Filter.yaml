@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,google-analytics.bi.owox.com
   - DOMAIN-SUFFIX,api.sail-personalize.com
   - DOMAIN-SUFFIX,events.baselime.io
   - DOMAIN-SUFFIX,trackdesk.com
@@ -80,7 +81,6 @@ payload:
   - DOMAIN-SUFFIX,tjk-njk.com
   - DOMAIN-SUFFIX,reitingi.lv
   - DOMAIN-SUFFIX,tracker.insurads.com
-  - DOMAIN-SUFFIX,cdn.pubnub.com
   - DOMAIN-SUFFIX,ziwelatum.com
   - DOMAIN-SUFFIX,houston.advgo.net
   - DOMAIN-SUFFIX,merchant-center-analytics.goog
@@ -35064,6 +35064,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,msite.baidu.com
+  - DOMAIN-SUFFIX,analitik.pendik.bel.tr
   - DOMAIN-SUFFIX,analytics-api.sconto.cz
   - DOMAIN-SUFFIX,log-ana.h3z.jp
   - DOMAIN-SUFFIX,ivstat.indavideo.hu
