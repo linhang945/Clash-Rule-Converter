@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,client-log.karte.io
+  - DOMAIN-SUFFIX,replaybird.com
+  - DOMAIN-SUFFIX,analytics.spearly.com
   - DOMAIN-SUFFIX,google-analytics.bi.owox.com
   - DOMAIN-SUFFIX,api.sail-personalize.com
   - DOMAIN-SUFFIX,events.baselime.io
