@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,brwsrfrm.com
   - DOMAIN-SUFFIX,adtrace.ai
   - DOMAIN-SUFFIX,mato.clanto.cloud
   - DOMAIN-SUFFIX,matomo.clanto.cloud
@@ -35731,6 +35732,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,l.ouest-france.fr
+  - DOMAIN-SUFFIX,ana.3751chat.com
+  - DOMAIN-SUFFIX,ana.chat.shalove.net
+  - DOMAIN-SUFFIX,ana.luvul.net
+  - DOMAIN-SUFFIX,ana.skypemeet.net
   - DOMAIN-SUFFIX,counter.best-hit.tv
   - DOMAIN-SUFFIX,analytics-op.streak.ninja
   - DOMAIN-SUFFIX,track.streak.ninja
