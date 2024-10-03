@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,covatic.io
+  - DOMAIN-SUFFIX,cdn.gpmdata.ru
   - DOMAIN-SUFFIX,petametrics.com
   - DOMAIN-SUFFIX,ultraimpression.jp
   - DOMAIN-SUFFIX,brwsrfrm.com
@@ -3365,7 +3367,6 @@ payload:
   - DOMAIN-SUFFIX,terabytemedia.com
   - DOMAIN-SUFFIX,tetigi.com
   - DOMAIN-SUFFIX,tetoolbox.com
-  - DOMAIN-SUFFIX,theadex.com
   - DOMAIN-SUFFIX,thebestlinks.com
   - DOMAIN-SUFFIX,thecounter.com
   - DOMAIN-SUFFIX,thefreehitcounter.com
@@ -3656,7 +3657,6 @@ payload:
   - DOMAIN-SUFFIX,xcounter.ch
   - DOMAIN-SUFFIX,xg4ken.com
   - DOMAIN-SUFFIX,xhit.com
-  - DOMAIN-SUFFIX,xplosion.de
   - DOMAIN-SUFFIX,xref.io
   - DOMAIN-SUFFIX,xtractor.no
   - DOMAIN-SUFFIX,xtremline.com
@@ -34456,6 +34456,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,atom.warnermedia.com
+  - DOMAIN-SUFFIX,zion.api.cnn.io
+  - DOMAIN-SUFFIX,t.blog.livedoor.jp
   - DOMAIN-SUFFIX,l.ouest-france.fr
   - DOMAIN-SUFFIX,ana.3751chat.com
   - DOMAIN-SUFFIX,ana.chat.shalove.net
@@ -37061,6 +37064,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,xplosion.de
+  - DOMAIN-SUFFIX,theadex.com
   - DOMAIN-SUFFIX,adui.tg.meitu.com
   - DOMAIN-SUFFIX,meitustat.com
   - DOMAIN-SUFFIX,analysis.vesync.com
