@@ -34456,6 +34456,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,eventrecorder.cm.bloomberg.com
+  - DOMAIN-SUFFIX,heatmap-events-collector.instapage.com
   - DOMAIN-SUFFIX,atom.warnermedia.com
   - DOMAIN-SUFFIX,zion.api.cnn.io
   - DOMAIN-SUFFIX,t.blog.livedoor.jp
@@ -34904,7 +34906,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.cocolog-nifty.com
   - DOMAIN-SUFFIX,stats.totalav.com
   - DOMAIN-SUFFIX,analytics.clubic.com
-  - DOMAIN-SUFFIX,logs.netflix.com
   - DOMAIN-SUFFIX,analytics.innologica.com
   - DOMAIN-SUFFIX,track.wattpad.com
   - DOMAIN-SUFFIX,analytics.keepstreams.com
