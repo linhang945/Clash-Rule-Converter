@@ -5,6 +5,20 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,accessv.org
+  - DOMAIN-SUFFIX,applog.zijieapi.com
+  - DOMAIN-SUFFIX,feedback-c.zijieapi.com
+  - DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
+  - DOMAIN-SUFFIX,minigame5-normal-lq.zijieapi.com
+  - DOMAIN-SUFFIX,mssdk.zijieapi.com
+  - DOMAIN-SUFFIX,os-mon.zijieapi.com
+  - DOMAIN-SUFFIX,pc-mon.zijieapi.com
+  - DOMAIN-SUFFIX,polaris.zijieapi.com
+  - DOMAIN-SUFFIX,saveu5-normal-lq.zijieapi.com
+  - DOMAIN-SUFFIX,starkgame.zijieapi.com
+  - DOMAIN-SUFFIX,timon.zijieapi.com
+  - DOMAIN-SUFFIX,view.zijieapi.com
+  - DOMAIN-SUFFIX,mcs.zijieapi.com
   - DOMAIN-SUFFIX,pa-cd.com
   - DOMAIN-SUFFIX,covatic.io
   - DOMAIN-SUFFIX,cdn.gpmdata.ru
@@ -3756,14 +3770,6 @@ payload:
   - DOMAIN-SUFFIX,stopify.co
   - DOMAIN-SUFFIX,toldyouso.lol
   - DOMAIN-SUFFIX,toldyouso.pics
-  - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
-  - DOMAIN-SUFFIX,rtlog.tiktokv.com
-  - DOMAIN-SUFFIX,mon.us.tiktokv.com
-  - DOMAIN-SUFFIX,mon.tiktokv.com
-  - DOMAIN-SUFFIX,xlog.tiktokv.com
-  - DOMAIN-SUFFIX,xlog-va.tiktokv.com
-  - DOMAIN-SUFFIX,mcs-va.tiktokv.com
-  - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,beacon-fullpage-predictor.goguardian.com
   - DOMAIN-SUFFIX,countvoncount.goguardian.com
   - DOMAIN-SUFFIX,ext.goguardian.com
@@ -32888,10 +32894,8 @@ payload:
   - DOMAIN-SUFFIX,adui.tg.meitu.com
   - DOMAIN-SUFFIX,meitustat.com
   - DOMAIN-SUFFIX,analysis.vesync.com
-  - DOMAIN-SUFFIX,log16-normal-useast5.tiktokv.us
   - DOMAIN-SUFFIX,insights.zennioptical.com
   - DOMAIN-SUFFIX,proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
-  - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
   - DOMAIN-SUFFIX,stats.rustore.ru
   - DOMAIN-SUFFIX,vk-analytics.ru
   - DOMAIN-SUFFIX,tracking.iwhop.cn
@@ -33151,7 +33155,6 @@ payload:
   - DOMAIN-SUFFIX,ali-stats.jpush.cn
   - DOMAIN-SUFFIX,msg.simeji.me
   - DOMAIN-SUFFIX,msg.simeji.baidu.jp
-  - DOMAIN-SUFFIX,log.tiktokv.com
   - DOMAIN-SUFFIX,post-log.pushwoosh.com
   - DOMAIN-SUFFIX,line1-log.biligame.net
   - DOMAIN-SUFFIX,log-upload-eur.mihoyo.com
@@ -33487,6 +33490,17 @@ payload:
   - DOMAIN-SUFFIX,yadro.ru
   - DOMAIN-SUFFIX,ymtracking.com
   - DOMAIN-SUFFIX,zdbb.net
+  - DOMAIN-SUFFIX,log16-normal-useast5.tiktokv.us
+  - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
+  - DOMAIN-SUFFIX,log.tiktokv.com
+  - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
+  - DOMAIN-SUFFIX,rtlog.tiktokv.com
+  - DOMAIN-SUFFIX,mon.us.tiktokv.com
+  - DOMAIN-SUFFIX,mon.tiktokv.com
+  - DOMAIN-SUFFIX,xlog.tiktokv.com
+  - DOMAIN-SUFFIX,xlog-va.tiktokv.com
+  - DOMAIN-SUFFIX,mcs-va.tiktokv.com
+  - DOMAIN-SUFFIX,analytics.tiktok.com
   - DOMAIN-SUFFIX,localytics.com
   - DOMAIN-SUFFIX,upoll.umengcloud.com
   - DOMAIN-SUFFIX,utop.umengcloud.com
