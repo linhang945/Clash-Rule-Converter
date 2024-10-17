@@ -10,7 +10,6 @@ payload:
   - DOMAIN-SUFFIX,feedback-c.zijieapi.com
   - DOMAIN-SUFFIX,minigame5-normal-hl.zijieapi.com
   - DOMAIN-SUFFIX,minigame5-normal-lq.zijieapi.com
-  - DOMAIN-SUFFIX,mssdk.zijieapi.com
   - DOMAIN-SUFFIX,os-mon.zijieapi.com
   - DOMAIN-SUFFIX,pc-mon.zijieapi.com
   - DOMAIN-SUFFIX,polaris.zijieapi.com
@@ -36187,6 +36186,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,logsdk.kwai-pro.com
+  - DOMAIN-SUFFIX,w9g7dlhw3kaank.www.eldorado.gg
+  - DOMAIN-SUFFIX,unl1zvy2zuyn.franchiseplus.nl
+  - DOMAIN-SUFFIX,mt.gigazine.net
+  - DOMAIN-SUFFIX,tracker.jkplayers.com
   - DOMAIN-SUFFIX,collect.dolap.com
   - DOMAIN-SUFFIX,b.ranking.apis.sankei-digital.co.jp
   - DOMAIN-SUFFIX,is-log.furunavi.jp
@@ -37144,7 +37148,7 @@ payload:
   - DOMAIN-SUFFIX,amplifypixel.outbrain.com
   - DOMAIN-SUFFIX,ampltd.top.gg
   - DOMAIN-SUFFIX,an.reflektion.com
-  - DOMAIN-SUFFIX,analysis.afreecatv.com
+  - DOMAIN-SUFFIX,analysis.sooplive.co.kr
   - DOMAIN-SUFFIX,analytic.imlive.com
   - DOMAIN-SUFFIX,analytic20.detik.com
   - DOMAIN-SUFFIX,analytics-api.smzdm.com
@@ -37507,7 +37511,7 @@ payload:
   - DOMAIN-SUFFIX,deepdive.zum.com
   - DOMAIN-SUFFIX,dejavu.mlapps.com
   - DOMAIN-SUFFIX,deliver.oztam.com.au
-  - DOMAIN-SUFFIX,delog.afreecatv.com
+  - DOMAIN-SUFFIX,delog.sooplive.co.kr
   - DOMAIN-SUFFIX,detwzgl8cvciv.cloudfront.net
   - DOMAIN-SUFFIX,df.tanx.com
   - DOMAIN-SUFFIX,discovery-script.newspic.kr
@@ -37565,7 +37569,7 @@ payload:
   - DOMAIN-SUFFIX,event.condenastdigital.com
   - DOMAIN-SUFFIX,event.impression-neo.naver.com
   - DOMAIN-SUFFIX,event.scimo.io
-  - DOMAIN-SUFFIX,eventapi.afreecatv.com
+  - DOMAIN-SUFFIX,eventapi.sooplive.co.kr
   - DOMAIN-SUFFIX,eventbus.intuit.com
   - DOMAIN-SUFFIX,eventlog.inspsearchapi.com
   - DOMAIN-SUFFIX,eventlog.jackpot.de
@@ -38799,6 +38803,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,iot-in-logser.realme.com
+  - DOMAIN-SUFFIX,rabbit.meitustat.com
   - DOMAIN-SUFFIX,mediation.mwmadnetworks.com
   - DOMAIN-SUFFIX,xplosion.de
   - DOMAIN-SUFFIX,theadex.com
@@ -38931,6 +38937,7 @@ payload:
   - DOMAIN-SUFFIX,wsmetrics.batch.com
   - DOMAIN-SUFFIX,log.isnssdk.com
   - DOMAIN-SUFFIX,log-tb.isnssdk.com
+  - DOMAIN-SUFFIX,rtlog.isnssdk.com
   - DOMAIN-SUFFIX,mon.isnssdk.com
   - DOMAIN-SUFFIX,event.togothermany.com
   - DOMAIN-SUFFIX,oldevent.togothermany.com
@@ -39169,7 +39176,7 @@ payload:
   - DOMAIN-SUFFIX,sensors.snappea.com
   - DOMAIN-SUFFIX,analytics.snaptube.app
   - DOMAIN-SUFFIX,px.ucweb.com
-  - DOMAIN-SUFFIX,collector1.afreecatv.com
+  - DOMAIN-SUFFIX,collector1.sooplive.co.kr
   - DOMAIN-SUFFIX,adtima-static.zadn.vn
   - DOMAIN-SUFFIX,akstat.io
   - DOMAIN-SUFFIX,chartbeat.net
@@ -39401,7 +39408,7 @@ payload:
   - DOMAIN-SUFFIX,yadro.ru
   - DOMAIN-SUFFIX,ymtracking.com
   - DOMAIN-SUFFIX,zdbb.net
-  - DOMAIN-SUFFIX,log16-normal-useast5.tiktokv.us
+  - DOMAIN-SUFFIX,log-boot.tiktokv.com
   - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
   - DOMAIN-SUFFIX,log.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
