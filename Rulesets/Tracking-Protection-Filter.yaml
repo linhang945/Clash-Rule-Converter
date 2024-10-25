@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.wikitide.net
+  - DOMAIN-SUFFIX,shgcdn3.com
   - DOMAIN-SUFFIX,rmonitor.qq.com
   - DOMAIN-SUFFIX,api.revenuads.com
   - DOMAIN-SUFFIX,api.antibanads.com
@@ -35967,7 +35969,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
-  - DOMAIN-SUFFIX,servo-report.keepstreams.com
+  - DOMAIN-SUFFIX,analytics-ingestion-production.tubitv.com
+  - DOMAIN-SUFFIX,retail-client-events-service.internal.salsify.com
   - DOMAIN-SUFFIX,metrics.imdb.com
   - DOMAIN-SUFFIX,global.telemetry.insights.video.a2z.com
   - DOMAIN-SUFFIX,ldpsh.fashionnova.com
