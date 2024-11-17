@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,logs.chatboost-cv.algoage.co.jp
   - DOMAIN-SUFFIX,p7cloud.net
   - DOMAIN-SUFFIX,kobel.services
   - DOMAIN-SUFFIX,useraction.de
@@ -1385,7 +1386,6 @@ payload:
   - DOMAIN-SUFFIX,track.adabra.com
   - DOMAIN-SUFFIX,reindaks.com
   - DOMAIN-SUFFIX,go.rcvlinks.com
-  - DOMAIN-SUFFIX,monu.delivery
   - DOMAIN-SUFFIX,uniqodo.com
   - DOMAIN-SUFFIX,collectfasttracks.com
   - DOMAIN-SUFFIX,realizerecess.com
@@ -35304,6 +35304,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,pixel.smartnews.com
+  - DOMAIN-SUFFIX,pixel.dev.smartnews.com
+  - DOMAIN-SUFFIX,t.rentio.jp
+  - DOMAIN-SUFFIX,telemetry.zoom.us
+  - DOMAIN-SUFFIX,agi-static.indiatimes.com
   - DOMAIN-SUFFIX,fail.adr.ec
   - DOMAIN-SUFFIX,t.adii.se
   - DOMAIN-SUFFIX,stats.bunkr.ru
@@ -37947,6 +37952,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,tatrack.thinkyeah.com
+  - DOMAIN-SUFFIX,sdk-04.moengage.com
+  - DOMAIN-SUFFIX,vcs.zijieapi.com
+  - DOMAIN-SUFFIX,monsetting.toutiao.com
   - DOMAIN-SUFFIX,atsod.launch.liveramp.com
   - DOMAIN-SUFFIX,ads-image.production-public.tubi.io
   - DOMAIN-SUFFIX,user-signals.production-public.tubi.io
