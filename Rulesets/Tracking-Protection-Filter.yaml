@@ -120,7 +120,6 @@ payload:
   - DOMAIN-SUFFIX,adtrack.adleadevent.com
   - DOMAIN-SUFFIX,metrics-fe-na1.hubspot.com
   - DOMAIN-SUFFIX,pixel.mintigo.com
-  - DOMAIN-SUFFIX,au1.qualtrics.com
   - DOMAIN-SUFFIX,siteintercept.qualtrics.com
   - DOMAIN-SUFFIX,dmp.one
   - DOMAIN-SUFFIX,dmp-ai.ru
@@ -41962,6 +41961,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,au1.qualtrics.com
+  - DOMAIN-SUFFIX,stats.amur.life
   - DOMAIN-SUFFIX,pixel.smartnews.com
   - DOMAIN-SUFFIX,pixel.dev.smartnews.com
   - DOMAIN-SUFFIX,t.rentio.jp
@@ -44610,6 +44611,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,caerulus.io
   - DOMAIN-SUFFIX,log.heartratepros.com
   - DOMAIN-SUFFIX,tatrack.thinkyeah.com
   - DOMAIN-SUFFIX,sdk-04.moengage.com
@@ -45233,7 +45235,6 @@ payload:
   - DOMAIN-SUFFIX,yadro.ru
   - DOMAIN-SUFFIX,ymtracking.com
   - DOMAIN-SUFFIX,zdbb.net
-  - DOMAIN-SUFFIX,log-boot.tiktokv.com
   - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
   - DOMAIN-SUFFIX,log.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
