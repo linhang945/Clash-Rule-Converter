@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tpi-app.herokuapp.com
+  - DOMAIN-SUFFIX,api.rvere.com
   - DOMAIN-SUFFIX,cts.vresp.com
   - DOMAIN-SUFFIX,logs.chatboost-cv.algoage.co.jp
   - DOMAIN-SUFFIX,p7cloud.net
@@ -41961,6 +41963,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,matomo.oekoloewe.de
   - DOMAIN-SUFFIX,au1.qualtrics.com
   - DOMAIN-SUFFIX,stats.amur.life
   - DOMAIN-SUFFIX,pixel.smartnews.com
@@ -44713,7 +44716,6 @@ payload:
   - DOMAIN-SUFFIX,config-api.internet.apps.samsung.com
   - DOMAIN-SUFFIX,r.apkpure.net
   - DOMAIN-SUFFIX,analytics.zg-api.com
-  - DOMAIN-SUFFIX,creative.bidease.com
   - DOMAIN-SUFFIX,track-resource.bidease.com
   - DOMAIN-SUFFIX,track-us.bidease.com
   - DOMAIN-SUFFIX,mintegral.net
