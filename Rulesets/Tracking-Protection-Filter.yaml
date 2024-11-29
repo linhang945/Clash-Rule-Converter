@@ -42688,6 +42688,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,heartbeat.crackle.com
   - DOMAIN-SUFFIX,event.geniee-search.net
   - DOMAIN-SUFFIX,matomo.oekoloewe.de
   - DOMAIN-SUFFIX,au1.qualtrics.com
@@ -45235,17 +45236,6 @@ payload:
   - DOMAIN-SUFFIX,do-not-tracker.org
   - DOMAIN-SUFFIX,eviltracker.net
   - DOMAIN-SUFFIX,trackersimulator.org
-  - DOMAIN-SUFFIX,receiver.habby.mobi
-  - DOMAIN-SUFFIX,pangle-b.io
-  - DOMAIN-SUFFIX,traces.sr.roku.com
-  - DOMAIN-SUFFIX,analytics.kidoz.net
-  - DOMAIN-SUFFIX,track.tenjin.com
-  - DOMAIN-SUFFIX,tracker.mtrtb.com
-  - DOMAIN-SUFFIX,tracking.ws.eurosport.com
-  - DOMAIN-SUFFIX,fraudmetrix.cn
-  - DOMAIN-SUFFIX,plbslog.umeng.com
-  - DOMAIN-SUFFIX,analysys.cn
-  - DOMAIN-SUFFIX,logs.supersonic.com
   - DOMAIN-SUFFIX,ntracker-collector.naver.com
   - DOMAIN-SUFFIX,ace.naver.com
   - DOMAIN-SUFFIX,authbe.sec.intl.miui.com
@@ -45340,6 +45330,21 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,log-va-us-looki.capcutapi.com
+  - DOMAIN-SUFFIX,analytics.hardlightgames.com
+  - DOMAIN-SUFFIX,plankton-gtm.a.autoscout24.com
+  - DOMAIN-SUFFIX,pangle-b.io
+  - DOMAIN-SUFFIX,receiver.habby.mobi
+  - DOMAIN-SUFFIX,traces.sr.roku.com
+  - DOMAIN-SUFFIX,analytics.kidoz.net
+  - DOMAIN-SUFFIX,track.tenjin.com
+  - DOMAIN-SUFFIX,tracker.mtrtb.com
+  - DOMAIN-SUFFIX,tracking.ws.eurosport.com
+  - DOMAIN-SUFFIX,fraudmetrix.cn
+  - DOMAIN-SUFFIX,plbslog.umeng.com
+  - DOMAIN-SUFFIX,analysys.cn
+  - DOMAIN-SUFFIX,logs.supersonic.com
+  - DOMAIN-SUFFIX,mssdk-va.byteoversea.com
   - DOMAIN-SUFFIX,events.bsky.app
   - DOMAIN-SUFFIX,caerulus.io
   - DOMAIN-SUFFIX,log.heartratepros.com
