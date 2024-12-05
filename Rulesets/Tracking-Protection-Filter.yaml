@@ -42835,6 +42835,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tralut.chatpdf.com
+  - DOMAIN-SUFFIX,tracking.leadspark.io
+  - DOMAIN-SUFFIX,media-stat.mail.ru
   - DOMAIN-SUFFIX,analytics.shorthand.com
   - DOMAIN-SUFFIX,gh.fanatical.com
   - DOMAIN-SUFFIX,heartbeat.crackle.com
@@ -45479,6 +45482,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,logs-ingress.svc.vinted.com
   - DOMAIN-SUFFIX,analytics.baliusuperapp.xyz
   - DOMAIN-SUFFIX,log-va-us-looki.capcutapi.com
   - DOMAIN-SUFFIX,analytics.hardlightgames.com
