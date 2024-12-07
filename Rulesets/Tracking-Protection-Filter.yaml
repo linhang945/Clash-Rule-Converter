@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,trk.svr-algorix.com
   - DOMAIN-SUFFIX,tpi-app.herokuapp.com
   - DOMAIN-SUFFIX,api.rvere.com
   - DOMAIN-SUFFIX,cts.vresp.com
@@ -42835,6 +42836,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,beacons.digital.disneyadvertising.com
+  - DOMAIN-SUFFIX,telegraph.prd.api.discomax.com
+  - DOMAIN-SUFFIX,telegraph.prd.api.max.com
+  - DOMAIN-SUFFIX,trk.joinrs.com
+  - DOMAIN-SUFFIX,atom-qa.warnermedia.com
   - DOMAIN-SUFFIX,tralut.chatpdf.com
   - DOMAIN-SUFFIX,tracking.leadspark.io
   - DOMAIN-SUFFIX,media-stat.mail.ru
@@ -43738,7 +43744,6 @@ payload:
   - DOMAIN-SUFFIX,stats.rustica.fr
   - DOMAIN-SUFFIX,analytics.e1.ru
   - DOMAIN-SUFFIX,ipcc.vnpt.com.vn
-  - DOMAIN-SUFFIX,stats.ucheba.ru
   - DOMAIN-SUFFIX,inspector-collector.m.naver.com
   - DOMAIN-SUFFIX,cdn.stat-track.com
   - DOMAIN-SUFFIX,t.zhipin.com
