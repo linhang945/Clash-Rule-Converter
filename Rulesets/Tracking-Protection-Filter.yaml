@@ -2002,7 +2002,6 @@ payload:
   - DOMAIN-SUFFIX,clickalyzer.com
   - DOMAIN-SUFFIX,clickclick.net
   - DOMAIN-SUFFIX,clickdensity.com
-  - DOMAIN-SUFFIX,clickdimensions.com
   - DOMAIN-SUFFIX,clickening.com
   - DOMAIN-SUFFIX,clickforensics.com
   - DOMAIN-SUFFIX,clicki.cn
@@ -42836,6 +42835,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,event.newsbreak.com
+  - DOMAIN-SUFFIX,pixel-static.spotify.com
+  - DOMAIN-SUFFIX,pixel-config.reddit.com
   - DOMAIN-SUFFIX,tracker.curama.jp
   - DOMAIN-SUFFIX,beacons.digital.disneyadvertising.com
   - DOMAIN-SUFFIX,telegraph.prd.api.discomax.com
@@ -45807,7 +45809,6 @@ payload:
   - DOMAIN-SUFFIX,adtracker.oilpainting.colorbynumber.veraxen.com
   - DOMAIN-SUFFIX,adtracker.mkjigsaw.com
   - DOMAIN-SUFFIX,stats.oilpainting.colorbynumber.veraxen.com
-  - DOMAIN-SUFFIX,snowplow-collector.apartmentlist.io
   - DOMAIN-SUFFIX,qa-events-schema.viacom.tech
   - DOMAIN-SUFFIX,dns-clientinfo.cbsivideo.com
   - DOMAIN-SUFFIX,trace.qq.com
