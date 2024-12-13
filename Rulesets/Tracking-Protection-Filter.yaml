@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,events.engager.ecbsn.com
+  - DOMAIN-SUFFIX,gw-dv.vip
   - DOMAIN-SUFFIX,trk.svr-algorix.com
   - DOMAIN-SUFFIX,tpi-app.herokuapp.com
   - DOMAIN-SUFFIX,api.rvere.com
@@ -42835,6 +42837,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,c783.fastcompany.com
+  - DOMAIN-SUFFIX,event.northghost.com
+  - DOMAIN-SUFFIX,profile-api.amplitude.com
+  - DOMAIN-SUFFIX,f793.inc.com
+  - DOMAIN-SUFFIX,mytop.live.vkvideo.ru
   - DOMAIN-SUFFIX,event.newsbreak.com
   - DOMAIN-SUFFIX,pixel-static.spotify.com
   - DOMAIN-SUFFIX,pixel-config.reddit.com
@@ -43067,26 +43074,6 @@ payload:
   - DOMAIN-SUFFIX,topspin.npo.nl
   - DOMAIN-SUFFIX,collect.stepstone.co.uk
   - DOMAIN-SUFFIX,analytics.poferries.com
-  - DOMAIN-SUFFIX,v225.ksbw.com
-  - DOMAIN-SUFFIX,k030.koco.com
-  - DOMAIN-SUFFIX,u082.wapt.com
-  - DOMAIN-SUFFIX,f361.wvtm13.com
-  - DOMAIN-SUFFIX,t733.wjcl.com
-  - DOMAIN-SUFFIX,r255.wmtw.com
-  - DOMAIN-SUFFIX,j178.wmur.com
-  - DOMAIN-SUFFIX,p769.wgal.com
-  - DOMAIN-SUFFIX,v066.wxii12.com
-  - DOMAIN-SUFFIX,s811.ketv.com
-  - DOMAIN-SUFFIX,m886.kmbc.com
-  - DOMAIN-SUFFIX,w110.kcra.com
-  - DOMAIN-SUFFIX,u999.wcvb.com
-  - DOMAIN-SUFFIX,e459.kcci.com
-  - DOMAIN-SUFFIX,h019.wtae.com
-  - DOMAIN-SUFFIX,y000.wyff4.com
-  - DOMAIN-SUFFIX,q511.wpbf.com
-  - DOMAIN-SUFFIX,c677.wisn.com
-  - DOMAIN-SUFFIX,u578.wlwt.com
-  - DOMAIN-SUFFIX,e993.wlky.com
   - DOMAIN-SUFFIX,collect.biomedcentral.com
   - DOMAIN-SUFFIX,eproof.drudgereport.com
   - DOMAIN-SUFFIX,doppler-beacon.cbsivideo.com
@@ -43138,7 +43125,6 @@ payload:
   - DOMAIN-SUFFIX,flask.us.nextdoor.com
   - DOMAIN-SUFFIX,aa-metrics.beauty.hotpepper.jp
   - DOMAIN-SUFFIX,aa-metrics.hotpepper.jp
-  - DOMAIN-SUFFIX,c615.denverpost.com
   - DOMAIN-SUFFIX,newsstat.dallasnews.com
   - DOMAIN-SUFFIX,e.channelexco.com
   - DOMAIN-SUFFIX,y.one.impact-ad.jp
@@ -45287,6 +45273,68 @@ payload:
   - DOMAIN-SUFFIX,za.zingnews.vn
   - DOMAIN-SUFFIX,zion-telemetry.api.cnn.io
   - DOMAIN-SUFFIX,zion.qbo.intuit.com
+  - DOMAIN-SUFFIX,f703.twincities.com
+  - DOMAIN-SUFFIX,c615.denverpost.com
+  - DOMAIN-SUFFIX,z953.marinij.com
+  - DOMAIN-SUFFIX,p192.eastbaytimes.com
+  - DOMAIN-SUFFIX,a869.mercurynews.com
+  - DOMAIN-SUFFIX,z216.times-standard.com
+  - DOMAIN-SUFFIX,u066.ocregister.com
+  - DOMAIN-SUFFIX,z371.chicoer.com
+  - DOMAIN-SUFFIX,b668.record-bee.com
+  - DOMAIN-SUFFIX,x680.sgvtribune.com
+  - DOMAIN-SUFFIX,u654.santacruzsentinel.com
+  - DOMAIN-SUFFIX,u300.dailybulletin.com
+  - DOMAIN-SUFFIX,k864.orovillemr.com
+  - DOMAIN-SUFFIX,h562.pasadenastarnews.com
+  - DOMAIN-SUFFIX,a613.redbluffdailynews.com
+  - DOMAIN-SUFFIX,w138.redlandsdailyfacts.com
+  - DOMAIN-SUFFIX,s762.pressenterprise.com
+  - DOMAIN-SUFFIX,m161.sbsun.com
+  - DOMAIN-SUFFIX,x455.dailybreeze.com
+  - DOMAIN-SUFFIX,e082.ukiahdailyjournal.com
+  - DOMAIN-SUFFIX,p644.thereporter.com
+  - DOMAIN-SUFFIX,r973.timesheraldonline.com
+  - DOMAIN-SUFFIX,q770.whittierdailynews.com
+  - DOMAIN-SUFFIX,m583.dailydemocrat.com
+  - DOMAIN-SUFFIX,j300.dailynews.com
+  - DOMAIN-SUFFIX,u542.dailycamera.com
+  - DOMAIN-SUFFIX,v402.canoncitydailyrecord.com
+  - DOMAIN-SUFFIX,b730.fortmorgantimes.com
+  - DOMAIN-SUFFIX,i953.greeleytribune.com
+  - DOMAIN-SUFFIX,r566.timescall.com
+  - DOMAIN-SUFFIX,v476.reporterherald.com
+  - DOMAIN-SUFFIX,i867.journal-advocate.com
+  - DOMAIN-SUFFIX,a352.sandiegouniontribune.com
+  - DOMAIN-SUFFIX,f023.bostonherald.com
+  - DOMAIN-SUFFIX,t969.sentinelandenterprise.com
+  - DOMAIN-SUFFIX,w149.lowellsun.com
+  - DOMAIN-SUFFIX,c705.trentonian.com
+  - DOMAIN-SUFFIX,e220.dailyfreeman.com
+  - DOMAIN-SUFFIX,m821.saratogian.com
+  - DOMAIN-SUFFIX,f866.troyrecord.com
+  - DOMAIN-SUFFIX,h516.thereporteronline.com
+  - DOMAIN-SUFFIX,n818.timesherald.com
+  - DOMAIN-SUFFIX,b347.pottsmerc.com
+  - DOMAIN-SUFFIX,g650.delcotimes.com
+  - DOMAIN-SUFFIX,b607.dailylocal.com
+  - DOMAIN-SUFFIX,h689.nydailynews.com
+  - DOMAIN-SUFFIX,p030.courant.com
+  - DOMAIN-SUFFIX,a433.dailypress.com
+  - DOMAIN-SUFFIX,n475.pilotonline.com
+  - DOMAIN-SUFFIX,s211.mcall.com
+  - DOMAIN-SUFFIX,j423.oneidadispatch.com
+  - DOMAIN-SUFFIX,j348.citizensvoice.com
+  - DOMAIN-SUFFIX,i368.republicanherald.com
+  - DOMAIN-SUFFIX,y197.standardspeaker.com
+  - DOMAIN-SUFFIX,j282.thetimes-tribune.com
+  - DOMAIN-SUFFIX,s324.wcexaminer.com
+  - DOMAIN-SUFFIX,e488.macombdaily.com
+  - DOMAIN-SUFFIX,g986.themorningsun.com
+  - DOMAIN-SUFFIX,r066.dailytribune.com
+  - DOMAIN-SUFFIX,e664.theoaklandpress.com
+  - DOMAIN-SUFFIX,t133.sun-sentinel.com
+  - DOMAIN-SUFFIX,x446.orlandosentinel.com
   - DOMAIN-SUFFIX,msg-na.hismarttv.com
   - DOMAIN-SUFFIX,unified-ter-na.hismarttv.com
   - DOMAIN-SUFFIX,sp1.baidu.com
@@ -45302,41 +45350,66 @@ payload:
   - DOMAIN-SUFFIX,log.musical.ly
   - DOMAIN-SUFFIX,log2.musical.ly
   - DOMAIN-SUFFIX,xlog-va.musical.ly
-  - DOMAIN-SUFFIX,c993.westport-news.com
+  - DOMAIN-SUFFIX,v225.ksbw.com
+  - DOMAIN-SUFFIX,k030.koco.com
+  - DOMAIN-SUFFIX,u082.wapt.com
+  - DOMAIN-SUFFIX,f361.wvtm13.com
+  - DOMAIN-SUFFIX,t733.wjcl.com
+  - DOMAIN-SUFFIX,r255.wmtw.com
+  - DOMAIN-SUFFIX,j178.wmur.com
+  - DOMAIN-SUFFIX,p769.wgal.com
+  - DOMAIN-SUFFIX,v066.wxii12.com
+  - DOMAIN-SUFFIX,s811.ketv.com
+  - DOMAIN-SUFFIX,m886.kmbc.com
+  - DOMAIN-SUFFIX,w110.kcra.com
+  - DOMAIN-SUFFIX,u999.wcvb.com
+  - DOMAIN-SUFFIX,e459.kcci.com
+  - DOMAIN-SUFFIX,h019.wtae.com
+  - DOMAIN-SUFFIX,y000.wyff4.com
+  - DOMAIN-SUFFIX,q511.wpbf.com
+  - DOMAIN-SUFFIX,c677.wisn.com
+  - DOMAIN-SUFFIX,u578.wlwt.com
+  - DOMAIN-SUFFIX,e993.wlky.com
+  - DOMAIN-SUFFIX,v063.4029tv.com
+  - DOMAIN-SUFFIX,y494.wdsu.com
+  - DOMAIN-SUFFIX,b932.wesh.com
   - DOMAIN-SUFFIX,d276.ourmidland.com
   - DOMAIN-SUFFIX,d810.mysanantonio.com
   - DOMAIN-SUFFIX,f164.sheltonherald.com
   - DOMAIN-SUFFIX,f775.thehour.com
-  - DOMAIN-SUFFIX,f857.hearstmediatx.com
   - DOMAIN-SUFFIX,h353.ncadvertiser.com
   - DOMAIN-SUFFIX,h559.stamfordadvocate.com
-  - DOMAIN-SUFFIX,j158.hearstmediact.com
   - DOMAIN-SUFFIX,j198.registercitizen.com
+  - DOMAIN-SUFFIX,l029.recordpatriot.com
   - DOMAIN-SUFFIX,l936.expressnews.com
   - DOMAIN-SUFFIX,l997.lmtonline.com
+  - DOMAIN-SUFFIX,m367.michigansthumb.com
+  - DOMAIN-SUFFIX,m700.bigrapidsnews.com
   - DOMAIN-SUFFIX,n730.timesunion.com
   - DOMAIN-SUFFIX,o398.trumbulltimes.com
   - DOMAIN-SUFFIX,p593.seattlepi.com
   - DOMAIN-SUFFIX,q777.sfchronicle.com
   - DOMAIN-SUFFIX,r541.houstonchronicle.com
   - DOMAIN-SUFFIX,s232.theintelligencer.com
+  - DOMAIN-SUFFIX,t002.myjournalcourier.com
   - DOMAIN-SUFFIX,t570.wiltonbulletin.com
   - DOMAIN-SUFFIX,t810.ctpost.com
   - DOMAIN-SUFFIX,u566.chron.com
   - DOMAIN-SUFFIX,u652.myplainview.com
+  - DOMAIN-SUFFIX,u660.theheraldreview.com
+  - DOMAIN-SUFFIX,u896.weekand.com
   - DOMAIN-SUFFIX,u927.sfgate.com
-  - DOMAIN-SUFFIX,w020.newmilfordspectrum.com
+  - DOMAIN-SUFFIX,v812.lakecountystar.com
   - DOMAIN-SUFFIX,w740.newstimes.com
   - DOMAIN-SUFFIX,w982.middletownpress.com
   - DOMAIN-SUFFIX,x822.mrt.com
-  - DOMAIN-SUFFIX,y653.theridgefieldpress.com
   - DOMAIN-SUFFIX,y738.nhregister.com
   - DOMAIN-SUFFIX,y752.milfordmirror.com
   - DOMAIN-SUFFIX,y820.darientimes.com
   - DOMAIN-SUFFIX,y900.greenwichtime.com
+  - DOMAIN-SUFFIX,z210.manisteenews.com
   - DOMAIN-SUFFIX,z211.yourconroenews.com
   - DOMAIN-SUFFIX,z492.ctinsider.com
-  - DOMAIN-SUFFIX,z590.fairfieldcitizenonline.com
   - DOMAIN-SUFFIX,z680.beaumontenterprise.com
   - DOMAIN-SUFFIX,z929.fuelfix.com
   - DOMAIN-SUFFIX,api2.poperblocker.com
@@ -45490,6 +45563,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,log.pdfviewerscannerstore.live
+  - DOMAIN-SUFFIX,mon-boot.capcutapi.com
+  - DOMAIN-SUFFIX,mon-va-us-looki.capcutapi.com
+  - DOMAIN-SUFFIX,metrics-prod.suno.com
   - DOMAIN-SUFFIX,logs-ingress.svc.vinted.com
   - DOMAIN-SUFFIX,analytics.baliusuperapp.xyz
   - DOMAIN-SUFFIX,log-va-us-looki.capcutapi.com
