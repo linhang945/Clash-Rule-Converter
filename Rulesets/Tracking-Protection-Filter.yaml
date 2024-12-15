@@ -42837,6 +42837,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,afl.rozetka.com.ua
   - DOMAIN-SUFFIX,c783.fastcompany.com
   - DOMAIN-SUFFIX,event.northghost.com
   - DOMAIN-SUFFIX,profile-api.amplitude.com
@@ -45563,6 +45564,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,stats.samsungpass.com
   - DOMAIN-SUFFIX,log.pdfviewerscannerstore.live
   - DOMAIN-SUFFIX,mon-boot.capcutapi.com
   - DOMAIN-SUFFIX,mon-va-us-looki.capcutapi.com
@@ -45588,7 +45590,6 @@ payload:
   - DOMAIN-SUFFIX,caerulus.io
   - DOMAIN-SUFFIX,log.heartratepros.com
   - DOMAIN-SUFFIX,tatrack.thinkyeah.com
-  - DOMAIN-SUFFIX,sdk-04.moengage.com
   - DOMAIN-SUFFIX,vcs.zijieapi.com
   - DOMAIN-SUFFIX,monsetting.toutiao.com
   - DOMAIN-SUFFIX,atsod.launch.liveramp.com
@@ -46084,7 +46085,7 @@ payload:
   - DOMAIN-SUFFIX,geoplugin.net
   - DOMAIN-SUFFIX,d.applvn.com
   - DOMAIN-SUFFIX,rt.applvn.com
-  - DOMAIN-SUFFIX,apiv2.moengage.com
+  - DOMAIN-SUFFIX,moengage.com
   - DOMAIN-SUFFIX,rt.applovin.com
   - DOMAIN-SUFFIX,track.uc.cn
   - DOMAIN-SUFFIX,uc.ucweb.com
