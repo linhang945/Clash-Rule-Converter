@@ -45986,6 +45986,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,collector.abc.net.au
   - DOMAIN-SUFFIX,smetrics.kawai-juku.ac.jp
   - DOMAIN-SUFFIX,stat.pravdafrance.com
   - DOMAIN-SUFFIX,telemetry.dzen.ru
@@ -48650,7 +48651,6 @@ payload:
   - DOMAIN-SUFFIX,r.browser.miui.com
   - DOMAIN-SUFFIX,tracking.miui.com
   - DOMAIN-SUFFIX,data.mistat.intl.xiaomi.com
-  - DOMAIN-SUFFIX,register.xmpush.xiaomi.com
   - DOMAIN-SUFFIX,storeconfig.mistat.intl.xiaomi.com
   - DOMAIN-SUFFIX,api.ad.intl.xiaomi.com
   - DOMAIN-SUFFIX,sdkconfig.ad.intl.xiaomi.com
