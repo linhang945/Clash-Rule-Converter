@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cdn.q0losid.com
+  - DOMAIN-SUFFIX,tags.fullcontact.com
   - DOMAIN-SUFFIX,matomo.akbal.dev
   - DOMAIN-SUFFIX,sentry.pnblab.com
   - DOMAIN-SUFFIX,untho.de
@@ -45986,6 +45988,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,lgforbes.akamaized.net
+  - DOMAIN-SUFFIX,event.wondershare.com
   - DOMAIN-SUFFIX,collector.abc.net.au
   - DOMAIN-SUFFIX,smetrics.kawai-juku.ac.jp
   - DOMAIN-SUFFIX,stat.pravdafrance.com
@@ -48727,6 +48731,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,collect.4gtv.tv
+  - DOMAIN-SUFFIX,uaid.vtwenty.com
+  - DOMAIN-SUFFIX,telemetry.codefusion.technology
   - DOMAIN-SUFFIX,events.watchtower.imdbtv.amazon.dev
   - DOMAIN-SUFFIX,mobile-production.content-square.net
   - DOMAIN-SUFFIX,sf16-static.i18n-pglstatp.com
