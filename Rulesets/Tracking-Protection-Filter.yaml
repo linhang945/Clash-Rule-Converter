@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
   - DOMAIN-SUFFIX,view.mngusr.com
   - DOMAIN-SUFFIX,cdn.q0losid.com
   - DOMAIN-SUFFIX,tags.fullcontact.com
@@ -46425,6 +46426,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,csp-report.marketing.aws.dev
+  - DOMAIN-SUFFIX,telemetry.svc.transifex.net
+  - DOMAIN-SUFFIX,cpu.baidu.com
+  - DOMAIN-SUFFIX,pixel.web.roku.com
+  - DOMAIN-SUFFIX,analytics.cloudevo.ai
   - DOMAIN-SUFFIX,qbrth.ezcontacts.com
   - DOMAIN-SUFFIX,lgforbes.akamaized.net
   - DOMAIN-SUFFIX,event.wondershare.com
