@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,log-auth.zztfly.com
   - DOMAIN-SUFFIX,adsave.co
   - DOMAIN-SUFFIX,analytics.bitchute.com
   - DOMAIN-SUFFIX,actiontracking.jp
@@ -248,6 +249,7 @@ payload:
   - DOMAIN-SUFFIX,gtm.taginstall.com
   - DOMAIN-SUFFIX,mdstats.info
   - DOMAIN-SUFFIX,site-config.com
+  - DOMAIN-SUFFIX,getui.net
   - DOMAIN-SUFFIX,getui.com
   - DOMAIN-SUFFIX,pixel.glimr.io
   - DOMAIN-SUFFIX,scripts.jixie.media
@@ -47026,6 +47028,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,hikari.jiocinema.com
+  - DOMAIN-SUFFIX,s.c-ctrip.com
+  - DOMAIN-SUFFIX,ma-adx.ctrip.com
   - DOMAIN-SUFFIX,logs.mezmo.com
   - DOMAIN-SUFFIX,publictelemetry.tophat.com
   - DOMAIN-SUFFIX,dynatrace.att.com
@@ -49779,6 +49784,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
+  - DOMAIN-SUFFIX,tp2p.kg.qq.com
+  - DOMAIN-SUFFIX,twns.p2ptun.qq.com
   - DOMAIN-SUFFIX,nstool.netease.com
   - DOMAIN-SUFFIX,data.kuiniuca.com
   - DOMAIN-SUFFIX,clientlogsf.music.163.com
