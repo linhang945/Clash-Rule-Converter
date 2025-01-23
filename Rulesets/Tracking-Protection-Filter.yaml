@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,wsknow.net
+  - DOMAIN-SUFFIX,api.taggrs.io
   - DOMAIN-SUFFIX,obseu.netgreencolumn.com
   - DOMAIN-SUFFIX,sygrip.info
   - DOMAIN-SUFFIX,log-auth.zztfly.com
@@ -47975,6 +47977,12 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,logging.g.sst.secureserver.net
+  - DOMAIN-SUFFIX,metricreceiver.cellrebel.com
+  - DOMAIN-SUFFIX,events.app-performance.music.amazon.dev
+  - DOMAIN-SUFFIX,metrics-a.wbx2.com
+  - DOMAIN-SUFFIX,event.msi.com
+  - DOMAIN-SUFFIX,dco.coupang.com
   - DOMAIN-SUFFIX,mr.homedepot.com
   - DOMAIN-SUFFIX,frontend-logger.flippback.com
   - DOMAIN-SUFFIX,analytics.nike.com
