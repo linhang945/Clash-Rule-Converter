@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,mktp-base.mktplatforms.com
+  - DOMAIN-SUFFIX,f-tra.com
+  - DOMAIN-SUFFIX,event.dfinery.io
+  - DOMAIN-SUFFIX,polaranalytics.com
   - DOMAIN-SUFFIX,wsknow.net
   - DOMAIN-SUFFIX,api.taggrs.io
   - DOMAIN-SUFFIX,obseu.netgreencolumn.com
@@ -18,7 +22,6 @@ payload:
   - DOMAIN-SUFFIX,pabidding.io
   - DOMAIN-SUFFIX,danatrak.com
   - DOMAIN-SUFFIX,optiyield.opti-digital.com
-  - DOMAIN-SUFFIX,volces.com
   - DOMAIN-SUFFIX,twitter.sx
   - DOMAIN-SUFFIX,lf1-cdn-tos.bytegoofy.com
   - DOMAIN-SUFFIX,view.mngusr.com
@@ -47977,6 +47980,12 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,apmplus.ap-southeast-1.volces.com
+  - DOMAIN-SUFFIX,pixels.argusplatform.com
+  - DOMAIN-SUFFIX,egg.afisha.ru
+  - DOMAIN-SUFFIX,tracking-app.diginetica.net
+  - DOMAIN-SUFFIX,c.us.heap-api.com
+  - DOMAIN-SUFFIX,apay-us.amazon.com
   - DOMAIN-SUFFIX,logging.g.sst.secureserver.net
   - DOMAIN-SUFFIX,metricreceiver.cellrebel.com
   - DOMAIN-SUFFIX,events.app-performance.music.amazon.dev
