@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,bicp-analytics.postscript.io
   - DOMAIN-SUFFIX,plausible.flamekiller.org
   - DOMAIN-SUFFIX,mktp-base.mktplatforms.com
   - DOMAIN-SUFFIX,f-tra.com
@@ -48754,6 +48755,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,eventcollector.mcf-prod.a.intuit.com
   - DOMAIN-SUFFIX,fnl.quizizz.com
   - DOMAIN-SUFFIX,jg7y.quizlet.com
   - DOMAIN-SUFFIX,apmplus.ap-southeast-1.volces.com
@@ -51530,7 +51532,6 @@ payload:
   - DOMAIN-SUFFIX,spider-tracker.xiaohongshu.com
   - DOMAIN-SUFFIX,tp2p.kg.qq.com
   - DOMAIN-SUFFIX,twns.p2ptun.qq.com
-  - DOMAIN-SUFFIX,nstool.netease.com
   - DOMAIN-SUFFIX,data.kuiniuca.com
   - DOMAIN-SUFFIX,clientlogsf.music.163.com
   - DOMAIN-SUFFIX,ye.dun.163yun.com
