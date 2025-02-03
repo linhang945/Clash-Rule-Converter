@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,gw.conversionsapigateway.com
   - DOMAIN-SUFFIX,bicp-analytics.postscript.io
   - DOMAIN-SUFFIX,plausible.flamekiller.org
   - DOMAIN-SUFFIX,mktp-base.mktplatforms.com
@@ -48755,6 +48756,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,mega.mydealz.de
+  - DOMAIN-SUFFIX,log-upload-os.hoyolab.com
   - DOMAIN-SUFFIX,analytics.avcdn.net
   - DOMAIN-SUFFIX,pbc.wsj.com
   - DOMAIN-SUFFIX,tracking.api.shoppinggives.com
