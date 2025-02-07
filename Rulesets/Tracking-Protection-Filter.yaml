@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,applicationinsights.azure.com
+  - DOMAIN-SUFFIX,analytics.sve.cc
+  - DOMAIN-SUFFIX,api.taboola.sve.cc
   - DOMAIN-SUFFIX,identitypxl.app
   - DOMAIN-SUFFIX,identitypxl.com
   - DOMAIN-SUFFIX,geotags.refinery89.com
@@ -583,7 +586,6 @@ payload:
   - DOMAIN-SUFFIX,views.2222.ro
   - DOMAIN-SUFFIX,signalayer.com
   - DOMAIN-SUFFIX,tags.refinery89.com
-  - DOMAIN-SUFFIX,statsigapi.net
   - DOMAIN-SUFFIX,hermes.allo-media.net
   - DOMAIN-SUFFIX,cdn.cohesionapps.com
   - DOMAIN-SUFFIX,c212.net
@@ -49055,6 +49057,10 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,fourier.aliexpress.com
+  - DOMAIN-SUFFIX,sofire.1024tera.com
+  - DOMAIN-SUFFIX,ad-events.flashtalking.com
   - DOMAIN-SUFFIX,market-click-baobab.yandex.ru
   - DOMAIN-SUFFIX,mssdk.tiktokw.us
   - DOMAIN-SUFFIX,gc.newsweek.com
@@ -49957,7 +49963,6 @@ payload:
   - DOMAIN-SUFFIX,stats.seotraff.team
   - DOMAIN-SUFFIX,stats.landingi.com
   - DOMAIN-SUFFIX,trek.powtoon.com
-  - DOMAIN-SUFFIX,biv.gazeta.pl
   - DOMAIN-SUFFIX,analytics.ngs55.ru
   - DOMAIN-SUFFIX,dgcollector.evidon.com
   - DOMAIN-SUFFIX,stats.video.globo.com
@@ -51696,6 +51701,7 @@ payload:
   - DOMAIN-SUFFIX,essential-apps-analytics.herokuapp.com
   - DOMAIN-SUFFIX,d10vy5gom1ed53.cloudfront.net
   - DOMAIN-SUFFIX,um-public-panel-prod.s3.amazonaws.com
+  - DOMAIN-SUFFIX,biv.gazeta.pl
   - DOMAIN-SUFFIX,dygassets.dygdigital.com
   - DOMAIN-SUFFIX,analytics.chita.ru
   - DOMAIN-SUFFIX,metrics.ainews.kz
