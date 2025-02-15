@@ -1001,7 +1001,6 @@ payload:
   - DOMAIN-SUFFIX,smartnews-ads.com
   - DOMAIN-SUFFIX,ad3.cross-a.net
   - DOMAIN-SUFFIX,inistrack.net
-  - DOMAIN-SUFFIX,fourier.taobao.com
   - DOMAIN-SUFFIX,omniconvert.com
   - DOMAIN-SUFFIX,repixel.co
   - DOMAIN-SUFFIX,pubexchange.com
@@ -48036,6 +48035,10 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,66hao.cc
+  - DOMAIN-SUFFIX,event.playground.ru
+  - DOMAIN-SUFFIX,tracker.multisearch.io
+  - DOMAIN-SUFFIX,apm.yahoo.co.jp
   - DOMAIN-SUFFIX,malog.byapps.co.kr
   - DOMAIN-SUFFIX,sofire.terabox.app
   - DOMAIN-SUFFIX,sofire.terabox.com
@@ -48046,6 +48049,8 @@ payload:
   - DOMAIN-SUFFIX,iq.afterpay.com
   - DOMAIN-SUFFIX,events.attentivemobile.com
   - DOMAIN-SUFFIX,events.statsigapi.net
+  - DOMAIN-SUFFIX,fourier.taobao.com
+  - DOMAIN-SUFFIX,fourier.alibaba.com
   - DOMAIN-SUFFIX,fourier.aliexpress.com
   - DOMAIN-SUFFIX,sofire.1024tera.com
   - DOMAIN-SUFFIX,ad-events.flashtalking.com
@@ -48387,7 +48392,6 @@ payload:
   - DOMAIN-SUFFIX,ingest.make.rvohealth.com
   - DOMAIN-SUFFIX,segment-api.goodrx.com
   - DOMAIN-SUFFIX,zion-telemetry-nonprod.api.cnn.io
-  - DOMAIN-SUFFIX,log.suumo.jp
   - DOMAIN-SUFFIX,femetrics.grammarly.io
   - DOMAIN-SUFFIX,realtimeanalytics.yext.com
   - DOMAIN-SUFFIX,stats.indianpornempire.com
@@ -50831,6 +50835,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,aws.userlogsanalytics.com
+  - DOMAIN-SUFFIX,atb-stats-api.imolive.tv
+  - DOMAIN-SUFFIX,i.mxplayer.j2inter.com
+  - DOMAIN-SUFFIX,flashtalking.com
   - DOMAIN-SUFFIX,stat.weamvideo.com
   - DOMAIN-SUFFIX,log.ultimatecleaner.pro
   - DOMAIN-SUFFIX,impression.link
