@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,collector-pxebumdlwe.pxchk.net
+  - DOMAIN-SUFFIX,sc.sc-analytics.jp
+  - DOMAIN-SUFFIX,c.bazo.io
   - DOMAIN-SUFFIX,mdhv.io
   - DOMAIN-SUFFIX,appia.com
   - DOMAIN-SUFFIX,imtwjwoasak.com
@@ -47882,6 +47885,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,mon-va.capcutapi.com
+  - DOMAIN-SUFFIX,pbc.realtor.com
+  - DOMAIN-SUFFIX,apihorizon.nnmtools.com
+  - DOMAIN-SUFFIX,cdnhorizon.nnmtools.com
+  - DOMAIN-SUFFIX,px-intl.ucweb.com
   - DOMAIN-SUFFIX,telemetry.vaultdcr.com
   - DOMAIN-SUFFIX,lighthouse.edoinc.com
   - DOMAIN-SUFFIX,tag.researchnow.com
@@ -50638,6 +50646,7 @@ payload:
   - DOMAIN-SUFFIX,analytics-sprint.qoqa.com
   - DOMAIN-SUFFIX,analytics.qoqa.ch
   - DOMAIN-SUFFIX,analytics.qoqa.com
+  - DOMAIN-SUFFIX,privacy-sandbox.appsflyersdk.com
   - DOMAIN-SUFFIX,adrevenue.appsflyer.com
   - DOMAIN-SUFFIX,api.appsflyer.com
   - DOMAIN-SUFFIX,api2.appsflyer.com
@@ -50690,6 +50699,15 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,insights.alibaba.com
+  - DOMAIN-SUFFIX,mssdk-boot.cpacutapi.com
+  - DOMAIN-SUFFIX,collect.ureca-lab.com
+  - DOMAIN-SUFFIX,api.abcsinsights.com
+  - DOMAIN-SUFFIX,tracking.carbonatixaudio.com
+  - DOMAIN-SUFFIX,adashx.ut.alibaba.com
+  - DOMAIN-SUFFIX,h-adashx.ut.alibaba.com
+  - DOMAIN-SUFFIX,stats.calldorado.com
+  - DOMAIN-SUFFIX,traffic.calldorado.com
   - DOMAIN-SUFFIX,track.aieic.com
   - DOMAIN-SUFFIX,tracker.str-nrg.com
   - DOMAIN-SUFFIX,ced-ns.sascdn.com
