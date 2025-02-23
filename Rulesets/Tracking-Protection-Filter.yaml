@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,slackb.com
+  - DOMAIN-SUFFIX,nwr.static.mmcdn.com
   - DOMAIN-SUFFIX,collector-pxebumdlwe.pxchk.net
   - DOMAIN-SUFFIX,sc.sc-analytics.jp
   - DOMAIN-SUFFIX,c.bazo.io
@@ -47885,8 +47887,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tr.api.fanbyte.com
+  - DOMAIN-SUFFIX,mcs-va.capcutapi.com
   - DOMAIN-SUFFIX,mon-va.capcutapi.com
   - DOMAIN-SUFFIX,pbc.realtor.com
+  - DOMAIN-SUFFIX,logs.appsource.microsoft.com
   - DOMAIN-SUFFIX,apihorizon.nnmtools.com
   - DOMAIN-SUFFIX,cdnhorizon.nnmtools.com
   - DOMAIN-SUFFIX,px-intl.ucweb.com
@@ -49734,6 +49739,7 @@ payload:
   - DOMAIN-SUFFIX,p2trc.emv2.com
   - DOMAIN-SUFFIX,pa.pinpoll.com
   - DOMAIN-SUFFIX,pa.tns-ua.com
+  - DOMAIN-SUFFIX,pac.the-sun.com
   - DOMAIN-SUFFIX,pac.thesun.co.uk
   - DOMAIN-SUFFIX,pac.thetimes.co.uk
   - DOMAIN-SUFFIX,pappagallu.onefootball.com
