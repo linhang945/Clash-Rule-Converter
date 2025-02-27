@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,gcprivacy.com
+  - DOMAIN-SUFFIX,domself.de
+  - DOMAIN-SUFFIX,teraverseapp.com
+  - DOMAIN-SUFFIX,pavoboxapp.com
   - DOMAIN-SUFFIX,data4.ojto.pl
   - DOMAIN-SUFFIX,slackb.com
   - DOMAIN-SUFFIX,nwr.static.mmcdn.com
@@ -48198,6 +48202,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,epimetheus.navigator.gmx.net
+  - DOMAIN-SUFFIX,tgw.gmx.net
+  - DOMAIN-SUFFIX,clientlogger.marketplace.aws.a2z.com
   - DOMAIN-SUFFIX,mercury.books.com.tw
   - DOMAIN-SUFFIX,ganon.yahoo.com
   - DOMAIN-SUFFIX,udc.yahoo.com
@@ -51707,6 +51714,7 @@ payload:
   - DOMAIN-SUFFIX,yadro.ru
   - DOMAIN-SUFFIX,ymtracking.com
   - DOMAIN-SUFFIX,zdbb.net
+  - DOMAIN-SUFFIX,mcs.tiktokw.us
   - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
   - DOMAIN-SUFFIX,log.tiktokv.com
   - DOMAIN-SUFFIX,rtc-logger-va.tiktokv.com
