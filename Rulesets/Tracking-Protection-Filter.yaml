@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.ahrefs.com
   - DOMAIN-SUFFIX,gcprivacy.com
   - DOMAIN-SUFFIX,domself.de
   - DOMAIN-SUFFIX,teraverseapp.com
@@ -48202,6 +48203,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ca-log.cafe24data.com
+  - DOMAIN-SUFFIX,mp.theepochtimes.com
   - DOMAIN-SUFFIX,epimetheus.navigator.gmx.net
   - DOMAIN-SUFFIX,tgw.gmx.net
   - DOMAIN-SUFFIX,clientlogger.marketplace.aws.a2z.com
