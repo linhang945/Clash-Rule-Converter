@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,umeng.com
+  - DOMAIN-SUFFIX,weborama-tech.ru
   - DOMAIN-SUFFIX,qualaroo.com
   - DOMAIN-SUFFIX,browsercfg-drcn.cloud.dbankcloud.cn
   - DOMAIN-SUFFIX,govisibl.io
@@ -457,7 +459,7 @@ payload:
   - DOMAIN-SUFFIX,trace.zhiyan.tencent-cloud.net
   - DOMAIN-SUFFIX,log.iflytek.com
   - DOMAIN-SUFFIX,log.voicecloud.cn
-  - DOMAIN-SUFFIX,aads.shuzilm.cn
+  - DOMAIN-SUFFIX,shuzilm.cn
   - DOMAIN-SUFFIX,adxlog-adnet.vivo.com.cn
   - DOMAIN-SUFFIX,user-analysis.7moor.com
   - DOMAIN-SUFFIX,sirdata.io
@@ -1258,7 +1260,7 @@ payload:
   - DOMAIN-SUFFIX,log002.commutil.kr
   - DOMAIN-SUFFIX,analy1.dtnnetwork.be
   - DOMAIN-SUFFIX,cerdmann.com
-  - DOMAIN-SUFFIX,polarbyte.com
+  - DOMAIN-SUFFIX,cdn.polarbyte.com
   - DOMAIN-SUFFIX,revcatch.com
   - DOMAIN-SUFFIX,revprotect.com
   - DOMAIN-SUFFIX,protectsubrev.com
@@ -49532,6 +49534,10 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,pixel.thoughtmetric.io
+  - DOMAIN-SUFFIX,c9nyrr.puurfiguur.nl
+  - DOMAIN-SUFFIX,ryrv0j.greenbeanbuddy.com
+  - DOMAIN-SUFFIX,tracking-sales-pop.carecart.io
   - DOMAIN-SUFFIX,cs44.pikabu.ru
   - DOMAIN-SUFFIX,ta.pinduoduo.com
   - DOMAIN-SUFFIX,th.pinduoduo.com
@@ -52365,6 +52371,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,nr.bidderstack.com
+  - DOMAIN-SUFFIX,stbid.ru
+  - DOMAIN-SUFFIX,stat.nsc-lab.io
+  - DOMAIN-SUFFIX,cnlogs.umengcloud.com
   - DOMAIN-SUFFIX,logs.nebulahoroscope.com
   - DOMAIN-SUFFIX,braveglobal.tv
   - DOMAIN-SUFFIX,insights.alibaba.com
@@ -52429,7 +52439,6 @@ payload:
   - DOMAIN-SUFFIX,tracker.mtrtb.com
   - DOMAIN-SUFFIX,tracking.ws.eurosport.com
   - DOMAIN-SUFFIX,fraudmetrix.cn
-  - DOMAIN-SUFFIX,plbslog.umeng.com
   - DOMAIN-SUFFIX,analysys.cn
   - DOMAIN-SUFFIX,logs.supersonic.com
   - DOMAIN-SUFFIX,mssdk-va.byteoversea.com
@@ -52692,7 +52701,6 @@ payload:
   - DOMAIN-SUFFIX,psi.lbesecapi.com
   - DOMAIN-SUFFIX,report-ps.meettech.net
   - DOMAIN-SUFFIX,msg.umengcloud.com
-  - DOMAIN-SUFFIX,ulogs.umeng.com
   - DOMAIN-SUFFIX,ulogs.umengcloud.com
   - DOMAIN-SUFFIX,analytics.liveact-vault.com
   - DOMAIN-SUFFIX,dex50.deteql.net
@@ -52701,7 +52709,6 @@ payload:
   - DOMAIN-SUFFIX,tobapplog.ctobsnssdk.com
   - DOMAIN-SUFFIX,t.castle.io
   - DOMAIN-SUFFIX,bs.nakanohito.jp
-  - DOMAIN-SUFFIX,alogsus.umeng.com
   - DOMAIN-SUFFIX,log1.happymod.com
   - DOMAIN-SUFFIX,log.pvpgang.com
   - DOMAIN-SUFFIX,crs-event.line.me
@@ -52774,8 +52781,6 @@ payload:
   - DOMAIN-SUFFIX,tracking-service.glority.com
   - DOMAIN-SUFFIX,analytics-ingestion.production-public.tubi.io
   - DOMAIN-SUFFIX,pingtas.qq.com
-  - DOMAIN-SUFFIX,alogus.umeng.com
-  - DOMAIN-SUFFIX,errlogos.umeng.com
   - DOMAIN-SUFFIX,tenant-content.apm.appfolio-analytics.com
   - DOMAIN-SUFFIX,log.avlyun.com
   - DOMAIN-SUFFIX,api-analytics.prod.birdapp.com
@@ -52957,7 +52962,6 @@ payload:
   - DOMAIN-SUFFIX,api.uca.cloud.unity3d.com
   - DOMAIN-SUFFIX,resolver.gslb.mi-idc.com
   - DOMAIN-SUFFIX,geoip.ifunny.co
-  - DOMAIN-SUFFIX,alogs.umeng.com
   - DOMAIN-SUFFIX,alogs.umengcloud.com
   - DOMAIN-SUFFIX,4seeresults.com
   - DOMAIN-SUFFIX,adash.m.taobao.com
@@ -52965,7 +52969,6 @@ payload:
   - DOMAIN-SUFFIX,adserver.snapads.com
   - DOMAIN-SUFFIX,adsunflower.com
   - DOMAIN-SUFFIX,advmob.cn
-  - DOMAIN-SUFFIX,alog.umeng.com
   - DOMAIN-SUFFIX,alog.umengcloud.com
   - DOMAIN-SUFFIX,amp-error-reporting.appspot.com
   - DOMAIN-SUFFIX,analytics.ad.daum.net
@@ -52985,7 +52988,6 @@ payload:
   - DOMAIN-SUFFIX,api.gimbal.com
   - DOMAIN-SUFFIX,appmetrica.yandex.net
   - DOMAIN-SUFFIX,appmetrica.yandex.com
-  - DOMAIN-SUFFIX,ar.umeng.com
   - DOMAIN-SUFFIX,beacon.carfax.com
   - DOMAIN-SUFFIX,beacon.qq.com
   - DOMAIN-SUFFIX,beacon.shazam.com
@@ -53026,7 +53028,6 @@ payload:
   - DOMAIN-SUFFIX,nativesdks.mparticle.com
   - DOMAIN-SUFFIX,nlog.droid4x.cn
   - DOMAIN-SUFFIX,nrc.tapas.net
-  - DOMAIN-SUFFIX,oc.umeng.com
   - DOMAIN-SUFFIX,online-metrix.net
   - DOMAIN-SUFFIX,openstat.net
   - DOMAIN-SUFFIX,pingma.qq.com
