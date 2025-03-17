@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,metrics.nsureapi.com
   - DOMAIN-SUFFIX,umeng.com
   - DOMAIN-SUFFIX,weborama-tech.ru
   - DOMAIN-SUFFIX,qualaroo.com
@@ -30,7 +31,6 @@ payload:
   - DOMAIN-SUFFIX,nmrodam.com
   - DOMAIN-SUFFIX,auraodin.com
   - DOMAIN-SUFFIX,botradar.tech
-  - DOMAIN-SUFFIX,analytics.viture.dev
   - DOMAIN-SUFFIX,us-behavior.apitd.net
   - DOMAIN-SUFFIX,collector.snplow.net
   - DOMAIN-SUFFIX,squeezely.tech
@@ -49534,6 +49534,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.viture.dev
   - DOMAIN-SUFFIX,pixel.thoughtmetric.io
   - DOMAIN-SUFFIX,c9nyrr.puurfiguur.nl
   - DOMAIN-SUFFIX,ryrv0j.greenbeanbuddy.com
