@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,ponos.zeronaught.com
   - DOMAIN-SUFFIX,tags.pw.adn.cloud
   - DOMAIN-SUFFIX,api-notify.markarch.com
   - DOMAIN-SUFFIX,venatusmedia.com
@@ -531,6 +532,7 @@ payload:
   - DOMAIN-SUFFIX,fpnpmcdn.net
   - DOMAIN-SUFFIX,offer-go.com
   - DOMAIN-SUFFIX,d2ezz24t9nm0vu.cloudfront.net
+  - DOMAIN-SUFFIX,sdk-v2.conscent.in
   - DOMAIN-SUFFIX,sdk.conscent.in
   - DOMAIN-SUFFIX,tpstelemetry.tencent.com
   - DOMAIN-SUFFIX,app.posthog.com
@@ -49760,6 +49762,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sapphire-api.target.com
   - DOMAIN-SUFFIX,analytics.viture.dev
   - DOMAIN-SUFFIX,pixel.thoughtmetric.io
   - DOMAIN-SUFFIX,c9nyrr.puurfiguur.nl
