@@ -4,7 +4,6 @@ payload:
   - DOMAIN-SUFFIX,cookies.praguebest.cz
   - DOMAIN-SUFFIX,consenttool.haendlerbund.de
   - DOMAIN-SUFFIX,cookie.marsus.digital
-  - DOMAIN-SUFFIX,mobile-data.onetrust.io
   - DOMAIN-SUFFIX,gdpr-legal-cookie.com
   - DOMAIN-SUFFIX,cookies.giant.cz
   - DOMAIN-SUFFIX,complydog.com
@@ -103,6 +102,7 @@ payload:
   - DOMAIN-SUFFIX,r42tag.com
   - DOMAIN-SUFFIX,cookieq.com
   - DOMAIN-SUFFIX,usercentrics.eu
+  - DOMAIN-SUFFIX,mobile-data.onetrust.io
   - DOMAIN-SUFFIX,cdn.sentinelp.com
   - DOMAIN-SUFFIX,cmpworker.operationsports.com
   - DOMAIN-SUFFIX,nebulacrescent.com
@@ -156,6 +156,7 @@ payload:
   - DOMAIN-SUFFIX,cookiewarden-content.teb.com.tr
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
+  - DOMAIN-SUFFIX,podname.com
   - DOMAIN-SUFFIX,luxformula.com
   - DOMAIN-SUFFIX,rockstarwriter.com
   - DOMAIN-SUFFIX,gustocooking.com
