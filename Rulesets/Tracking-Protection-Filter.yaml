@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,onelinksmartscript.appsflyer.com
+  - DOMAIN-SUFFIX,pixel.wetracked.io
   - DOMAIN-SUFFIX,api-pixels.easyadsapp.com
   - DOMAIN-SUFFIX,sayac.net.tr
   - DOMAIN-SUFFIX,zineone.com
@@ -51331,7 +51333,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.slidesai.io
   - DOMAIN-SUFFIX,idat.production.ippen.space
   - DOMAIN-SUFFIX,snowy.bellroy.com
-  - DOMAIN-SUFFIX,res.regoo.com
   - DOMAIN-SUFFIX,analytics.crea.ca
   - DOMAIN-SUFFIX,stat.airdroid.com
   - DOMAIN-SUFFIX,tracker.ranker.com
