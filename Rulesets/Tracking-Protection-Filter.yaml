@@ -1006,6 +1006,7 @@ payload:
   - DOMAIN-SUFFIX,counter.kikibobo.top
   - DOMAIN-SUFFIX,c1.politexpert.ru
   - DOMAIN-SUFFIX,cdn.logrocket.com
+  - DOMAIN-SUFFIX,lrkt-in.com
   - DOMAIN-SUFFIX,ipmeta.io
   - DOMAIN-SUFFIX,analytics.daasrv.net
   - DOMAIN-SUFFIX,analytics.fatmedia.io
@@ -50462,6 +50463,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,collector.bsg.brave.com
+  - DOMAIN-SUFFIX,sy.ameba.jp
+  - DOMAIN-SUFFIX,tracker.uira.live
   - DOMAIN-SUFFIX,col.surfside.io
   - DOMAIN-SUFFIX,tsn.dmcmedia.co.kr
   - DOMAIN-SUFFIX,ms.dzen.ru
@@ -53308,6 +53312,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,ulog-sdk.gifshow.com
   - DOMAIN-SUFFIX,logapi-and.zhipin.com
   - DOMAIN-SUFFIX,hilton.data.adobedc.net
