@@ -51270,6 +51270,10 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,dns-clientinfo.vtg.paramount.tech
+  - DOMAIN-SUFFIX,monitor.r53.cbsivideo.com
+  - DOMAIN-SUFFIX,monitor.ns1-s.rspcdn.net
+  - DOMAIN-SUFFIX,monitor.ns1-d.viacomtech.net
   - DOMAIN-SUFFIX,views.hulu.com
   - DOMAIN-SUFFIX,pixel.vreview.tv
   - DOMAIN-SUFFIX,d3aicbrzoy14kh.cloudfront.net
