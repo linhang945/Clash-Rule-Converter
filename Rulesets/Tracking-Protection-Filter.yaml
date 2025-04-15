@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,extreme-ip-lookup.com
+  - DOMAIN-SUFFIX,b.clipkit.co
   - DOMAIN-SUFFIX,easywebsiteanalytics.com
   - DOMAIN-SUFFIX,onelinksmartscript.appsflyer.com
   - DOMAIN-SUFFIX,pixel.wetracked.io
@@ -51269,7 +51271,7 @@ payload:
   - DOMAIN-SUFFIX,d1udjti6mtxz9q.cloudfront.net
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
-  - DOMAIN-SUFFIX,telemetry.mozilla.org
+  - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
   - DOMAIN-SUFFIX,dns-clientinfo.vtg.paramount.tech
   - DOMAIN-SUFFIX,monitor.r53.cbsivideo.com
   - DOMAIN-SUFFIX,monitor.ns1-s.rspcdn.net
@@ -54129,6 +54131,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,metrics-us.cometchat.io
+  - DOMAIN-SUFFIX,clog.weverse.io
+  - DOMAIN-SUFFIX,collection.weverse.io
   - DOMAIN-SUFFIX,report-edge.agora.io
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com
   - DOMAIN-SUFFIX,ulog-sdk.gifshow.com
