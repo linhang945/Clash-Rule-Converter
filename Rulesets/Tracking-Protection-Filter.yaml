@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,megadata.co.kr
+  - DOMAIN-SUFFIX,easytomessage.com
+  - DOMAIN-SUFFIX,unalytics.top
   - DOMAIN-SUFFIX,aisiteanalytics.com
   - DOMAIN-SUFFIX,cdnlogs.org
   - DOMAIN-SUFFIX,pushd.netky.tech
@@ -51436,6 +51439,12 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,telemetry.individual.githubcopilot.com
+  - DOMAIN-SUFFIX,realtime-logger.production-public.tubi.io
+  - DOMAIN-SUFFIX,log.kroffle.net
+  - DOMAIN-SUFFIX,web-sdk-cdn.singular.net
+  - DOMAIN-SUFFIX,tracking.ringieraxelspringer.tech
+  - DOMAIN-SUFFIX,aidsvc.netflix.com
   - DOMAIN-SUFFIX,sensor.grubhub.com
   - DOMAIN-SUFFIX,kloggyr-service.kyruus.com
   - DOMAIN-SUFFIX,geo.justwatch.com
@@ -53748,7 +53757,6 @@ payload:
   - DOMAIN-SUFFIX,targeting.tbt.arcpublishing.com
   - DOMAIN-SUFFIX,targeting.washpost.nile.works
   - DOMAIN-SUFFIX,tc-log.mattel163.com
-  - DOMAIN-SUFFIX,tc.tradetracker.net
   - DOMAIN-SUFFIX,tcheck.outbrainimg.com
   - DOMAIN-SUFFIX,tdep.hema.nl
   - DOMAIN-SUFFIX,tdep.kvk.nl
@@ -54304,6 +54312,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,adashx4id.ut.taobao.com
+  - DOMAIN-SUFFIX,analytics.us.tiktok.com
   - DOMAIN-SUFFIX,ads-privacy-api.prd.mz.internal.unity3d.com
   - DOMAIN-SUFFIX,eventsv2balanced.malpagames.com
   - DOMAIN-SUFFIX,pls.prd.mz.internal.unity3d.com
@@ -55013,6 +55023,10 @@ payload:
   - DOMAIN-SUFFIX,xlog-va.tiktokv.com
   - DOMAIN-SUFFIX,mcs-va.tiktokv.com
   - DOMAIN-SUFFIX,analytics.tiktok.com
+  - DOMAIN-SUFFIX,bts-la.ucweb.com
+  - DOMAIN-SUFFIX,intlsucus.ucweb.com
+  - DOMAIN-SUFFIX,adtrack-intl.ucweb.com
+  - DOMAIN-SUFFIX,mum.alibabachengdun.com
   - DOMAIN-SUFFIX,localytics.com
   - DOMAIN-SUFFIX,upoll.umengcloud.com
   - DOMAIN-SUFFIX,utop.umengcloud.com
