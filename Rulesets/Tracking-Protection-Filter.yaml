@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,harvest.graindata.com
+  - DOMAIN-SUFFIX,watchtower.graindata.com
   - DOMAIN-SUFFIX,megadata.co.kr
   - DOMAIN-SUFFIX,easytomessage.com
   - DOMAIN-SUFFIX,unalytics.top
@@ -51439,6 +51441,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,pipeline.rd.nl
+  - DOMAIN-SUFFIX,ocular.hotukdeals.com
   - DOMAIN-SUFFIX,telemetry.individual.githubcopilot.com
   - DOMAIN-SUFFIX,realtime-logger.production-public.tubi.io
   - DOMAIN-SUFFIX,log.kroffle.net
