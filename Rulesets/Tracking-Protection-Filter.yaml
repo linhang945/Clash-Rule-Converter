@@ -5,6 +5,21 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,kib.hu
+  - DOMAIN-SUFFIX,sst.hostnet.nl
+  - DOMAIN-SUFFIX,api.visitorapi.com
+  - DOMAIN-SUFFIX,analytics.scorpion.co
+  - DOMAIN-SUFFIX,tagging.shiftdigitalapps.io
+  - DOMAIN-SUFFIX,adat.videa.hu
+  - DOMAIN-SUFFIX,adat.ingatlanbazar.hu
+  - DOMAIN-SUFFIX,adat.she.life.hu
+  - DOMAIN-SUFFIX,adat.metropol.hu
+  - DOMAIN-SUFFIX,pt.ispot.tv
+  - DOMAIN-SUFFIX,d3lqotgbn3npr.cloudfront.net
+  - DOMAIN-SUFFIX,cdn-v3.conductrics.net
+  - DOMAIN-SUFFIX,analytics.adjust.com
+  - DOMAIN-SUFFIX,analytics.adjust.net.in
+  - DOMAIN-SUFFIX,analytics.adjust.world
   - DOMAIN-SUFFIX,rakutenadvertising.io
   - DOMAIN-SUFFIX,harvest.graindata.com
   - DOMAIN-SUFFIX,watchtower.graindata.com
@@ -51721,6 +51736,68 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,utiq.bfmtv.com
+  - DOMAIN-SUFFIX,sgtm.casamundo.de
+  - DOMAIN-SUFFIX,sgtm.depaul.edu
+  - DOMAIN-SUFFIX,sgtm.fewoferien.de
+  - DOMAIN-SUFFIX,sgtm.holidayhomes.com
+  - DOMAIN-SUFFIX,sgtm.hometogo.pt
+  - DOMAIN-SUFFIX,sgtm.iu-fernstudium.de
+  - DOMAIN-SUFFIX,sgtm.mon-maire.fr
+  - DOMAIN-SUFFIX,sgtm.nisulaforest.com
+  - DOMAIN-SUFFIX,sgtm.onecall.no
+  - DOMAIN-SUFFIX,sgtm.piuchepuoi.it
+  - DOMAIN-SUFFIX,sgtm.stihl.ru
+  - DOMAIN-SUFFIX,sgtm.tripping.com
+  - DOMAIN-SUFFIX,sgtm.walbrook.ac.uk
+  - DOMAIN-SUFFIX,sst.altenpflege-online.net
+  - DOMAIN-SUFFIX,sst.mkb-brandstof.nl
+  - DOMAIN-SUFFIX,data.festool.pl
+  - DOMAIN-SUFFIX,stape.brascast.com
+  - DOMAIN-SUFFIX,tagging.040fit.nl
+  - DOMAIN-SUFFIX,tagging.4-pieds.com
+  - DOMAIN-SUFFIX,tagging.anker18.be
+  - DOMAIN-SUFFIX,tagging.argentorshop.be
+  - DOMAIN-SUFFIX,tagging.avetica.nl
+  - DOMAIN-SUFFIX,tagging.bedrijventekoop.nl
+  - DOMAIN-SUFFIX,tagging.bourbon-sleeckx.com
+  - DOMAIN-SUFFIX,tagging.debontewever.nl
+  - DOMAIN-SUFFIX,tagging.dekeij.nl
+  - DOMAIN-SUFFIX,tagging.egveranda.nl
+  - DOMAIN-SUFFIX,tagging.eric-bompard.com
+  - DOMAIN-SUFFIX,tagging.ifa-formation.fr
+  - DOMAIN-SUFFIX,tagging.in-garden.nl
+  - DOMAIN-SUFFIX,tagging.innopet.nl
+  - DOMAIN-SUFFIX,tagging.kersbergen.nl
+  - DOMAIN-SUFFIX,tagging.kroftman.com
+  - DOMAIN-SUFFIX,tagging.la-toulousaine.com
+  - DOMAIN-SUFFIX,tagging.loonserviceburo.nl
+  - DOMAIN-SUFFIX,tagging.medexs.com
+  - DOMAIN-SUFFIX,tagging.michelonfray.com
+  - DOMAIN-SUFFIX,tagging.montessori-passepartout.nl
+  - DOMAIN-SUFFIX,tagging.mozzeno.com
+  - DOMAIN-SUFFIX,tagging.mydodow.com
+  - DOMAIN-SUFFIX,tagging.numafa.com
+  - DOMAIN-SUFFIX,tagging.o2.fr
+  - DOMAIN-SUFFIX,tagging.omix.nl
+  - DOMAIN-SUFFIX,tagging.on-route.nl
+  - DOMAIN-SUFFIX,tagging.plissehordeurenwebshop.nl
+  - DOMAIN-SUFFIX,tagging.poederbaas.com
+  - DOMAIN-SUFFIX,tagging.pu.nl
+  - DOMAIN-SUFFIX,tagging.qminder.com
+  - DOMAIN-SUFFIX,tagging.rentwereld.nl
+  - DOMAIN-SUFFIX,tagging.rodimedia.nl
+  - DOMAIN-SUFFIX,tagging.sanoflore.fr
+  - DOMAIN-SUFFIX,tagging.seniorenalarmen.nl
+  - DOMAIN-SUFFIX,tagging.stieglitz.nl
+  - DOMAIN-SUFFIX,tagging.systemyzawieszen.pl
+  - DOMAIN-SUFFIX,tagging.utwente.nl
+  - DOMAIN-SUFFIX,tagging.veda.ch
+  - DOMAIN-SUFFIX,tagging.vhdakkapellen.nl
+  - DOMAIN-SUFFIX,tagging.woodtex.be
+  - DOMAIN-SUFFIX,tagging.work21.nl
+  - DOMAIN-SUFFIX,open-analytics.hrw.org
+  - DOMAIN-SUFFIX,counter.asobeans.jp
   - DOMAIN-SUFFIX,intelligence.xnews.one
   - DOMAIN-SUFFIX,log.tosspayments.com
   - DOMAIN-SUFFIX,event.tosspayments.com
@@ -54456,6 +54533,7 @@ payload:
   - DOMAIN-SUFFIX,essential-apps-analytics.herokuapp.com
   - DOMAIN-SUFFIX,d10vy5gom1ed53.cloudfront.net
   - DOMAIN-SUFFIX,um-public-panel-prod.s3.amazonaws.com
+  - DOMAIN-SUFFIX,web-perf.booking.com
   - DOMAIN-SUFFIX,biv.gazeta.pl
   - DOMAIN-SUFFIX,dygassets.dygdigital.com
   - DOMAIN-SUFFIX,analytics.chita.ru
@@ -54598,6 +54676,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,mob2.mymusic2025.com
+  - DOMAIN-SUFFIX,mosspf.net
+  - DOMAIN-SUFFIX,event-us.ssp.taxssp.com
+  - DOMAIN-SUFFIX,event.meloshort.com
   - DOMAIN-SUFFIX,hb-af-us-central1.outfit7.com
   - DOMAIN-SUFFIX,at-af.outfit7.com
   - DOMAIN-SUFFIX,bidder.dsp.outfit7.com
