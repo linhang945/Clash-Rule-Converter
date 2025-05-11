@@ -6,6 +6,8 @@ payload:
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
   - DOMAIN-SUFFIX,kib.hu
+  - DOMAIN-SUFFIX,analizador.dphuesca.es
+  - DOMAIN-SUFFIX,imonomy.com
   - DOMAIN-SUFFIX,mrgr.me
   - DOMAIN-SUFFIX,analytics.turk.pro
   - DOMAIN-SUFFIX,metric-api.newrelic.com
@@ -512,7 +514,6 @@ payload:
   - DOMAIN-SUFFIX,shuzilm.cn
   - DOMAIN-SUFFIX,adxlog-adnet.vivo.com.cn
   - DOMAIN-SUFFIX,user-analysis.7moor.com
-  - DOMAIN-SUFFIX,sirdata.io
   - DOMAIN-SUFFIX,t.counter.dev
   - DOMAIN-SUFFIX,cdn.counter.dev
   - DOMAIN-SUFFIX,log.collectaction.com
@@ -52129,6 +52130,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracking.apprubeus.com.br
+  - DOMAIN-SUFFIX,tms.abconsent.com
   - DOMAIN-SUFFIX,ap.attainplatform.io
   - DOMAIN-SUFFIX,views-dual.hulu.com
   - DOMAIN-SUFFIX,ichnaea.dradis.netflix.com
