@@ -78,6 +78,7 @@ payload:
   - DOMAIN-SUFFIX,cookiefirst.com
   - DOMAIN-SUFFIX,hs-banner.com
   - DOMAIN-SUFFIX,hs-scripts.com
+  - DOMAIN-SUFFIX,cookiehub.eu
   - DOMAIN-SUFFIX,cookiehub.net
   - DOMAIN-SUFFIX,cdn.opencmp.net
   - DOMAIN-SUFFIX,cookie-switch.viminds.de
@@ -160,6 +161,11 @@ payload:
   - DOMAIN-SUFFIX,cookiewarden-content.teb.com.tr
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
+  - DOMAIN-SUFFIX,soilcontent.com
+  - DOMAIN-SUFFIX,scenicchicago.com
+  - DOMAIN-SUFFIX,boiledegglabs.com
+  - DOMAIN-SUFFIX,agonyshark.com
+  - DOMAIN-SUFFIX,joyouspool.com
   - DOMAIN-SUFFIX,captivatingcanyon.com
   - DOMAIN-SUFFIX,digithalo.com
   - DOMAIN-SUFFIX,bahamashello.com
