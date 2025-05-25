@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,beacon.geniee.jp
+  - DOMAIN-SUFFIX,xanalytics.vip
+  - DOMAIN-SUFFIX,stat1.clickfraud.ru
+  - DOMAIN-SUFFIX,gator.volces.com
   - DOMAIN-SUFFIX,justid.io
   - DOMAIN-SUFFIX,b.videoamp.com
   - DOMAIN-SUFFIX,pi.ispot.tv
@@ -54192,6 +54196,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,cdp.yna.co.kr
   - DOMAIN-SUFFIX,ingestion.webanalytics.italia.it
   - DOMAIN-SUFFIX,njoevqi1nx.hockerty.com
   - DOMAIN-SUFFIX,analytics.lunarclientprod.com
@@ -57157,6 +57162,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,fp-it.fengkongcloud.com
+  - DOMAIN-SUFFIX,api-fp-retry-bj.fengkongcloud.com
   - DOMAIN-SUFFIX,app-tracking.hlogo.de
   - DOMAIN-SUFFIX,px.wpk.quark.cn
   - DOMAIN-SUFFIX,uc9.ucweb.com
@@ -57243,11 +57250,16 @@ payload:
   - DOMAIN-SUFFIX,log.documentmanagerpdfdocxlssale.live
   - DOMAIN-SUFFIX,stats.samsungpass.com
   - DOMAIN-SUFFIX,log.pdfviewerscannerstore.live
+  - DOMAIN-SUFFIX,log-sg.capcutapi.com
+  - DOMAIN-SUFFIX,mon-sg.capcutapi.com
+  - DOMAIN-SUFFIX,tnc-sg.capcutapi.com
+  - DOMAIN-SUFFIX,tnc-boot.capcutapi.com
+  - DOMAIN-SUFFIX,tnc-va-us-looki.capcutapi.com
   - DOMAIN-SUFFIX,mon-va-us-looki.capcutapi.com
+  - DOMAIN-SUFFIX,log-va-us-looki.capcutapi.com
   - DOMAIN-SUFFIX,metrics-prod.suno.com
   - DOMAIN-SUFFIX,logs-ingress.svc.vinted.com
   - DOMAIN-SUFFIX,analytics.baliusuperapp.xyz
-  - DOMAIN-SUFFIX,log-va-us-looki.capcutapi.com
   - DOMAIN-SUFFIX,analytics.hardlightgames.com
   - DOMAIN-SUFFIX,plankton-gtm.a.autoscout24.com
   - DOMAIN-SUFFIX,pangle-b.io
@@ -57576,6 +57588,7 @@ payload:
   - DOMAIN-SUFFIX,collector.vhx.tv
   - DOMAIN-SUFFIX,analytics-server.gimbal.com
   - DOMAIN-SUFFIX,log-tb.sgsnssdk.com
+  - DOMAIN-SUFFIX,rtlog.byteoversea.com
   - DOMAIN-SUFFIX,xlog.byteoversea.com
   - DOMAIN-SUFFIX,ug-sg.byteoversea.com
   - DOMAIN-SUFFIX,tracking.aldi-international.com
