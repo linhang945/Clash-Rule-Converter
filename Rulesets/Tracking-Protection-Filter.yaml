@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,reco.target2sell.com
+  - DOMAIN-SUFFIX,t.tnafpt.com
+  - DOMAIN-SUFFIX,getmetrical.com
+  - DOMAIN-SUFFIX,trt-scripts.usedrop.io
+  - DOMAIN-SUFFIX,trt.usedrop.io
+  - DOMAIN-SUFFIX,pj.l.liftdsp.com
   - DOMAIN-SUFFIX,beacon.geniee.jp
   - DOMAIN-SUFFIX,xanalytics.vip
   - DOMAIN-SUFFIX,stat1.clickfraud.ru
@@ -54166,6 +54172,14 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,telegraph.prd.api.bleacherreport.com
+  - DOMAIN-SUFFIX,gmss.use1.prd.api.discomax.com
+  - DOMAIN-SUFFIX,events.shoplift.ai
+  - DOMAIN-SUFFIX,flxr.myplan-c.com
+  - DOMAIN-SUFFIX,seghg.hottopic.com
+  - DOMAIN-SUFFIX,imgsct.cookiebot.com
+  - DOMAIN-SUFFIX,img.sct.eu1.usercentrics.eu
+  - DOMAIN-SUFFIX,segapi.splice.com
   - DOMAIN-SUFFIX,t.illuma-tech.com
   - DOMAIN-SUFFIX,experiment-variant.baemin.com
   - DOMAIN-SUFFIX,cdp.yna.co.kr
@@ -57226,9 +57240,6 @@ payload:
   - DOMAIN-SUFFIX,mon-sg.capcutapi.com
   - DOMAIN-SUFFIX,tnc-sg.capcutapi.com
   - DOMAIN-SUFFIX,tnc-boot.capcutapi.com
-  - DOMAIN-SUFFIX,tnc-va-us-looki.capcutapi.com
-  - DOMAIN-SUFFIX,mon-va-us-looki.capcutapi.com
-  - DOMAIN-SUFFIX,log-va-us-looki.capcutapi.com
   - DOMAIN-SUFFIX,metrics-prod.suno.com
   - DOMAIN-SUFFIX,logs-ingress.svc.vinted.com
   - DOMAIN-SUFFIX,analytics.baliusuperapp.xyz
