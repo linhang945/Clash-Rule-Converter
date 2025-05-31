@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,smb-ecommerce-upsell.rokt.com
+  - DOMAIN-SUFFIX,trueprofit.io
   - DOMAIN-SUFFIX,reco.target2sell.com
   - DOMAIN-SUFFIX,t.tnafpt.com
   - DOMAIN-SUFFIX,getmetrical.com
@@ -924,7 +926,8 @@ payload:
   - DOMAIN-SUFFIX,bvr.ast.snva.jp
   - DOMAIN-SUFFIX,kantartns.lt
   - DOMAIN-SUFFIX,trk2-wtb.swaven.com
-  - DOMAIN-SUFFIX,firstpromoter.com
+  - DOMAIN-SUFFIX,t.firstpromoter.com
+  - DOMAIN-SUFFIX,cdn.firstpromoter.com
   - DOMAIN-SUFFIX,st.hbrd.io
   - DOMAIN-SUFFIX,sgtm.sefamerve.com
   - DOMAIN-SUFFIX,analytics-api.statvoo.com
@@ -54172,6 +54175,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,statistics-collector-api.listglobally.com
   - DOMAIN-SUFFIX,telegraph.prd.api.bleacherreport.com
   - DOMAIN-SUFFIX,gmss.use1.prd.api.discomax.com
   - DOMAIN-SUFFIX,events.shoplift.ai
@@ -57148,6 +57152,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,hz-telemetry.adobe.io
+  - DOMAIN-SUFFIX,smartcard.apps.coloros.com
   - DOMAIN-SUFFIX,fp-it.fengkongcloud.com
   - DOMAIN-SUFFIX,api-fp-retry-bj.fengkongcloud.com
   - DOMAIN-SUFFIX,app-tracking.hlogo.de
