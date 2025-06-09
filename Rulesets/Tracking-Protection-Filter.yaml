@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,m6ulblxep4.execute-api.us-east-1.amazonaws.com
+  - DOMAIN-SUFFIX,api.instant.one
   - DOMAIN-SUFFIX,datadog.pool.ntp.org
   - DOMAIN-SUFFIX,pubtrky.com
   - DOMAIN-SUFFIX,logs2.sportslocalmedia.com
@@ -54308,6 +54310,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.emforce.co.kr
+  - DOMAIN-SUFFIX,track.ssg.com
   - DOMAIN-SUFFIX,c2-eu.piano.io
   - DOMAIN-SUFFIX,proxima.midjourney.com
   - DOMAIN-SUFFIX,e.aimerce.ai
