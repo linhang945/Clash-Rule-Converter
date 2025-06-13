@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,privacy.condenastdigital.com
   - DOMAIN-SUFFIX,consent.studio
   - DOMAIN-SUFFIX,cmpv2.tori.fi
   - DOMAIN-SUFFIX,cookies.pro-idea.cz
@@ -160,6 +161,7 @@ payload:
   - DOMAIN-SUFFIX,cookiewarden-content.teb.com.tr
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
+  - DOMAIN-SUFFIX,boatpaper.com
   - DOMAIN-SUFFIX,neatbadger.com
   - DOMAIN-SUFFIX,canvasandsocks.com
   - DOMAIN-SUFFIX,thefishstops.com
@@ -1084,7 +1086,6 @@ payload:
   - DOMAIN-SUFFIX,catchynews.net
   - DOMAIN-SUFFIX,cdn.carrotquest.io
   - DOMAIN-SUFFIX,cdn.gravitec.net
-  - DOMAIN-SUFFIX,cdn.instadrama.site
   - DOMAIN-SUFFIX,cdn.letreach.com
   - DOMAIN-SUFFIX,cdn.mxapis.com
   - DOMAIN-SUFFIX,cdn.p-n.io
@@ -1594,7 +1595,6 @@ payload:
   - DOMAIN-SUFFIX,widgets.opinary.com
   - DOMAIN-SUFFIX,app.mycountrytalks.org
   - DOMAIN-SUFFIX,nofluffjobs.com
-  - DOMAIN-SUFFIX,widgets.digitalmediacommunications.com
   - DOMAIN-SUFFIX,widgets.jobbio.com
   - DOMAIN-SUFFIX,btxliveprice.kceyazilim.com
   - DOMAIN-SUFFIX,widgets.coingecko.com

@@ -79,7 +79,6 @@ payload:
   - DOMAIN-SUFFIX,watchtower.graindata.com
   - DOMAIN-SUFFIX,megadata.co.kr
   - DOMAIN-SUFFIX,easytomessage.com
-  - DOMAIN-SUFFIX,unalytics.top
   - DOMAIN-SUFFIX,aisiteanalytics.com
   - DOMAIN-SUFFIX,cdnlogs.org
   - DOMAIN-SUFFIX,pushd.netky.tech
@@ -672,7 +671,6 @@ payload:
   - DOMAIN-SUFFIX,wazimo.com
   - DOMAIN-SUFFIX,doppler-beacons.cbsivideo.com
   - DOMAIN-SUFFIX,events.askjdhaa.com
-  - DOMAIN-SUFFIX,tikstok.fun
   - DOMAIN-SUFFIX,smart.idmnet.pl
   - DOMAIN-SUFFIX,pollster.pl
   - DOMAIN-SUFFIX,x9.shinobi.jp
@@ -697,7 +695,6 @@ payload:
   - DOMAIN-SUFFIX,hermes.allo-media.net
   - DOMAIN-SUFFIX,cdn.cohesionapps.com
   - DOMAIN-SUFFIX,c212.net
-  - DOMAIN-SUFFIX,imp.xmax.jp
   - DOMAIN-SUFFIX,analytics.audionow.de
   - DOMAIN-SUFFIX,cdn.kaizenplatform.net
   - DOMAIN-SUFFIX,oaprodlogging.yo-digital.com
@@ -989,7 +986,6 @@ payload:
   - DOMAIN-SUFFIX,trk-egestas.com
   - DOMAIN-SUFFIX,d41.co
   - DOMAIN-SUFFIX,tags.soloway.ru
-  - DOMAIN-SUFFIX,instadrama.site
   - DOMAIN-SUFFIX,shoplytics.com
   - DOMAIN-SUFFIX,analytics.tradedoubler.com
   - DOMAIN-SUFFIX,edgrmtracking.com
@@ -1512,7 +1508,6 @@ payload:
   - DOMAIN-SUFFIX,lk.vectoranalytics.ru
   - DOMAIN-SUFFIX,track.saygames.io
   - DOMAIN-SUFFIX,stats.datawrapper.de
-  - DOMAIN-SUFFIX,bigdata.riamedia.com.ua
   - DOMAIN-SUFFIX,track.adabra.com
   - DOMAIN-SUFFIX,reindaks.com
   - DOMAIN-SUFFIX,go.rcvlinks.com
@@ -1620,7 +1615,6 @@ payload:
   - DOMAIN-SUFFIX,pymx5.com
   - DOMAIN-SUFFIX,ubiquitousyard.com
   - DOMAIN-SUFFIX,i.compendium.com
-  - DOMAIN-SUFFIX,statsp.fpop.net
   - DOMAIN-SUFFIX,conductrics.com
   - DOMAIN-SUFFIX,api.cazamba.com
   - DOMAIN-SUFFIX,maliva-mcs.byteoversea.com
@@ -3428,7 +3422,6 @@ payload:
   - DOMAIN-SUFFIX,trailheadapp.com
   - DOMAIN-SUFFIX,trakken.de
   - DOMAIN-SUFFIX,treehousei.com
-  - DOMAIN-SUFFIX,trendcounter.com
   - DOMAIN-SUFFIX,trendcounter.de
   - DOMAIN-SUFFIX,trendemon.com
   - DOMAIN-SUFFIX,triggeredmessaging.com
@@ -53917,6 +53910,12 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,stats.anime-go.cc
+  - DOMAIN-SUFFIX,kamp.daum.net
+  - DOMAIN-SUFFIX,netmarbleslog.netmarble.com
+  - DOMAIN-SUFFIX,slf.fugu-it.com
+  - DOMAIN-SUFFIX,ukadh.livelyroot.com
+  - DOMAIN-SUFFIX,api.blackcrow.ai
   - DOMAIN-SUFFIX,analytics.python.org
   - DOMAIN-SUFFIX,t.danielwellington.com
   - DOMAIN-SUFFIX,analytics.emforce.co.kr
@@ -55655,7 +55654,6 @@ payload:
   - DOMAIN-SUFFIX,hi.hellobar.com
   - DOMAIN-SUFFIX,hindsight.significanceapps.com
   - DOMAIN-SUFFIX,hit.darmoweliczniki.pl
-  - DOMAIN-SUFFIX,hit.demirorenteknoloji.com
   - DOMAIN-SUFFIX,hit.mynet.com
   - DOMAIN-SUFFIX,hits.dealer.com
   - DOMAIN-SUFFIX,hits.theguardian.com
@@ -56054,7 +56052,6 @@ payload:
   - DOMAIN-SUFFIX,sp.bucyrustelegraphforum.com
   - DOMAIN-SUFFIX,sp.burlingtonfreepress.com
   - DOMAIN-SUFFIX,sp.caller.com
-  - DOMAIN-SUFFIX,sp.centralfloridafuture.com
   - DOMAIN-SUFFIX,sp.chillicothegazette.com
   - DOMAIN-SUFFIX,sp.cincinnati.com
   - DOMAIN-SUFFIX,sp.citizen-times.com
@@ -56364,13 +56361,11 @@ payload:
   - DOMAIN-SUFFIX,trac.clicplan.fr
   - DOMAIN-SUFFIX,trac.clicplan.it
   - DOMAIN-SUFFIX,trac.couponandgo.co.uk
-  - DOMAIN-SUFFIX,trac.couponandgo.com
   - DOMAIN-SUFFIX,trac.oferting.co.uk
   - DOMAIN-SUFFIX,trac.oferting.es
   - DOMAIN-SUFFIX,trac.oferting.fr
   - DOMAIN-SUFFIX,trac.oferting.it
   - DOMAIN-SUFFIX,trac.oferting.net
-  - DOMAIN-SUFFIX,trac.oferting.org
   - DOMAIN-SUFFIX,tracelog.www.alibaba.com
   - DOMAIN-SUFFIX,track.analitycs.net
   - DOMAIN-SUFFIX,track.audtd.com
@@ -56864,6 +56859,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,data-detect.nie.easebar.com
   - DOMAIN-SUFFIX,urbanairship.com
   - DOMAIN-SUFFIX,hz-telemetry.adobe.io
   - DOMAIN-SUFFIX,smartcard.apps.coloros.com
