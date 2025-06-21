@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tg.meitu.com
+  - DOMAIN-SUFFIX,telemetrydeck.com
+  - DOMAIN-SUFFIX,usrpubtrk.com
   - DOMAIN-SUFFIX,superboosty.com
   - DOMAIN-SUFFIX,dyn-rev.app
   - DOMAIN-SUFFIX,bxtag.com
@@ -2576,7 +2579,6 @@ payload:
   - DOMAIN-SUFFIX,interaktiv-net.de
   - DOMAIN-SUFFIX,interceptum.com
   - DOMAIN-SUFFIX,intergid.ru
-  - DOMAIN-SUFFIX,intergient.com
   - DOMAIN-SUFFIX,interhits.de
   - DOMAIN-SUFFIX,internetmap.info
   - DOMAIN-SUFFIX,interstateanalytics.com
@@ -14579,7 +14581,6 @@ payload:
   - DOMAIN-SUFFIX,dogo.intel.co.jp
   - DOMAIN-SUFFIX,dogo.intel.co.kr
   - DOMAIN-SUFFIX,dogo.intel.co.uk
-  - DOMAIN-SUFFIX,dogo.intel.com
   - DOMAIN-SUFFIX,dogo.intel.com.au
   - DOMAIN-SUFFIX,dogo.intel.com.br
   - DOMAIN-SUFFIX,dogo.intel.com.tw
@@ -54002,6 +54003,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracker.projektn.sk
   - DOMAIN-SUFFIX,stats.pixeldrain.com
   - DOMAIN-SUFFIX,dd.reuters.com
   - DOMAIN-SUFFIX,nexus.uniten.io
@@ -55705,7 +55707,6 @@ payload:
   - DOMAIN-SUFFIX,fp.kakaku.com
   - DOMAIN-SUFFIX,frog.yuanfudao.com
   - DOMAIN-SUFFIX,front.optimonk.com
-  - DOMAIN-SUFFIX,funn.graphiq.com
   - DOMAIN-SUFFIX,ga.clearbit.com
   - DOMAIN-SUFFIX,gak.webtoons.com
   - DOMAIN-SUFFIX,gather.donga.com
