@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,youseasky.com
+  - DOMAIN-SUFFIX,sra-px.cdn-fileserver.com
+  - DOMAIN-SUFFIX,rsra.cdn-fileserver.com
+  - DOMAIN-SUFFIX,rsras.cdn-fileserver.com
+  - DOMAIN-SUFFIX,rsra-ph.cdn-fileserver.com
+  - DOMAIN-SUFFIX,rsras-ph.cdn-fileserver.com
   - DOMAIN-SUFFIX,tg.meitu.com
   - DOMAIN-SUFFIX,telemetrydeck.com
   - DOMAIN-SUFFIX,usrpubtrk.com
@@ -22468,7 +22474,6 @@ payload:
   - DOMAIN-SUFFIX,ssmr2.so-net.ne.jp
   - DOMAIN-SUFFIX,sstatistikk.talkmore.no
   - DOMAIN-SUFFIX,sstatistikk.telenor.no
-  - DOMAIN-SUFFIX,sstats.adobe.com
   - DOMAIN-SUFFIX,sstats.airfarewatchdog.co.uk
   - DOMAIN-SUFFIX,sstats.airfarewatchdog.com
   - DOMAIN-SUFFIX,sstats.alfa.com
@@ -53262,6 +53267,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,collector.fullxh.com
+  - DOMAIN-SUFFIX,collector.xhamster.com
+  - DOMAIN-SUFFIX,ss.samolet.ru
   - DOMAIN-SUFFIX,agent-server.sc-api.seaart.ai
   - DOMAIN-SUFFIX,reqstat.api.mega.co.nz
   - DOMAIN-SUFFIX,tracker.projektn.sk
