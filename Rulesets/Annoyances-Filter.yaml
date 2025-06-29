@@ -160,6 +160,8 @@ payload:
   - DOMAIN-SUFFIX,cookiewarden-content.teb.com.tr
   - DOMAIN-SUFFIX,7q1z79gxsi.global.ssl.fastly.net
   - DOMAIN-SUFFIX,eurogamer-uk.eurogamer.net
+  - DOMAIN-SUFFIX,golfcartlaws.com
+  - DOMAIN-SUFFIX,thebigvan.com
   - DOMAIN-SUFFIX,yourlifedream.com
   - DOMAIN-SUFFIX,abilityscale.com
   - DOMAIN-SUFFIX,abstractedauthority.com
@@ -788,12 +790,10 @@ payload:
   - DOMAIN-SUFFIX,luminousboulevard.com
   - DOMAIN-SUFFIX,verdantlabyrinth.com
   - DOMAIN-SUFFIX,mooncrustpizza.com
-  - DOMAIN-SUFFIX,furnstudio.com
   - DOMAIN-SUFFIX,enterdrama.com
   - DOMAIN-SUFFIX,friendlycrayon.com
   - DOMAIN-SUFFIX,mowgoats.com
   - DOMAIN-SUFFIX,skullmagnets.com
-  - DOMAIN-SUFFIX,bearmoonlodge.com
   - DOMAIN-SUFFIX,startercost.com
   - DOMAIN-SUFFIX,shydinosaurs.com
   - DOMAIN-SUFFIX,stretchsquirrel.com
@@ -806,20 +806,14 @@ payload:
   - DOMAIN-SUFFIX,brandsfive.com
   - DOMAIN-SUFFIX,washbanana.com
   - DOMAIN-SUFFIX,accountsdoor.com
-  - DOMAIN-SUFFIX,landandfloor.com
-  - DOMAIN-SUFFIX,astralhustle.com
   - DOMAIN-SUFFIX,monacobeatles.com
-  - DOMAIN-SUFFIX,proofconvert.com
-  - DOMAIN-SUFFIX,freakyglass.com
   - DOMAIN-SUFFIX,lyricshook.com
-  - DOMAIN-SUFFIX,tuneupcoffee.com
   - DOMAIN-SUFFIX,etherealpinnacle.com
   - DOMAIN-SUFFIX,lonelyflavor.com
   - DOMAIN-SUFFIX,chivalrouscord.com
   - DOMAIN-SUFFIX,consumerzero.com
   - DOMAIN-SUFFIX,safetybrush.com
   - DOMAIN-SUFFIX,melodiouscomposition.com
-  - DOMAIN-SUFFIX,westpalmweb.com
   - DOMAIN-SUFFIX,scenicdrops.com
   - DOMAIN-SUFFIX,rehabilitatereason.com
   - DOMAIN-SUFFIX,nimbleplot.com
@@ -1143,7 +1137,6 @@ payload:
   - DOMAIN-SUFFIX,selectivesummer.com
   - DOMAIN-SUFFIX,piquantpigs.com
   - DOMAIN-SUFFIX,decisivedrawer.com
-  - DOMAIN-SUFFIX,showsteel.com
   - DOMAIN-SUFFIX,sugarcurtain.com
   - DOMAIN-SUFFIX,ultraoranges.com
   - DOMAIN-SUFFIX,aheadday.com
@@ -1310,14 +1303,8 @@ payload:
   - DOMAIN-SUFFIX,audioarctic.com
   - DOMAIN-SUFFIX,boringberry.com
   - DOMAIN-SUFFIX,guiltlessbasketball.com
-  - DOMAIN-SUFFIX,nothingmethod.com
   - DOMAIN-SUFFIX,scrollservice.com
   - DOMAIN-SUFFIX,desiredirt.com
-  - DOMAIN-SUFFIX,sablesmile.com
-  - DOMAIN-SUFFIX,virgoplato.com
-  - DOMAIN-SUFFIX,drawservant.com
-  - DOMAIN-SUFFIX,blotburn.com
-  - DOMAIN-SUFFIX,diplomahawaii.com
   - DOMAIN-SUFFIX,trappush.com
   - DOMAIN-SUFFIX,venusgloria.com
   - DOMAIN-SUFFIX,typicalairplane.com
@@ -1327,7 +1314,6 @@ payload:
   - DOMAIN-SUFFIX,brandybison.com
   - DOMAIN-SUFFIX,conditioncrush.com
   - DOMAIN-SUFFIX,warnwing.com
-  - DOMAIN-SUFFIX,tumblebirds.com
   - DOMAIN-SUFFIX,emptyescort.com
   - DOMAIN-SUFFIX,burnbubble.com
   - DOMAIN-SUFFIX,aboardamusement.com
@@ -1336,7 +1322,6 @@ payload:
   - DOMAIN-SUFFIX,energeticexample.com
   - DOMAIN-SUFFIX,meremark.com
   - DOMAIN-SUFFIX,fearfulfish.com
-  - DOMAIN-SUFFIX,mundanepollution.com
   - DOMAIN-SUFFIX,reconditerake.com
   - DOMAIN-SUFFIX,coordinatedcoat.com
   - DOMAIN-SUFFIX,writewealth.com
@@ -1396,7 +1381,6 @@ payload:
   - DOMAIN-SUFFIX,nostalgicneed.com
   - DOMAIN-SUFFIX,dollardelta.com
   - DOMAIN-SUFFIX,bravecalculator.com
-  - DOMAIN-SUFFIX,podiumpresto.com
   - DOMAIN-SUFFIX,mindlessmark.com
   - DOMAIN-SUFFIX,somberscarecrow.com
   - DOMAIN-SUFFIX,lackadaisicalkite.com
@@ -1567,7 +1551,6 @@ payload:
   - DOMAIN-SUFFIX,tradeins.ru
   - DOMAIN-SUFFIX,traq.li
   - DOMAIN-SUFFIX,trbo.com
-  - DOMAIN-SUFFIX,tvcok.ru
   - DOMAIN-SUFFIX,widget.pico.tools
   - DOMAIN-SUFFIX,widget.privy.com
   - DOMAIN-SUFFIX,vote.sibnet.ru
@@ -1595,7 +1578,6 @@ payload:
   - DOMAIN-SUFFIX,getback.ch
   - DOMAIN-SUFFIX,vokayatus.com
   - DOMAIN-SUFFIX,migineg.com
-  - DOMAIN-SUFFIX,push.msgby.ru
   - DOMAIN-SUFFIX,us-pub.dengage.com
   - DOMAIN-SUFFIX,gipahetus.com
   - DOMAIN-SUFFIX,push.ilovelanguages.com
@@ -1636,7 +1618,6 @@ payload:
   - DOMAIN-SUFFIX,bigreal.org
   - DOMAIN-SUFFIX,bildirim.net
   - DOMAIN-SUFFIX,bildirimci.net
-  - DOMAIN-SUFFIX,bildirnet.com
   - DOMAIN-SUFFIX,bildirt.com
   - DOMAIN-SUFFIX,bitmakerz.biz
   - DOMAIN-SUFFIX,bosspush.com
@@ -1702,7 +1683,6 @@ payload:
   - DOMAIN-SUFFIX,hrbpark.bid
   - DOMAIN-SUFFIX,informfeed.ru
   - DOMAIN-SUFFIX,inspirenews.net
-  - DOMAIN-SUFFIX,install.searchfrit.com
   - DOMAIN-SUFFIX,ittorchicer.com
   - DOMAIN-SUFFIX,izooto.com
   - DOMAIN-SUFFIX,jagevirom.com
@@ -1812,7 +1792,6 @@ payload:
   - DOMAIN-SUFFIX,pushsar.com
   - DOMAIN-SUFFIX,pushwelcome.com
   - DOMAIN-SUFFIX,pushwoosh.com
-  - DOMAIN-SUFFIX,reallypab.com
   - DOMAIN-SUFFIX,realpush.media
   - DOMAIN-SUFFIX,relateddigital.com
   - DOMAIN-SUFFIX,rocket-push.com
