@@ -5,6 +5,13 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,transaction-watcher-2.littledata.io
+  - DOMAIN-SUFFIX,mirabelanalytics.com
+  - DOMAIN-SUFFIX,dashboard.heatmap.com
+  - DOMAIN-SUFFIX,cdn.listrakbi.com
+  - DOMAIN-SUFFIX,cdn.aimtell.com
+  - DOMAIN-SUFFIX,upstackified.com
+  - DOMAIN-SUFFIX,upstackdata.io
   - DOMAIN-SUFFIX,ana.uhyou.com
   - DOMAIN-SUFFIX,analytics.ticimax.cloud
   - DOMAIN-SUFFIX,adsmoloco.com
@@ -380,7 +387,6 @@ payload:
   - DOMAIN-SUFFIX,events-ingestion.services.gorgias.com
   - DOMAIN-SUFFIX,accuratecoal.com
   - DOMAIN-SUFFIX,sdk-cdn.optimove.net
-  - DOMAIN-SUFFIX,datadome.co
   - DOMAIN-SUFFIX,metrics.kmsmep.com
   - DOMAIN-SUFFIX,cs.zg-api.com
   - DOMAIN-SUFFIX,e.zg-api.com
@@ -2916,6 +2922,7 @@ payload:
   - DOMAIN-SUFFIX,pages05.net
   - DOMAIN-SUFFIX,pagesense.com
   - DOMAIN-SUFFIX,parameter.dk
+  - DOMAIN-SUFFIX,parklogic.com
   - DOMAIN-SUFFIX,parrable.com
   - DOMAIN-SUFFIX,pass-1234.com
   - DOMAIN-SUFFIX,pc-agency24.de
@@ -53561,6 +53568,12 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,m.techpump.com
+  - DOMAIN-SUFFIX,d1vg5xiq7qffdj.cloudfront.net
+  - DOMAIN-SUFFIX,inbound-analytics.pixlee.co
+  - DOMAIN-SUFFIX,connect.blockboardtech.com
+  - DOMAIN-SUFFIX,analytics.macpaw.com
+  - DOMAIN-SUFFIX,mtg.macpaw.com
   - DOMAIN-SUFFIX,demeter-tr-core-collect.trendyol.com
   - DOMAIN-SUFFIX,lc-event.pixiv.net
   - DOMAIN-SUFFIX,count.ing.de
@@ -54323,7 +54336,6 @@ payload:
   - DOMAIN-SUFFIX,tracking.epicgames.com
   - DOMAIN-SUFFIX,tracking.fortnite.com
   - DOMAIN-SUFFIX,log.znews.vn
-  - DOMAIN-SUFFIX,aem-kakao-collector.onkakao.net
   - DOMAIN-SUFFIX,cellar-analytics.mapion.co.jp
   - DOMAIN-SUFFIX,event.hackle.io
   - DOMAIN-SUFFIX,r.aachener-zeitung.de
