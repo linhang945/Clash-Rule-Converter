@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.ssmas.com
   - DOMAIN-SUFFIX,log.xpln.tech
   - DOMAIN-SUFFIX,stape.ac
   - DOMAIN-SUFFIX,stats.spreadsimple.com
@@ -67237,6 +67238,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,lg3.media.net
+  - DOMAIN-SUFFIX,navvy.media.net
+  - DOMAIN-SUFFIX,app-tracking-gfa-collector.naver.com
   - DOMAIN-SUFFIX,windsurf-telemetry.codeium.com
   - DOMAIN-SUFFIX,uxlog.next.koapp.com
   - DOMAIN-SUFFIX,affiliate.kinguin.net
@@ -68342,7 +68346,6 @@ payload:
   - DOMAIN-SUFFIX,static.affiliatly.com
   - DOMAIN-SUFFIX,client-analytics.mts.ru
   - DOMAIN-SUFFIX,analytics-wcms.joins.net
-  - DOMAIN-SUFFIX,as.tarnkappe.info
   - DOMAIN-SUFFIX,analytics.mall.tv
   - DOMAIN-SUFFIX,log.etoday.co.kr
   - DOMAIN-SUFFIX,u.zhugeapi.net
