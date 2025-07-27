@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,mellowtel.com
+  - DOMAIN-SUFFIX,datastat.me
+  - DOMAIN-SUFFIX,scripts.dadata.com.br
   - DOMAIN-SUFFIX,analytics.ssmas.com
   - DOMAIN-SUFFIX,log.xpln.tech
   - DOMAIN-SUFFIX,stape.ac
@@ -67238,6 +67241,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,cdn.js.fpaudience.com
   - DOMAIN-SUFFIX,lg3.media.net
   - DOMAIN-SUFFIX,navvy.media.net
   - DOMAIN-SUFFIX,app-tracking-gfa-collector.naver.com
@@ -70226,6 +70230,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,stat.tpns.sgp.tencent.com
   - DOMAIN-SUFFIX,guid.tpns.sgp.tencent.com
   - DOMAIN-SUFFIX,xgdata.xoyo.games
