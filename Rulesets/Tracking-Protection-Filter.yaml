@@ -5,7 +5,6 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
-  - DOMAIN-SUFFIX,usefathom.com
   - DOMAIN-SUFFIX,analytics.yyggames.com
   - DOMAIN-SUFFIX,attribution.airbridge.io
   - DOMAIN-SUFFIX,event.airbridge.io
@@ -875,7 +874,7 @@ payload:
   - DOMAIN-SUFFIX,track.storm.mg
   - DOMAIN-SUFFIX,track.unidata.ai
   - DOMAIN-SUFFIX,cdp.cloud.unity3d.com
-  - DOMAIN-SUFFIX,bentonow.com
+  - DOMAIN-SUFFIX,track.bentonow.com
   - DOMAIN-SUFFIX,sdk.51.la
   - DOMAIN-SUFFIX,adtriba.com
   - DOMAIN-SUFFIX,acuityplatform.com
@@ -27245,6 +27244,7 @@ payload:
   - DOMAIN-SUFFIX,yak.flutterblog.net
   - DOMAIN-SUFFIX,39grbc.jackbarber.co.uk
   - DOMAIN-SUFFIX,7wrxo2xh.iriscreative.co
+  - DOMAIN-SUFFIX,8inhjmd.usefathom.com
   - DOMAIN-SUFFIX,9kz9cttz76.antonsten.com
   - DOMAIN-SUFFIX,aardvark.revolana.rs
   - DOMAIN-SUFFIX,aardvark.steadybit.com
@@ -60672,6 +60672,12 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,aws-analytics.nmg.com.hk
+  - DOMAIN-SUFFIX,starman.usefathom.com
+  - DOMAIN-SUFFIX,eu.usefathom.com
+  - DOMAIN-SUFFIX,analytics.webanalytics.op.europa.eu
+  - DOMAIN-SUFFIX,aem-kakao-collector.onkakao.net
+  - DOMAIN-SUFFIX,slc.commerce.naver.com
   - DOMAIN-SUFFIX,a.klaviyo.com
   - DOMAIN-SUFFIX,nlog.shinhan.com
   - DOMAIN-SUFFIX,cdn.js.fpaudience.com
@@ -61202,7 +61208,6 @@ payload:
   - DOMAIN-SUFFIX,track.amebame.com
   - DOMAIN-SUFFIX,pks-analytics.raenonx.cc
   - DOMAIN-SUFFIX,pyxis.atp.fox
-  - DOMAIN-SUFFIX,collector.appconsent.io
   - DOMAIN-SUFFIX,r.sib2.gardrops.com
   - DOMAIN-SUFFIX,nst.trex.media
   - DOMAIN-SUFFIX,pixel.kodixauto.ru
@@ -62151,6 +62156,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.contalyze.com
   - DOMAIN-SUFFIX,cdn.odoscope.cloud
   - DOMAIN-SUFFIX,cdn.usefathom.com
+  - DOMAIN-SUFFIX,cdn-eu.usefathom.com
   - DOMAIN-SUFFIX,cdnstats-a.akamaihd.net
   - DOMAIN-SUFFIX,cfg.imtt.qq.com
   - DOMAIN-SUFFIX,check.tadapi.info
@@ -63663,6 +63669,12 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,gamedot.afafb.com
+  - DOMAIN-SUFFIX,tadata.afafb.com
+  - DOMAIN-SUFFIX,ecpm.afafb.com
+  - DOMAIN-SUFFIX,mediation-receiver.afafb.com
+  - DOMAIN-SUFFIX,df.afafb.com
+  - DOMAIN-SUFFIX,middle-defend.afafb.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,stat.tpns.sgp.tencent.com
   - DOMAIN-SUFFIX,guid.tpns.sgp.tencent.com
