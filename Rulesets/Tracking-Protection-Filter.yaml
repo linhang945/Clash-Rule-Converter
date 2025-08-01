@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,1p-data.com
+  - DOMAIN-SUFFIX,customerlabs.co
   - DOMAIN-SUFFIX,analytics.yyggames.com
   - DOMAIN-SUFFIX,attribution.airbridge.io
   - DOMAIN-SUFFIX,event.airbridge.io
@@ -60672,6 +60674,10 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,iws2.io.naver.com
+  - DOMAIN-SUFFIX,clog.tanshudata.com
+  - DOMAIN-SUFFIX,gw.stape.fr
+  - DOMAIN-SUFFIX,analytics-ipv6.tiktokw.us
   - DOMAIN-SUFFIX,aws-analytics.nmg.com.hk
   - DOMAIN-SUFFIX,starman.usefathom.com
   - DOMAIN-SUFFIX,eu.usefathom.com
