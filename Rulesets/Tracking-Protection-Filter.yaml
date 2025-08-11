@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.google.com
   - DOMAIN-SUFFIX,log.trend.rankify.best
   - DOMAIN-SUFFIX,alexametrics.com
   - DOMAIN-SUFFIX,1p-data.com
@@ -63120,6 +63121,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ts-analysis.shoalter.com
   - DOMAIN-SUFFIX,targetyo.yogiyo.co.kr
   - DOMAIN-SUFFIX,wphlvzycf5.execute-api.eu-west-2.amazonaws.com
   - DOMAIN-SUFFIX,mp.cwtv.com
@@ -63329,7 +63331,6 @@ payload:
   - DOMAIN-SUFFIX,db7q4jg5rkhk8.cloudfront.net
   - DOMAIN-SUFFIX,backend-pixel.zotek.io
   - DOMAIN-SUFFIX,rudr-events.joybird.com
-  - DOMAIN-SUFFIX,dns-clientinfo.vtg.paramount.tech
   - DOMAIN-SUFFIX,monitor.r53.cbsivideo.com
   - DOMAIN-SUFFIX,monitor.ns1-s.rspcdn.net
   - DOMAIN-SUFFIX,monitor.ns1-d.viacomtech.net
