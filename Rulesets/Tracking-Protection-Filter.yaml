@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tagm.uneedcomms.com
   - DOMAIN-SUFFIX,openstats.co
   - DOMAIN-SUFFIX,http-inputs-notion.splunkcloud.com
   - DOMAIN-SUFFIX,sentinelpro.com
@@ -66109,7 +66110,6 @@ payload:
   - DOMAIN-SUFFIX,log-api.sooplive.com
   - DOMAIN-SUFFIX,telemetry.proton.me
   - DOMAIN-SUFFIX,analytics.tempmail100.com
-  - DOMAIN-SUFFIX,telemetry.sgp.pvp.net
   - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com
   - DOMAIN-SUFFIX,metrics.kapa.ai
   - DOMAIN-SUFFIX,analytics.org.coveo.com
