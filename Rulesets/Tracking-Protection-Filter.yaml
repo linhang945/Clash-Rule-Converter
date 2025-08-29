@@ -5,6 +5,17 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sync.clearnview.com
+  - DOMAIN-SUFFIX,ck-ie.com
+  - DOMAIN-SUFFIX,rtb.voltaxam.com
+  - DOMAIN-SUFFIX,4dex.tech
+  - DOMAIN-SUFFIX,dsp-service.admatic.de
+  - DOMAIN-SUFFIX,ssp.api.tappx.com
+  - DOMAIN-SUFFIX,prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
+  - DOMAIN-SUFFIX,sdk.mrf.io
+  - DOMAIN-SUFFIX,protected-by.clarium.io
+  - DOMAIN-SUFFIX,analytiwave.com
+  - DOMAIN-SUFFIX,wc.paybooc.co.kr
   - DOMAIN-SUFFIX,monitor-api.blackcrow.ai
   - DOMAIN-SUFFIX,sdk.optimove.net
   - DOMAIN-SUFFIX,assets.publicgood.com
@@ -68087,6 +68098,17 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,collector-pxdojv695v.protechts.net
+  - DOMAIN-SUFFIX,collector-pxdojv695v.px-cloud.net
+  - DOMAIN-SUFFIX,st.sooplive.co.kr
+  - DOMAIN-SUFFIX,collector1.sooplive.co.kr
+  - DOMAIN-SUFFIX,exlogcollector.sooplive.co.kr
+  - DOMAIN-SUFFIX,snowflake.qq.com
+  - DOMAIN-SUFFIX,d2fuc4clr7gvcn.cloudfront.net
+  - DOMAIN-SUFFIX,analytics.edaily.co.kr
+  - DOMAIN-SUFFIX,adgbb.io.naver.com
+  - DOMAIN-SUFFIX,sp.justwatch.com
+  - DOMAIN-SUFFIX,umami.spencerdevs.xyz
   - DOMAIN-SUFFIX,data.client.openweb.bid
   - DOMAIN-SUFFIX,launch-analytics-plugin.launchpotato.com
   - DOMAIN-SUFFIX,d2zd0wa1vpt7j9.cloudfront.net
@@ -71135,6 +71157,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,log-pub-hk.aoshitang.com
   - DOMAIN-SUFFIX,logs.dradis.netflix.com
   - DOMAIN-SUFFIX,analytics-stg.samsungknox.com
   - DOMAIN-SUFFIX,event.flareflow.tv
@@ -71409,6 +71432,7 @@ payload:
   - DOMAIN-SUFFIX,iot-eu-logser.realme.com
   - DOMAIN-SUFFIX,iot-logser.realme.com
   - DOMAIN-SUFFIX,tracking.purchasely.io
+  - DOMAIN-SUFFIX,uts-front.line-apps.com
   - DOMAIN-SUFFIX,ts.line-apps.com
   - DOMAIN-SUFFIX,log-music-data.line-apps.com
   - DOMAIN-SUFFIX,events-api.soundcloud.com
@@ -71673,7 +71697,6 @@ payload:
   - DOMAIN-SUFFIX,sensors.snappea.com
   - DOMAIN-SUFFIX,analytics.snaptube.app
   - DOMAIN-SUFFIX,px.ucweb.com
-  - DOMAIN-SUFFIX,collector1.sooplive.co.kr
   - DOMAIN-SUFFIX,adtima-static.zadn.vn
   - DOMAIN-SUFFIX,akstat.io
   - DOMAIN-SUFFIX,chartbeat.net
