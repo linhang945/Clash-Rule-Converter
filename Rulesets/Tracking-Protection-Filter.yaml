@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,track.fusionmedia.io
   - DOMAIN-SUFFIX,sync.clearnview.com
   - DOMAIN-SUFFIX,ck-ie.com
   - DOMAIN-SUFFIX,rtb.voltaxam.com
@@ -68098,6 +68099,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.egdata.app
+  - DOMAIN-SUFFIX,analytics.shutterstock.com
+  - DOMAIN-SUFFIX,plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
   - DOMAIN-SUFFIX,collector-pxdojv695v.protechts.net
   - DOMAIN-SUFFIX,collector-pxdojv695v.px-cloud.net
   - DOMAIN-SUFFIX,st.sooplive.co.kr
