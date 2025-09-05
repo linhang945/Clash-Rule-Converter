@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cloudfilt.com
+  - DOMAIN-SUFFIX,highway.cablecar.sph.com.sg
+  - DOMAIN-SUFFIX,i.posthog.com
   - DOMAIN-SUFFIX,app.optibase.io
   - DOMAIN-SUFFIX,abtshield.com
   - DOMAIN-SUFFIX,track.fusionmedia.io
@@ -47,7 +50,6 @@ payload:
   - DOMAIN-SUFFIX,rtg.rubiconredirect.com
   - DOMAIN-SUFFIX,beacon.gtv-pub.com
   - DOMAIN-SUFFIX,analytics-api.gemcommerce.com
-  - DOMAIN-SUFFIX,slgnt.eu
   - DOMAIN-SUFFIX,slgnt.us
   - DOMAIN-SUFFIX,consolidata.ai
   - DOMAIN-SUFFIX,analytics.google.com
@@ -65054,6 +65056,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,site-see.slgnt.eu
+  - DOMAIN-SUFFIX,site-azp.slgnt.eu
+  - DOMAIN-SUFFIX,mobile.slgnt.eu
   - DOMAIN-SUFFIX,cvt1.sibnet.ru
   - DOMAIN-SUFFIX,analytics.egdata.app
   - DOMAIN-SUFFIX,analytics.shutterstock.com
@@ -68115,6 +68120,15 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,dc.di.atlas.samsung.com
+  - DOMAIN-SUFFIX,dc.dqa.samsung.com
+  - DOMAIN-SUFFIX,dev-apigw.samsungdmroute.com
+  - DOMAIN-SUFFIX,diagmon-serviceapi.samsungdm.com
+  - DOMAIN-SUFFIX,dls-ddc.dqa.samsung.com
+  - DOMAIN-SUFFIX,moai-dev-samsung.com
+  - DOMAIN-SUFFIX,qmds-dev-samsung.com
+  - DOMAIN-SUFFIX,regi.di.atlas.samsung.com
+  - DOMAIN-SUFFIX,stg-apigw.samsungdmroute.com
   - DOMAIN-SUFFIX,log-pub-hk.aoshitang.com
   - DOMAIN-SUFFIX,logs.dradis.netflix.com
   - DOMAIN-SUFFIX,analytics-stg.samsungknox.com
