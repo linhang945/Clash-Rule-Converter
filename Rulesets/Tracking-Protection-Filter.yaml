@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,stat.khanate.pro
+  - DOMAIN-SUFFIX,tolt.io
   - DOMAIN-SUFFIX,cloudfilt.com
   - DOMAIN-SUFFIX,highway.cablecar.sph.com.sg
   - DOMAIN-SUFFIX,i.posthog.com
@@ -65056,6 +65058,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,bee.tc.easebar.com
   - DOMAIN-SUFFIX,site-see.slgnt.eu
   - DOMAIN-SUFFIX,site-azp.slgnt.eu
   - DOMAIN-SUFFIX,mobile.slgnt.eu
@@ -65113,7 +65116,6 @@ payload:
   - DOMAIN-SUFFIX,a.wb.ru
   - DOMAIN-SUFFIX,stats.vidalytics.com
   - DOMAIN-SUFFIX,ts-analysis.shoalter.com
-  - DOMAIN-SUFFIX,targetyo.yogiyo.co.kr
   - DOMAIN-SUFFIX,wphlvzycf5.execute-api.eu-west-2.amazonaws.com
   - DOMAIN-SUFFIX,mp.cwtv.com
   - DOMAIN-SUFFIX,logapi.sooplive.com
