@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,bridged.media
+  - DOMAIN-SUFFIX,cdn.dfsdk.com
+  - DOMAIN-SUFFIX,cdn.deviceinf.com
+  - DOMAIN-SUFFIX,cdn.seonintelligence.com
+  - DOMAIN-SUFFIX,cdn.debugbear.com
+  - DOMAIN-SUFFIX,featuregates.org
   - DOMAIN-SUFFIX,fptls.com
   - DOMAIN-SUFFIX,fptls3.com
   - DOMAIN-SUFFIX,mc.yango.com
@@ -135,7 +141,6 @@ payload:
   - DOMAIN-SUFFIX,anonymised.io
   - DOMAIN-SUFFIX,m6ulblxep4.execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,api.instant.one
-  - DOMAIN-SUFFIX,datadog.pool.ntp.org
   - DOMAIN-SUFFIX,pubtrky.com
   - DOMAIN-SUFFIX,logs2.sportslocalmedia.com
   - DOMAIN-SUFFIX,analytics.pyksid.com
@@ -67030,6 +67035,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ek-tracker.ekitan.com
+  - DOMAIN-SUFFIX,leo.hepsiburada.com
   - DOMAIN-SUFFIX,usage.trackjs.com
   - DOMAIN-SUFFIX,dlt-beacon.dynatrace-managed.com
   - DOMAIN-SUFFIX,rainbow-prod-jdlog.ldoverseas.com
@@ -71776,6 +71783,7 @@ payload:
   - DOMAIN-SUFFIX,llamavoice.com
   - DOMAIN-SUFFIX,loadedhearts.com
   - DOMAIN-SUFFIX,loadsurprise.com
+  - DOMAIN-SUFFIX,locateskill.com
   - DOMAIN-SUFFIX,lockuplookup.com
   - DOMAIN-SUFFIX,logoshutter.com
   - DOMAIN-SUFFIX,lonelyflavor.com
