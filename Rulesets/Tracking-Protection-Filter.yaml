@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,hlstatus.com
+  - DOMAIN-SUFFIX,pixel-img.com
+  - DOMAIN-SUFFIX,pixel.prb-team.com
   - DOMAIN-SUFFIX,bridged.media
   - DOMAIN-SUFFIX,cdn.dfsdk.com
   - DOMAIN-SUFFIX,cdn.deviceinf.com
@@ -67035,6 +67038,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,bdvmetricas.banvenez.com.ve
   - DOMAIN-SUFFIX,ek-tracker.ekitan.com
   - DOMAIN-SUFFIX,leo.hepsiburada.com
   - DOMAIN-SUFFIX,usage.trackjs.com
@@ -72545,6 +72549,7 @@ payload:
   - DOMAIN-SUFFIX,testedtouch.com
   - DOMAIN-SUFFIX,texturetrick.com
   - DOMAIN-SUFFIX,thebigvan.com
+  - DOMAIN-SUFFIX,thecrazychili.com
   - DOMAIN-SUFFIX,thefishstops.com
   - DOMAIN-SUFFIX,thejavalane.com
   - DOMAIN-SUFFIX,themangotea.com
