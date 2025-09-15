@@ -41,7 +41,6 @@ payload:
   - DOMAIN-SUFFIX,assets.publicgood.com
   - DOMAIN-SUFFIX,tagm.uneedcomms.com
   - DOMAIN-SUFFIX,openstats.co
-  - DOMAIN-SUFFIX,http-inputs-notion.splunkcloud.com
   - DOMAIN-SUFFIX,sentinelpro.com
   - DOMAIN-SUFFIX,openinstall.io
   - DOMAIN-SUFFIX,s.ssl.qhres2.com
@@ -67038,6 +67037,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,ad-bls-tracking.lemino.docomo.ne.jp
   - DOMAIN-SUFFIX,bdvmetricas.banvenez.com.ve
   - DOMAIN-SUFFIX,ek-tracker.ekitan.com
   - DOMAIN-SUFFIX,leo.hepsiburada.com
@@ -71374,6 +71374,7 @@ payload:
   - DOMAIN-SUFFIX,eatablesquare.com
   - DOMAIN-SUFFIX,echoinghaven.com
   - DOMAIN-SUFFIX,economysoil.com
+  - DOMAIN-SUFFIX,educationcar.com
   - DOMAIN-SUFFIX,educrated.com
   - DOMAIN-SUFFIX,effervescentcoral.com
   - DOMAIN-SUFFIX,effervescentvista.com
@@ -71693,6 +71694,7 @@ payload:
   - DOMAIN-SUFFIX,incompetentjoke.com
   - DOMAIN-SUFFIX,inconclusiveaction.com
   - DOMAIN-SUFFIX,infamousstream.com
+  - DOMAIN-SUFFIX,infinityhedge.com
   - DOMAIN-SUFFIX,informalbook.com
   - DOMAIN-SUFFIX,innocentlamp.com
   - DOMAIN-SUFFIX,inputicicle.com
