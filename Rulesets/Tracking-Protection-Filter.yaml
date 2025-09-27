@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sdkapi-prod.dfinery.ai
+  - DOMAIN-SUFFIX,behavior-tracking-event-gateway.imweb.me
   - DOMAIN-SUFFIX,smind.hr
   - DOMAIN-SUFFIX,analytics.cdnweb.info
   - DOMAIN-SUFFIX,trck.digiteka.com
@@ -72403,6 +72405,12 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,cloudmetrics.xenforo.com
+  - DOMAIN-SUFFIX,api-analytics.pelikan.sk
+  - DOMAIN-SUFFIX,analytics.streamingworld.xyz
+  - DOMAIN-SUFFIX,stats.bouyguestelecom.fr
+  - DOMAIN-SUFFIX,analytics-cdn.sport.es
+  - DOMAIN-SUFFIX,analytics.prensaiberica.es
   - DOMAIN-SUFFIX,analytics.azrhymes.com
   - DOMAIN-SUFFIX,stats.jiosaavn.com
   - DOMAIN-SUFFIX,js-collector.icewood.net
@@ -75485,6 +75493,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,event-portal.dailyinnovation.biz
+  - DOMAIN-SUFFIX,api.learnings.ai
+  - DOMAIN-SUFFIX,dtcollect.newsbang.com
   - DOMAIN-SUFFIX,census-app.scorecardresearch.com
   - DOMAIN-SUFFIX,mob2.musicgostudio.com
   - DOMAIN-SUFFIX,tc.mnbvcxzq.com
@@ -76305,6 +76316,7 @@ payload:
   - DOMAIN-SUFFIX,accountsdoor.com
   - DOMAIN-SUFFIX,accurateanimal.com
   - DOMAIN-SUFFIX,accuratecoal.com
+  - DOMAIN-SUFFIX,acebunny.com
   - DOMAIN-SUFFIX,acidicstraw.com
   - DOMAIN-SUFFIX,acidpigs.com
   - DOMAIN-SUFFIX,acquireuser.com
@@ -76572,6 +76584,7 @@ payload:
   - DOMAIN-SUFFIX,clarifyverse.com
   - DOMAIN-SUFFIX,classicnotebook.com
   - DOMAIN-SUFFIX,cleanhaircut.com
+  - DOMAIN-SUFFIX,climbingright.com
   - DOMAIN-SUFFIX,cloisteredcurve.com
   - DOMAIN-SUFFIX,cloudguppy.com
   - DOMAIN-SUFFIX,cloudhustles.com
@@ -76755,6 +76768,7 @@ payload:
   - DOMAIN-SUFFIX,earnbaht.com
   - DOMAIN-SUFFIX,earthups.com
   - DOMAIN-SUFFIX,eatablesquare.com
+  - DOMAIN-SUFFIX,echoacloud.com
   - DOMAIN-SUFFIX,echoinghaven.com
   - DOMAIN-SUFFIX,economysoil.com
   - DOMAIN-SUFFIX,educationcar.com
@@ -77133,6 +77147,7 @@ payload:
   - DOMAIN-SUFFIX,kindasingle.com
   - DOMAIN-SUFFIX,kindhush.com
   - DOMAIN-SUFFIX,kitetuning.com
+  - DOMAIN-SUFFIX,kittycatking.com
   - DOMAIN-SUFFIX,knewpenny.com
   - DOMAIN-SUFFIX,knifetreasury.com
   - DOMAIN-SUFFIX,knitstamp.com
@@ -77882,6 +77897,7 @@ payload:
   - DOMAIN-SUFFIX,suggestionbridge.com
   - DOMAIN-SUFFIX,sulkycook.com
   - DOMAIN-SUFFIX,summerobject.com
+  - DOMAIN-SUFFIX,sunsetcampfires.com
   - DOMAIN-SUFFIX,sunsetstatic.com
   - DOMAIN-SUFFIX,sunshinegates.com
   - DOMAIN-SUFFIX,sunshinepint.com

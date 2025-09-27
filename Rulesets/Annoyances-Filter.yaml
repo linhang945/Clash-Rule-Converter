@@ -118,6 +118,7 @@ payload:
   - DOMAIN-SUFFIX,clickio.mgr.consensu.org
   - DOMAIN-SUFFIX,cdn.consentmanager.mgr.consensu.org
   - DOMAIN-SUFFIX,quantcast.mgr.consensu.org
+  - DOMAIN-SUFFIX,cookie-consent-tracking-app.codeblocks.sk
   - DOMAIN-SUFFIX,cookies.travyk.nl
   - DOMAIN-SUFFIX,cmp.dynamic.deka.de
   - DOMAIN-SUFFIX,consent-manager.thenextweb.com
@@ -682,7 +683,6 @@ payload:
   - DOMAIN-SUFFIX,chatterpal.me
   - DOMAIN-SUFFIX,ckct.ru
   - DOMAIN-SUFFIX,cleversite.ru
-  - DOMAIN-SUFFIX,client.crisp.chat
   - DOMAIN-SUFFIX,clients.streamwood.ru
   - DOMAIN-SUFFIX,clloudia.com
   - DOMAIN-SUFFIX,comagic.ru
@@ -746,6 +746,7 @@ payload:
   - DOMAIN-SUFFIX,torimochi-ad.net
   - DOMAIN-SUFFIX,gacraft.jp
   - DOMAIN-SUFFIX,api.popin.cc
+  - DOMAIN-SUFFIX,client.crisp.chat
   - DOMAIN-SUFFIX,web-chat.global.assistant.watson.appdomain.cloud
   - DOMAIN-SUFFIX,vivocha.com
   - DOMAIN-SUFFIX,ac-chatbot.freebie-ac.jp
