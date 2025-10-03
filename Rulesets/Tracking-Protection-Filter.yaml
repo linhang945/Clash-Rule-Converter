@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,overtracking.com
   - DOMAIN-SUFFIX,funsdata.com
   - DOMAIN-SUFFIX,ahatm12od.top
   - DOMAIN-SUFFIX,an.gr-wcon.com
@@ -68633,6 +68634,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,log-gateway.zoom.us
   - DOMAIN-SUFFIX,upsell.alphwidget.com
   - DOMAIN-SUFFIX,4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
   - DOMAIN-SUFFIX,static.alphwidget.com
@@ -68806,7 +68808,6 @@ payload:
   - DOMAIN-SUFFIX,lumberjack-metrics.razorpay.com
   - DOMAIN-SUFFIX,statistics-collector-api.listglobally.com
   - DOMAIN-SUFFIX,telegraph.prd.api.bleacherreport.com
-  - DOMAIN-SUFFIX,gmss.use1.prd.api.discomax.com
   - DOMAIN-SUFFIX,events.shoplift.ai
   - DOMAIN-SUFFIX,flxr.myplan-c.com
   - DOMAIN-SUFFIX,seghg.hottopic.com
@@ -73639,6 +73640,7 @@ payload:
   - DOMAIN-SUFFIX,perfectfetch.com
   - DOMAIN-SUFFIX,perkyjade.com
   - DOMAIN-SUFFIX,phonecup.com
+  - DOMAIN-SUFFIX,phoneresult.com
   - DOMAIN-SUFFIX,photohints.com
   - DOMAIN-SUFFIX,physicstees.com
   - DOMAIN-SUFFIX,pickmicro.com
