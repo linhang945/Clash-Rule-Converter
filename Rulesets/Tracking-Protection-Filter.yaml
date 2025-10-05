@@ -68634,6 +68634,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,telemetry.adobe.io
+  - DOMAIN-SUFFIX,fpt.commerce.adobe.com
+  - DOMAIN-SUFFIX,adobecorp.data.adobedc.net
   - DOMAIN-SUFFIX,log-gateway.zoom.us
   - DOMAIN-SUFFIX,upsell.alphwidget.com
   - DOMAIN-SUFFIX,4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
@@ -71727,6 +71730,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,mcs.tiktokv.us
   - DOMAIN-SUFFIX,trace.free-reels.com
   - DOMAIN-SUFFIX,event-portal.dailyinnovation.biz
   - DOMAIN-SUFFIX,api.learnings.ai
