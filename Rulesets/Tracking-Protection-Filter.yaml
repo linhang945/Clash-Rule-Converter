@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,rum.hlx.page
+  - DOMAIN-SUFFIX,lltrck.com
+  - DOMAIN-SUFFIX,contanuity.com
+  - DOMAIN-SUFFIX,demandscience.com
   - DOMAIN-SUFFIX,digiadglobal.com
   - DOMAIN-SUFFIX,overtracking.com
   - DOMAIN-SUFFIX,funsdata.com
@@ -70676,6 +70680,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,cdn.getkoala.com
+  - DOMAIN-SUFFIX,p.eneba.com
+  - DOMAIN-SUFFIX,cookiemon-analytics.azurewebsites.net
   - DOMAIN-SUFFIX,k203.adn.com
   - DOMAIN-SUFFIX,telemetry.adobe.io
   - DOMAIN-SUFFIX,fpt.commerce.adobe.com
@@ -70821,7 +70828,6 @@ payload:
   - DOMAIN-SUFFIX,en-collect.trendyol.com
   - DOMAIN-SUFFIX,demeter-tr-core-collect.trendyol.com
   - DOMAIN-SUFFIX,lc-event.pixiv.net
-  - DOMAIN-SUFFIX,count.ing.de
   - DOMAIN-SUFFIX,d30qdagvt44524.cloudfront.net
   - DOMAIN-SUFFIX,tracker-beam.aktuality.sk
   - DOMAIN-SUFFIX,collector.fullxh.com
@@ -73773,6 +73779,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,stats.sg-light-edge.com
+  - DOMAIN-SUFFIX,apptics.zoho.in
   - DOMAIN-SUFFIX,analytics.oliveapp.net
   - DOMAIN-SUFFIX,rplogs.itpub.cc
   - DOMAIN-SUFFIX,collector-sbanking.shb-pelib.com
