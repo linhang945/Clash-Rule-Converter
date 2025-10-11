@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,marathondataco.com
+  - DOMAIN-SUFFIX,telecid.ru
   - DOMAIN-SUFFIX,rum.hlx.page
   - DOMAIN-SUFFIX,lltrck.com
   - DOMAIN-SUFFIX,contanuity.com
@@ -58,7 +60,6 @@ payload:
   - DOMAIN-SUFFIX,openstats.co
   - DOMAIN-SUFFIX,sentinelpro.com
   - DOMAIN-SUFFIX,openinstall.io
-  - DOMAIN-SUFFIX,s.ssl.qhres2.com
   - DOMAIN-SUFFIX,big7.com
   - DOMAIN-SUFFIX,collect.adplogger.no
   - DOMAIN-SUFFIX,lwadm.com
@@ -70680,6 +70681,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,fuse.ubs.com
+  - DOMAIN-SUFFIX,cdn.kmalgo.com
+  - DOMAIN-SUFFIX,client.smartpushedm.com
   - DOMAIN-SUFFIX,cdn.getkoala.com
   - DOMAIN-SUFFIX,p.eneba.com
   - DOMAIN-SUFFIX,cookiemon-analytics.azurewebsites.net
@@ -73779,6 +73783,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,prebid-server-canary.ifunny.co
+  - DOMAIN-SUFFIX,track.taimi.com
+  - DOMAIN-SUFFIX,gem-log.sloegem.com
+  - DOMAIN-SUFFIX,log.oceanzz.xyz
   - DOMAIN-SUFFIX,stats.sg-light-edge.com
   - DOMAIN-SUFFIX,apptics.zoho.in
   - DOMAIN-SUFFIX,analytics.oliveapp.net
@@ -75635,6 +75643,7 @@ payload:
   - DOMAIN-SUFFIX,notifyglass.com
   - DOMAIN-SUFFIX,noundictionary.com
   - DOMAIN-SUFFIX,novaseekers.com
+  - DOMAIN-SUFFIX,nowaymail.com
   - DOMAIN-SUFFIX,nudgeduck.com
   - DOMAIN-SUFFIX,nullnorth.com
   - DOMAIN-SUFFIX,numerousnest.com
