@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.metriko.app
+  - DOMAIN-SUFFIX,stats.fluorescent.co
+  - DOMAIN-SUFFIX,wurflcloud.com
+  - DOMAIN-SUFFIX,tvspix.com
   - DOMAIN-SUFFIX,events.stylux.io
   - DOMAIN-SUFFIX,digitalcamp.co.kr
   - DOMAIN-SUFFIX,marathondataco.com
@@ -206,7 +210,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.turk.pro
   - DOMAIN-SUFFIX,metric-api.newrelic.com
   - DOMAIN-SUFFIX,conduit-beacon.mtvnservices.com
-  - DOMAIN-SUFFIX,redfast.com
   - DOMAIN-SUFFIX,analytics.newsifier.nl
   - DOMAIN-SUFFIX,mn-tz.com
   - DOMAIN-SUFFIX,tr.thecontentserver.com
@@ -70403,6 +70406,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,xstat.gazeta.bo
   - DOMAIN-SUFFIX,stats.avito.ru
   - DOMAIN-SUFFIX,nr-beacon.movingimage.com
   - DOMAIN-SUFFIX,analytics.monetha.io
@@ -73513,6 +73517,13 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,experiment.pixverse.ai
+  - DOMAIN-SUFFIX,capture.pixverse.ai
+  - DOMAIN-SUFFIX,report.pixverse.ai
+  - DOMAIN-SUFFIX,dxp.baidu.com
+  - DOMAIN-SUFFIX,nsclickvideo.xiaodutv.com
+  - DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao1.com
+  - DOMAIN-SUFFIX,xda.xiaodutv.com
   - DOMAIN-SUFFIX,analytics-ccu.qpyou.cn
   - DOMAIN-SUFFIX,analytics-log.withhive.com
   - DOMAIN-SUFFIX,prebid-server-canary.ifunny.co
@@ -74560,6 +74571,7 @@ payload:
   - DOMAIN-SUFFIX,captivatingillusion.com
   - DOMAIN-SUFFIX,captivatingpanorama.com
   - DOMAIN-SUFFIX,captivatingperformance.com
+  - DOMAIN-SUFFIX,cardmethod.com
   - DOMAIN-SUFFIX,carefuldolls.com
   - DOMAIN-SUFFIX,caringcast.com
   - DOMAIN-SUFFIX,carloforward.com
@@ -74968,6 +74980,7 @@ payload:
   - DOMAIN-SUFFIX,functionalcrown.com
   - DOMAIN-SUFFIX,functionalfeather.com
   - DOMAIN-SUFFIX,funoverbored.com
+  - DOMAIN-SUFFIX,funtoyplanet.com
   - DOMAIN-SUFFIX,furryfork.com
   - DOMAIN-SUFFIX,fusedcontent.com
   - DOMAIN-SUFFIX,futuristicapparatus.com
@@ -75007,6 +75020,7 @@ payload:
   - DOMAIN-SUFFIX,gloriousbeef.com
   - DOMAIN-SUFFIX,glowingmeadow.com
   - DOMAIN-SUFFIX,gluedpixel.com
+  - DOMAIN-SUFFIX,goddesslamps.com
   - DOMAIN-SUFFIX,godseedband.com
   - DOMAIN-SUFFIX,goldfishgrowth.com
   - DOMAIN-SUFFIX,goldstudies.com
@@ -75046,6 +75060,7 @@ payload:
   - DOMAIN-SUFFIX,gulliblegrip.com
   - DOMAIN-SUFFIX,gustocooking.com
   - DOMAIN-SUFFIX,gustygrandmother.com
+  - DOMAIN-SUFFIX,haikusoap.com
   - DOMAIN-SUFFIX,halcyoncanyon.com
   - DOMAIN-SUFFIX,halcyonsculpture.com
   - DOMAIN-SUFFIX,haltingbadge.com
@@ -75107,6 +75122,7 @@ payload:
   - DOMAIN-SUFFIX,humourspot.com
   - DOMAIN-SUFFIX,hurtgrape.com
   - DOMAIN-SUFFIX,hustlercoach.com
+  - DOMAIN-SUFFIX,hybridburst.com
   - DOMAIN-SUFFIX,hydraconcept.com
   - DOMAIN-SUFFIX,hyperlegend.com
   - DOMAIN-SUFFIX,hypnoticwound.com
@@ -75138,6 +75154,8 @@ payload:
   - DOMAIN-SUFFIX,intentlens.com
   - DOMAIN-SUFFIX,internalcondition.com
   - DOMAIN-SUFFIX,internalsink.com
+  - DOMAIN-SUFFIX,intricateberry.com
+  - DOMAIN-SUFFIX,inventorycache.com
   - DOMAIN-SUFFIX,inventtango.com
   - DOMAIN-SUFFIX,iotapool.com
   - DOMAIN-SUFFIX,irelandroad.com
@@ -75307,6 +75325,7 @@ payload:
   - DOMAIN-SUFFIX,mindfulgem.com
   - DOMAIN-SUFFIX,mindlessmark.com
   - DOMAIN-SUFFIX,mineinvoice.com
+  - DOMAIN-SUFFIX,minibilling.com
   - DOMAIN-SUFFIX,minorcattle.com
   - DOMAIN-SUFFIX,minuteburst.com
   - DOMAIN-SUFFIX,miscreantmoon.com
@@ -75373,6 +75392,7 @@ payload:
   - DOMAIN-SUFFIX,notcardboard.com
   - DOMAIN-SUFFIX,notconscious.com
   - DOMAIN-SUFFIX,notifyglass.com
+  - DOMAIN-SUFFIX,notrealcat.com
   - DOMAIN-SUFFIX,noundictionary.com
   - DOMAIN-SUFFIX,novaseekers.com
   - DOMAIN-SUFFIX,nowaymail.com
@@ -75445,6 +75465,7 @@ payload:
   - DOMAIN-SUFFIX,pickmicro.com
   - DOMAIN-SUFFIX,pietexture.com
   - DOMAIN-SUFFIX,pigeonsetc.com
+  - DOMAIN-SUFFIX,pigmentpaper.com
   - DOMAIN-SUFFIX,pinchsquirrel.com
   - DOMAIN-SUFFIX,pincourse.com
   - DOMAIN-SUFFIX,piquantgrove.com
@@ -75548,6 +75569,7 @@ payload:
   - DOMAIN-SUFFIX,quizzicalzephyr.com
   - DOMAIN-SUFFIX,rabbitbreath.com
   - DOMAIN-SUFFIX,rabbitrifle.com
+  - DOMAIN-SUFFIX,rackforstorage.com
   - DOMAIN-SUFFIX,radiantcanopy.com
   - DOMAIN-SUFFIX,radiantlullaby.com
   - DOMAIN-SUFFIX,radiateprose.com
@@ -76036,6 +76058,7 @@ payload:
   - DOMAIN-SUFFIX,toomanyalts.com
   - DOMAIN-SUFFIX,topbookgifts.com
   - DOMAIN-SUFFIX,topcrazypress.com
+  - DOMAIN-SUFFIX,topthrowbacks.com
   - DOMAIN-SUFFIX,touristfuel.com
   - DOMAIN-SUFFIX,toysbasics.com
   - DOMAIN-SUFFIX,toytakeover.com
@@ -76189,6 +76212,7 @@ payload:
   - DOMAIN-SUFFIX,wrongwound.com
   - DOMAIN-SUFFIX,wtaccesscontrol.com
   - DOMAIN-SUFFIX,yieldingwoman.com
+  - DOMAIN-SUFFIX,youcandrawanything.com
   - DOMAIN-SUFFIX,yourlifedream.com
   - DOMAIN-SUFFIX,zephyrcatalyst.com
   - DOMAIN-SUFFIX,zephyrlabyrinth.com
