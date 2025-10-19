@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analysis.chatglm.cn
+  - DOMAIN-SUFFIX,ping.pdst.fm
+  - DOMAIN-SUFFIX,api.sae.systems
   - DOMAIN-SUFFIX,analytics.metriko.app
   - DOMAIN-SUFFIX,stats.fluorescent.co
   - DOMAIN-SUFFIX,wurflcloud.com
@@ -70406,6 +70409,10 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,haystack.wavve.com
+  - DOMAIN-SUFFIX,user-event-log.aminer.cn
+  - DOMAIN-SUFFIX,pixel.dashfi.dev
+  - DOMAIN-SUFFIX,c.quackr.io
   - DOMAIN-SUFFIX,xstat.gazeta.bo
   - DOMAIN-SUFFIX,stats.avito.ru
   - DOMAIN-SUFFIX,nr-beacon.movingimage.com
@@ -75197,6 +75204,7 @@ payload:
   - DOMAIN-SUFFIX,kidpowers.com
   - DOMAIN-SUFFIX,kindasingle.com
   - DOMAIN-SUFFIX,kindhush.com
+  - DOMAIN-SUFFIX,kindlereunion.com
   - DOMAIN-SUFFIX,kitetuning.com
   - DOMAIN-SUFFIX,kittycatking.com
   - DOMAIN-SUFFIX,knewpenny.com
