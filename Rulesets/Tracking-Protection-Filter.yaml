@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tryzens-analytics.com
+  - DOMAIN-SUFFIX,turbotargeting.io
   - DOMAIN-SUFFIX,inetstats.org
   - DOMAIN-SUFFIX,analysis.chatglm.cn
   - DOMAIN-SUFFIX,ping.pdst.fm
@@ -68905,6 +68907,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,hbrcv.adobe.com
+  - DOMAIN-SUFFIX,hbrt.adobe.com
+  - DOMAIN-SUFFIX,leo.tridge.com
   - DOMAIN-SUFFIX,haystack.wavve.com
   - DOMAIN-SUFFIX,user-event-log.aminer.cn
   - DOMAIN-SUFFIX,pixel.dashfi.dev
@@ -70214,7 +70219,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.newscred.com
   - DOMAIN-SUFFIX,analytics.digitalpfizer.com
   - DOMAIN-SUFFIX,intg.snapchat.com
-  - DOMAIN-SUFFIX,p.ura.news
   - DOMAIN-SUFFIX,statsapi.tiendeo.com.tr
   - DOMAIN-SUFFIX,perf.hsforms.com
   - DOMAIN-SUFFIX,tr.www.cloudflare.com
