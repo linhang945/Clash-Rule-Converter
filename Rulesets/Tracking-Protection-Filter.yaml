@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,events.api.gamma.app
+  - DOMAIN-SUFFIX,pirsch.io
+  - DOMAIN-SUFFIX,d2g2u2795e3fzw.cloudfront.net
+  - DOMAIN-SUFFIX,mobiexchange.com
   - DOMAIN-SUFFIX,tryzens-analytics.com
   - DOMAIN-SUFFIX,turbotargeting.io
   - DOMAIN-SUFFIX,inetstats.org
@@ -1973,7 +1977,7 @@ payload:
   - DOMAIN-SUFFIX,adku.co
   - DOMAIN-SUFFIX,adku.com
   - DOMAIN-SUFFIX,admantx.com
-  - DOMAIN-SUFFIX,admitad.com
+  - DOMAIN-SUFFIX,ad.admitad.com
   - DOMAIN-SUFFIX,adobetag.com
   - DOMAIN-SUFFIX,adoftheyear.com
   - DOMAIN-SUFFIX,adrta.com
@@ -68907,6 +68911,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,z.cdn.protect-ad.com
+  - DOMAIN-SUFFIX,sb1.mangataro.org
+  - DOMAIN-SUFFIX,ins.oberpfalzmedien.de
   - DOMAIN-SUFFIX,hbrcv.adobe.com
   - DOMAIN-SUFFIX,hbrt.adobe.com
   - DOMAIN-SUFFIX,leo.tridge.com
@@ -68936,7 +68943,6 @@ payload:
   - DOMAIN-SUFFIX,log-gateway.zoom.us
   - DOMAIN-SUFFIX,upsell.alphwidget.com
   - DOMAIN-SUFFIX,4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
-  - DOMAIN-SUFFIX,static.alphwidget.com
   - DOMAIN-SUFFIX,error-analytics-sessions-production.shopifysvc.com
   - DOMAIN-SUFFIX,analytics.pesktop.com
   - DOMAIN-SUFFIX,cloudmetrics.xenforo.com
