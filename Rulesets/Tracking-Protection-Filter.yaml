@@ -279,9 +279,9 @@ payload:
   - DOMAIN-SUFFIX,sc.sc-analytics.jp
   - DOMAIN-SUFFIX,c.bazo.io
   - DOMAIN-SUFFIX,mdhv.io
+  - DOMAIN-SUFFIX,nmrodam.com
   - DOMAIN-SUFFIX,appia.com
   - DOMAIN-SUFFIX,imtwjwoasak.com
-  - DOMAIN-SUFFIX,nmrodam.com
   - DOMAIN-SUFFIX,auraodin.com
   - DOMAIN-SUFFIX,botradar.tech
   - DOMAIN-SUFFIX,us-behavior.apitd.net
@@ -328,6 +328,7 @@ payload:
   - DOMAIN-SUFFIX,untho.de
   - DOMAIN-SUFFIX,k-words.io
   - DOMAIN-SUFFIX,tlmtr.org
+  - DOMAIN-SUFFIX,sentinelbi.com
   - DOMAIN-SUFFIX,ascendeummedia.com
   - DOMAIN-SUFFIX,agma-analytics.de
   - DOMAIN-SUFFIX,cdn-gw-dv.vip
@@ -487,7 +488,6 @@ payload:
   - DOMAIN-SUFFIX,pbcs.decider.com
   - DOMAIN-SUFFIX,pbcs.pagesix.com
   - DOMAIN-SUFFIX,tagtoo.co
-  - DOMAIN-SUFFIX,sentinelbi.com
   - DOMAIN-SUFFIX,count.sibbo.net
   - DOMAIN-SUFFIX,umami.is
   - DOMAIN-SUFFIX,logger.torimochi-ad.net
@@ -495,7 +495,6 @@ payload:
   - DOMAIN-SUFFIX,europe-west1-sonorous-dragon-276210.cloudfunctions.net
   - DOMAIN-SUFFIX,antillephone.com
   - DOMAIN-SUFFIX,prodalet.ru
-  - DOMAIN-SUFFIX,whos.amung.us
   - DOMAIN-SUFFIX,zdw.w8.com.cn
   - DOMAIN-SUFFIX,pbjs-stream.bydata.com
   - DOMAIN-SUFFIX,cdn.sov.stream
@@ -740,7 +739,6 @@ payload:
   - DOMAIN-SUFFIX,mediago.io
   - DOMAIN-SUFFIX,cra.hum.works
   - DOMAIN-SUFFIX,log.trackingio.com
-  - DOMAIN-SUFFIX,region1.analytics.google.com
   - DOMAIN-SUFFIX,google-analytics.com
   - DOMAIN-SUFFIX,iad.anm.co.uk
   - DOMAIN-SUFFIX,cdn.wgchrrammzv.com
@@ -1106,7 +1104,6 @@ payload:
   - DOMAIN-SUFFIX,a.amnet.tw
   - DOMAIN-SUFFIX,vizzit.se
   - DOMAIN-SUFFIX,analytics.tiendaenoferta.com
-  - DOMAIN-SUFFIX,cl.qualaroo.com
   - DOMAIN-SUFFIX,pecukirom.com
   - DOMAIN-SUFFIX,more-data.ru
   - DOMAIN-SUFFIX,gnar.grammarly.com
@@ -1571,7 +1568,6 @@ payload:
   - DOMAIN-SUFFIX,sc.lfeeder.com
   - DOMAIN-SUFFIX,tr.lfeeder.com
   - DOMAIN-SUFFIX,am-trc-events.taboola.com
-  - DOMAIN-SUFFIX,c.tvpixel.com
   - DOMAIN-SUFFIX,analytics.webads.eu
   - DOMAIN-SUFFIX,erandex.com
   - DOMAIN-SUFFIX,direct-events-collector.spot.im
@@ -68911,6 +68907,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,applytics.napps-1.com
   - DOMAIN-SUFFIX,z.cdn.protect-ad.com
   - DOMAIN-SUFFIX,sb1.mangataro.org
   - DOMAIN-SUFFIX,ins.oberpfalzmedien.de
@@ -68965,7 +68962,6 @@ payload:
   - DOMAIN-SUFFIX,ek-tracker.ekitan.com
   - DOMAIN-SUFFIX,leo.hepsiburada.com
   - DOMAIN-SUFFIX,usage.trackjs.com
-  - DOMAIN-SUFFIX,dlt-beacon.dynatrace-managed.com
   - DOMAIN-SUFFIX,rainbow-prod-jdlog.ldoverseas.com
   - DOMAIN-SUFFIX,posthog.lingvanex.com
   - DOMAIN-SUFFIX,analytics.vgtimes.com
@@ -69093,7 +69089,6 @@ payload:
   - DOMAIN-SUFFIX,nexus.uniten.io
   - DOMAIN-SUFFIX,rusty-heartbeat.services.ps.axelspringer.de
   - DOMAIN-SUFFIX,uac.mk.co.kr
-  - DOMAIN-SUFFIX,sp.stapecdn.com
   - DOMAIN-SUFFIX,cdn.powerinboxedge.com
   - DOMAIN-SUFFIX,tracker.ris.promo
   - DOMAIN-SUFFIX,nid.thesun.co.uk
@@ -70056,7 +70051,6 @@ payload:
   - DOMAIN-SUFFIX,aml.valuecommerce.com
   - DOMAIN-SUFFIX,prod.fennec.atp.fox
   - DOMAIN-SUFFIX,analytics.data.visenze.com
-  - DOMAIN-SUFFIX,evs.proxy.analytics.shutterstock.com
   - DOMAIN-SUFFIX,gtm-server.healthline.com
   - DOMAIN-SUFFIX,kaan.kakao.com
   - DOMAIN-SUFFIX,rec.banggood.com
@@ -70738,7 +70732,6 @@ payload:
   - DOMAIN-SUFFIX,ev.kck.st
   - DOMAIN-SUFFIX,events.popinfo.jp
   - DOMAIN-SUFFIX,event-action.popinfo.jp
-  - DOMAIN-SUFFIX,event-collector.analytics.onedio.com
   - DOMAIN-SUFFIX,event-reporting-dot-webylytics.appspot.com
   - DOMAIN-SUFFIX,event.chitai-gorod.ru
   - DOMAIN-SUFFIX,event.condenastdigital.com
@@ -72249,7 +72242,6 @@ payload:
   - DOMAIN-SUFFIX,mediation.mwmadnetworks.com
   - DOMAIN-SUFFIX,xplosion.de
   - DOMAIN-SUFFIX,theadex.com
-  - DOMAIN-SUFFIX,adui.tg.meitu.com
   - DOMAIN-SUFFIX,meitustat.com
   - DOMAIN-SUFFIX,analysis.vesync.com
   - DOMAIN-SUFFIX,insights.zennioptical.com
@@ -72652,7 +72644,6 @@ payload:
   - DOMAIN-SUFFIX,cafe-log.myshoplus.com
   - DOMAIN-SUFFIX,de01.rayjump.com
   - DOMAIN-SUFFIX,c.sayhi.360.cn
-  - DOMAIN-SUFFIX,log-api.pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,log.tpns.tencent.com
   - DOMAIN-SUFFIX,stat.m.360.cn
   - DOMAIN-SUFFIX,stats-a.maxthon.com
