@@ -608,9 +608,8 @@ payload:
   - DOMAIN-SUFFIX,img-c.net
   - DOMAIN-SUFFIX,widgets.trustedshops.com
   - DOMAIN-SUFFIX,widget.oncustomer.asia
+  - DOMAIN-SUFFIX,web-client.moveo.ai
   - DOMAIN-SUFFIX,affilizz.com
-  - DOMAIN-SUFFIX,gubagootracking.com
-  - DOMAIN-SUFFIX,cdn.gubagoo.io
   - DOMAIN-SUFFIX,chat.quickcep.com
   - DOMAIN-SUFFIX,webchat-ui.citibot.net
   - DOMAIN-SUFFIX,webchat.bebot.io
@@ -740,6 +739,8 @@ payload:
   - DOMAIN-SUFFIX,st.yagla.ru
   - DOMAIN-SUFFIX,partner-widget.vse-sdal.com
   - DOMAIN-SUFFIX,perimeterx.widget.insent.ai
+  - DOMAIN-SUFFIX,gubagootracking.com
+  - DOMAIN-SUFFIX,cdn.gubagoo.io
   - DOMAIN-SUFFIX,go.pardot.com
   - DOMAIN-SUFFIX,dl.metabar.ru
   - DOMAIN-SUFFIX,plista.com
@@ -747,6 +748,7 @@ payload:
   - DOMAIN-SUFFIX,torimochi-ad.net
   - DOMAIN-SUFFIX,gacraft.jp
   - DOMAIN-SUFFIX,api.popin.cc
+  - DOMAIN-SUFFIX,titanembeds.com
   - DOMAIN-SUFFIX,salesiq.zohopublic.com
   - DOMAIN-SUFFIX,client.crisp.chat
   - DOMAIN-SUFFIX,web-chat.global.assistant.watson.appdomain.cloud
