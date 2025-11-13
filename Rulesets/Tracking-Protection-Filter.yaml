@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,data.pendo.io
+  - DOMAIN-SUFFIX,api.statsigcdn.com
+  - DOMAIN-SUFFIX,beacon.coofis.com
+  - DOMAIN-SUFFIX,aditude.prebid-server.com
+  - DOMAIN-SUFFIX,cache.prebid-server.com
+  - DOMAIN-SUFFIX,cdnm.techpump.com
   - DOMAIN-SUFFIX,analytics.bomiv.com
   - DOMAIN-SUFFIX,track.bomiv.com
   - DOMAIN-SUFFIX,delog.nestads.com
@@ -3526,7 +3532,6 @@ payload:
   - DOMAIN-SUFFIX,trackedweb.net
   - DOMAIN-SUFFIX,tracking202.com
   - DOMAIN-SUFFIX,trackinglabs.com
-  - DOMAIN-SUFFIX,trackjs.com
   - DOMAIN-SUFFIX,trackkas.com
   - DOMAIN-SUFFIX,trackmyweb.net
   - DOMAIN-SUFFIX,trackset.it
@@ -75082,6 +75087,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,coll.lovense.com
+  - DOMAIN-SUFFIX,bilog.lovense-api.com
+  - DOMAIN-SUFFIX,log.lovense-api.com
+  - DOMAIN-SUFFIX,tms.hft.everyplate.com
+  - DOMAIN-SUFFIX,tdum.alibaba.com
   - DOMAIN-SUFFIX,webpushstat-sgp.engagelab.com
   - DOMAIN-SUFFIX,analytics.simpler.so
   - DOMAIN-SUFFIX,bizlog-gateway.myrealtrip.com
@@ -78217,6 +78227,15 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,xz.fbcdn.net
+  - DOMAIN-SUFFIX,xy.fbcdn.net
+  - DOMAIN-SUFFIX,data.eu.pendo.io
+  - DOMAIN-SUFFIX,client-log.box.com
+  - DOMAIN-SUFFIX,pendo-data-prod.box.com
+  - DOMAIN-SUFFIX,blink.fra-01.braze.eu
+  - DOMAIN-SUFFIX,api.monedata.io
+  - DOMAIN-SUFFIX,tnc16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,mcs16-normal-us-ttp.capcutapi.us
   - DOMAIN-SUFFIX,appcpi.net
   - DOMAIN-SUFFIX,event.aimailhome.io
   - DOMAIN-SUFFIX,mon.capcutapi.us
@@ -79389,6 +79408,7 @@ payload:
   - DOMAIN-SUFFIX,crafthenry.com
   - DOMAIN-SUFFIX,crashchance.com
   - DOMAIN-SUFFIX,cratecamera.com
+  - DOMAIN-SUFFIX,createdip.com
   - DOMAIN-SUFFIX,creatorcherry.com
   - DOMAIN-SUFFIX,creatorpassenger.com
   - DOMAIN-SUFFIX,creatorsnote.com
@@ -79454,6 +79474,7 @@ payload:
   - DOMAIN-SUFFIX,deliciousducks.com
   - DOMAIN-SUFFIX,deltafault.com
   - DOMAIN-SUFFIX,deluxecrate.com
+  - DOMAIN-SUFFIX,demorewards.com
   - DOMAIN-SUFFIX,dependenttrip.com
   - DOMAIN-SUFFIX,deployinput.com
   - DOMAIN-SUFFIX,desertgates.com
@@ -79644,6 +79665,7 @@ payload:
   - DOMAIN-SUFFIX,flutteringfireman.com
   - DOMAIN-SUFFIX,foambench.com
   - DOMAIN-SUFFIX,followborder.com
+  - DOMAIN-SUFFIX,foodczar.com
   - DOMAIN-SUFFIX,foodfunfestivals.com
   - DOMAIN-SUFFIX,forecasttiger.com
   - DOMAIN-SUFFIX,foretellfifth.com
@@ -79656,10 +79678,12 @@ payload:
   - DOMAIN-SUFFIX,framebanana.com
   - DOMAIN-SUFFIX,franksfloral.com
   - DOMAIN-SUFFIX,franticroof.com
+  - DOMAIN-SUFFIX,fraysystems.com
   - DOMAIN-SUFFIX,freedomgrail.com
   - DOMAIN-SUFFIX,freezeassets.com
   - DOMAIN-SUFFIX,freezingbuilding.com
   - DOMAIN-SUFFIX,frequentflesh.com
+  - DOMAIN-SUFFIX,freshlyhuman.com
   - DOMAIN-SUFFIX,friedone.com
   - DOMAIN-SUFFIX,friendlycrayon.com
   - DOMAIN-SUFFIX,friendlyfold.com
@@ -80062,6 +80086,7 @@ payload:
   - DOMAIN-SUFFIX,muteknife.com
   - DOMAIN-SUFFIX,mutemailbox.com
   - DOMAIN-SUFFIX,mutualhappy.com
+  - DOMAIN-SUFFIX,mysketchpad.com
   - DOMAIN-SUFFIX,mysticalagoon.com
   - DOMAIN-SUFFIX,naivestatement.com
   - DOMAIN-SUFFIX,nappyattack.com
@@ -80431,6 +80456,7 @@ payload:
   - DOMAIN-SUFFIX,scribblestring.com
   - DOMAIN-SUFFIX,scrollservice.com
   - DOMAIN-SUFFIX,scrubswim.com
+  - DOMAIN-SUFFIX,sealtravels.com
   - DOMAIN-SUFFIX,seatsmoke.com
   - DOMAIN-SUFFIX,secondhandfall.com
   - DOMAIN-SUFFIX,secretivesheep.com
@@ -80668,6 +80694,7 @@ payload:
   - DOMAIN-SUFFIX,stupidscene.com
   - DOMAIN-SUFFIX,stupidsnake.com
   - DOMAIN-SUFFIX,sturdysnail.com
+  - DOMAIN-SUFFIX,stylelockers.com
   - DOMAIN-SUFFIX,stylishbuds.com
   - DOMAIN-SUFFIX,subjectivepoint.com
   - DOMAIN-SUFFIX,sublimequartz.com
