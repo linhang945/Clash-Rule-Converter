@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,nlog.instajob.ai
   - DOMAIN-SUFFIX,data.pendo.io
   - DOMAIN-SUFFIX,api.statsigcdn.com
   - DOMAIN-SUFFIX,beacon.coofis.com
@@ -1706,7 +1707,7 @@ payload:
   - DOMAIN-SUFFIX,irxcm.com
   - DOMAIN-SUFFIX,unid.go.com
   - DOMAIN-SUFFIX,dataxpand.com
-  - DOMAIN-SUFFIX,connectif.cloud
+  - DOMAIN-SUFFIX,cdn.connectif.cloud
   - DOMAIN-SUFFIX,lumitos.com
   - DOMAIN-SUFFIX,seedtag.com
   - DOMAIN-SUFFIX,quantummetric.com
@@ -75087,6 +75088,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sp.aviasales.ru
+  - DOMAIN-SUFFIX,darnuid.netflix.com
+  - DOMAIN-SUFFIX,analytics.thekrazycouponlady.com
   - DOMAIN-SUFFIX,coll.lovense.com
   - DOMAIN-SUFFIX,bilog.lovense-api.com
   - DOMAIN-SUFFIX,log.lovense-api.com
@@ -78227,6 +78231,14 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,federatedcompute-pa.googleapis.com
+  - DOMAIN-SUFFIX,fcm-collect-api.alyac.com
+  - DOMAIN-SUFFIX,service-api.flarelane.com
+  - DOMAIN-SUFFIX,mossturbo.com
+  - DOMAIN-SUFFIX,collect.wehearfm.com
+  - DOMAIN-SUFFIX,itracking.ikameglobal.com
+  - DOMAIN-SUFFIX,client-events-ingress.bookbub.com
+  - DOMAIN-SUFFIX,sdk.out.usbla.net
   - DOMAIN-SUFFIX,xz.fbcdn.net
   - DOMAIN-SUFFIX,xy.fbcdn.net
   - DOMAIN-SUFFIX,data.eu.pendo.io
@@ -78302,12 +78314,6 @@ payload:
   - DOMAIN-SUFFIX,qcloud-sg-datareceiver.kurogame.xyz
   - DOMAIN-SUFFIX,statistic-overseas.yunxinfw.com
   - DOMAIN-SUFFIX,perfsight.wetest.net
-  - DOMAIN-SUFFIX,gamedot.afafb.com
-  - DOMAIN-SUFFIX,tadata.afafb.com
-  - DOMAIN-SUFFIX,ecpm.afafb.com
-  - DOMAIN-SUFFIX,mediation-receiver.afafb.com
-  - DOMAIN-SUFFIX,df.afafb.com
-  - DOMAIN-SUFFIX,middle-defend.afafb.com
   - DOMAIN-SUFFIX,pangolin-sdk-toutiao.com
   - DOMAIN-SUFFIX,stat.tpns.sgp.tencent.com
   - DOMAIN-SUFFIX,guid.tpns.sgp.tencent.com
@@ -79336,6 +79342,7 @@ payload:
   - DOMAIN-SUFFIX,cleanhaircut.com
   - DOMAIN-SUFFIX,climbingright.com
   - DOMAIN-SUFFIX,cloisteredcurve.com
+  - DOMAIN-SUFFIX,cloudchickens.com
   - DOMAIN-SUFFIX,cloudguppy.com
   - DOMAIN-SUFFIX,cloudhustles.com
   - DOMAIN-SUFFIX,cloudjumbo.com
@@ -79507,9 +79514,11 @@ payload:
   - DOMAIN-SUFFIX,dogcollarfavourbluff.com
   - DOMAIN-SUFFIX,doggieshome.com
   - DOMAIN-SUFFIX,dollardelta.com
+  - DOMAIN-SUFFIX,dollarthrill.com
   - DOMAIN-SUFFIX,doubledefend.com
   - DOMAIN-SUFFIX,doubtdrawer.com
   - DOMAIN-SUFFIX,dq95d35.com
+  - DOMAIN-SUFFIX,dragonbats.com
   - DOMAIN-SUFFIX,drainpaste.com
   - DOMAIN-SUFFIX,dramaticdirection.com
   - DOMAIN-SUFFIX,dreamsdome.com
