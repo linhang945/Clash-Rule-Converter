@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,tncid.app
+  - DOMAIN-SUFFIX,rampanel.com
+  - DOMAIN-SUFFIX,l5id.com
+  - DOMAIN-SUFFIX,evorra.net
   - DOMAIN-SUFFIX,yext.com
   - DOMAIN-SUFFIX,hackle.io
   - DOMAIN-SUFFIX,track.aimroas.com
@@ -48981,6 +48985,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,valencia-beacons.xumo.com
+  - DOMAIN-SUFFIX,sync.getpublica.com
+  - DOMAIN-SUFFIX,events-tracker.deliveroo.net
   - DOMAIN-SUFFIX,analytics-prod.readtheory.org
   - DOMAIN-SUFFIX,y194.asics.com
   - DOMAIN-SUFFIX,analytics.cosmicstack.org
@@ -52136,6 +52143,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,logrcv.adseyeservice.com
   - DOMAIN-SUFFIX,stats.cn.ronghub.com
   - DOMAIN-SUFFIX,statistic.live.126.net
   - DOMAIN-SUFFIX,report.1-1.io
@@ -53228,6 +53236,7 @@ payload:
   - DOMAIN-SUFFIX,captivatingillusion.com
   - DOMAIN-SUFFIX,captivatingpanorama.com
   - DOMAIN-SUFFIX,captivatingperformance.com
+  - DOMAIN-SUFFIX,carbongarden.net
   - DOMAIN-SUFFIX,cardmethod.com
   - DOMAIN-SUFFIX,carefuldolls.com
   - DOMAIN-SUFFIX,caringcast.com
@@ -53589,6 +53598,7 @@ payload:
   - DOMAIN-SUFFIX,fewjuice.com
   - DOMAIN-SUFFIX,fewkittens.com
   - DOMAIN-SUFFIX,fieldconfig.com
+  - DOMAIN-SUFFIX,figsprotein.com
   - DOMAIN-SUFFIX,fillthemap.com
   - DOMAIN-SUFFIX,filtercutter.com
   - DOMAIN-SUFFIX,finalizeforce.com
@@ -53623,6 +53633,7 @@ payload:
   - DOMAIN-SUFFIX,floweryoperation.com
   - DOMAIN-SUFFIX,flushingbeast.com
   - DOMAIN-SUFFIX,flutteringfireman.com
+  - DOMAIN-SUFFIX,flystranger.com
   - DOMAIN-SUFFIX,foambench.com
   - DOMAIN-SUFFIX,followborder.com
   - DOMAIN-SUFFIX,fontserif.com
@@ -54518,6 +54529,7 @@ payload:
   - DOMAIN-SUFFIX,slackpod.com
   - DOMAIN-SUFFIX,slaysweater.com
   - DOMAIN-SUFFIX,slickcontent.com
+  - DOMAIN-SUFFIX,slimesupplies.net
   - DOMAIN-SUFFIX,slinksuggestion.com
   - DOMAIN-SUFFIX,slopesoap.com
   - DOMAIN-SUFFIX,smallershops.com
@@ -54937,6 +54949,7 @@ payload:
   - DOMAIN-SUFFIX,worldrealize.com
   - DOMAIN-SUFFIX,worriednumber.com
   - DOMAIN-SUFFIX,worriedwine.com
+  - DOMAIN-SUFFIX,wowfunnow.com
   - DOMAIN-SUFFIX,wrapstretch.com
   - DOMAIN-SUFFIX,wretchedfloor.com
   - DOMAIN-SUFFIX,writerhubs.com
