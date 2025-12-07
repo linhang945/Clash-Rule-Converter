@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sp.pcid.ca
   - DOMAIN-SUFFIX,tracker.zmaticoo.com
   - DOMAIN-SUFFIX,tags.mlytics.com
   - DOMAIN-SUFFIX,tncid.app
@@ -49398,6 +49399,15 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tracking-live.kr3m.com
+  - DOMAIN-SUFFIX,gx-target-experiments-frontend-api.gx.nvidia.com
+  - DOMAIN-SUFFIX,events.gfe.nvidia.com
+  - DOMAIN-SUFFIX,prod.otel.kaizen.nvidia.com
+  - DOMAIN-SUFFIX,telemetry.gfe.nvidia.com
+  - DOMAIN-SUFFIX,telegraph.prd.api.discoveryplus.com
+  - DOMAIN-SUFFIX,telegraph.prd.api.hbomax.com
+  - DOMAIN-SUFFIX,click.lenovo.com
+  - DOMAIN-SUFFIX,phaseshift.almagrow.com
   - DOMAIN-SUFFIX,analytics.claudelog.com
   - DOMAIN-SUFFIX,i.go.sohu.com
   - DOMAIN-SUFFIX,tagbridge.vlp.cz
@@ -49644,7 +49654,6 @@ payload:
   - DOMAIN-SUFFIX,j0v36abmdj.execute-api.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,lumberjack-metrics.razorpay.com
   - DOMAIN-SUFFIX,statistics-collector-api.listglobally.com
-  - DOMAIN-SUFFIX,telegraph.prd.api.bleacherreport.com
   - DOMAIN-SUFFIX,events.shoplift.ai
   - DOMAIN-SUFFIX,flxr.myplan-c.com
   - DOMAIN-SUFFIX,seghg.hottopic.com
