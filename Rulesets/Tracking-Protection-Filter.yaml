@@ -49450,6 +49450,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,fls-na.amazon.com
+  - DOMAIN-SUFFIX,tag.poomang.com
+  - DOMAIN-SUFFIX,counter.tldw.me
+  - DOMAIN-SUFFIX,analytics.blender.org
+  - DOMAIN-SUFFIX,d.nordprotect.com
   - DOMAIN-SUFFIX,async-px-eu.dynamicyield.com
   - DOMAIN-SUFFIX,pm.redbull.com
   - DOMAIN-SUFFIX,tracking-live.kr3m.com
@@ -52620,6 +52625,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,log.cleansweepplu.com
   - DOMAIN-SUFFIX,tc.vbnmhjlp.com
   - DOMAIN-SUFFIX,logrcv.adseyeservice.com
   - DOMAIN-SUFFIX,stats.cn.ronghub.com
