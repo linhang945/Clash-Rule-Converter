@@ -46057,6 +46057,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,d.nordvpn.com
+  - DOMAIN-SUFFIX,ingress.linktr.ee
+  - DOMAIN-SUFFIX,browser-fp.production.linktr.ee
+  - DOMAIN-SUFFIX,app-performance.music.amazon.dev
+  - DOMAIN-SUFFIX,mp.imgur.com
   - DOMAIN-SUFFIX,a.apkeditor.io
   - DOMAIN-SUFFIX,log.goodnovel.com
   - DOMAIN-SUFFIX,d2qxmykuaro8s3.cloudfront.net
@@ -49237,6 +49242,8 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,events.backtrace.io
+  - DOMAIN-SUFFIX,logs.classdojo.com
   - DOMAIN-SUFFIX,api.arity.com
   - DOMAIN-SUFFIX,mob2.bpt.apprevork.com
   - DOMAIN-SUFFIX,cpatrk.net
@@ -50150,6 +50157,7 @@ payload:
   - DOMAIN-SUFFIX,alikeaddition.com
   - DOMAIN-SUFFIX,aliveachiever.com
   - DOMAIN-SUFFIX,alloutdubstep.com
+  - DOMAIN-SUFFIX,allsunflowers.com
   - DOMAIN-SUFFIX,alltypo.com
   - DOMAIN-SUFFIX,alluringbucket.com
   - DOMAIN-SUFFIX,almondbuns.com
@@ -50266,6 +50274,7 @@ payload:
   - DOMAIN-SUFFIX,blissfullagoon.com
   - DOMAIN-SUFFIX,blitzcampaigns.com
   - DOMAIN-SUFFIX,blockdial.com
+  - DOMAIN-SUFFIX,bloomsend.com
   - DOMAIN-SUFFIX,blueeyedblow.com
   - DOMAIN-SUFFIX,bluenest.net
   - DOMAIN-SUFFIX,bluevinebooks.com
@@ -50329,6 +50338,7 @@ payload:
   - DOMAIN-SUFFIX,butterburst.com
   - DOMAIN-SUFFIX,buttonladybug.com
   - DOMAIN-SUFFIX,buzzaoutlet.com
+  - DOMAIN-SUFFIX,buzzfry.com
   - DOMAIN-SUFFIX,cafefrench.com
   - DOMAIN-SUFFIX,cafescampfires.com
   - DOMAIN-SUFFIX,cakeagenda.com
@@ -50445,6 +50455,7 @@ payload:
   - DOMAIN-SUFFIX,confesschairs.com
   - DOMAIN-SUFFIX,confidencetalks.com
   - DOMAIN-SUFFIX,configchain.com
+  - DOMAIN-SUFFIX,configcontrol.com
   - DOMAIN-SUFFIX,confirmglobal.com
   - DOMAIN-SUFFIX,confusedcart.com
   - DOMAIN-SUFFIX,connectashelf.com
@@ -51015,6 +51026,7 @@ payload:
   - DOMAIN-SUFFIX,jubilantwhisper.com
   - DOMAIN-SUFFIX,juicebard.com
   - DOMAIN-SUFFIX,juiceblocks.com
+  - DOMAIN-SUFFIX,juicingoasis.com
   - DOMAIN-SUFFIX,justconfig.com
   - DOMAIN-SUFFIX,justicejudo.com
   - DOMAIN-SUFFIX,justpickaname.com
@@ -51474,6 +51486,7 @@ payload:
   - DOMAIN-SUFFIX,rememberdiscussion.com
   - DOMAIN-SUFFIX,remixslot.com
   - DOMAIN-SUFFIX,rentinfinity.com
+  - DOMAIN-SUFFIX,rentpenny.com
   - DOMAIN-SUFFIX,repeatsweater.com
   - DOMAIN-SUFFIX,replaceroute.com
   - DOMAIN-SUFFIX,rescuerhino.com
