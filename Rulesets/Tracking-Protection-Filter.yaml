@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,elitebidder.com
+  - DOMAIN-SUFFIX,adstk.io
+  - DOMAIN-SUFFIX,adfenix.com
+  - DOMAIN-SUFFIX,boldmetrics.io
   - DOMAIN-SUFFIX,cdn.trakkr.ai
   - DOMAIN-SUFFIX,track.trakkr.ai
   - DOMAIN-SUFFIX,cdn.particularaudience.com
@@ -465,7 +469,6 @@ payload:
   - DOMAIN-SUFFIX,fndrsp.net
   - DOMAIN-SUFFIX,positional.ai
   - DOMAIN-SUFFIX,positional-bucket.com
-  - DOMAIN-SUFFIX,collector-pxebumdlwe.px-cloud.net
   - DOMAIN-SUFFIX,collector-pxebumdlwe.px-cdn.net
   - DOMAIN-SUFFIX,s2s.adjust.com
   - DOMAIN-SUFFIX,view.adjust.com
@@ -46057,6 +46060,21 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,android-tv-beacons.xumo.com
+  - DOMAIN-SUFFIX,ams-beacons.xumo.com
+  - DOMAIN-SUFFIX,rtb-trk4.linkedin.com
+  - DOMAIN-SUFFIX,rtb-us-east.linkedin.com
+  - DOMAIN-SUFFIX,adservices.brandcdn.com
+  - DOMAIN-SUFFIX,telemetry.microsoft.us
+  - DOMAIN-SUFFIX,stats.urban-vpn.com
+  - DOMAIN-SUFFIX,analytics.urban-vpn.com
+  - DOMAIN-SUFFIX,analytics.heistotron.uk
+  - DOMAIN-SUFFIX,metrics-config.icloud.com
+  - DOMAIN-SUFFIX,fingerprint.incodesmile.com
+  - DOMAIN-SUFFIX,fluffy-analytics.vercel.app
+  - DOMAIN-SUFFIX,stats.renet.io
+  - DOMAIN-SUFFIX,metrics-ingress-web.svc.vinted.com
+  - DOMAIN-SUFFIX,metrics.vinted.lt
   - DOMAIN-SUFFIX,d.nordvpn.com
   - DOMAIN-SUFFIX,ingress.linktr.ee
   - DOMAIN-SUFFIX,browser-fp.production.linktr.ee
@@ -46197,7 +46215,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.shutterstock.com
   - DOMAIN-SUFFIX,plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
   - DOMAIN-SUFFIX,collector-pxdojv695v.protechts.net
-  - DOMAIN-SUFFIX,collector-pxdojv695v.px-cloud.net
   - DOMAIN-SUFFIX,collector1.sooplive.co.kr
   - DOMAIN-SUFFIX,exlogcollector.sooplive.co.kr
   - DOMAIN-SUFFIX,snowflake.qq.com
@@ -49242,6 +49259,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,onegg.site
+  - DOMAIN-SUFFIX,log.smartclearpro.com
+  - DOMAIN-SUFFIX,analytics.artworkout.net
+  - DOMAIN-SUFFIX,event.mwm-bs.com
   - DOMAIN-SUFFIX,events.backtrace.io
   - DOMAIN-SUFFIX,logs.classdojo.com
   - DOMAIN-SUFFIX,api.arity.com
@@ -50469,6 +50490,7 @@ payload:
   - DOMAIN-SUFFIX,controlswim.com
   - DOMAIN-SUFFIX,convertbatch.com
   - DOMAIN-SUFFIX,cooingcoal.com
+  - DOMAIN-SUFFIX,cookiestorybook.com
   - DOMAIN-SUFFIX,coolestcatcare.com
   - DOMAIN-SUFFIX,coolguesthouse.com
   - DOMAIN-SUFFIX,coordinatedcoat.com
@@ -50476,6 +50498,7 @@ payload:
   - DOMAIN-SUFFIX,copycarpenter.com
   - DOMAIN-SUFFIX,copyfranchise.com
   - DOMAIN-SUFFIX,copyrightaccesscontrols.com
+  - DOMAIN-SUFFIX,copytweaks.com
   - DOMAIN-SUFFIX,copyvibes.com
   - DOMAIN-SUFFIX,coralcranes.com
   - DOMAIN-SUFFIX,coralreverie.com
@@ -50522,6 +50545,7 @@ payload:
   - DOMAIN-SUFFIX,cumbersomecake.com
   - DOMAIN-SUFFIX,cumbersomecarpenter.com
   - DOMAIN-SUFFIX,cupcakegem.com
+  - DOMAIN-SUFFIX,curatedtea.com
   - DOMAIN-SUFFIX,curbminers.com
   - DOMAIN-SUFFIX,curbneon.com
   - DOMAIN-SUFFIX,curiouschalk.com
@@ -50611,6 +50635,7 @@ payload:
   - DOMAIN-SUFFIX,dreamycanyon.com
   - DOMAIN-SUFFIX,driftingchef.com
   - DOMAIN-SUFFIX,driftpizza.com
+  - DOMAIN-SUFFIX,droidwiz.com
   - DOMAIN-SUFFIX,drollwharf.com
   - DOMAIN-SUFFIX,dustydime.com
   - DOMAIN-SUFFIX,dustyhammer.com
@@ -50619,6 +50644,7 @@ payload:
   - DOMAIN-SUFFIX,eagerflame.com
   - DOMAIN-SUFFIX,eagerknight.com
   - DOMAIN-SUFFIX,earnbaht.com
+  - DOMAIN-SUFFIX,earthlybuzz.com
   - DOMAIN-SUFFIX,earthups.com
   - DOMAIN-SUFFIX,eatablesquare.com
   - DOMAIN-SUFFIX,echoacloud.com
@@ -50723,6 +50749,7 @@ payload:
   - DOMAIN-SUFFIX,fearlesstramp.com
   - DOMAIN-SUFFIX,featherstage.com
   - DOMAIN-SUFFIX,feeblestamp.com
+  - DOMAIN-SUFFIX,feedandpurr.com
   - DOMAIN-SUFFIX,feedten.com
   - DOMAIN-SUFFIX,feignedfaucet.com
   - DOMAIN-SUFFIX,fewjuice.com
