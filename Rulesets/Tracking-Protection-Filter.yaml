@@ -5,6 +5,13 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,ctxcollect.com
+  - DOMAIN-SUFFIX,conduit-beacon-usw2.mtvnservices.com
+  - DOMAIN-SUFFIX,tvp.tv
+  - DOMAIN-SUFFIX,adsximg.com
+  - DOMAIN-SUFFIX,static.terratraf.io
+  - DOMAIN-SUFFIX,matomo.stackvaults.com
+  - DOMAIN-SUFFIX,moengage.com
   - DOMAIN-SUFFIX,rapid-cdn.yottaa.com
   - DOMAIN-SUFFIX,rum-ingress-coralogix.com
   - DOMAIN-SUFFIX,elitebidder.com
@@ -45943,6 +45950,13 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics.t-mobile.com
+  - DOMAIN-SUFFIX,raw.vidyard.com
+  - DOMAIN-SUFFIX,pushd-android-logs.s3.amazonaws.com
+  - DOMAIN-SUFFIX,unif-id.ssp.inmobi.com
+  - DOMAIN-SUFFIX,external-api.impression-neo.naver.com
+  - DOMAIN-SUFFIX,uxlog-api.danawa.com
+  - DOMAIN-SUFFIX,matomo-prod.cgorod.pw
   - DOMAIN-SUFFIX,a.tampermonkey.net
   - DOMAIN-SUFFIX,event.kr.karrotmarket.com
   - DOMAIN-SUFFIX,log-bridge-mobile.kr.karrotmarket.com
@@ -49145,6 +49159,10 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,vsn-analytics.aparentmedia.com
+  - DOMAIN-SUFFIX,ihmonitor.luckincoffee.us
+  - DOMAIN-SUFFIX,use-trk.monetune.com
+  - DOMAIN-SUFFIX,telemetry.sdk.inmobi.com
   - DOMAIN-SUFFIX,unisdk.proxima.nie.easebar.com
   - DOMAIN-SUFFIX,ingest.m2catalyst.com
   - DOMAIN-SUFFIX,tnc-v2-boot.capcutapi.com
@@ -50696,6 +50714,7 @@ payload:
   - DOMAIN-SUFFIX,forwardslashetc.com
   - DOMAIN-SUFFIX,fossilzero.com
   - DOMAIN-SUFFIX,fourpawsahead.com
+  - DOMAIN-SUFFIX,foxlagoon.com
   - DOMAIN-SUFFIX,foxtrotdata.com
   - DOMAIN-SUFFIX,frailfruit.com
   - DOMAIN-SUFFIX,framebanana.com
@@ -50784,6 +50803,7 @@ payload:
   - DOMAIN-SUFFIX,grayoranges.com
   - DOMAIN-SUFFIX,grayreceipt.com
   - DOMAIN-SUFFIX,grayscaleart.com
+  - DOMAIN-SUFFIX,graywords.net
   - DOMAIN-SUFFIX,greasegarden.com
   - DOMAIN-SUFFIX,greasysquare.com
   - DOMAIN-SUFFIX,gridbelow.com
