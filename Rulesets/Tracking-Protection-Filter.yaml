@@ -5,6 +5,12 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,cse.rakanto.com
+  - DOMAIN-SUFFIX,repo.rakanto.com
+  - DOMAIN-SUFFIX,aim-tag.hcn.health
+  - DOMAIN-SUFFIX,wstats.ageverif.com
+  - DOMAIN-SUFFIX,api.eventbus.me
+  - DOMAIN-SUFFIX,rumt-sg.com
   - DOMAIN-SUFFIX,gm.mmstat.com
   - DOMAIN-SUFFIX,yazio-analytics.com
   - DOMAIN-SUFFIX,hightouch-events.com
@@ -47295,6 +47301,13 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,hw-t.hypers.com.cn
+  - DOMAIN-SUFFIX,prd-collect-llm.xverse.cn
+  - DOMAIN-SUFFIX,securemetrics.apple.com
+  - DOMAIN-SUFFIX,graffiti-tags.apple.com
+  - DOMAIN-SUFFIX,fem.gprod.postmedia.digital
+  - DOMAIN-SUFFIX,t.hentaivox.com
+  - DOMAIN-SUFFIX,tk.jtbc.co.kr
   - DOMAIN-SUFFIX,eventcom.api.np.km.playstation.net
   - DOMAIN-SUFFIX,pulsar.ebay.com
   - DOMAIN-SUFFIX,pixel-conversion.apps.seabroadnet.com
@@ -50523,6 +50536,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,sensorsdata-datasink.stardust-tv.com
+  - DOMAIN-SUFFIX,event-api-cs.stardust-tv.com
+  - DOMAIN-SUFFIX,mebed.dm-event.net
   - DOMAIN-SUFFIX,bstream.kzhi.tech
   - DOMAIN-SUFFIX,lklfwu-inapps.appsflyersdk.com
   - DOMAIN-SUFFIX,mob2.welltastic-app.com
@@ -52641,6 +52657,7 @@ payload:
   - DOMAIN-SUFFIX,pailcrime.com
   - DOMAIN-SUFFIX,pailpatch.com
   - DOMAIN-SUFFIX,painstakingpickle.com
+  - DOMAIN-SUFFIX,paintmogul.com
   - DOMAIN-SUFFIX,paintpear.com
   - DOMAIN-SUFFIX,paleleaf.com
   - DOMAIN-SUFFIX,palmytree.com
@@ -52664,6 +52681,7 @@ payload:
   - DOMAIN-SUFFIX,perceivequarter.com
   - DOMAIN-SUFFIX,perfectfetch.com
   - DOMAIN-SUFFIX,perkyjade.com
+  - DOMAIN-SUFFIX,petitechili.com
   - DOMAIN-SUFFIX,phonecup.com
   - DOMAIN-SUFFIX,phoneresult.com
   - DOMAIN-SUFFIX,photohints.com
