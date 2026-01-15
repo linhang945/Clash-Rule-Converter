@@ -5,6 +5,13 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,analytics.vinovo.si
+  - DOMAIN-SUFFIX,cs.media.net
+  - DOMAIN-SUFFIX,bidder.doceree.com
+  - DOMAIN-SUFFIX,fpcdn.io
+  - DOMAIN-SUFFIX,fpjs.io
+  - DOMAIN-SUFFIX,winsurbox.com
+  - DOMAIN-SUFFIX,telemetry.tataritv.com
   - DOMAIN-SUFFIX,cpu-api.infor.pl
   - DOMAIN-SUFFIX,cse.rakanto.com
   - DOMAIN-SUFFIX,repo.rakanto.com
@@ -47302,6 +47309,11 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,st.freedom24.com
+  - DOMAIN-SUFFIX,rum.api.intuit.com
+  - DOMAIN-SUFFIX,trafficmanager.anyclip.com
+  - DOMAIN-SUFFIX,r.anime-go.cc
+  - DOMAIN-SUFFIX,doppler.hulu.com
   - DOMAIN-SUFFIX,events.insiad.com
   - DOMAIN-SUFFIX,hw-t.hypers.com.cn
   - DOMAIN-SUFFIX,prd-collect-llm.xverse.cn
@@ -50484,6 +50496,7 @@ payload:
   - DOMAIN-SUFFIX,analytics-sprint.qoqa.com
   - DOMAIN-SUFFIX,analytics.qoqa.ch
   - DOMAIN-SUFFIX,analytics.qoqa.com
+  - DOMAIN-SUFFIX,skadsdk.appsflyersdk.com
   - DOMAIN-SUFFIX,attr.appsflyersdk.com
   - DOMAIN-SUFFIX,privacy-sandbox.appsflyersdk.com
   - DOMAIN-SUFFIX,adrevenue.appsflyer.com
@@ -50536,6 +50549,13 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,events-stream-svc.cordial.io
+  - DOMAIN-SUFFIX,events.gonative.io
+  - DOMAIN-SUFFIX,matomo.podslink.net
+  - DOMAIN-SUFFIX,mab-mob2.websearchapp.com
+  - DOMAIN-SUFFIX,news-events.apple.com
+  - DOMAIN-SUFFIX,news-app-events.apple.com
+  - DOMAIN-SUFFIX,news-sports-events.apple.com
   - DOMAIN-SUFFIX,track.applicaster.com
   - DOMAIN-SUFFIX,hb-mob2.optiword.com
   - DOMAIN-SUFFIX,telemetry.doxo.com
