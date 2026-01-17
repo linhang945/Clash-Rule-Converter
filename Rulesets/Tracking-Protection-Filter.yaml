@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,heap-api.com
   - DOMAIN-SUFFIX,analytics.vinovo.si
   - DOMAIN-SUFFIX,cs.media.net
   - DOMAIN-SUFFIX,bidder.doceree.com
@@ -47309,6 +47310,16 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sp.pluto.tv
+  - DOMAIN-SUFFIX,service-ad-image-ga-weighted.prd.pluto.tv
+  - DOMAIN-SUFFIX,tracking.carfax.com
+  - DOMAIN-SUFFIX,analytics.carvana.io
+  - DOMAIN-SUFFIX,analytics.ticketmaster.com
+  - DOMAIN-SUFFIX,track.opentable.com
+  - DOMAIN-SUFFIX,mixpanel.tigocloud.net
+  - DOMAIN-SUFFIX,analytics.launcherleaks.net
+  - DOMAIN-SUFFIX,ingest.webcol.sdp.peacocktv.com
+  - DOMAIN-SUFFIX,t.collectiveaudience.co
   - DOMAIN-SUFFIX,st.freedom24.com
   - DOMAIN-SUFFIX,rum.api.intuit.com
   - DOMAIN-SUFFIX,trafficmanager.anyclip.com
@@ -47850,7 +47861,6 @@ payload:
   - DOMAIN-SUFFIX,pixels.argusplatform.com
   - DOMAIN-SUFFIX,egg.afisha.ru
   - DOMAIN-SUFFIX,tracking-app.diginetica.net
-  - DOMAIN-SUFFIX,c.us.heap-api.com
   - DOMAIN-SUFFIX,logging.g.sst.secureserver.net
   - DOMAIN-SUFFIX,metricreceiver.cellrebel.com
   - DOMAIN-SUFFIX,events.app-performance.music.amazon.dev
@@ -50549,6 +50559,14 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,ir-sdk.guardease.com
+  - DOMAIN-SUFFIX,verifysession.uxcam.com
+  - DOMAIN-SUFFIX,analytics.wachanga.app
+  - DOMAIN-SUFFIX,usage.digitalconcerthall.com
+  - DOMAIN-SUFFIX,report.starshort.online
+  - DOMAIN-SUFFIX,engagelab.cc
+  - DOMAIN-SUFFIX,global-sis.engagelab.com
+  - DOMAIN-SUFFIX,app.siteperformancetest.net
   - DOMAIN-SUFFIX,events-stream-svc.cordial.io
   - DOMAIN-SUFFIX,events.gonative.io
   - DOMAIN-SUFFIX,matomo.podslink.net
@@ -53024,10 +53042,12 @@ payload:
   - DOMAIN-SUFFIX,shallowblade.com
   - DOMAIN-SUFFIX,shamerain.com
   - DOMAIN-SUFFIX,shapecomb.com
+  - DOMAIN-SUFFIX,sharedswap.com
   - DOMAIN-SUFFIX,sheargovernor.com
   - DOMAIN-SUFFIX,sheideal.com
   - DOMAIN-SUFFIX,shesubscriptions.com
   - DOMAIN-SUFFIX,shinypond.com
+  - DOMAIN-SUFFIX,shirtseasons.com
   - DOMAIN-SUFFIX,shirtsidewalk.com
   - DOMAIN-SUFFIX,shiveringspot.com
   - DOMAIN-SUFFIX,shiverscissors.com
@@ -53069,6 +53089,7 @@ payload:
   - DOMAIN-SUFFIX,skillsresults.com
   - DOMAIN-SUFFIX,skisofa.com
   - DOMAIN-SUFFIX,skullmagnets.com
+  - DOMAIN-SUFFIX,skullteeth.com
   - DOMAIN-SUFFIX,skylightdata.com
   - DOMAIN-SUFFIX,slackpod.com
   - DOMAIN-SUFFIX,slaysweater.com
@@ -53159,6 +53180,7 @@ payload:
   - DOMAIN-SUFFIX,spurioussquirrel.com
   - DOMAIN-SUFFIX,spuriousstranger.com
   - DOMAIN-SUFFIX,spysubstance.com
+  - DOMAIN-SUFFIX,squadtee.net
   - DOMAIN-SUFFIX,squalidscrew.com
   - DOMAIN-SUFFIX,squarecamel.com
   - DOMAIN-SUFFIX,squeakzinc.com
@@ -53167,6 +53189,7 @@ payload:
   - DOMAIN-SUFFIX,squishybears.com
   - DOMAIN-SUFFIX,stageschine.com
   - DOMAIN-SUFFIX,stakedances.com
+  - DOMAIN-SUFFIX,stakeschips.com
   - DOMAIN-SUFFIX,stakingbasket.com
   - DOMAIN-SUFFIX,stakingshock.com
   - DOMAIN-SUFFIX,stakingsmile.com
