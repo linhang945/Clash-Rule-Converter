@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,d1dxoqu0t5mb7j.cloudfront.net
   - DOMAIN-SUFFIX,js.pulseinsights.com
   - DOMAIN-SUFFIX,console.data4.net
   - DOMAIN-SUFFIX,heap-api.com
@@ -59601,6 +59602,13 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,frontier.capcutw.us
+  - DOMAIN-SUFFIX,mssdk16-normal-us-ttp.capcutapi.us
+  - DOMAIN-SUFFIX,pinpoint.espn.com
+  - DOMAIN-SUFFIX,analytics.itbox.ua
+  - DOMAIN-SUFFIX,stats.insighttimer.com
+  - DOMAIN-SUFFIX,trackinglibrary.prodperfect.com
+  - DOMAIN-SUFFIX,stats.sirdata.eu
   - DOMAIN-SUFFIX,events-sandbox.data.msn.com
   - DOMAIN-SUFFIX,event-storage.netmonet.co
   - DOMAIN-SUFFIX,neviju.netmonet.co
@@ -62856,6 +62864,15 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,log.clearcleanerpro.live
+  - DOMAIN-SUFFIX,client-telemetry-preauth.hingeprod.net
+  - DOMAIN-SUFFIX,event-log-api-data-platform-data-lake-prod.gryphline.com
+  - DOMAIN-SUFFIX,event-log-api-ipv6.gryphline.com
+  - DOMAIN-SUFFIX,eventlog.gryphline.com
+  - DOMAIN-SUFFIX,native-log-collect.gryphline.com
+  - DOMAIN-SUFFIX,data-p.gryphline.com
+  - DOMAIN-SUFFIX,fp-sa-it.fengkongcloud.com
+  - DOMAIN-SUFFIX,api-fp-retry-sa.fengkongcloud.com
   - DOMAIN-SUFFIX,ir-sdk.guardease.com
   - DOMAIN-SUFFIX,verifysession.uxcam.com
   - DOMAIN-SUFFIX,analytics.wachanga.app
@@ -63750,6 +63767,7 @@ payload:
   - DOMAIN-SUFFIX,ulogs1.ksapisrv.com
   - DOMAIN-SUFFIX,ulogs2.ksapisrv.com
   - DOMAIN-SUFFIX,wlog.ksapisrv.com
+  - DOMAIN-SUFFIX,log-va.tiktokv.com
   - DOMAIN-SUFFIX,mcs.tiktokw.us
   - DOMAIN-SUFFIX,sf16-telemetry-proxy-oci.tiktokcdn-us.com
   - DOMAIN-SUFFIX,log.tiktokv.com
@@ -65446,6 +65464,7 @@ payload:
   - DOMAIN-SUFFIX,sortstructure.com
   - DOMAIN-SUFFIX,soulclicking.com
   - DOMAIN-SUFFIX,soundstocking.com
+  - DOMAIN-SUFFIX,sourcecodeinfo.com
   - DOMAIN-SUFFIX,sourceoak.com
   - DOMAIN-SUFFIX,sowlettuce.com
   - DOMAIN-SUFFIX,spaceaffinity.com
@@ -65694,6 +65713,7 @@ payload:
   - DOMAIN-SUFFIX,tritebadge.com
   - DOMAIN-SUFFIX,tritethunder.com
   - DOMAIN-SUFFIX,tritetongue.com
+  - DOMAIN-SUFFIX,triumphbull.com
   - DOMAIN-SUFFIX,tropicalpal.com
   - DOMAIN-SUFFIX,troubleshade.com
   - DOMAIN-SUFFIX,truckstomatoes.com
@@ -65703,6 +65723,7 @@ payload:
   - DOMAIN-SUFFIX,tumbleicicle.com
   - DOMAIN-SUFFIX,tuneupcoffee.com
   - DOMAIN-SUFFIX,twistloss.com
+  - DOMAIN-SUFFIX,typepredict.com
   - DOMAIN-SUFFIX,typewebsite.com
   - DOMAIN-SUFFIX,typicalairplane.com
   - DOMAIN-SUFFIX,typicalteeth.com
@@ -65738,6 +65759,7 @@ payload:
   - DOMAIN-SUFFIX,usabilitybook.com
   - DOMAIN-SUFFIX,uselesslumber.com
   - DOMAIN-SUFFIX,userballot.com
+  - DOMAIN-SUFFIX,utopiaband.net
   - DOMAIN-SUFFIX,validmemo.com
   - DOMAIN-SUFFIX,valuebuttons.com
   - DOMAIN-SUFFIX,vanfireworks.com
