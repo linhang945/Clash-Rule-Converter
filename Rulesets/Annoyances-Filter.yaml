@@ -186,6 +186,7 @@ payload:
   - DOMAIN-SUFFIX,sp.pushsquare.com
   - DOMAIN-SUFFIX,ttauri.livescience.com
   - DOMAIN-SUFFIX,ttauri.toptenreviews.com
+  - DOMAIN-SUFFIX,controlpush.com
   - DOMAIN-SUFFIX,js.flashyapp.com
   - DOMAIN-SUFFIX,static.groobee.io
   - DOMAIN-SUFFIX,sdk.postscript.io
@@ -710,7 +711,6 @@ payload:
   - DOMAIN-SUFFIX,getbutton.io
   - DOMAIN-SUFFIX,widget.siteheart.com
   - DOMAIN-SUFFIX,widget.skobeeff.ru
-  - DOMAIN-SUFFIX,widget.surveymonkey.com
   - DOMAIN-SUFFIX,widget.teletype.app
   - DOMAIN-SUFFIX,widget.textback.io
   - DOMAIN-SUFFIX,widget.webica.pro
