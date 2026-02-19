@@ -64192,6 +64192,9 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,tg.minfin.com.ua
+  - DOMAIN-SUFFIX,static-mon.yandex.net
+  - DOMAIN-SUFFIX,analytex-us.userpilot.io
   - DOMAIN-SUFFIX,player-analytics.mp.lura.live
   - DOMAIN-SUFFIX,dls-account.di.atlas.samsung.com
   - DOMAIN-SUFFIX,karrot-pixel.business.daangn.com
@@ -67514,7 +67517,6 @@ payload:
   - DOMAIN-SUFFIX,event-log-api-ipv6.gryphline.com
   - DOMAIN-SUFFIX,eventlog.gryphline.com
   - DOMAIN-SUFFIX,native-log-collect.gryphline.com
-  - DOMAIN-SUFFIX,data-p.gryphline.com
   - DOMAIN-SUFFIX,fp-sa-it.fengkongcloud.com
   - DOMAIN-SUFFIX,api-fp-retry-sa.fengkongcloud.com
   - DOMAIN-SUFFIX,ir-sdk.guardease.com
