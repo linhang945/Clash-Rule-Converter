@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,byoviral.com
+  - DOMAIN-SUFFIX,sigmob.cn
+  - DOMAIN-SUFFIX,sdk.beizi.biz
   - DOMAIN-SUFFIX,cdnlibjs.com
   - DOMAIN-SUFFIX,wtfismyip.com
   - DOMAIN-SUFFIX,measureadv.com
@@ -64192,6 +64195,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,alloy-web.zvuk.com
   - DOMAIN-SUFFIX,tg.minfin.com.ua
   - DOMAIN-SUFFIX,static-mon.yandex.net
   - DOMAIN-SUFFIX,analytex-us.userpilot.io
@@ -67497,6 +67501,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,tracking.twelveapp.sh
   - DOMAIN-SUFFIX,trkcliq.com
   - DOMAIN-SUFFIX,stats.norton.com
   - DOMAIN-SUFFIX,log1.cmpassport.com
@@ -68015,7 +68020,6 @@ payload:
   - DOMAIN-SUFFIX,cloudconf.fengkongcloud.com
   - DOMAIN-SUFFIX,tracker.fengkongcloud.com
   - DOMAIN-SUFFIX,dm.pstatp.com
-  - DOMAIN-SUFFIX,countly.globaldelight.net
   - DOMAIN-SUFFIX,log.game.qcplay.com
   - DOMAIN-SUFFIX,report-stats.ad.jiguang.cn
   - DOMAIN-SUFFIX,config.jpush.cn
