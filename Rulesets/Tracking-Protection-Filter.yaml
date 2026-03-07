@@ -141,7 +141,6 @@ payload:
   - DOMAIN-SUFFIX,event-api.hackle.io
   - DOMAIN-SUFFIX,tracking-api.g2.com
   - DOMAIN-SUFFIX,audiencelab.io
-  - DOMAIN-SUFFIX,openpanel.dev
   - DOMAIN-SUFFIX,alphaupsell.s3.ap-northeast-2.amazonaws.com
   - DOMAIN-SUFFIX,trackingmyadsas.com
   - DOMAIN-SUFFIX,sa.openmedia.co
@@ -72509,6 +72508,10 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,analytics-api.penpencil.co
+  - DOMAIN-SUFFIX,health.flowplayer.com
+  - DOMAIN-SUFFIX,api.openpanel.dev
+  - DOMAIN-SUFFIX,lytics.fileditch.com
   - DOMAIN-SUFFIX,goto.suno.com
   - DOMAIN-SUFFIX,m-stratovibe.prod.suno.com
   - DOMAIN-SUFFIX,fel-api.prod.browse.bestbuy.com
@@ -75683,6 +75686,7 @@ payload:
   - DOMAIN-SUFFIX,essential-apps-analytics.herokuapp.com
   - DOMAIN-SUFFIX,d10vy5gom1ed53.cloudfront.net
   - DOMAIN-SUFFIX,um-public-panel-prod.s3.amazonaws.com
+  - DOMAIN-SUFFIX,analytics-fe.digital-cloud-west.medallia.com
   - DOMAIN-SUFFIX,web-perf.booking.com
   - DOMAIN-SUFFIX,biv.gazeta.pl
   - DOMAIN-SUFFIX,dygassets.dygdigital.com
@@ -76907,6 +76911,7 @@ payload:
   - DOMAIN-SUFFIX,bedsberry.com
   - DOMAIN-SUFFIX,beewhispering.com
   - DOMAIN-SUFFIX,beginnerpancake.com
+  - DOMAIN-SUFFIX,bentengine.com
   - DOMAIN-SUFFIX,berserkhydrant.com
   - DOMAIN-SUFFIX,bespokesandals.com
   - DOMAIN-SUFFIX,bestboundary.com
@@ -76957,6 +76962,7 @@ payload:
   - DOMAIN-SUFFIX,boilingmadsoup.com
   - DOMAIN-SUFFIX,boldbars.com
   - DOMAIN-SUFFIX,bonuscomplex.com
+  - DOMAIN-SUFFIX,bookbeef.com
   - DOMAIN-SUFFIX,bookprobe.com
   - DOMAIN-SUFFIX,boomboomcloud.com
   - DOMAIN-SUFFIX,boostbehavior.com
@@ -76979,6 +76985,7 @@ payload:
   - DOMAIN-SUFFIX,breakfastboat.com
   - DOMAIN-SUFFIX,breezybright.com
   - DOMAIN-SUFFIX,breezygrove.com
+  - DOMAIN-SUFFIX,brewthing.com
   - DOMAIN-SUFFIX,brianwould.com
   - DOMAIN-SUFFIX,briefstem.com
   - DOMAIN-SUFFIX,brighttoe.com
