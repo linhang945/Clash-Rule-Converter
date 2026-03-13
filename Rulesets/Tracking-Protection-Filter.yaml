@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,t-dsp.pinduoduo.com
+  - DOMAIN-SUFFIX,elmasistatistik.com.tr
   - DOMAIN-SUFFIX,analystic.365av.net
   - DOMAIN-SUFFIX,mollyflow.com
   - DOMAIN-SUFFIX,citiservi.es
@@ -75138,6 +75140,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,stats.gastronom.ru
   - DOMAIN-SUFFIX,dd.leboncoin.fr
   - DOMAIN-SUFFIX,audience-pccw.viu.com
   - DOMAIN-SUFFIX,ingest-api.evoto.ai
@@ -78464,6 +78467,13 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,log-nontt.bytegsdk.com
+  - DOMAIN-SUFFIX,gpm-mon-va.bytegsdk.com
+  - DOMAIN-SUFFIX,gplog-sg.byteoversea.com
+  - DOMAIN-SUFFIX,gsdk-quic-gcp-va.bytegsdk.com
+  - DOMAIN-SUFFIX,gsdk19-va.bytegsdk.com
+  - DOMAIN-SUFFIX,gsdk-va.bytegsdk.com
+  - DOMAIN-SUFFIX,global-report.ml.youngjoygame.com
   - DOMAIN-SUFFIX,bdtelemetry.amazon
   - DOMAIN-SUFFIX,rum.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,log.sweepycleanplus.com
@@ -79683,9 +79693,11 @@ payload:
   - DOMAIN-SUFFIX,carsarace.com
   - DOMAIN-SUFFIX,cartelsalsa.com
   - DOMAIN-SUFFIX,cartkitten.com
+  - DOMAIN-SUFFIX,cartlug.com
   - DOMAIN-SUFFIX,carvecakes.com
   - DOMAIN-SUFFIX,casualphysics.com
   - DOMAIN-SUFFIX,catalogcake.com
+  - DOMAIN-SUFFIX,catlanguage.net
   - DOMAIN-SUFFIX,catschickens.com
   - DOMAIN-SUFFIX,cattlecommittee.com
   - DOMAIN-SUFFIX,catventions.com
