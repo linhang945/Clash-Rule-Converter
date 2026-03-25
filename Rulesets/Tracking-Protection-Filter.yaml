@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,vault.nqintelligence.com
   - DOMAIN-SUFFIX,rudder-server-prd.arena.im
   - DOMAIN-SUFFIX,wobs.route.com
   - DOMAIN-SUFFIX,mythtracker.com
@@ -16831,7 +16832,6 @@ payload:
   - DOMAIN-SUFFIX,subscriptionlist.customermail.sparcolruytgroup.be
   - DOMAIN-SUFFIX,subscriptions.communications.guard.me
   - DOMAIN-SUFFIX,subscriptions.costco.ca
-  - DOMAIN-SUFFIX,subscriptions.costco.com
   - DOMAIN-SUFFIX,subscriptions.e.silverfernfarms.com
   - DOMAIN-SUFFIX,subscriptions.experience.dcu.org
   - DOMAIN-SUFFIX,subscriptions.news.pistons.com
@@ -75143,6 +75143,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,qa-track.ssg.com
   - DOMAIN-SUFFIX,ssgmanual.snov.io
   - DOMAIN-SUFFIX,metrics-content.duckduckgo.com
   - DOMAIN-SUFFIX,analytics.morphe.software
@@ -75432,8 +75433,8 @@ payload:
   - DOMAIN-SUFFIX,analytics.shutterstock.com
   - DOMAIN-SUFFIX,plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
   - DOMAIN-SUFFIX,collector-pxdojv695v.protechts.net
-  - DOMAIN-SUFFIX,collector1.sooplive.co.kr
-  - DOMAIN-SUFFIX,exlogcollector.sooplive.co.kr
+  - DOMAIN-SUFFIX,collector1.sooplive.com
+  - DOMAIN-SUFFIX,exlogcollector.sooplive.com
   - DOMAIN-SUFFIX,snowflake.qq.com
   - DOMAIN-SUFFIX,d2fuc4clr7gvcn.cloudfront.net
   - DOMAIN-SUFFIX,analytics.edaily.co.kr
@@ -76784,7 +76785,7 @@ payload:
   - DOMAIN-SUFFIX,amplifypixel.outbrain.com
   - DOMAIN-SUFFIX,ampltd.top.gg
   - DOMAIN-SUFFIX,an.reflektion.com
-  - DOMAIN-SUFFIX,analysis.sooplive.co.kr
+  - DOMAIN-SUFFIX,analysis.sooplive.com
   - DOMAIN-SUFFIX,analytic.imlive.com
   - DOMAIN-SUFFIX,analytic20.detik.com
   - DOMAIN-SUFFIX,analytics-api.smzdm.com
@@ -77131,7 +77132,7 @@ payload:
   - DOMAIN-SUFFIX,deepdive.zum.com
   - DOMAIN-SUFFIX,dejavu.mlapps.com
   - DOMAIN-SUFFIX,deliver.oztam.com.au
-  - DOMAIN-SUFFIX,delog.sooplive.co.kr
+  - DOMAIN-SUFFIX,delog.sooplive.com
   - DOMAIN-SUFFIX,df.tanx.com
   - DOMAIN-SUFFIX,discovery-script.newspic.kr
   - DOMAIN-SUFFIX,discovery.newspic.kr
@@ -77187,7 +77188,7 @@ payload:
   - DOMAIN-SUFFIX,event.condenastdigital.com
   - DOMAIN-SUFFIX,event.impression-neo.naver.com
   - DOMAIN-SUFFIX,event.scimo.io
-  - DOMAIN-SUFFIX,eventapi.sooplive.co.kr
+  - DOMAIN-SUFFIX,eventapi.sooplive.com
   - DOMAIN-SUFFIX,eventbus.intuit.com
   - DOMAIN-SUFFIX,eventlog.inspsearchapi.com
   - DOMAIN-SUFFIX,eventlog.jackpot.de
@@ -78477,6 +78478,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,ingest.skarb.work
   - DOMAIN-SUFFIX,sensor.photogrid.app
   - DOMAIN-SUFFIX,sensor.aqhg.online
   - DOMAIN-SUFFIX,log-nontt.bytegsdk.com
@@ -80100,6 +80102,7 @@ payload:
   - DOMAIN-SUFFIX,firstendpoint.com
   - DOMAIN-SUFFIX,firstscreenshot.com
   - DOMAIN-SUFFIX,fishersfinds.com
+  - DOMAIN-SUFFIX,fishingtoolsbox.com
   - DOMAIN-SUFFIX,fitmessage.com
   - DOMAIN-SUFFIX,fitnessmapper.com
   - DOMAIN-SUFFIX,fivesidedsquare.com
@@ -80842,6 +80845,7 @@ payload:
   - DOMAIN-SUFFIX,puppetcorp.com
   - DOMAIN-SUFFIX,puppiesart.com
   - DOMAIN-SUFFIX,puppytooth.com
+  - DOMAIN-SUFFIX,purebloom.net
   - DOMAIN-SUFFIX,purposepipe.com
   - DOMAIN-SUFFIX,pyramidpaw.com
   - DOMAIN-SUFFIX,q20jqurls0y7gk8.info
