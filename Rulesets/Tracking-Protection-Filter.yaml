@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,bbc-reporting-api.app
+  - DOMAIN-SUFFIX,spindl.link
   - DOMAIN-SUFFIX,monitoragc.xyz
   - DOMAIN-SUFFIX,analytics.kelasmalam.net
   - DOMAIN-SUFFIX,metrics.rapidedge.io
@@ -76600,6 +76602,12 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,umami.syg.ma
+  - DOMAIN-SUFFIX,event.dxmdp.com
+  - DOMAIN-SUFFIX,beacon.cdnpure.com
+  - DOMAIN-SUFFIX,r.cdnpure.com
+  - DOMAIN-SUFFIX,udbdf.apkpure.com
+  - DOMAIN-SUFFIX,a.apkpures.xyz
   - DOMAIN-SUFFIX,c.qiandao.cn
   - DOMAIN-SUFFIX,logs.tourister.ru
   - DOMAIN-SUFFIX,wa.wawlabs.com
@@ -79941,6 +79949,20 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,events-noneu.truecaller.com
+  - DOMAIN-SUFFIX,profiler-collector.dalyfeds.com
+  - DOMAIN-SUFFIX,reporttk.com
+  - DOMAIN-SUFFIX,track.hily.com
+  - DOMAIN-SUFFIX,ntus.bidease.com
+  - DOMAIN-SUFFIX,thinkingdata.cn
+  - DOMAIN-SUFFIX,mixpanel-proxy-ivbdkvonca-uc.a.run.app
+  - DOMAIN-SUFFIX,tc.zxcvbnml.com
+  - DOMAIN-SUFFIX,fpconfig.net
+  - DOMAIN-SUFFIX,ingest.databuckets.com
+  - DOMAIN-SUFFIX,report.tantanapp.com
+  - DOMAIN-SUFFIX,pco-sm-log.tantanapp.com
+  - DOMAIN-SUFFIX,app-log-lab.immomo.com
+  - DOMAIN-SUFFIX,aqueduct-collector-prod.alar.my
   - DOMAIN-SUFFIX,mp-gb-sdklog.kurogames.net
   - DOMAIN-SUFFIX,telemetry.split.io
   - DOMAIN-SUFFIX,events.split.io
@@ -83040,6 +83062,7 @@ payload:
   - DOMAIN-SUFFIX,wikiwhatwhere.com
   - DOMAIN-SUFFIX,wildcommittee.com
   - DOMAIN-SUFFIX,wildwoodavenue.com
+  - DOMAIN-SUFFIX,windbeetle.com
   - DOMAIN-SUFFIX,wirecomic.com
   - DOMAIN-SUFFIX,wiredforcoffee.com
   - DOMAIN-SUFFIX,wirenewsletter.com
