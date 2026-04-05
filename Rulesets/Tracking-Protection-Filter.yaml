@@ -76602,6 +76602,7 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,roas-service.store-services-prod.remarkable.com
   - DOMAIN-SUFFIX,umami.syg.ma
   - DOMAIN-SUFFIX,event.dxmdp.com
   - DOMAIN-SUFFIX,beacon.cdnpure.com
@@ -79949,6 +79950,14 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,stats.sdk.banuba.net
+  - DOMAIN-SUFFIX,report.duetapp.net
+  - DOMAIN-SUFFIX,logretrieve.duetapp.net
+  - DOMAIN-SUFFIX,metrics.taimi.com
+  - DOMAIN-SUFFIX,detaillog-global-dual.coolccloud.com
+  - DOMAIN-SUFFIX,analytics.prod.tophat.withbuddies.com
+  - DOMAIN-SUFFIX,beacon.ztgame.com
+  - DOMAIN-SUFFIX,api-log-upload.wenext.technology
   - DOMAIN-SUFFIX,events-noneu.truecaller.com
   - DOMAIN-SUFFIX,profiler-collector.dalyfeds.com
   - DOMAIN-SUFFIX,reporttk.com
@@ -83070,6 +83079,7 @@ payload:
   - DOMAIN-SUFFIX,wisedotcom.com
   - DOMAIN-SUFFIX,wispycity.com
   - DOMAIN-SUFFIX,wistfulwaste.com
+  - DOMAIN-SUFFIX,withsounds.com
   - DOMAIN-SUFFIX,wittypopcorn.com
   - DOMAIN-SUFFIX,wizardbuck.com
   - DOMAIN-SUFFIX,wondermakings.com
