@@ -5,6 +5,10 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,t.journify.io
+  - DOMAIN-SUFFIX,static.journify.io
+  - DOMAIN-SUFFIX,umamix.fadunews.in
+  - DOMAIN-SUFFIX,globalsiteanalytics.com
   - DOMAIN-SUFFIX,content-settings.com
   - DOMAIN-SUFFIX,config-factory.com
   - DOMAIN-SUFFIX,aan8bq.ru
@@ -78160,6 +78164,21 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,sas.a.int-nft.peacocktv.com
+  - DOMAIN-SUFFIX,sas.a.peacocktv.com
+  - DOMAIN-SUFFIX,sas.a.stable-int.peacocktv.com
+  - DOMAIN-SUFFIX,sas.f.int-nft.peacocktv.com
+  - DOMAIN-SUFFIX,sas.f.peacocktv.com
+  - DOMAIN-SUFFIX,sas.f.stable-int.peacocktv.com
+  - DOMAIN-SUFFIX,sas.int-nft.peacocktv.com
+  - DOMAIN-SUFFIX,sas.peacocktv.com
+  - DOMAIN-SUFFIX,sas.stable-int.peacocktv.com
+  - DOMAIN-SUFFIX,goto.simplywall.st
+  - DOMAIN-SUFFIX,swssp.simplywall.st
+  - DOMAIN-SUFFIX,swsdd.simplywall.st
+  - DOMAIN-SUFFIX,android-beacons.xumo.com
+  - DOMAIN-SUFFIX,roku-beacons.xumo.com
+  - DOMAIN-SUFFIX,samsung-beacons.xumo.com
   - DOMAIN-SUFFIX,stats.zincdrive.com
   - DOMAIN-SUFFIX,nid.the-sun.com
   - DOMAIN-SUFFIX,okr.sbdv.ru
@@ -81522,6 +81541,12 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,upc.zztfly.com
+  - DOMAIN-SUFFIX,tracker.tianmu.mobi
+  - DOMAIN-SUFFIX,id6.me
+  - DOMAIN-SUFFIX,mobileconfig.sascdn.com
+  - DOMAIN-SUFFIX,cirrus-full-snapshots-track-csv-v1-0-na-prod.s3.amazonaws.com
+  - DOMAIN-SUFFIX,analytics.pocketfm.com
   - DOMAIN-SUFFIX,otel-collector.reliability.smartnews.net
   - DOMAIN-SUFFIX,report-edge.rtesvc.com
   - DOMAIN-SUFFIX,rakam-api.aptoide.com
@@ -83099,6 +83124,7 @@ payload:
   - DOMAIN-SUFFIX,endurablebulb.com
   - DOMAIN-SUFFIX,energeticexample.com
   - DOMAIN-SUFFIX,energeticladybug.com
+  - DOMAIN-SUFFIX,energyfools.com
   - DOMAIN-SUFFIX,engineertrick.com
   - DOMAIN-SUFFIX,enigmaprint.com
   - DOMAIN-SUFFIX,enigmaticcanyon.com
