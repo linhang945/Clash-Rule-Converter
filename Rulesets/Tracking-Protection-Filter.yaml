@@ -5,6 +5,9 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,mxana.tacool.com
+  - DOMAIN-SUFFIX,gotoda.co
+  - DOMAIN-SUFFIX,moloco.com
   - DOMAIN-SUFFIX,kataweb.it
   - DOMAIN-SUFFIX,fubuki-umami.space
   - DOMAIN-SUFFIX,t.journify.io
@@ -78165,6 +78168,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,opt.mocortech.com
+  - DOMAIN-SUFFIX,analytics-proxy-501188673100.us-central1.run.app
   - DOMAIN-SUFFIX,stats.cinevibe.asia
   - DOMAIN-SUFFIX,alib.nine.com.au
   - DOMAIN-SUFFIX,data.ssports.com
@@ -81450,6 +81455,8 @@ payload:
   - DOMAIN-SUFFIX,do-not-tracker.org
   - DOMAIN-SUFFIX,eviltracker.net
   - DOMAIN-SUFFIX,trackersimulator.org
+  - DOMAIN-SUFFIX,ads-api.x.com
+  - DOMAIN-SUFFIX,ads-api.twitter.com
   - DOMAIN-SUFFIX,ntracker-collector.naver.com
   - DOMAIN-SUFFIX,ace.naver.com
   - DOMAIN-SUFFIX,authbe.sec.intl.miui.com
@@ -81545,6 +81552,9 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,log1.pwsdk.com
+  - DOMAIN-SUFFIX,log2.pwsdk.com
+  - DOMAIN-SUFFIX,cxlog.shinhansec.com
   - DOMAIN-SUFFIX,sensors.dito.ph
   - DOMAIN-SUFFIX,mon11-misc-lq.fqnovel.com
   - DOMAIN-SUFFIX,tnc3-alisc1.bytedance.com
@@ -81762,7 +81772,6 @@ payload:
   - DOMAIN-SUFFIX,gid.tapapis.cn
   - DOMAIN-SUFFIX,dlog-config.uu.cc
   - DOMAIN-SUFFIX,ms-report.uu.cc
-  - DOMAIN-SUFFIX,ads-api.x.com
   - DOMAIN-SUFFIX,log.hiapkdownload.com
   - DOMAIN-SUFFIX,experiment.pixverse.ai
   - DOMAIN-SUFFIX,capture.pixverse.ai
