@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,image-sap.sfmc-content.com
   - DOMAIN-SUFFIX,umami.vidup.to
   - DOMAIN-SUFFIX,umami.vidfast.pro
   - DOMAIN-SUFFIX,umami.vidcore.net
@@ -550,7 +551,6 @@ payload:
   - DOMAIN-SUFFIX,analytically.net
   - DOMAIN-SUFFIX,datafa.st
   - DOMAIN-SUFFIX,new-access802.net
-  - DOMAIN-SUFFIX,srvgl.com
   - DOMAIN-SUFFIX,webmaxlogger.net
   - DOMAIN-SUFFIX,mythad.com
   - DOMAIN-SUFFIX,ga2.getresponse.com
@@ -78200,6 +78200,35 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,udderstack.allstar.gg
+  - DOMAIN-SUFFIX,plausible.root-nation.net
+  - DOMAIN-SUFFIX,cdnw.onlinelearning.hms.harvard.edu
+  - DOMAIN-SUFFIX,alt.cobweb.com
+  - DOMAIN-SUFFIX,analytics.learndirect.com
+  - DOMAIN-SUFFIX,ctm.turnbull-scott.co.uk
+  - DOMAIN-SUFFIX,data.deschouwwitgoed.nl
+  - DOMAIN-SUFFIX,metrics.nautilus2.pl
+  - DOMAIN-SUFFIX,sst.amweb.nl
+  - DOMAIN-SUFFIX,sst.beckhuis.com
+  - DOMAIN-SUFFIX,sst.bike-eu.com
+  - DOMAIN-SUFFIX,sst.charrell.be
+  - DOMAIN-SUFFIX,sst.dearchitect.nl
+  - DOMAIN-SUFFIX,sst.desko.nl
+  - DOMAIN-SUFFIX,sst.distrifood.nl
+  - DOMAIN-SUFFIX,sst.missethoreca.nl
+  - DOMAIN-SUFFIX,sst.msm.nl
+  - DOMAIN-SUFFIX,sst.onlineveilingmeester.nl
+  - DOMAIN-SUFFIX,sst.parkingcentrumoosterdok.nl
+  - DOMAIN-SUFFIX,sst.salarisnet.nl
+  - DOMAIN-SUFFIX,sst.stickerei-stoiber.ch
+  - DOMAIN-SUFFIX,sst.stickerei-stoiber.de
+  - DOMAIN-SUFFIX,tagging.trined.nl
+  - DOMAIN-SUFFIX,tagging.voordeelvanger.nl
+  - DOMAIN-SUFFIX,tggng.suitable.de
+  - DOMAIN-SUFFIX,tds.vss-security.nl
+  - DOMAIN-SUFFIX,tracking.vbr.ru
+  - DOMAIN-SUFFIX,track.shiksha.com
+  - DOMAIN-SUFFIX,stats.sailtheship.xyz
   - DOMAIN-SUFFIX,analytics.oeksound.com
   - DOMAIN-SUFFIX,dd.qwant.com
   - DOMAIN-SUFFIX,k.qwant.com
@@ -82952,6 +82981,7 @@ payload:
   - DOMAIN-SUFFIX,cloudchickens.com
   - DOMAIN-SUFFIX,cloudhustles.com
   - DOMAIN-SUFFIX,cloudjumbo.com
+  - DOMAIN-SUFFIX,cloverkeys.com
   - DOMAIN-SUFFIX,clumsycar.com
   - DOMAIN-SUFFIX,coalkitchen.com
   - DOMAIN-SUFFIX,coatfood.com
@@ -83507,6 +83537,7 @@ payload:
   - DOMAIN-SUFFIX,idlecollect.com
   - DOMAIN-SUFFIX,illinvention.com
   - DOMAIN-SUFFIX,illustriousoatmeal.com
+  - DOMAIN-SUFFIX,imagebuffer.com
   - DOMAIN-SUFFIX,imagecutie.com
   - DOMAIN-SUFFIX,immensehoney.com
   - DOMAIN-SUFFIX,imminentshake.com
@@ -83553,6 +83584,7 @@ payload:
   - DOMAIN-SUFFIX,jigsawlucky.com
   - DOMAIN-SUFFIX,joblessdrum.com
   - DOMAIN-SUFFIX,jobmist.com
+  - DOMAIN-SUFFIX,joshpaintings.com
   - DOMAIN-SUFFIX,joyfulharbor.com
   - DOMAIN-SUFFIX,joyouspool.com
   - DOMAIN-SUFFIX,joyoussurprise.com
