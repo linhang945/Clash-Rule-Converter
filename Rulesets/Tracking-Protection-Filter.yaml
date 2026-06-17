@@ -5,6 +5,11 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,metrics-web.help
+  - DOMAIN-SUFFIX,nehalist.io
+  - DOMAIN-SUFFIX,broadstreet.ai
+  - DOMAIN-SUFFIX,welovedata.go2cloud.org
+  - DOMAIN-SUFFIX,analytics.ekonsilio.io
   - DOMAIN-SUFFIX,insights.xyba.dev
   - DOMAIN-SUFFIX,sts.marketingsuite.jp
   - DOMAIN-SUFFIX,image-sap.sfmc-content.com
@@ -78202,6 +78207,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,a.cineflix.st
+  - DOMAIN-SUFFIX,adtech.abs-cbn.com
   - DOMAIN-SUFFIX,sgtm.cmoa.jp
   - DOMAIN-SUFFIX,transporter.makemytrip.global
   - DOMAIN-SUFFIX,cchome-stage.adobe.io
@@ -78270,7 +78277,6 @@ payload:
   - DOMAIN-SUFFIX,sas.f.peacocktv.com
   - DOMAIN-SUFFIX,sas.f.stable-int.peacocktv.com
   - DOMAIN-SUFFIX,sas.int-nft.peacocktv.com
-  - DOMAIN-SUFFIX,sas.peacocktv.com
   - DOMAIN-SUFFIX,sas.stable-int.peacocktv.com
   - DOMAIN-SUFFIX,goto.simplywall.st
   - DOMAIN-SUFFIX,swssp.simplywall.st
@@ -83941,6 +83947,7 @@ payload:
   - DOMAIN-SUFFIX,pigmentpaper.com
   - DOMAIN-SUFFIX,pinchsquirrel.com
   - DOMAIN-SUFFIX,pincourse.com
+  - DOMAIN-SUFFIX,pingsurvey.com
   - DOMAIN-SUFFIX,piquantgrove.com
   - DOMAIN-SUFFIX,piquantmeadow.com
   - DOMAIN-SUFFIX,piquantpigs.com
@@ -83954,6 +83961,7 @@ payload:
   - DOMAIN-SUFFIX,placidactivity.com
   - DOMAIN-SUFFIX,placidperson.com
   - DOMAIN-SUFFIX,planebasin.com
+  - DOMAIN-SUFFIX,plantcourse.com
   - DOMAIN-SUFFIX,playfulriver.com
   - DOMAIN-SUFFIX,pleasantpump.com
   - DOMAIN-SUFFIX,plotparent.com
@@ -83973,6 +83981,7 @@ payload:
   - DOMAIN-SUFFIX,polishedfolly.com
   - DOMAIN-SUFFIX,politeplanes.com
   - DOMAIN-SUFFIX,politicalporter.com
+  - DOMAIN-SUFFIX,poolcushions.com
   - DOMAIN-SUFFIX,popliquids.com
   - DOMAIN-SUFFIX,popmixradio.com
   - DOMAIN-SUFFIX,popplantation.com
@@ -83990,6 +83999,7 @@ payload:
   - DOMAIN-SUFFIX,presetrabbits.com
   - DOMAIN-SUFFIX,presscoder.com
   - DOMAIN-SUFFIX,prettybicycle.com
+  - DOMAIN-SUFFIX,prettydemo.com
   - DOMAIN-SUFFIX,prettyeasycafe.com
   - DOMAIN-SUFFIX,prettylearning.com
   - DOMAIN-SUFFIX,previousplayground.com
