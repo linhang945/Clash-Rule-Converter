@@ -12,7 +12,6 @@ payload:
   - DOMAIN-SUFFIX,analytics.ekonsilio.io
   - DOMAIN-SUFFIX,insights.xyba.dev
   - DOMAIN-SUFFIX,sts.marketingsuite.jp
-  - DOMAIN-SUFFIX,image-sap.sfmc-content.com
   - DOMAIN-SUFFIX,umami.vidup.to
   - DOMAIN-SUFFIX,umami.vidfast.pro
   - DOMAIN-SUFFIX,umami.vidcore.net
@@ -78207,6 +78206,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,performance-events.guardianapis.com
+  - DOMAIN-SUFFIX,tracker-proxy.getmimo.com
   - DOMAIN-SUFFIX,a.cineflix.st
   - DOMAIN-SUFFIX,adtech.abs-cbn.com
   - DOMAIN-SUFFIX,sgtm.cmoa.jp
@@ -79661,7 +79662,6 @@ payload:
   - DOMAIN-SUFFIX,collector.reelevant.com
   - DOMAIN-SUFFIX,scripts-repo.reelevant.com
   - DOMAIN-SUFFIX,analytics.lunaweb.cloud
-  - DOMAIN-SUFFIX,analytics.onedio.com
   - DOMAIN-SUFFIX,log-lb.skyperfectv.co.jp
   - DOMAIN-SUFFIX,ana.gomtv.com
   - DOMAIN-SUFFIX,log.gomlab.com
@@ -81648,6 +81648,7 @@ payload:
   - DOMAIN-SUFFIX,int.vlancaa.site
   - DOMAIN-SUFFIX,int.vlancaa.fun
   - DOMAIN-SUFFIX,tok.vaicore.xyz
+  - DOMAIN-SUFFIX,stats-sdk.tange365.com
   - DOMAIN-SUFFIX,dc.oppomobile.com
   - DOMAIN-SUFFIX,aki-gb-sdklog.kurogames.net
   - DOMAIN-SUFFIX,log1.pwsdk.com
@@ -83624,6 +83625,7 @@ payload:
   - DOMAIN-SUFFIX,kernellife.com
   - DOMAIN-SUFFIX,kidpowers.com
   - DOMAIN-SUFFIX,kindlereunion.com
+  - DOMAIN-SUFFIX,kingsealed.com
   - DOMAIN-SUFFIX,kitetuning.com
   - DOMAIN-SUFFIX,kittentacos.com
   - DOMAIN-SUFFIX,kittycatking.com
@@ -84143,6 +84145,7 @@ payload:
   - DOMAIN-SUFFIX,roaddynamics.com
   - DOMAIN-SUFFIX,roamhousing.com
   - DOMAIN-SUFFIX,robotgarages.com
+  - DOMAIN-SUFFIX,robotsrefinery.com
   - DOMAIN-SUFFIX,rockagainst.com
   - DOMAIN-SUFFIX,rockstarwriter.com
   - DOMAIN-SUFFIX,rollconnection.com
@@ -84410,6 +84413,7 @@ payload:
   - DOMAIN-SUFFIX,stakingsmile.com
   - DOMAIN-SUFFIX,staleshow.com
   - DOMAIN-SUFFIX,stalesummer.com
+  - DOMAIN-SUFFIX,starfurniture.net
   - DOMAIN-SUFFIX,starkscale.com
   - DOMAIN-SUFFIX,starrynets.com
   - DOMAIN-SUFFIX,starsmarter.com
@@ -84461,6 +84465,7 @@ payload:
   - DOMAIN-SUFFIX,strivesquirrel.com
   - DOMAIN-SUFFIX,strokesystem.com
   - DOMAIN-SUFFIX,strongercity.com
+  - DOMAIN-SUFFIX,studioalkaline.com
   - DOMAIN-SUFFIX,studycooking.com
   - DOMAIN-SUFFIX,stupendoussleet.com
   - DOMAIN-SUFFIX,stupendoussnow.com
@@ -84543,6 +84548,7 @@ payload:
   - DOMAIN-SUFFIX,texturetrick.com
   - DOMAIN-SUFFIX,thebigvan.com
   - DOMAIN-SUFFIX,thebrainybulb.com
+  - DOMAIN-SUFFIX,thecounter.net
   - DOMAIN-SUFFIX,thecrazychili.com
   - DOMAIN-SUFFIX,thefishstops.com
   - DOMAIN-SUFFIX,thejavalane.com
