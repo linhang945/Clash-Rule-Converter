@@ -5,6 +5,8 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,sf-insights.io
+  - DOMAIN-SUFFIX,avsplow.com
   - DOMAIN-SUFFIX,codedrink.com
   - DOMAIN-SUFFIX,mfilterit.net
   - DOMAIN-SUFFIX,metrics-web.help
@@ -78208,6 +78210,14 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,a.boredpanda.bio
+  - DOMAIN-SUFFIX,appview.fafafa.ai
+  - DOMAIN-SUFFIX,event-collector.analytics.onedio.com
+  - DOMAIN-SUFFIX,obs.forseasky.com
+  - DOMAIN-SUFFIX,t.ofsys.com
+  - DOMAIN-SUFFIX,collector.umogames.com
+  - DOMAIN-SUFFIX,collector.quizzop.com
+  - DOMAIN-SUFFIX,collector.feedzop.com
   - DOMAIN-SUFFIX,blink.willowmovies.com
   - DOMAIN-SUFFIX,stats.mappl.tv
   - DOMAIN-SUFFIX,performance-events.guardianapis.com
@@ -82733,7 +82743,6 @@ payload:
   - DOMAIN-SUFFIX,ambrosialsummit.com
   - DOMAIN-SUFFIX,amethystzenith.com
   - DOMAIN-SUFFIX,amidsttruly.com
-  - DOMAIN-SUFFIX,ampscamp.net
   - DOMAIN-SUFFIX,amuckafternoon.com
   - DOMAIN-SUFFIX,amusedbucket.com
   - DOMAIN-SUFFIX,analyzecorona.com
@@ -82926,6 +82935,7 @@ payload:
   - DOMAIN-SUFFIX,cannonborough.com
   - DOMAIN-SUFFIX,cannonchange.com
   - DOMAIN-SUFFIX,canvasandsocks.com
+  - DOMAIN-SUFFIX,canyonpizza.net
   - DOMAIN-SUFFIX,capriciouscorn.com
   - DOMAIN-SUFFIX,captainstick.com
   - DOMAIN-SUFFIX,captivatingcanyon.com
