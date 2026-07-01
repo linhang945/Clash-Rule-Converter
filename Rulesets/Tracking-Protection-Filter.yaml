@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,ib.snssdk.com
   - DOMAIN-SUFFIX,xlog.snssdk.com
   - DOMAIN-SUFFIX,log.snssdk.com
+  - DOMAIN-SUFFIX,telemetry.adsninja.ca
   - DOMAIN-SUFFIX,dsp-track-global.zmaticoo.com
   - DOMAIN-SUFFIX,opecloud.com
   - DOMAIN-SUFFIX,sf-insights.io
@@ -78212,6 +78213,8 @@ payload:
   - DOMAIN-SUFFIX,tagman.britishairways.com
   - DOMAIN-SUFFIX,ct.pinterest.com
   - DOMAIN-SUFFIX,incoming.telemetry.mozilla.org
+  - DOMAIN-SUFFIX,litags.feedblitz.com
+  - DOMAIN-SUFFIX,posthog.football24.ua
   - DOMAIN-SUFFIX,analytics.wispbyte.com
   - DOMAIN-SUFFIX,trk.edf.fr
   - DOMAIN-SUFFIX,a.boredpanda.bio
@@ -84011,6 +84014,7 @@ payload:
   - DOMAIN-SUFFIX,potatoinvention.com
   - DOMAIN-SUFFIX,powerfulblends.com
   - DOMAIN-SUFFIX,powerfulcopper.com
+  - DOMAIN-SUFFIX,powertoolwiki.com
   - DOMAIN-SUFFIX,preciousplanes.com
   - DOMAIN-SUFFIX,precisear.com
   - DOMAIN-SUFFIX,predictplate.com
